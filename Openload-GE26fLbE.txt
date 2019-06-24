@@ -1,19 +1,4 @@
 <item>
-<title>[COLOR lime]**** Openload / Real Debrid HQ-HD Links ****[/COLOR]</title>
-<link>https://olpair.com/</link>
-<thumbnail>https://img.netzwelt.de/dw300_dh300_sw240_sh240_sx62_sy514_sr1x1_nu0/picture/original/2015/11/openloadcom-teaserbild-174586.jpeg</thumbnail>
-<fanart>https://i.imgur.com/1UWUoOZ.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]**** Openload Pair Online Here ****[/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<pairwith>openload</pairwith>
-<fanart>https://i.imgur.com/1UWUoOZ.jpg</fanart>
-<info>Maverick TV</info>
-</item>
-
-<item>
 <title>[COLOR lime]Incredibles 2 FHD[/COLOR]</title>
 <link>https://openload.co/f/zkEiybOfUkM</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
