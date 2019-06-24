@@ -1,27 +1,23 @@
-<plugin>
-    <title>[COLOR lime]World Webcams Playlist 350+[/COLOR]</title>
-    <link>Plugin://plugin.video.youtube/playlist/PLxHkQ8mgoqI9q2AFi8LQrAE7UPdGh4N9k/</link>
-    <thumbnail>https://img.clipartfest.com/4d840599e823a5f90117c5a4d04a7939_surveillance-camera-clip-art-cctv-camera-clipart_299-288.png/thumbnail>
-        <fanart></fanart>
-    </plugin>
+<item>
+<title>[COLOR lime]World Webcams Playlist 350+[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLxHkQ8mgoqI9q2AFi8LQrAE7UPdGh4N9k/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
-<plugin>
-    <title>[COLOR lime]World Webcams Playlist 115+[/COLOR]</title>
-    <link>Plugin://plugin.video.youtube/playlist/PLP7zCITFzwBpkGrIYSQfFxQ8gkPLbzH4D/</link>
-    <thumbnail>https://img.clipartfest.com/4d840599e823a5f90117c5a4d04a7939_surveillance-camera-clip-art-cctv-camera-clipart_299-288.png/thumbnail>
-        <fanart></fanart>
-    </plugin>
-	
-<plugin>
+<item>
+<title>[COLOR lime]World Webcams Playlist 115+[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLP7zCITFzwBpkGrIYSQfFxQ8gkPLbzH4D/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR lime]World Webcams Playlist 2 115+[/COLOR]</title>
-    <link>Plugin://plugin.video.youtube/playlist/PLYPgjVDOHhO2IbK8YsXVfAHE4PJvQU3pQ/</link>
-    <thumbnail>https://img.clipartfest.com/4d840599e823a5f90117c5a4d04a7939_surveillance-camera-clip-art-cctv-camera-clipart_299-288.png/thumbnail>
-        <fanart></fanart>
-</plugin>
-    
-	<dir>
-        <title>[COLOR blue][B]Fluxus Webcams[/B][/COLOR]</title>
-        <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/gFpfH2ha&mode=1</link>
-        <thumbnail>https://img.clipartfest.com/4d840599e823a5f90117c5a4d04a7939_surveillance-camera-clip-art-cctv-camera-clipart_299-288.png</thumbnail>
-        <fanart></fanart>
-    </dir>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLYPgjVDOHhO2IbK8YsXVfAHE4PJvQU3pQ/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
