@@ -1,0 +1,195 @@
+<plugin>
+<title>[COLOR lime]TV And Movie Bloopers And Outtakes Playlist 300+[/COLOR]</title>
+<link>Plugin://plugin.video.youtube/playlist/PLQ7_GA82PpMFEC6PYfxBFPCc1qnAio3A-/</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</plugin>
+ 
+<item>
+<title>Peter Kays Car Share</title>
+<link>https://www.youtube.com/watch?v=VMNXNNbYPBE</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Phoenix Nights / Max and Paddy</title>
+<link>https://www.youtube.com/watch?v=ImGQVuHdtMI</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Royle Family</title>
+<link>https://www.youtube.com/watch?v=tv0AQ3jjOdY</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Shameless UK (The Proper One)</title>
+<link>https://www.youtube.com/watch?v=EibDIc4oob8</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Blackadder</title>
+<link>https://www.youtube.com/watch?v=2LqoprkGLGI</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bloopers - Uncensored 60's. 70's</title>
+<link>https://www.youtube.com/watch?v=JZgcsKgwCZ8</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Bottom On Tour Outtake (Hilarious)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=NjQD9zpAcGk</link>
+<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/51NqEur9xBL._AC_UL320_SR228,320_.jpg</thumbnail>
+<fanart>http://maverickrepo.net/data/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>Austin Powers Goldmember</title>
+<link>https://www.youtube.com/watch?v=S6j8S0U2X-o</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Big Bang Theory</title>
+<link>https://www.youtube.com/watch?v=vo4UczNPbuc</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Big Bang Theory Season 9</title>
+<link>https://www.youtube.com/watch?v=oI1v64xT4uA</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Friends</title>
+<link>https://www.youtube.com/watch?v=BCExxOsqQ9Q</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Friends</title>
+<link>https://www.youtube.com/watch?v=LeSfD3M-4Yo</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>That 70's Show</title>
+<link>https://www.youtube.com/watch?v=YHOwNQobebo</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>House MD</title>
+<link>https://www.youtube.com/watch?v=xSBo-X4WfbA</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Harry Potter</title>
+<link>https://www.youtube.com/watch?v=xRKFDmaCsDU</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Men In Black</title>
+<link>https://www.youtube.com/watch?v=ILh09KRlP-8</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Men In Black 3</title>
+<link>https://www.youtube.com/watch?v=00YiReitcps</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Two And A Half Men Season 6</title>
+<link>https://www.youtube.com/watch?v=oDoV9x9MZMA</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Two And A Half Men Season 10</title>
+<link>https://www.youtube.com/watch?v=cZOjffIzvoU</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>8 Simple Rules</title>
+<link>https://www.youtube.com/watch?v=6sxl_hnlN_M</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Two Pints Of Lager</title>
+<link>https://www.youtube.com/watch?v=W8txTDgKfos</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Breaking Bad Season 2</title>
+<link>https://www.youtube.com/watch?v=GwPKGoLSbmY</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Breaking Bad Season 3</title>
+<link>https://www.youtube.com/watch?v=tUpLYRudKv4</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Breaking Bad Season 4</title>
+<link>https://www.youtube.com/watch?v=Hp5ZYAv9OVs</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Breaking Bad Season 5</title>
+<link>https://www.youtube.com/watch?v=ZScl82Epyxw</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Breaking Bad Season 6</title>
+<link>https://www.youtube.com/watch?v=iPBtO9hcpTw</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Not Going Out</title>
+<link>https://www.youtube.com/watch?v=-cOknKaytpY</link>
+<thumbnail>http://4.bp.blogspot.com/-aPtjd-CDbk0/UCQQlRDQPDI/AAAAAAAAD50/zwSGixKpbkE/s400/Bloopers.jpg</thumbnail>
+<fanart></fanart>
+</item>
