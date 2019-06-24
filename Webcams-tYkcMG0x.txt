@@ -21,3 +21,27 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime][B]Live Stream Cams UK[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLhK4K9XV6T0UVGkIofrQ3jpGAHkPjd6Zs/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime[B]Railroad Only Cams[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLDlykLh1oq0EknlIbiNWbhxya4F0Ruw2n/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]Cam Europe 99 Of The Best[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLZvylrVZzE3Me9lzE-nnC04ZhmPSjHntD/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
