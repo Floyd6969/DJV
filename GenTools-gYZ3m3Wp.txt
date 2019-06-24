@@ -1,0 +1,6 @@
+<item>
+<title>[COLORsilver]Authorize Real Debrid[/COLOR]<title>
+<link>plugin://script.module.resolveurl/?mode=auth_rd<link>
+<thumbnail>https://i.imgur.com/lkIWdIx.png<thumbnail>
+<fanart><fanart>
+<item>
