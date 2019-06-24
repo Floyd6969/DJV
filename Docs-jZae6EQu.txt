@@ -1,0 +1,143 @@
+<item>
+<title>[COLOR lime]Alien Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL3OtDBB37OBjqge_LtrPprNgbeJmm-dsM/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]UFO Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLkYjf8phh1GffMqw7QuSU-mZfj91rBY8I/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Conspiracy Theories[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/AlltimeConspiracies/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Nasa TV Live And Recorded Show[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/NASAtelevision/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]9/11 Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFdN-4AJAK60BNhshIA0lGAiSgXawecEU/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]9/11 Conspiracy Theories[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLTdpwuhPNy6f-kelmFF8FZdOqLXF4cxmL/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Crimes That Shook Britain[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiABnE9wWGmGKX2mrnkBfNiT5qcG41xlN/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]True Crime Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLtUeiZkcnkGybHUkD47XK7cta2rAOoNeI/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Serial Killer Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLO3cGXjMK5XgKu2FOcTgckGAKUqwdTxSN/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]American Justice[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLhJVGu09xd4HuWdibMhPH6IiNNgNe9kJz/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]American Justice[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLhJVGu09xd4HuWdibMhPH6IiNNgNe9kJz/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Mobsters, Biography Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqduaEP5i4pcH1S33OVxp0aBu4Wofd5GH/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]The Mafia[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8C449A83E0683CDD/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]National Geographic Documentaries (Full length)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLDVZNJR18KqCLxawEMh70mMYpI5-JuQrv/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Very Interesting Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLhGe8UxzOI2PFve_KHoYxCKgTrT4IJ4PS/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Making Movies[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL20hIa8DtxLV1Yf3SpK1Ps1ps9TzJY3ad/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Bands & Music Documentaries - Mini Docs & Full[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL06AE1E1E9FDDF981/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]BBC Music Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLOvXkB5eFXm7lfggMnEO1TWzENy-0YhVP/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ZCQfQrT.png</thumbnail>
+<fanart></fanart>
+</item>
