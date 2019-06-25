@@ -1,12 +1,4 @@
 <item>
-<title>[COLOR blue][B]Jukebox Hero Playlists[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.jukeboxhero/</jsonrpc>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/20/95/fb/2095fb33934be0f515ba8d5eb2b38fdd.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR blue][B]You Tube Music[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.spotitube/</jsonrpc>
@@ -44,14 +36,6 @@
 <jsonrpc>plugin://plugin.video.now_music_usa/</jsonrpc>
 <thumbnail>https://cdn2.thelineofbestfit.com/images/remote/http_cdn2.thelineofbestfit.com/media/2013/03/now-thats-what-i-call-music.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/AebGbyE.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR blue][B]Online Radio Stations (Shoutcast)[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.audio.shoutcast/</jsonrpc>
-<thumbnail>https://lh6.googleusercontent.com/sbrc0CQdzG6RSk6Fqw5o5evCkHk09p7Yh1WPzGEJgRSMVBI2k0DVe6HWXLrNawT2-v_vzT48deM=s640-h400-e365</thumbnail>
-<fanart></fanart>
 </item>
  
 <item>
