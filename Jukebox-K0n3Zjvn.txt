@@ -23,22 +23,6 @@
 </item>
   
 <item>
-<title>[COLOR blue][B]Now That's What I Call Music UK Videos (By Pulse Builds)[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.now_music/</jsonrpc>
-<thumbnail>https://cdn2.thelineofbestfit.com/images/remote/http_cdn2.thelineofbestfit.com/media/2013/03/now-thats-what-i-call-music.jpg</thumbnail>
-<fanart>http://wallpapercave.com/wp/AebGbyE.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]Now That's What I Call Music USA (By Pulse Builds)[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.now_music_usa/</jsonrpc>
-<thumbnail>https://cdn2.thelineofbestfit.com/images/remote/http_cdn2.thelineofbestfit.com/media/2013/03/now-thats-what-i-call-music.jpg</thumbnail>
-<fanart>http://wallpapercave.com/wp/AebGbyE.jpg</fanart>
-</item>
- 
-<item>
 <title>[COLOR blue][B]Karaoke Section[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL06C9idGzGVRk9zoV0ki6o1AxobWWsVug/?page=0</jsonrpc>
