@@ -1,0 +1,811 @@
+<item>
+<title>[COLOR gold]BT Sports Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/BTSportOfficial/?page=0</jsonrpc>
+<thumbnail>http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]EFL Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/TheFootballLeague/?page=0</jsonrpc>
+<thumbnail>https://bristolroverssc.co.uk/wp-content/uploads/2015/12/SKY_BET_EFL_2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Bundesliga Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/bundesliga/?page=0</jsonrpc>
+<thumbnail>https://photos.prnewswire.com/prnvar/20151124/290763LOGO</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]La Liga Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/laliga/?page=0</jsonrpc>
+<thumbnail>http://files.laliga.es/seccion_logos/laliga-santander-v-16-9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Serie A Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/legacalcioserieatim/?page=0</jsonrpc>
+<thumbnail>http://content.sportslogos.net/logos/128/4179/full/663_-serie_a-primary-2010.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Ligue 1 Conforama Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/Ligue1official/?page=0</jsonrpc>
+<thumbnail>http://romantickets.com/store/wp-content/uploads/2013/10/Ligue-1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]English FA Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/fatv/?page=0</jsonrpc>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2009/06/fa-logo.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Scottish FA Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/ScotlandNationalTeam/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/f/fd/Scotland_national_football_team_logo.png/485px-Scotland_national_football_team_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]FA Wales Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/FAWales/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Football_Association_of_Wales_logo.svg/417px-Football_Association_of_Wales_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Northern Ireland FA Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialIrishFA/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0b/Northern_ireland_national_football_team_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Irish FA Official Highlights Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/faiofficial/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/87/FAI.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]MLS[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/mls/?page=0</jsonrpc>
+<thumbnail>http://static.mlsdigital.net/next/avatars/MLS_avatar-400x400.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold]UEFA TV[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/UEFA/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/U/UEFA-logo-034798DC50-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]Aberdeen FC[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/AberdeenFC2012/?page=0</jsonrpc>
+<thumbnail>https://www.interbacs.com/wp-content/uploads/2016/08/aberdeen-football-club.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]AFC Wimbledon[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/AFCWimbledonTV/?page=0</jsonrpc>
+<thumbnail>http://soccerlogo.net/uploads/posts/2015-02/1424288454_fc-afc-wimbledon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Arsenal[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/ArsenalTour/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/A/arsenal-logo-B27C071FE1-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Arsenal Fan TV[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/arsenalfanstv/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/A/arsenal-logo-B27C071FE1-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Aston Villa[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/avfcofficial/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/26/Aston_villa_logo16.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Barnet[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialbarnet/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/3056/brand.gif?itok=p4Ds-oyM</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Barnsley[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/1BarnsleyFC/?page=0</jsonrpc>
+<thumbnail>http://barnsleynewsandsport.com/wp-content/uploads/2012/10/bfc_crest_1251-481x457.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Birmingham City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialbcfc/?page=0</jsonrpc>
+<thumbnail>https://stats-api.green4solutions.com/Images/TeamLogos/birmingham%20city/logo.svg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Blackburn Rovers[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/onerovers1875/?page=0</jsonrpc>
+<thumbnail>http://vector.me/files/images/6/8/6820/blackburn_rovers_fc.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Blackpool[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialblackpoolfc/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f8/Blackpool_FC_logo_%281993-1997%29.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Bolton Wanderers[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialBWFC/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0024/7435/brand.gif?itok=rHcTtG_3</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Bradford City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/UCApKWe9YYSzSsZ0m5mLhl7g/?page=0</jsonrpc>
+<thumbnail>http://soccerlogo.net/uploads/posts/2015-02/1424259419_fc-bradford-city.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Brentford[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/BrentfordFCOfficial/?page=0</jsonrpc>
+<thumbnail>https://hdlogo.files.wordpress.com/2015/01/brentford-fc-hd-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Brighton & Hove Albion[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialbhafc/?page=0</jsonrpc>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/10/e8/b2/10e8b2b3327c031bc4522a058a4f840f--brighton--hove-albion-brighton-and-hove.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Bristol City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/bcfcofficial/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Bristol_City_FC.svg/450px-Bristol_City_FC.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Burnley[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialburnleyfc/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Bury FC[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/buryfcofficial/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0024/6398/brand.gif?itok=pA_PuqdI</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Cardiff City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/BluebirdsPlayer/?page=0</jsonrpc>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Cardiff_City_AFC_logo_%281988-2003%29.png/revision/latest?cb=20120210194609</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Carlisle United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialCUFC/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/63/Carl_Badge.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Celtic[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/celticfc/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/C/Celtic-logo-593D775A0A-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Celtic (Fans Channel)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/jamesdoc88/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/C/Celtic-logo-593D775A0A-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Charlton Athletic[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/CAFCOfficial/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/1981/brand.gif?itok=H0kd-8F8</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Chelsea[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/chelseafc/?page=0</jsonrpc>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/cc/9f/93/cc9f93251804f80abdcb7a4eb204f128--chelsea-basketball.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]Chelsea (Fans Channel)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/chelseafanschannel/?page=0</jsonrpc>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/cc/9f/93/cc9f93251804f80abdcb7a4eb204f128--chelsea-basketball.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Chesterfield[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialChesterfield/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/94/Chesterfield_FC_crest.svg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Coventry City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/SkyBluesPlayer/?page=0</jsonrpc>
+<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2015-manager-stories/784314d1425284476-can-elephant-roar-again-coventry-city-fc-story-coventry-city.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crewe Alexandra[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/crewealexandrafc/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Crewe_Alexandra.svg/444px-Crewe_Alexandra.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Crystal Palace[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialCPFC/?page=0</jsonrpc>
+<thumbnail>https://www.holmesdale.net/images/features/badgef.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Darlington FC[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialDarlingtonFC/?page=0</jsonrpc>
+<thumbnail>http://www.facuptravels.co.uk/badges/Darlington.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Derby County[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/DCTV1884/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/01/Derby_County_F.C._logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Everton[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialEverton/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/E/everton-football-club-logo-CC05A3D438-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Everton (Toffee TV)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/EFCTV1/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/E/everton-football-club-logo-CC05A3D438-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Exeter City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialECFC/?page=0</jsonrpc>
+<thumbnail>http://soccerlogo.net/uploads/posts/2015-02/1424288228_fc-exeter-city.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]F.C.Barcelona[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/fcbarcelona/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/F/FC_Barcelona-logo-CE8D51F664-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]F.C. United Of Manchester[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/FCUnitedMcr/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/ru/thumb/c/c2/FC_United_of_Manchester_Logo.svg/200px-FC_United_of_Manchester_Logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Fleetwood Town[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/fleetwoodcodarmy/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/64/Fleetwood_Town_FC.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Fulham[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/FulhamFC1987Ltd/?page=0</jsonrpc>
+<thumbnail>http://www.fulhamfc.com/-/media/Team/England/Crest/fulham.png?w=300&h=300</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Gillingham[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/GFCofficial/?page=0</jsonrpc>
+<thumbnail>http://ntsecurity.co.uk/upload/images/Gillingham_Football_Club_Logo_53271ccbd8c66.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Grimsby Town[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialGTFC/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/dc/Grimb_Badge.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Hearts[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialheartsfc/?page=0</jsonrpc>
+<thumbnail>https://hdlogo.files.wordpress.com/2011/12/hearts-logo.png?w=500</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Huddersfield Town[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialHTAFC/?page=0</jsonrpc>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Huddersfield_Town_FC_logo_%28simple%29.png/revision/latest?cb=20120314135832</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Ipswich Town[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialitfc/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/2036/brand.gif?itok=PVkqlSa-</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Juventus[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/juventus/?page=0</jsonrpc>
+<thumbnail>https://cdn.vox-cdn.com/uploads/chorus_asset/file/7818797/Juventus_Crest.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Leicester City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/LCFCOfficial/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/LCFC_125_Years.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Leyton Orient[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/orientofficial/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f1/Leyton_Orient_FC.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Liverpool[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/LiverpoolFC/?page=0</jsonrpc>
+<thumbnail>http://assets1.lfcimages.com/images/template/404.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]Liverpool (The Redmen TV)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/WeAreTheRedmen/?page=0</jsonrpc>
+<thumbnail>http://assets1.lfcimages.com/images/template/404.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Luton Town[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialLutonTown/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/8b/LutonTownFC2009.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Manchester City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/mcfcofficial/?page=0</jsonrpc>
+<thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/a/a7/Manchester_City_FC_logo_%281972-1976%2C_1981-1997%29.png/revision/latest?cb=20120208161758</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Manchester City (Blue Moon Rising TV)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/BlueMoonRisingTV/?page=0</jsonrpc>
+<thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/a/a7/Manchester_City_FC_logo_%281972-1976%2C_1981-1997%29.png/revision/latest?cb=20120208161758</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Manchester United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/FullTimeDevils/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/M/manchester-united-logo-F14DA1FCCD-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]Manchester United (Foundation)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/ManUtdFoundation/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/M/manchester-united-logo-F14DA1FCCD-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Middlesbrough[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/UCdXWsJhkXzx5hFJGcxjy_5Q/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/3660/brand.gif?itok=InZ6Fwt9</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Millwall[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/MillwallFCofficial/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/71/Millwall_FC_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]MK Dons[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/MKDonsFC04/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/bf/MK_Dons.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Morecambe FC[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialMorecambe/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f1/Morecambe_FC_Badge.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Motherwell[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialMotherwellFC/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Motherwell_FC_crest.svg/400px-Motherwell_FC_crest.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Newcastle United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/NUFCOfficial1892/?page=0</jsonrpc>
+<thumbnail>https://www.nufc.co.uk/media/28051/club-crest-1988-present.png?width=300&height=302</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Norwich City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/NCFCTube/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/2183/brand.gif?itok=KxFv-uI3</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Nottingham Forest[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/NFFCTube/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/122010/nottingem_forest_nottingem_angliya_old_logo2.png?itok=VFK_fs6s</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Notts County[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialNCFC/?page=0</jsonrpc>
+<thumbnail>http://uefa.wdfiles.com/local--files/england:notts-county-fc/notts-county-fc-alt.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Oldham Athletic[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialOAFC/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/ifJA6oC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Peterborough United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/ThePoshOfficial/?page=0</jsonrpc>
+<thumbnail>http://imagescdn.sportnetwork.net/images/37/140562_350_233</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Portsmouth[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialpfc/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/1299/brand.gif?itok=n5gdmaUo</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Port Vale[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialPortValeFC/?page=0</jsonrpc>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/bf/63/c5/bf63c576c0476fe76919a45d0923c57c--port-vale-fc-british-football.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Plymouth Argyle[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/argylemedia/?page=0</jsonrpc>
+<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2015-manager-stories/829738d1430075226-rise-pilgrims-plymouth-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Queens Park Rangers[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialQPR/?page=0</jsonrpc>
+<thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/9/99/Queens_Park_Rangers_FC_logo.png/revision/latest?cb=20120220160903</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Rangers FC[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/RangersFCOfficial/?page=0</jsonrpc>
+<thumbnail>http://www.heraldscotland.com/resources/images/4668171/</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Reading[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialReadingFC/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/600px-Reading_FC.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Real Madrid[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/realmadridcf/?page=0</jsonrpc>
+<thumbnail>http://www.fotolip.com/wp-content/uploads/2016/05/Real-Madrid-Logo-2.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime]Real Madrid TV Channel[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2870.ts&amp;name=Maverick TV</link> 
+<thumbnail>http://www.fotolip.com/wp-content/uploads/2016/05/Real-Madrid-Logo-2.png</thumbnail>
+<fanart></fanart> 
+</item>
+
+<item>
+<title>[COLOR lime]Real Mallorca[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OficialRCDMallorca/?page=0</jsonrpc>
+<thumbnail>https://seeklogo.com/images/R/Real_Mallorca-logo-5AB85723E4-seeklogo.com.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Rochdale[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialrochdaleafc/?page=0</jsonrpc>
+<thumbnail>http://www.englishfootballstats.co.uk/Club%20Profiles/Rochdale_badge.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Rotherham United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialrufc/?page=0</jsonrpc>
+<thumbnail>https://hdlogo.files.wordpress.com/2015/01/rotherham-united-fc-hd-logo.png?w=500</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Salford City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/SalfordCityTV/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f3/Salford_City_FC_Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Sheffield Wednesday[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/officialswfc/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0024/2110/brand.gif?itok=DKTWA6KT</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Sheffield United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/SheffieldUTube/?page=0</jsonrpc>
+<thumbnail>http://4.bp.blogspot.com/-_PnrGNbpVfw/VmjDFf8mRmI/AAAAAAAAHIs/H94c-MY0f20/s1600/bitebrands%2B-%2Blogo%2Bklub%2Bbola%2Bliga%2Binggris%2B-9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Southend United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialSUFC/?page=0</jsonrpc>
+<thumbnail>https://peterrmiles.files.wordpress.com/2013/03/sufc-2001.jpg?w=584</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Southampton[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/theofficialsaints/?page=0</jsonrpc>
+<thumbnail>http://uefa.wdfiles.com/local--files/england:southampton-fc/southampton-fc.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Stoke City[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/UCmFPjHUFr0hyE6eFGvCm7IA/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Stoke_City_FC.svg/460px-Stoke_City_FC.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Sunderland[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/sunderlandafc/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0024/2033/brand.gif?itok=iF2yMO6V</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Tottenham Hotspur[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/spursofficial/?page=0</jsonrpc>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0014/9239/brand.gif?itok=lnqBrBaf</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Watford[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/WatfordFCofficial/?page=0</jsonrpc>
+<thumbnail>https://hdlogo.files.wordpress.com/2015/01/watford-fc-hd-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]West Bromwich Albion[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialAlbion/?page=0</jsonrpc>
+<thumbnail>https://www.scattering-ashes.co.uk/wp-content/uploads/2013/03/westbrom.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]West Ham United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCCNOsmurvpEit9paBOzWtUg/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/3b/WestHamPreviousLogo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Wigan Athletic[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/LaticsOfficial/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Wigan_Athletic.svg/480px-Wigan_Athletic.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Wolves[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OfficialWolvesVideo/?page=0</jsonrpc>
+<thumbnail>https://sites.google.com/site/sopotskisport/_/rsrc/1457734729651/roma-vulverhempton-sopot-sve-povezuje-jedno-vuk/Wolverhampton_Wanderers.svg.png?height=277&width=320</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Yeovil Town[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/YTFCOfficial/?page=0</jsonrpc>
+<thumbnail>http://soccerlogo.net/uploads/posts/2015-02/1424257811_fc-yeovil-town.png</thumbnail>
+<fanart></fanart>
+</item>
