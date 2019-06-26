@@ -61,6 +61,14 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/917JJWg71hL.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Bugs Bunny (Looney Tunes)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL7spvnQF9O-ia-SPOzQNReIJH4xH8bVWE/?page=0</jsonrpc>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/917JJWg71hL.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
+</item>
  
 <item>
 <title>[COLOR lime]Trumpton[/COLOR]</title>
