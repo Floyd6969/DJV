@@ -149,6 +149,22 @@
 <thumbnail>http://theherbs.homestead.com/Books/PictureBooks/HerbsBoardBook.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR lime]The Woodentops[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLL3vdLbct_YGPCMtJLOQvsL3rp_y9vr_n/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/4cElsvA.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Renta Ghost[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLuVJJChn9OrT-sa041aMRtYZz-YeyVuxF/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/juyq1Nl.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
+</item>
  
 <item>
 <title>[COLOR lime]The Magic Roundabout[/COLOR]</title>
