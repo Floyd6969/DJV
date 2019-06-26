@@ -1,0 +1,39 @@
+<dir>
+<name>[COLOR lime][B]Fluxus Movies And Shows[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/jbqA0j82&mode=1</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+<info>Maverick TV</info>
+</dir>
+ 
+<dir>
+<name>[COLOR lime][B]Fluxus IPTV 2000+ Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/m1HDTQ4A&mode=1</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+<info>Maverick TV</info>
+</dir>
+
+<dir>
+<name>[COLOR lime][B]Fluxus Faith Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/6XvGDG5P&mode=1</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+<info>Maverick TV</info>
+</dir>
+
+<dir>
+<name>[COLOR lime][B]Fluxus World CCTV Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/yb1F9Q63&mode=1</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+<info>Maverick TV</info>
+</dir>
+
+<dir>
+<name>[COLOR lime][B]Fluxus Worldwide Radio Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/wyPcFtrk&mode=1</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+<info>Maverick TV</info>
+</dir>
