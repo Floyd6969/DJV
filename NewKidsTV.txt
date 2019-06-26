@@ -87,14 +87,6 @@
 </item>
  
 <item>
-<title>[COLOR lime]Rainbow[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAbg6Re7Biur-WAFOXjqiRvAaDaZcm1vU/?page=0</jsonrpc>
-<thumbnail>http://www.cathyscollectables.co.uk/_familyCustom/0/areas/2102415372/publish/thumbnails/rev_1//main/1395978.261.jpg</thumbnail>
-<fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
-</item>
- 
-<item>
 <title>[COLOR lime]Bill And Ben[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLWwu3prkm7snICmx6bD5oBOBxYeg7Eeuv/?page=0</jsonrpc>
