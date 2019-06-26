@@ -1002,16 +1002,9 @@
 <fanart></fanart>
 </item>
 
-
 <item>
-<title>1975 - Lollapalooza</title>
-<link>https://www.youtube.com/watch/O5A425xwdTs</link>
-<thumbnail>http://www.aaaedinburgh.co.uk/wp-content/uploads/2015/11/the19751.png</thumbnail>
-</item>
-
-<item>
-<title>1975 - Lounge Symphony</title>
-<link>https://www.youtube.com/watch/IiYbBdacOtM</link>
+<title>1975 - Lounge Symphony TEST</title>
+<link>https://www.youtube.com/watch?v=IiYbBdacOtM</link>
 <thumbnail>http://www.aaaedinburgh.co.uk/wp-content/uploads/2015/11/the19751.png</thumbnail>
 </item>
 
