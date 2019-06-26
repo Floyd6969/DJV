@@ -33,7 +33,7 @@
 <item>
 <title>[COLOR lime]Peppa Pig[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/NunSUUXctE4/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFEgnf4tmQe_L3xlmtFwX8Qm5czqwCcVi/?page=0</jsonrpc>
 <thumbnail>http://cdn-static.sidereel.com/tv_shows/41155/giant_2x/79222-1.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
