@@ -121,7 +121,7 @@
 <item>
 <title>[COLOR lime]Andy Pandy (Classic)[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL5VTLd-pIdltNBJriiRAHr3_oKJykzrN4/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL7Y8aBZdrOf9vo2Ch19xFLB0KC3pn44qt/?page=0</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/aa/54/a0/aa54a010fe542757144dcd753f8db526.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
