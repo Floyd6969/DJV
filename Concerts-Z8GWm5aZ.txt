@@ -1,0 +1,1005 @@
+<item>
+<title>[COLOR lime]Live Aid 1985[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLHp_BwHqxTe5aFv9FtC_Ql1d1hhvalgbT/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Queen Rock Montreal - Full Concert[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWbgXHFbXaMOSS9nFOiTWCBZMC49Yy2GO/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Queen Live At Wembley 1986[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLR4sCzwX7g7ySvtsR6s7djOG4KAcIz1YY/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Yes Live[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmn-dGhdbyEHgXBmYg5nE5Oa_gGTfyaBG/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]AC/DC Live[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLsFQE5aB1i0kqyiqZL9G-dBicrI7rjg2J/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Adele In Concert Royal Albert Hall[/COLOR]</title>
+<utube>p9AXasFroPE</utube>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Beatles -- Live -- Australia Concert[/COLOR]</title>
+<utube>e6r523MsuUk</utube>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]The Beatles, live Empire Pool 1965, full concert[/COLOR]</title>
+<utube>tAlZlzIPuPY</utube>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Pink Floyd Live At Live 8 London 2005[/COLOR]</title>
+<utube>ljaU7YcrKAU</utube>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Candy Dulfer - LIVE Full Concert 2016[/COLOR]</title>
+<utube>S3kKiot7u5Q</utube>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Adele live at The Tabernacle[/COLOR]</title>
+<utube>wL8xvTAhlmE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Adele Live in New York City 2015[/COLOR]</title>
+<utube>sVheh0DSMs4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bruno Mars great live BBC Radio best hits 2015 full concert[/COLOR]</title>
+<utube>fV8OTEGjgk4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Pink Floyd Live At Live 8 London 2005[/COLOR]</title>
+<utube>ljaU7YcrKAU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Stevie Wonder - Live At Last: A Wonder Summer's Night - Full Concert (HD)[/COLOR]</title>
+<utube>9dB9ZyXtXlQ</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Phil Collins The Last Farewell Tour[/COLOR]</title>
+<utube>39LAJeXudiM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)[/COLOR]</title>
+<utube>oerZ1cYE-Qk</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bon JovI Live At Cleveland 2013 Full Concert[/COLOR]</title>
+<utube>O1x-nXUL0hE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Neil Diamond - 1988 Greatest Hits Live Concert[/COLOR]</title>
+<utube>iVRXOWAHs9w</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Earth Wind and Fire - Live '99 by Request Concert[/COLOR]</title>
+<utube>0mTLd9dpzas</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Michael Jackson History Tour Live Munich Germany (Full)[/COLOR]</title>
+<utube>Y0JcJbzTjjw</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]DAVID BOWIE - (Full Concert) - Live at the BBC Radio Theatre, London, 2000[/COLOR]</title>
+<utube>OIK35u0Nx2k</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]David Bowie - Live By Request (2002)[/COLOR]</title>
+<utube>eQq4FH81jd0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Jam - Bingley Hall 1982[/COLOR]</title>
+<utube>1H1uos6v9zM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Madness - At MadStock[/COLOR]</title>
+<utube>vLxhn5Q4-eM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Specials - Live At Glastonbury[/COLOR]</title>
+<utube>1xbea_0pY0g</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Specials 30th Anniversary Tour (Full)[/COLOR]</title>
+<utube>u9GnGMQz22A</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Selecter - Live From London[/COLOR]</title>
+<utube>WeCNje7mgs4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bad Manners - Don't Knock The Bald Heads[/COLOR]</title>
+<utube>AcWIup_XKLw</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bob Marley & the Wailers 7-21-1979 Live Full Show[/COLOR]</title>
+<utube>3-5yg7C5o4Q</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Boomtown Rats Live - Dublin 12/10/2013[/COLOR]</title>
+<utube>87f0k8H7Arw</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]UB40 live at Montreux 2002[/COLOR]</title>
+<utube>Pxsu5ZKhnRQ</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]UB40-Homegrown in Holland Live 2003[/COLOR]</title>
+<utube>J2GrFNHSZCg</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Stiff Little Fingers - At The Edge 2004 (full concert)[/COLOR]</title>
+<utube>AwJLoUINqSM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]STRANGLERS Hamburg Markthalle 20.February 1985 Complete Concert[/COLOR]</title>
+<utube>HyPQYaXvC5g</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]There'll Always be an England(Sex Pistols Live at Brixton Academy 2007)[/COLOR]</title>
+<utube>o_SQI9kgqIc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Black Sabbath - The End (Full Concert) 2016-06-15 at Hallenstadion, Zurich, Switzerland[/COLOR]</title>
+<utube>bZ66kVyCwz4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Iron Maiden- Live Wacken 2016 (Full Concert)- HD[/COLOR]</title>
+<utube>bHM2mwMQUDo</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Guns N' Roses: Tokyo 1992 FULL CONCERT (HD)[/COLOR]</title>
+<utube>oKw4HWNFN2Y</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Guns N' Roses live at The Ritz 1988 - Full concert[/COLOR]</title>
+<utube>9zKPjJgfIss</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Guns N' Roses - Live in Chicago 1992 [Full Concert][/COLOR]</title>
+<utube>6SlKqVJT9tI</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Rolling Stones Glastonbury Festival 2013 06 29 Full Concert[/COLOR]</title>
+<utube>V9NaxP7VCCc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Fab Four - Beatles Tribute Full Concert[/COLOR]</title>
+<utube>4rHiDArtjuM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]ERIC CLAPTON Live at Budokan, Tokyo, 2001 (Full Concert)[/COLOR]</title>
+<utube>3FE70D5mRp0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Roger Waters - Radio Kaos Tour - Montreal 1987 DVD[/COLOR]</title>
+<utube>cwNqFTIpaSM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Dead Kennedys Live San Francisco 1984 (full show) VHSrip[/COLOR]</title>
+<utube>FYfSt0xcQIk</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Amy Winehouse Live In London 2007[/COLOR]</title>
+<utube>UNkuQQ3FJ8U</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Amy Winehouse Concert 2008 HD[/COLOR]</title>
+<utube>8Poc65uzT1s</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]U2 - Glastonbury 2011 - Full Concert - HD[/COLOR]</title>
+<utube>7Nt5hycaqoU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]U2 - Elevation tour - Live from Boston full[/COLOR]</title>
+<utube>BYOu7N8e9PU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]U2: "U22 The Show Never Done" [Entire Show 1080p][/COLOR]</title>
+<utube>TBuK2rgqYUk</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Oasis - Live Manchester 2005 HD Full Concert[/COLOR]</title>
+<utube>UWH3vFQhC1o</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Noel gallagher and gem of oasis live in paris 2008 [FULL CONCERT][/COLOR]</title>
+<utube>8aWiKV_1fSM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Stone Roses live in Blackpool 12.08.1989[/COLOR]</title>
+<utube>pNfHoPIxhXM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]James - TITP 2014[/COLOR]</title>
+<utube>jBxFfTHj8_I</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Arctic Monkeys Glastonbury (2013)[/COLOR]</title>
+<utube>BoHkfAhQ8Fc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rocky Horror Show Live Cinema Screening, 17-09-2015[/COLOR]</title>
+<utube>VIPckPtYmXk</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Queen - Live at LIVE AID 1985/07/13[/COLOR]</title>
+<utube>A22oy8dFjqc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Queen - Hungarian Rhapsody Live In Budapest 1986[/COLOR]</title>
+<utube>8cTiLQiSsoE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Queen - Live At Wembley Stadium - 12th July 1986 - Full Concert[/COLOR]</title>
+<utube>Wvors-vs9Ko</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Queen + Adam Lambert 2016 Summer Festival[/COLOR]</title>
+<utube>s64Qo6yLrd4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Beatles Live in Melbourne[/COLOR]</title>
+<utube>fj5tKYgz9Zc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Beatles ֠Live in Melbourne [HD. Remastered][/COLOR]</title>
+<utube>MAyVIG1jFo0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Beatles, live Empire Pool 1965, full concert[/COLOR]</title>
+<utube>tAlZlzIPuPY</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Who concert Los Angeles august 1989[/COLOR]</title>
+<utube>yhU-ADBYGCc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Who - Ziggo Dome Amsterdam 2015[/COLOR]</title>
+<utube>pNYiIhC95JE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Who (Quadrophenia Concert Hyde Park London 1996)[/COLOR]</title>
+<utube>cQlXlkGRW7k</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Who - Live at the Royal Albert Hall 2000 - Full Concert[/COLOR]</title>
+<utube>16TRDbYdcrg</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Cream - Live at the Royal Albert Hall, 2005 (+ Bonus)[/COLOR]</title>
+<utube>jxZThfFoQ0g</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Paul Mc Cartney & Wings - Rockshow 1980[/COLOR]</title>
+<utube>p1UafXtokdE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Wings Over Australia 1975 complete concert + soundcheck[/COLOR]</title>
+<utube>M4T4biiXqvs</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Paul McCartney in Concert (2013)[/COLOR]</title>
+<utube>7S2JJpSmqZo</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Paul McCartney & Wings - Band On The Run (Rockshow) [HD][/COLOR]</title>
+<utube>t8dQwP80uNQ</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Paul McCartney Live In Rio 1990 Full Concert[/COLOR]</title>
+<utube>_0C_yRKR3Rc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Paul McCartney - Get Back World Tour 1989 - Full Concert (HD)[/COLOR]</title>
+<utube>3Z3Ek1gL_JU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]John Lennon - One To One Concert (Live)[/COLOR]</title>
+<utube>gV43e_LJ3I4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]John Lennon - Live in NY City (1972)[/COLOR]</title>
+<utube>k-fSSJj8xW4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Elvis Presley in concert - june 19, 1977[/COLOR]</title>
+<utube>tzhQ6CmZsq0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Elvis Presley - Live 1977 - Last Concert (STEREO) (HD)[/COLOR]</title>
+<utube>Xh53niIqMtk</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Elvis Presley In Concert 1977 Full[/COLOR]</title>
+<utube>-w2WVzLMdWM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Elvis Presley - Charlotte, GA Macon Coliseum 1976[/COLOR]</title>
+<utube>PYf3tHuuQt4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Led Zeppelin - Celebration Day 2012[/COLOR]</title>
+<utube>OM_y3pHZGHU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Stones in the Park July 5 1969 1080P High Quality[/COLOR]</title>
+<utube>Z-YCqUMQ29U</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]THE Doors - Live at the Bowl `68[/COLOR]</title>
+<utube>cJEL6b9Z78w</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]AC/DC - FULL CONCERT (Multicam-Mix) - Berlin 2015[/COLOR]</title>
+<utube>7uauVGvTF-8</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]AC DC live at river plate full concert HD 2011[/COLOR]</title>
+<utube>Sofbb2gIpxU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Nirvana - MTV Live And Loud 1993 (Full Concert)[/COLOR]</title>
+<utube>i0g8toTz-ek</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Nirvana - MTV Unplugged (1993) (Full Concert)[/COLOR]</title>
+<utube>-m2yifmS4-Y</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]METALLICA - Full Show in Minneapolis (Multi-Cam) - 20 August 2016[/COLOR]</title>
+<utube>sn2YnyoXIqI</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rammstein Live 2016 Full Concert[/COLOR]</title>
+<utube>UhyRYaeoLyU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rammstein- Berlin Waldb�� 2016 M.C (4K)[/COLOR]</title>
+<utube>CdYU0SK4QRg</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]System Of A Down - Live In Armenia 2015 [HD][/COLOR]</title>
+<utube>zvGcMNSCc4M</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]System Of A Down - Rock In Rio 2015 [HD][/COLOR]</title>
+<utube>o3r1sn-t3is</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]GREEN DAY - ROCK AM RING 2013 [LIVE HD][/COLOR]</title>
+<utube>Q93wKRpmZU0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rage Against the Machine - Full Concert - 07/24/99[/COLOR]</title>
+<utube>F9S-JVKw0mE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Pearl Jam 10-16-2014 Detroit Mi Full Show Multicam[/COLOR]</title>
+<utube>UKOpnK5fC4k</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bruce Springsteen - Full Concert Video (Brisbane, Australia)[/COLOR]</title>
+<utube>DkEcQ_bdqxc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bruce Springsteen - Born In The USA Live: London 2013[/COLOR]</title>
+<utube>O_BuT8qg4lA</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bruce Springsteen in Lisbon2016[/COLOR]</title>
+<utube>B_FOn2nUy5Q</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bruce Springsteen - New York - Madison Square Garden 2016 full show[/COLOR]</title>
+<utube>Nv36RaPrOrc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Prince - 2009.07.18 Montreux, Auditorium Stravinski[/COLOR]</title>
+<utube>KPwcWuihCaw</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Prince New Year's Eve 1987[/COLOR]</title>
+<utube>BnWLp5z2iA0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Prince Lovesexy Tour 1988 full[/COLOR]</title>
+<utube>ACsJ0k_qdPE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]MEAT LOAF - Live London 1987 (Full)[/COLOR]</title>
+<utube>_-aavkTiXIc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]MEAT LOAF - HISTORY LIVE 1994[/COLOR]</title>
+<utube>stJDZ4XrKLQ</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Meat Loaf 1995, Neighbourhood Live[/COLOR]</title>
+<utube>M9JkyfS_XlY</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Meat Loaf - The Guilty Pleasure Tour[/COLOR]</title>
+<utube>Z3tnb6c6iuU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Foreigner - Live At Deer Creek - 1993[/COLOR]</title>
+<utube>0CnRbhB38O0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Foreigner - Live in Dortmund Germany 1981 (German TV Broadcast)[/COLOR]</title>
+<utube>yTkHV3hD010</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Foreigner - Unplugged [TV] Full Concert[/COLOR]</title>
+<utube>mPnjyrQIn6E</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rod Stewart One Night Only full concert Live at Royal Albert Hall 2004[/COLOR]</title>
+<utube>aVnfZMTUB7Q</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rod Stewart Hyde Park 2015 complete show[/COLOR]</title>
+<utube>922xvZKeImY</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]BeeGees Live One For Australia[/COLOR]</title>
+<utube>p_SOJauGVeI</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Elton John. Basel 18 November 2006[/COLOR]</title>
+<utube>lNag96i3zkM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Dire straits Concert In Nimes 1992 [FULL CONCERT][/COLOR]</title>
+<utube>x4Qy-AUIm-0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Bootleg Beatles - live at Crocus City Hall 07.10.2014[/COLOR]</title>
+<utube>ydn2-V0rWXU</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Slade - Full Concert - 08/04/75 - Winterland (OFFICIAL)[/COLOR]</title>
+<utube>aqcpx2K2SVA</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Slade alive in German Democratic Republic '77[/COLOR]</title>
+<utube>XsAVuIji6sI</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Jimi Hendrix live Stockholm 1969 rare colour video[/COLOR]</title>
+<utube>co0Mc5CrMcc</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Jimi Hendrix live at the Royal Albert Hall Full concert 1969 Stereo[/COLOR]</title>
+<utube>Nr0d79HiSGY</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bob Dylan - Full Concert - 12/04/88 - Oakland Coliseum Arena[/COLOR]</title>
+<utube>AIjzSrq0UgE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Tina Turner - One Last Time Live In Concert (Live in Wembley, 2000 HQ)[/COLOR]</title>
+<utube>5rQ4gXu_B6c</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Madonna - Sticky & Sweet Tour HD[/COLOR]</title>
+<utube>aiuB_e2QYb8</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Take That Live 2015, Full concert[/COLOR]</title>
+<utube>vdgSkQm3zAY</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Take That - The Ultimate Tour 2006 HD[/COLOR]</title>
+<utube>XA9e_x6tZaQ</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Robbie Williams LIVE At The Royal Albert Hall 2001 HD[/COLOR]</title>
+<utube>1dV7mnWDf6c</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Robbie Williams - Live In Tallinn 1080p Full Concert[/COLOR]</title>
+<utube>mY9tL_EuWSo</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Cher LIVE IN CONCERT[/COLOR]</title>
+<utube>O8aH7iLegP0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Shania Twain Up! Live In Chicago 2003[/COLOR]</title>
+<utube>cgFLdewM1ys</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]The Tragically Hip August 12 2016 Live in Toronto Full Concert in HD[/COLOR]</title>
+<utube>hBX7TQqBAXE</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Manic Street Preachers Live from Cardiff Castle 2015[/COLOR]</title>
+<utube>xqkG3xsq8_g</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Manic Street Preachers - Live At Nynex 1997 [Everything Live Uncut Version][/COLOR]</title>
+<utube>4sjIUbEHgP8</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Manics - TInThePark (11th July 2014) Highlights[/COLOR]</title>
+<utube>ZsJFM7SSwVg</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Black Sabbath Live in Paris 1970 (Full Show)[/COLOR]</title>
+<utube>6yZA4TC_pt4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Black Sabbath - Live in Hyde Park, London 04.07.2014[/COLOR]</title>
+<utube>n5REfM-zMBM</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Black Sabbath - Never Say Die 1978 (Full Concert)[/COLOR]</title>
+<utube>ZGdtehZ1BZ0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rainbow - Live Between the Eyes San Antonio 1982 Full Concert[/COLOR]</title>
+<utube>fx2B8ii_Yf4</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rainbow - Live in Japan 1984[/COLOR]</title>
+<utube>-buED-MpVg8</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Rainbow - 1997 Toronto - FULL CONCERT HQ[/COLOR]</title>
+<utube>8-h6XENwvLk</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Bryan Adams - Rocks Big Ben Live (2016) HD FULL CONCERT[/COLOR]</title>
+<utube>E-5wCTTL7fg</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Radiohead - Live at NOS Alive! Festival, 2016 (Full Concert) [50fps][/COLOR]</title>
+<utube>1Qs8cWPE5MA</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Radiohead - Live Outside Lands Festival 2016 (Full Show) HD[/COLOR]</title>
+<utube>PsYxwPCGxy8</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Radiohead Live @ Lollapalooza Berlin 2016[/COLOR]</title>
+<utube>T7tif9pFYp0</utube>
+<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
+<fanart></fanart>
+</item>
