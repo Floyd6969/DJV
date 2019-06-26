@@ -41,7 +41,7 @@
 <item>
 <title>[COLOR lime]H.R. Puff'N'Stuff[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLZs0gQed9tMTP7sxx5QI-j0-B3Bo-yMHe/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLlzx9xj6F1uPLwmtEFCv4aGpwwbb1P_qt/?page=0</jsonrpc>
 <thumbnail>http://411posters.com/wp-content/uploads/2012/07/perillo-HR-Pufnstuf-Variant.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
