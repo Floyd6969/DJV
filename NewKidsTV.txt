@@ -73,7 +73,7 @@
 <item>
 <title>[COLOR lime]The Wombles[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLZs0gQed9tMQ7IS_r09pzwniRzW5hYMG8/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLZs0gQed9tMRZEcNeDW9bFoTImoRAm3fg/?page=0</jsonrpc>
 <thumbnail>http://media.bloomsbury.com/rep/bj/9781408808375.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
