@@ -58,7 +58,7 @@
 <title>[COLOR lime]Tom And Jerry 1940-1958[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLaLPiKhjAuKeHPRk_fQU6-T9KO7EC_zp3/?page=0</jsonrpc>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/917JJWg71hL.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/lOm2ILw.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
 
@@ -66,7 +66,7 @@
 <title>[COLOR lime]Bugs Bunny (Looney Tunes)[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL7spvnQF9O-ia-SPOzQNReIJH4xH8bVWE/?page=0</jsonrpc>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/917JJWg71hL.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/4DFGxfr.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
  
@@ -205,12 +205,27 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51XVGnlEHmL.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
- 
+
 <item>
 <title>[COLOR lime]Fraggle Rock[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLw_H_ejKUfz-jbggA-oSncIb2ZM3_NC_k/?page=0</jsonrpc>
 <thumbnail>https://pics.filmaffinity.com/Fraggle_Rock_TV_Series-177750999-large.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Sesame Street: Two Hours of Sesame Street Songs![/COLOR]</title>
+<link>https://www.youtube.com/watch?v=crQpStMwnwk</link>
+<thumbnail>https://i.imgur.com/Fkv157D.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]The Flintstones Playlist[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/https://PL-lfalVjlSJH58xqJqT3djjQ97geZ9ey-/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/3N7P4hF.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
  
