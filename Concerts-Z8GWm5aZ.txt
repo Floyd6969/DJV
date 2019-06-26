@@ -1,4 +1,10 @@
 <item>
+<title>Queen Live Aid 1985</title>
+<link>https://www.youtube.com/watch?v=A22oy8dFjqc</link>
+<thumbnail>https://i.imgur.com/f6tkaxE.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime]Live Aid 1985[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLHp_BwHqxTe5aFv9FtC_Ql1d1hhvalgbT/?page=0</jsonrpc>
