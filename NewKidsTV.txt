@@ -264,7 +264,7 @@
 <item>
 <title>[COLOR lime]Mr Ed[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLhGxwqriFAqvOyDHpf8QhwU0lA9cXHNDE/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcrJkNvtU7WedMbuCnoWg4GcuZYqEJ9vr/?page=0</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/2a/ad/7d/2aad7d524ec64afada914b3cd4a31b54.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </item>
