@@ -11,10 +11,3 @@
 <thumbnail><thumbnail>
 <fanart><fanart>
 <item>
-
-<item>
-<title>[COLORsilver]Authorize Premiumize[/COLOR]<title>
-<link>plugin://script.module.resolveurl/?mode=auth_pr<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
-<item>
