@@ -4,3 +4,17 @@
 <thumbnail><thumbnail>
 <fanart><fanart>
 <item>
+
+<item>
+<title>[COLORsilver]Authorize All Debrid[/COLOR]<title>
+<link>plugin://script.module.resolveurl/?mode=auth_ad<link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<item>
+
+<item>
+<title>[COLORsilver]Authorize Premiumize[/COLOR]<title>
+<link>plugin://script.module.resolveurl/?mode=auth_prem<link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<item>
