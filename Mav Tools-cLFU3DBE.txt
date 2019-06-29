@@ -1,38 +1,33 @@
 <dir>
-<name>[COLOR lime][B]Real Debrid Re-Authorise[/B][/COLOR]</name>
+<name>[COLOR white][B]Real Debrid Re-Authorise[/B][/COLOR]</name>
 <link>plugin://script.module.resolveurl/?mode=auth_rd</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </dir>
  
 <item>
-<title>[COLOR lime][B]Openload Pair Online Here[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<title>[COLOR white][B]Openload Pair Online Here[/B][/COLOR]</title>
+<thumbnail></thumbnail>
 <pairwith>openload</pairwith>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-<info>Maverick TV</info>
+<fanart>/fanart>
 </item>
  
 <item>
-<title>[COLOR lime][B]Movie Site Pairing[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<title>[COLOR white][B]Movie Site Pairing[/B][/COLOR]</title>
+<thumbnail></thumbnail>
 <pairwith>pairlist</pairwith>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-<info>Maverick TV</info>
 </item>
 
 <dir>
-<name>[COLOR lime][B]Clear The Cache[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<name>[COLOR white][B]Clear The Cache[/B][/COLOR]</name>
+<thumbnail></thumbnail>
 <link>plugin://plugin.video.MaverickTV/?mode=clearCache</link>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-<info>Maverick TV</info>
+<fanart></fanart>
 </dir>
  
 <dir>
-<title>[COLOR lime][B]General Settings[/B][/COLOR]</title>
+<title>[COLOR white][B]General Settings[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <mysettings>1/0</mysettings>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-<info>Maverick TV</info>
+<fanart></fanart>
 </dir>
