@@ -4,6 +4,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
+
+<dir>
+<name>[COLOR white][B]All Debrid Re-Authorise[/B][/COLOR]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_ad</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
  
 <item>
 <title>[COLOR white][B]Openload Pair Online Here[/B][/COLOR]</title>
