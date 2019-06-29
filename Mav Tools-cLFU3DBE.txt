@@ -28,7 +28,7 @@
 <dir>
 <name>[COLOR white][B]Clear The Cache[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<link>plugin://plugin.video.MaverickTV/?mode=clearCache</link>
+<link>plugin://plugin.video.Mercury/?mode=clearCache</link>
 <fanart></fanart>
 </dir>
  
