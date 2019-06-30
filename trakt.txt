@@ -1,0 +1,79 @@
+<dir>
+  <title>[COLORwhite]Search Trakt[/COLOR]</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+  <title>[COLORwhite]My Lists[/COLOR]</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+</dir>
+
+<dir>
+   <title>[COLORwhite]My Liked Lists[/COLOR]</title>
+   <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]Trending Movies[/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]Popular Movies[/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]Most Watched Movies[/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/watched/weekly</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]Most Collected Weekly[/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/collected/weekly</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]At The Cinema[/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]Trending TV Shows[/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]Most Popular TV Shows[/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]Most Watched TV Shows[/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/watched/weekly</trakt>
+</dir>
+ 
+<dir>
+  <title>[COLORwhite]Most Collected TV Shows[/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/collected/weekly</trakt>
+</dir>
+
+<dir>
+  <title>[COLORwhite]Choose Movie By Actor[/COLOR]</title>
+  <link>https://pastebin.com/raw/cpzCRh5b</link>
+</dir>
+
+<dir>
+  <title>[COLORwhite]Choose Movie By Actress[/COLOR]</title>
+  <link>https://pastebin.com/raw/JDLSNS8h</link>
+</dir>
+
+<dir>
+  <title>[COLORwhite]Choose Movie By Director[/COLOR]</title>
+  <link>https://pastebin.com/raw/Uu9dMGuQ</link>
+</dir>
+
+<dir>
+  <title>[COLORwhite]Top 250 Movies[/COLOR]</title>
+  <trakt>https://pastebin.com/raw/VVxjRd0E</trakt>
+</dir>
