@@ -59,21 +59,6 @@
 </dir>
 
 <dir>
-  <title>[COLORwhite]Choose Movie By Actor[/COLOR]</title>
-  <link>https://pastebin.com/raw/cpzCRh5b</link>
-</dir>
-
-<dir>
-  <title>[COLORwhite]Choose Movie By Actress[/COLOR]</title>
-  <link>https://pastebin.com/raw/JDLSNS8h</link>
-</dir>
-
-<dir>
-  <title>[COLORwhite]Choose Movie By Director[/COLOR]</title>
-  <link>https://pastebin.com/raw/Uu9dMGuQ</link>
-</dir>
-
-<dir>
   <title>[COLORwhite]Top 250 Movies[/COLOR]</title>
-  <trakt>https://pastebin.com/raw/VVxjRd0E</trakt>
+  <trakt>https://raw.githubusercontent.com/Floyd6969/DJV/master/Reddit%20Top%20250-VVxjRd0E.txt</trakt>
 </dir>
