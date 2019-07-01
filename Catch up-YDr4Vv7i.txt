@@ -1,0 +1,19 @@
+<dir>
+    <title>[COLOR white]Catch Up TV UK[/COLOR]</title>
+    <tvmaze>country/United Kingdom/1</tvmaze>
+</dir>
+
+<dir>
+    <title>[COLOR white]Catch Up TV USA[/COLOR]</title>
+    <tvmaze>country/United States/1</tvmaze>
+</dir>
+ 
+<dir>
+    <title>[COLOR white]Netflix / Amazon Prime Etc.[/COLOR]</title>
+    <tvmaze>web_channel/1</tvmaze>
+ </dir>
+
+<dir>
+    <title>[COLOR white]All Networks[/COLOR]</title>
+    <tvmaze>country/all</tvmaze>
+</dir>
