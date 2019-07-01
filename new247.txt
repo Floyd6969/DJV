@@ -1,0 +1,20 @@
+<dir>
+<title>[COLOR white][B]24/7 Movies[/B][/COLOR]</title>
+<arconaitv>movies</arconaitv>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+ 
+<dir>
+<title>[COLOR white][B]24/7 TV Shows[/B][/COLOR]</title>
+<arconaitv>shows</arconaitv>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLOR white][B]US Cable Networks[/B][/COLOR]</title>
+<arconaitv>networks</arconaitv>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
