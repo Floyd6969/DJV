@@ -47,14 +47,14 @@
 </item>
 
 <item>
-<title>[COLORlime]Adele - Live at The Tabernacle[/COLOR]</title>
-<link>https://www.youtube.com/watch?v=xUkFF5l_uvU</link>
+<title>[COLORlime]Adele - Live at The Royal Albert Hall[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=xp9AXasFroPE</link>
 <thumbnail>http://www.bennytarantini.com/site/wp-content/uploads/2015/07/OP15246_AM_Adele_PR2_RGB-e1456936271246.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Adele - Live in New York city[/COLOR]</title>
-<link>https://www.youtube.com/watch?v=b-XlTuEdL7g</link>
+<title>[COLORlime]Adele Live at Glastonbury 2017 Full Concert HD[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=7445o3bdUUc</link>
 <thumbnail>http://www.bennytarantini.com/site/wp-content/uploads/2015/07/OP15246_AM_Adele_PR2_RGB-e1456936271246.jpg</thumbnail>
 </item>
 
