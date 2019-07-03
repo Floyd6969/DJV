@@ -12,13 +12,7 @@
 
 <item>
 <title>[COLORlime]ABBA - Live at Wembley[/COLOR]</title>
-<link>https://www.youtube.com/watch?v=UFBKCuu3ts8</link>
-<thumbnail>https://c.saavncdn.com/artists/Abba.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLORlime]ABBA - Live in Australia[/COLOR]</title>
-<link>https://www.youtube.com/watch?v=6Z3XvUzQjco</link>
+<link>https://www.youtube.com/watch?v=stimraG20Tw</link>
 <thumbnail>https://c.saavncdn.com/artists/Abba.jpg</thumbnail>
 </item>
 
