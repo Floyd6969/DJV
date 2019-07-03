@@ -1,0 +1,582 @@
+<plugin>
+<title>[COLOR blue][B]Peter Kays Car Share Forever FM Playlist[/B][/COLOR]</title>
+<link>Plugin://plugin.video.youtube/playlist/PL21k7NtkMn-jZT6bUlhxgziIxJSBk7sr1/</link>
+<thumbnail>http://domrobinson.co.uk/dvd-fever/wp-content/uploads/2015/04/peter-kay-car-share-1.jpg</thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR blue][B]You Tube Music[/B][/COLOR]</title>
+<link>plugin://plugin.video.spotitube/</link>
+<thumbnail>https://i.imgur.com/Vahqypo.png</thumbnail>
+<fanart></fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR blue][B]The Official 80's Videos Music Channel[/B][/COLOR]</title>
+<link>Plugin://plugin.video.youtube/playlist/PLjB-wurbnZxUY8WEq6iu-A45Bt_EjXvDX/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/715802941656010752/V5zsXKxP.jpg</thumbnail>
+<fanart>http://www.knightrider.info/wp/wp-content/uploads/2012/01/Knight-Rider-intro.png</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR blue][B]Karaoke Section[/B][/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL06C9idGzGVRk9zoV0ki6o1AxobWWsVug/</link>
+<thumbnail>http://images.clipartpanda.com/microphone-clip-art-microphone-clip-art-images.jpg</thumbnail>
+<fanart></fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Top Of The Pops 1964 - 1974[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLpBw3PwViVCm1ihwrFs2qEhVfPpth1KWV/</link>
+<thumbnail>http://www.electrofunkroots.co.uk/wp-content/uploads/2012/07/totp-logo.jpg</thumbnail>
+<fanart>https://i.imgur.com/QAgx2XT.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]80's Top of the Pops[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL8C96CD7976E9A97D/</link>
+<thumbnail>http://www.electrofunkroots.co.uk/wp-content/uploads/2012/07/totp-logo.jpg</thumbnail>
+<fanart>https://i.imgur.com/QAgx2XT.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Popular Videos - Top of the Pops[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL5jLzIvaV9LEWjfJ8cVPV_Bj-RSuyDQIE/</link>
+<thumbnail>http://www.electrofunkroots.co.uk/wp-content/uploads/2012/07/totp-logo.jpg</thumbnail>
+<fanart>https://i.imgur.com/QAgx2XT.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Popular Top of the Pops & TOTP2 videos[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL5jLzIvaV9LHyL6VDxko34jjksnxy73MH/</link>
+<thumbnail>http://www.electrofunkroots.co.uk/wp-content/uploads/2012/07/totp-logo.jpg</thumbnail>
+<fanart>https://i.imgur.com/QAgx2XT.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Old Grey Whistle Test[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL8ife9Rz61MusESIGCpKQl7cSghwXlWuN/</link>
+<thumbnail>https://i.pinimg.com/originals/84/56/d9/8456d9f877e313150c92c598e2d74fa9.jpg</thumbnail>
+<fanart>https://i.imgur.com/QAgx2XT.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 60's (Part One)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLhRm9uwA59i89hNA6CHYqfpEOD4z7Z5v_/</link>
+<thumbnail>http://4vector.com/i/free-vector-the-60s_041296_the-60s.png</thumbnail>
+<fanart>http://wallpapercave.com/wp/AQKdVNg.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 60's (Part Two)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL6iYEs5PpBeNEyo2zK_5rUhwx2Kj2miP0/</link>
+<thumbnail>http://4vector.com/i/free-vector-the-60s_041296_the-60s.png</thumbnail>
+<fanart>http://wallpapercave.com/wp/AQKdVNg.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 60's (Part Three)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLGBuKfnErZlCkRRgt06em8nbXvcV5Sae7/</link>
+<thumbnail>http://4vector.com/i/free-vector-the-60s_041296_the-60s.png</thumbnail>
+<fanart>http://wallpapercave.com/wp/AQKdVNg.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 60's (Part Four)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLA0AD6A6738880DED/</link>
+<thumbnail>http://4vector.com/i/free-vector-the-60s_041296_the-60s.png</thumbnail>
+<fanart>http://wallpapercave.com/wp/AQKdVNg.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 70's (Part One)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLGBuKfnErZlAkaUUy57-mR97f8SBgMNHh/</link>
+<thumbnail>https://buddyloans-blog.s3-eu-central-1.amazonaws.com/app/uploads/2015/11/70s.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/queen_band_members_faces_background_3748_1920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 70's (Part Two)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLK9Sc5q_4K6aNajVLKtkaAB1JGmKyccf2/</link>
+<thumbnail>https://buddyloans-blog.s3-eu-central-1.amazonaws.com/app/uploads/2015/11/70s.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/queen_band_members_faces_background_3748_1920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 70's (Part Three)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLyhuwfx3JwxuYjxTYwLCfOuXuy5S-4bmt/</link>
+<thumbnail>https://buddyloans-blog.s3-eu-central-1.amazonaws.com/app/uploads/2015/11/70s.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/queen_band_members_faces_background_3748_1920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 70's (Part Four)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLcM4ZwI542CriszmMjt8HSOJ-dVzKo3O3/</link>
+<thumbnail>https://buddyloans-blog.s3-eu-central-1.amazonaws.com/app/uploads/2015/11/70s.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/queen_band_members_faces_background_3748_1920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Just Classic 80's[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL2E373ABBD360C09F/</link>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/29/2015/05/iStock_000023856770_Medium-copy.jpg</thumbnail>
+<fanart>http://www.radiocremebrulee.com/wp-content/uploads/2014/09/spandau-ballet-hmsbelfast.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 80's (Part One)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLL55rJswZPUY6pNadCpeBlZaivnbA42PM/</link>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/29/2015/05/iStock_000023856770_Medium-copy.jpg</thumbnail>
+<fanart>http://www.radiocremebrulee.com/wp-content/uploads/2014/09/spandau-ballet-hmsbelfast.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 80's (Part Two)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLCD0445C57F2B7F41/</link>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/29/2015/05/iStock_000023856770_Medium-copy.jpg</thumbnail>
+<fanart>http://www.radiocremebrulee.com/wp-content/uploads/2014/09/spandau-ballet-hmsbelfast.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 80's (Part Three)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL_34_m4eTlaMgClOUihGU5EKM0md93FCN/</link>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/29/2015/05/iStock_000023856770_Medium-copy.jpg</thumbnail>
+<fanart>http://www.radiocremebrulee.com/wp-content/uploads/2014/09/spandau-ballet-hmsbelfast.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 80's (Part Four)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLpYWKGMgRA1uU9lyMtR8vQBzc4HrjpqYu/</link>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/29/2015/05/iStock_000023856770_Medium-copy.jpg</thumbnail>
+<fanart>http://www.radiocremebrulee.com/wp-content/uploads/2014/09/spandau-ballet-hmsbelfast.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 80's (Part Five)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3/</link>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/29/2015/05/iStock_000023856770_Medium-copy.jpg</thumbnail>
+<fanart>http://www.radiocremebrulee.com/wp-content/uploads/2014/09/spandau-ballet-hmsbelfast.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 80's (Part Six)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL4F1F56DF045E7E8F/</link>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/29/2015/05/iStock_000023856770_Medium-copy.jpg</thumbnail>
+<fanart>http://www.radiocremebrulee.com/wp-content/uploads/2014/09/spandau-ballet-hmsbelfast.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 80's (Part Seven) (Rock)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL90b28qTMGqIle4NmUvaAUtj20lAPETzE/</link>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/29/2015/05/iStock_000023856770_Medium-copy.jpg</thumbnail>
+<fanart>http://www.radiocremebrulee.com/wp-content/uploads/2014/09/spandau-ballet-hmsbelfast.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Greatest Hits Of The 80's And 90's Rock[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL3485902CC4FB6C67/</link>
+<thumbnail>http://d1x7zurbps6occ.cloudfront.net/product/xlarge/170117-138968.jpg</thumbnail>
+<fanart>http://wallpoper.com/images/00/43/97/36/guns-n-roses-logo-hd-2_00439736.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]80' And 90's, Power Ballads And Cheesy Pop[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL3485902CC4FB6C67/</link>
+<thumbnail>http://images.clipartpanda.com/cheese-clipart-cliparti1_cheese-clip-art_02.jpg</thumbnail>
+<fanart>http://www.electronicbeats.net/app/uploads/2016/06/rickastley.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Classic Rock[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLZN_exA7d4RVmCQrG5VlWIjMOkMFZVVOc/</link>
+<thumbnail>http://d1x7zurbps6occ.cloudfront.net/product/xlarge/170117-138968.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/410/410787.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Old School Reggae[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL8638B262B902A42E/</link>
+<thumbnail>http://www.bobmarley.com/wp-content/uploads/2013/11/36589_10151614824990757_468584728_n.jpg</thumbnail>
+<fanart>http://deskbg.com/s3/wpp/0/548/trippy-weed-desktop-background.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Old School R+B Hip Hop Rap Soul[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL_B89Ke8dejW62he5q7pRxGcTUdtNa394/</link>
+<thumbnail>http://www.judgeofmusic.com/wp-content/uploads/2016/01/mqdefault-8.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/prince_singer_rhythm_and_blues_prince_rogers_nelson_98746_1920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Old School House 1990's[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLmK-IzT7w-0w-hzReWMcPiCwC5YpnYPXv/</link>
+<thumbnail>https://lh3.googleusercontent.com/tFbUYz85NM7HVc4j8gJ2LHpEIMqBE7VaaC_b58v6cF3HawWWLdonA5Nn6PflxyhqmA=h900</thumbnail>
+<fanart>http://www.motox1wallpaper.com/wp-content/1HD/Music/FTP2/1920x1080/I%20love%20house%20music%20wallpaper%2002%201920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Timeless Piano Classics [Old Skool Mix][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=z4dzRD6dFvA</link>
+<thumbnail>https://i.imgur.com/l1SNzGU.jpg</thumbnail>
+<fanart>http://www.motox1wallpaper.com/wp-content/1HD/Music/FTP2/1920x1080/I%20love%20house%20music%20wallpaper%2002%201920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Timeless Piano Classics [Old Skool Mix] (Part 2)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=FoIy4tcHMFc</link>
+<thumbnail>https://i.imgur.com/l1SNzGU.jpg</thumbnail>
+<fanart>http://www.motox1wallpaper.com/wp-content/1HD/Music/FTP2/1920x1080/I%20love%20house%20music%20wallpaper%2002%201920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Best Old Skool Piano House/90s Rave Classics Mix 23 HQ Tracks DJ Bart[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=CkgsGSlr00I</link>
+<thumbnail>https://i.imgur.com/l1SNzGU.jpg</thumbnail>
+<fanart>http://www.motox1wallpaper.com/wp-content/1HD/Music/FTP2/1920x1080/I%20love%20house%20music%20wallpaper%2002%201920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Stu Allen @ Bowlers 27,08,94 Fantazia made in heaven[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=t4rJCxRiBtE</link>
+<thumbnail>https://i.imgur.com/l1SNzGU.jpg</thumbnail>
+<fanart>http://www.motox1wallpaper.com/wp-content/1HD/Music/FTP2/1920x1080/I%20love%20house%20music%20wallpaper%2002%201920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Stu Allan Live @ Fantazia @ Bowlers 27th August 1994[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=0qa0qhIHAZo</link>
+<thumbnail>https://i.imgur.com/l1SNzGU.jpg</thumbnail>
+<fanart>http://www.motox1wallpaper.com/wp-content/1HD/Music/FTP2/1920x1080/I%20love%20house%20music%20wallpaper%2002%201920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Old School House 2[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLDTZz_MRm8AkvKO-1TEOXrJYOROdKp49P/</link>
+<thumbnail>https://lh3.googleusercontent.com/tFbUYz85NM7HVc4j8gJ2LHpEIMqBE7VaaC_b58v6cF3HawWWLdonA5Nn6PflxyhqmA=h900</thumbnail>
+<fanart>http://www.motox1wallpaper.com/wp-content/1HD/Music/FTP2/1920x1080/I%20love%20house%20music%20wallpaper%2002%201920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Old School House And Dance[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLDTZz_MRm8AkvKO-1TEOXrJYOROdKp49P/</link>
+<thumbnail>https://lh3.googleusercontent.com/tFbUYz85NM7HVc4j8gJ2LHpEIMqBE7VaaC_b58v6cF3HawWWLdonA5Nn6PflxyhqmA=h900</thumbnail>
+<fanart>http://www.motox1wallpaper.com/wp-content/1HD/Music/FTP2/1920x1080/I%20love%20house%20music%20wallpaper%2002%201920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Novelty Records About 200 Of Them[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLMATWUx3t7L_jAVMsQOgwKr3FPT7TTsvA/</link>
+<thumbnail>https://vignette4.wikia.nocookie.net/gameshows/images/f/f0/Weird_al.jpg/revision/latest?cb=20140822190824</thumbnail>
+<fanart>http://www.designbolts.com/wp-content/uploads/2015/05/Minion-2015-movie-Desktop-Wallpaper-HD1.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Abba Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLBEA362DAD76373B7/</link>
+<thumbnail>https://beccapod.files.wordpress.com/2012/03/abba-logo1.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/TibeCl2jz1o/maxresdefault.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]AC DC Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL2MJN9x8D1E74fQH39DPaKP2b6SBMpeBi/</link>
+<thumbnail>https://recomhub.com/blog/wp-content/uploads/2015/06/logo-acdc.png</thumbnail>
+<fanart>https://images7.alphacoders.com/307/thumb-1920-307609.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Adam And The Ants Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLmfEJ3yV7wjlMB-ear1Mmz2_e4Vpg9urt/</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/b1/b2/60/b1b260833eaf1016a30ab9486737ecba--tattoo-now-tatoo.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/music/e188a520-9cb7-4f73-a3d7-2f70c6538e92/artistbackground/adam-ant-4ec52aa8dfbff.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Alanis Morissette Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLB4EF9BCDF01801CC/</link>
+<thumbnail>https://fanart.tv/fanart/music/4bdcee62-4902-4773-8cd1-e252e2e31225/musiclogo/alanis-morissette-4dfb92bdaa3c0.png</thumbnail>
+<fanart>https://fanart.tv/fanart/music/4bdcee62-4902-4773-8cd1-e252e2e31225/artistbackground/alanis-morissette-4ddcfa125b287.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Barclay James Harvest Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL-me8j1U9xxI7LMw1WsWCJ3m5UB-KgiID/</link>
+<thumbnail>https://ih0.redbubble.net/image.257522387.5201/flat,550x550,075,f.u1.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/music/3ab1e5df-cd3b-479e-a756-3f326cea5572/artistbackground/barclay-james-harvest-55aab0c81392c.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Black Sabbath Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLAb2lmNIYk_4KiCDuJT5gDX4oZlSQIxxv/</link>
+<thumbnail>http://www.blacksabbath.com/templates/default/images/home_album_1.jpg</thumbnail>
+<fanart>https://images4.alphacoders.com/195/195888.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Bruce Springsteen Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/RDQMphJn4T7kiTw/</link>
+<thumbnail>https://i.pinimg.com/736x/b1/60/a4/b160a4ad737213892ab8435262c16996--the-boss-bruce-springsteen.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/bruce_springsteen_rock_folk_musician_98478_1920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]David Bowie Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLD23E32ADB777242D/</link>
+<thumbnail>http://legacy.davidbowie.com/wp-content/uploads/1973/04/aladdin-sane.jpg</thumbnail>
+<fanart>https://images.alphacoders.com/215/215343.png</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Dexys Midnight Runners Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLB7DFD0C66A6C9878/</link>
+<thumbnail>http://www.dexys.org/sitebuildercontent/sitebuilderpictures/Masters-Series.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/f4/40/bd/f440bd85762dd37c1b80ab89cf5b24d8.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Deacon Blue Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLGlGhUbMNEQVwoCWx2qoBRbzYekNC9IoF/</link>
+<thumbnail>https://s3-eu-west-1.amazonaws.com/bstage/tour/deaconblue/deacon_blue_07_pak_lg.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/music/1d46cb3a-8071-45ba-855e-74e3cff20974/artistbackground/deacon-blue-51c99e43f0eb9.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Dirty Dancing Sountrack[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLEBFB46D19FDB3683/</link>
+<thumbnail>http://www.colledaramakeupartist.com/wp-content/uploads/2016/11/dirty-dancing-film-600x400.png</thumbnail>
+<fanart>http://wallpapercave.com/wp/pIbwYui.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Elvis (The King) Playlist 1[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLKGG5CxpTifyt4svF_0BuHzhJPndsJCD1/</link>
+<thumbnail>http://www.customonlinesigns.com/images/u/a76b027cecf04ceba517797ad7e8da6b-800.png</thumbnail>
+<fanart>http://wallpapercave.com/wp/ZqQTQiA.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Elvis (The King) Playlist 2[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLOsKeK_3mXlgEeiFTOJOArqKIr7SX44xO/</link>
+<thumbnail>http://www.customonlinesigns.com/images/u/a76b027cecf04ceba517797ad7e8da6b-800.png</thumbnail>
+<fanart>http://wallpapercave.com/wp/ZqQTQiA.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Eminem Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLC0w3lEHx2SF3NsbnqnLbWBWyF_3g0cjZ/</link>
+<thumbnail>https://www.seeklogo.net/wp-content/uploads/2014/07/Eminem-logo-vector.png</thumbnail>
+<fanart>https://images7.alphacoders.com/333/thumb-1920-333234.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Luther Van Dross Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLItHMwrL5zg8Qd6HTeKZxez6qswm3PAv3/</link>
+<thumbnail>https://rhonabennett.files.wordpress.com/2009/09/luther-vandross-3.jpg</thumbnail>
+<fanart>https://images7.alphacoders.com/307/307639.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Madonna Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLWjlJ2HPVR-2GD6nG-9EbtHHAEBgXEm6O/</link>
+<thumbnail>http://i.perezhilton.com/wp-content/uploads/2012/05/madd__oPt.jpg</thumbnail>
+<fanart>http://eskipaper.com/images/madonna-11.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Madonna The Immaculate Collection[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLBVcdHaf_CimkIPe1v1Q3WqD_mETCMeCS/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/51/Madonna_-_The_Immaculate_Collection.png</thumbnail>
+<fanart>http://eskipaper.com/images/madonna-11.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Madness Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL0EC02D5B7C0A4B81/</link>
+<thumbnail>http://www.kapoww-t-shirts.com/designs/music/M029/M029-large.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/c/cb/Madness_(band)_2008.06.20_003.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Meatloaf Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLslHapSMmen25gJiJ1h4ljKgGctdoRMbM/</link>
+<thumbnail>http://meatloaf.net/wp-content/uploads/2016/06/meatlogo.png</thumbnail>
+<fanart>https://fanart.tv/fanart/music/b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1/artistbackground/meat-loaf-4e44da12ae83e.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Metallica Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLXIdhrTXbAT2e5YIvo55jcQtNjgdFHYe_/</link>
+<thumbnail>http://www.logoopenstock.com/media/users/694/64858/raw/614f834c54b6a6246813949abbb025cc-metallica-rock-band-vector-logo.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/metallica_symbol_name_background_picture_3670_1920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Nirvana Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLZGh95p3UpwwmarrnsEsidoNM2AJyqiTd/</link>
+<thumbnail>https://merchbar.files.wordpress.com/2015/09/nirvana-logo-fabric-poster.jpg?w=676</thumbnail>
+<fanart>https://images.alphacoders.com/197/thumb-1920-197353.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Oasis Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLMEZyDHJojxPndMRFPzCZ1T7RgzlHWBUb/</link>
+<thumbnail>http://images.eil.com/large_image/OASIS_LOGO%2BSTICKER-297215.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/yVHkJiv.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Queen Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/RDEMbHaAxpOZhcVmmF6I3y0siA/</link>
+<thumbnail>http://www.virginemirecords.com/wp-content/uploads/2015/10/QUEEN.jpg</thumbnail>
+<fanart>http://greenywallpapers.com/wallpapers/10/192810-queen-the-miracle-by-wallpapers-1920x1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Simon And Garfunkel Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLqRjllGmwRbSJKirLirCPvtt3Hg-lx7ng/</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51Hhc6d24pL._SL500_.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/music/5d02f264-e225-41ff-83f7-d9b1f0b1874a/artistbackground/simon--garfunkel-51acbfa3b8ee3.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Slade Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLun3xEuCzii6HVtl96-uyDxVmcQ3GrBOE/</link>
+<thumbnail>http://coretexrecords.com/bilder/produkte/gross/52234_Slade-logo_2.jpg</thumbnail>
+<fanart>http://www.albwallpapers.com/assets/uploads/music-wallpapers-hd-background-wallpaper-16_1920X1080.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]Stiff Little Fingers Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLoBSoR2vm9GlxMHFwOhmZveCqBHHZ7STP/</link>
+<thumbnail>https://crackberry.com/sites/crackberry.com/files/styles/w325/public/images/wallpaper_20080407051258_1334283002.jpg?itok=B9lk8LK9</thumbnail>
+<fanart>http://www.yourmusicradar.com/wp-content/uploads/2016/05/maxresdefault.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Beatles - Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLmo4pBukfRoN8SB5RKvfiY9CTl9pI_IFc/</link>
+<thumbnail>http://img04.deviantart.net/4d2d/i/2011/270/7/e/the_beatles_heads_by_w00den_sp00n-d4b5k1y.jpg</thumbnail>
+<fanart>https://images4.alphacoders.com/151/thumb-1920-151426.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Beatles Live In Blackpool 1965[/COLOR]</title>
+<utube>GxcSUiHnhag</utube>
+<thumbnail>http://img04.deviantart.net/4d2d/i/2011/270/7/e/the_beatles_heads_by_w00den_sp00n-d4b5k1y.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/AQKdVNg.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Commitments Sountrack[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL8Lpw39GxwbPPRYAW9ao-kxheAwUCql8E/</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61zcS0i2c2L.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/music/4e8d6561-5821-45d7-9d7e-ca4d9b35b1a8/artistbackground/commitments-the-50f6928baa9d3.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Dead Kennedys Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PL206B8E0F9AF5DF56/</link>
+<thumbnail>https://1.bp.blogspot.com/_2CnQWIZQ3NY/R3gHr0tQCFI/AAAAAAAAAak/dcmuhwY6vqo/s320/dks.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fU_i_JJPLZ4/maxresdefault.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Jam Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLn39viWJhV1N_YK67lKCYf3Q036ffPCrC/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0b/The_Very_Best_of_the_Jam.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/music/23228f18-01d5-493e-94ce-cfcde82a8db2/artistbackground/jam-the-51ae3d72414c1.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Rocky Horror Picture Show (Full Album)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLOhhrxpnIVS5RU0CDvBUdKEfplM9MpQkZ/</link>
+<thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/the-rocky-horror-picture-show-1975/large_gFjY6V6Rdmcx8f3lxhczvREo7Sy.jpg</thumbnail>
+<fanart>https://www.walldevil.com/wallpapers/a40/picture-wallpapers-horror-rocky-wallpaper.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Sex Pistols Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLDu7LLOpqIB38v1SAv9pO8E6qHJTTBKhM/</link>
+<thumbnail>http://www.sexpistolsofficial.com/wp-content/uploads/2012/08/gstqflag20.jpg</thumbnail>
+<fanart>https://images8.alphacoders.com/445/445808.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Specials Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLrQbejEuqapPDAXmbTLgI6PWOD_yxVzxP/</link>
+<thumbnail>http://www.sexpistolsofficial.com/wp-content/uploads/2012/08/gstqflag20.jpg</thumbnail>
+<fanart>https://images8.alphacoders.com/445/445808.jpg</fanart>
+</plugin>
+ 
+<plugin>
+<title>[COLOR lime]The Smiths Playlist[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLze5jhu6M0TV09Sxy-NWAjjlEkuPgDeeD/</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/7f/c9/5b/7fc95b858075a6b1e3307b48f6f5316f--the-smiths-logo-google.jpg</thumbnail>
+<fanart>http://central3.com.br/wp-content/uploads/2013/03/indie-backdrops-the-smiths-home-theater-215954.jpg</fanart>
+</plugin>
