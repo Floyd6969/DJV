@@ -449,6 +449,14 @@
 </item>
 
 <item>
+<title>[COLOR lime]Leeds United[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/LeedsUnitedOfficial/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Leeds_United_Logo.png/165px-Leeds_United_Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR lime]Leicester City[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/user/LCFCOfficial/?page=0</jsonrpc>
