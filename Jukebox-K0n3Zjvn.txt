@@ -207,19 +207,11 @@
 </item>
  
 <item>
-<title>[COLOR lime]80' And 90's, Power Ballads And Cheesy Pop[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL3485902CC4FB6C67/?page=0</jsonrpc>
-<thumbnail>http://images.clipartpanda.com/cheese-clipart-cliparti1_cheese-clip-art_02.jpg</thumbnail>
-<fanart>http://www.electronicbeats.net/app/uploads/2016/06/rickastley.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR lime]Smokin' Old Skool[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/JAA6Dhk.jpg</thumbnail>
-<fanart>https://i.imgur.com/JAA6Dhk.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
