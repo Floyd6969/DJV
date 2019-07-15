@@ -1094,17 +1094,7 @@
 
 <item>
         <title>This Is England '86 Ep 01</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt1702966</imdb>
-                <title>This Is England '86</title>
-                <year>2010</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-				<sublink>searchsd</sublink>
-                
-        </link>
+        <link>https://uptobox.com/a7jff9yc2j7o</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4Mzk2Mzg2MV5BMl5BanBnXkFtZTgwMDcyMTI2MjE@._V1_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1113,17 +1103,7 @@
 
 <item>
         <title>This Is England '86 Ep 02</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt1707132</imdb>
-                <title>This Is England '86</title>
-                <year>2010</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-				<sublink>searchsd</sublink>
-                
-        </link>
+	<link>https://uptobox.com/u66c7zwwm9sd</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4Mzk2Mzg2MV5BMl5BanBnXkFtZTgwMDcyMTI2MjE@._V1_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1132,17 +1112,7 @@
 
 <item>
         <title>This Is England '86 Ep 03</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt1706265</imdb>
-                <title>This Is England '86</title>
-                <year>2010</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-				<sublink>searchsd</sublink>
-                
-        </link>
+	<link>https://uptobox.com/a5ahlvilx1a3</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4Mzk2Mzg2MV5BMl5BanBnXkFtZTgwMDcyMTI2MjE@._V1_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1151,17 +1121,7 @@
 
 <item>
         <title>This Is England '86 Ep 04</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt1709006</imdb>
-                <title>This Is England '86</title>
-                <year>2010</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-				<sublink>searchsd</sublink>
-                
-        </link>
+        <link>https://uptobox.com/p64uo9ixkuqa</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4Mzk2Mzg2MV5BMl5BanBnXkFtZTgwMDcyMTI2MjE@._V1_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
