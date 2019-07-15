@@ -645,6 +645,25 @@
 </item>
 
 <item>
+        <title>A Fish Called Wanda</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>A Fish Called Wanda</title>
+                <year>1988</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNTQ0ODhiNjEtMDFiYi00NmZhLWJkMzQtNTBkOGQwOTliZDAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
         <title>Jesus Christ Superstar</title>
         <meta>
                 <content>movie</content>
@@ -1221,6 +1240,25 @@
         </link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/Z8oYOOY.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
+        <title>How Green Was My Valley</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>How Green Was My Valley</title>
+                <year>1941</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjE1YWRmMWEtYTQ0Yy00NGEwLWFmNzAtZDkwOWNjMzkwYzJmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
 </item>
