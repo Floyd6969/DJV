@@ -1091,3 +1091,79 @@
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
 </item>
+
+<item>
+        <title>This Is England '86 Ep 01</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1702966</imdb>
+                <title>This Is England '86</title>
+                <year>2010</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4Mzk2Mzg2MV5BMl5BanBnXkFtZTgwMDcyMTI2MjE@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
+        <title>This Is England '86 Ep 02</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1707132</imdb>
+                <title>This Is England '86</title>
+                <year>2010</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4Mzk2Mzg2MV5BMl5BanBnXkFtZTgwMDcyMTI2MjE@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
+        <title>This Is England '86 Ep 03</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1706265</imdb>
+                <title>This Is England '86</title>
+                <year>2010</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4Mzk2Mzg2MV5BMl5BanBnXkFtZTgwMDcyMTI2MjE@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
+        <title>This Is England '86 Ep 04</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1709006</imdb>
+                <title>This Is England '86</title>
+                <year>2010</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4Mzk2Mzg2MV5BMl5BanBnXkFtZTgwMDcyMTI2MjE@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
