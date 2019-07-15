@@ -341,6 +341,25 @@
 </item>
 
 <item>
+        <title>A Clockwork Orange</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>A Clockwork Orange</title>
+                <year>1971</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
         <title>The Rocky Horror Picture Show</title>
         <meta>
                 <content>movie</content>
