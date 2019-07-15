@@ -360,6 +360,44 @@
 </item>
 
 <item>
+        <title>Billy Liar</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>Billy Liar</title>
+                <year>1963</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA2NzMzZWQtMTY4NC00MjQwLWE3ZmItNDcwOGU2Nzg4M2M2XkEyXkFqcGdeQXVyMzM5NzIwNjM@._V1_SY1000_CR0,0,660,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
+        <title>The Italian Job</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>The Italian Job</title>
+                <year>1969</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BYzZjMWVlZGYtMmVkOC00NWY1LTg3MjEtZWRlM2RmMDE3ZmRhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
         <title>The Rocky Horror Picture Show</title>
         <meta>
                 <content>movie</content>
