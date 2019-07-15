@@ -379,6 +379,63 @@
 </item>
 
 <item>
+        <title>Saturday Night and Sunday Morning</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>Saturday Night and Sunday Morning</title>
+                <year>1960</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BODc1MGE3ZWUtOTEzYi00NzIxLWIyMjYtZjZkYzhlYWJkOGIyXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
+        <title>A Taste of Honey</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>A Taste of Honey</title>
+                <year>1961</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMzY3N2E5N2EtZWRiOC00OGQxLWI0NGYtYzNlMDI1MTNjNDJjXkEyXkFqcGdeQXVyMjYxMzY2NDk@._V1_SY1000_CR0,0,705,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
+        <title>There's Only One Jimmy Grimble</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>There's Only One Jimmy Grimble</title>
+                <year>2000</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+				<sublink>searchsd</sublink>
+                
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNGFjZWQ5N2YtZDNiYS00NmE4LThhNTUtZDU2OTA1ODkxMTgzXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
+</item>
+
+<item>
         <title>The Italian Job</title>
         <meta>
                 <content>movie</content>
