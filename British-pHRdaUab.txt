@@ -319,27 +319,27 @@
         <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
 </item>
 
-item>
+<item>
         <title>This Is England '88 Ep 01</title>
-        <link>https://uptobox.com/p64uo9ixkuqa</link>
+        <link>https://streamcherry.com/f/oofokcpctlmelbat</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTUwNDA4NTYyN15BMl5BanBnXkFtZTgwNDkyMTI2MjE@._V1_SY1000_CR0,0,700,1000_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
 </item>
 
-item>
+<item>
         <title>This Is England '88 Ep 02</title>
-        <link>https://uptobox.com/p64uo9ixkuqa</link>
+        <link>https://streamcherry.com/f/fllafqnocllntoro</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTUwNDA4NTYyN15BMl5BanBnXkFtZTgwNDkyMTI2MjE@._V1_SY1000_CR0,0,700,1000_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/JLebYIv.jpg</fanart>
 </item>
 
-item>
+<item>
         <title>This Is England '88 Ep 03</title>
-        <link>https://uptobox.com/p64uo9ixkuqa</link>
+        <link>https://streamcherry.com/f/nldodnbtcdaqflqq</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTUwNDA4NTYyN15BMl5BanBnXkFtZTgwNDkyMTI2MjE@._V1_SY1000_CR0,0,700,1000_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
