@@ -55,6 +55,14 @@
 </item>
 
 <item>
+<title>[COLOR lime]Grange Hill[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLyzOGHwRdoIcVtpUb1QOPfzm9qItJdGWf/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/pOfus65.png</thumbnail>
+<fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR lime]Tom And Jerry 1940-1958[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLaLPiKhjAuKeHPRk_fQU6-T9KO7EC_zp3/?page=0</jsonrpc>
