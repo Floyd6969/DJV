@@ -2,167 +2,167 @@
 <title>[COLORwhite]Mickey Flanagan Playlist[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLIuRlco-EOytoz37GxBMIM5a6r_5tiXDh/?page=0</jsonrpc>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Sean Lock 2008[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=-JbXfBPypME</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Lee Mack: Live at London's Bloomsbury Theatre 2007[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=EQEokEau6r4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Dara O'Briain - "Live at The Theater Royal" (Dara O' Briain Live 2006 Stand Up Full)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=lPCinKhnAQc</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jim Jefferies Contraband || Jim Jefferies Stand Up Comedy Full Show HD[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=vV0tasfmTys</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jim Jefferies Fully Functional 2012 - Jim Jefferies Stand Up Comedy Special Show[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=gDtkXPzUS0U</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jim Jefferies Alcoholocaust[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=4aO-4Dgb-2I</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jim Jefferies @Sidesplitters | Full Bootleg | 22nd April 2013[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=b3EVRrztslM</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Frankie Boyle Last Day's Of Sodom[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=QdetRllc1xI</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Frankie Boyle If I Could reach out through your TV And Strangle You I Would[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=YYa6OQzo0vQ</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Frankie Boyle: Live At The Hackney Empire London FULL[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=a3re1pM6a7Q</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Frankie Bolye ..Hurt Like You've Never Been Loved! 2016[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=KGpc1riQXsc</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Roy Chubby Brown - Giggling Lips (2004)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=rznp8zz7UNQ</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Roy Chubby Brown - Jingle Bollocks 1994[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=4dWn2836vkc</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Roy Chubby Brown standing room only[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=aby4-Vn4YjY</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 1/4)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=DZ7GbuAIEfU</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 2/4)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=kZ05k4UKovc</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 3/4)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=XJ3Cg3SB5Q4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 4/4)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=3HoJI9XrUpU</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]paddy mcguinness live full concert 2006[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=vevBCMrwZPs</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Mick Miller - In The Club[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=t0SfUH73WGA</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Whoopi Goldberg Presents Billy Connolly - 1989 standup comedy[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=Hx_4dcuD6pI</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Tommy Tiernan - Live (First DVD)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=ylF-cNIQZlo</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jethro I Told It My Way[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=sP90kd0kFx4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
