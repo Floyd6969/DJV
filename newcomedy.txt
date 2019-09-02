@@ -1,4 +1,18 @@
 <item>
+<title>[COLOR red]***If You Are An Easily Offended Snowflake***[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]***Then This Shits Not For You***[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mickey Flanagan Playlist[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLIuRlco-EOytoz37GxBMIM5a6r_5tiXDh/?page=0</jsonrpc>
