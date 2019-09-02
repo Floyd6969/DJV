@@ -1,0 +1,77 @@
+<item>
+<title>[COLOR blue]Mickey Flanagan Playlist[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLIuRlco-EOytoz37GxBMIM5a6r_5tiXDh/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sean Lock 2008[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=-JbXfBPypME</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lee Mack: Live at London's Bloomsbury Theatre 2007[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=EQEokEau6r4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dara O'Briain - "Live at The Theater Royal" (Dara O' Briain Live 2006 Stand Up Full)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=lPCinKhnAQc</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jim Jefferies Contraband || Jim Jefferies Stand Up Comedy Full Show HD[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=vV0tasfmTys</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jim Jefferies Fully Functional 2012 - Jim Jefferies Stand Up Comedy Special Show[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=gDtkXPzUS0U</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jim Jefferies Alcoholocaust[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=4aO-4Dgb-2I</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jim Jefferies @Sidesplitters | Full Bootleg | 22nd April 2013[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=b3EVRrztslM</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Frankie Boyle Last Day's Of Sodom[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=QdetRllc1xI</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Frankie Boyle If I Could reach out through your TV And Strangle You I Would[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=YYa6OQzo0vQ</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Frankie Boyle: Live At The Hackney Empire London FULL[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=a3re1pM6a7Q</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
