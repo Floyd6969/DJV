@@ -75,3 +75,94 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Frankie Bolye ..Hurt Like You've Never Been Loved! 2016[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=KGpc1riQXsc</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Roy Chubby Brown - Giggling Lips (2004)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=rznp8zz7UNQ</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Roy Chubby Brown - Jingle Bollocks 1994[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=4dWn2836vkc</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Roy Chubby Brown standing room only[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=aby4-Vn4YjY</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 1/4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=DZ7GbuAIEfU</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 2/4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=kZ05k4UKovc</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 3/4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=XJ3Cg3SB5Q4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 4/4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=3HoJI9XrUpU</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]paddy mcguinness live full concert 2006[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=vevBCMrwZPs</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mick Miller - In The Club[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=t0SfUH73WGA</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Whoopi Goldberg Presents Billy Connolly - 1989 standup comedy[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Hx_4dcuD6pI</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tommy Tiernan - Live (First DVD)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=ylF-cNIQZlo</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jethro I Told It My Way[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=sP90kd0kFx4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
