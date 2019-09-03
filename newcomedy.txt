@@ -180,3 +180,31 @@
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Cannon and Ball Live In Blackpool at Grand Theatre 2002[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=ENmmg0UEQGk</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]An Evening with Lily Savage 1996[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=L_UhCQ987pc</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]An Audience with Alf Garnett[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=bp8aTvVqE7I</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]BILL BURR: WHY DO I DO THIS | STAND UP SPECIAL[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=5nxD4PY39xw</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
