@@ -203,6 +203,13 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cannon and Ball The Boys In Blue[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=k-7422O-5Js</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]An Evening with Lily Savage 1996[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=L_UhCQ987pc</link>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
