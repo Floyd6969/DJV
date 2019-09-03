@@ -34,6 +34,13 @@
 </item>
 
 <item>
+<title>[COLORwhite]Peter Kay Live The Tour That Didn't Tour, Tour[/COLOR]</title>
+<link>https://streamango.com/f/nraseesddafdkbfl</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sean Lock 2008[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=-JbXfBPypME</link>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
