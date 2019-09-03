@@ -13,9 +13,8 @@
 </item>
 
 <item>
-<title>[COLORwhite]Mickey Flanagan Playlist[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLIuRlco-EOytoz37GxBMIM5a6r_5tiXDh/?page=0</jsonrpc>
+<title>[COLORwhite]Micky Flanagan Out Out Tour[/COLOR]</title>
+<link>https://streamango.com/f/teeerbqkqrbbspoo</link>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
