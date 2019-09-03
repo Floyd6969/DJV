@@ -208,3 +208,17 @@
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Ricky Gervais Stand Up - Out Of England 2[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=jje0noqhxPk</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Stand up-Kevin Hart Stand up comedy! Hilarious & VERY Funny!! The Best[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=xkWZhQ67Cq0</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
