@@ -21,6 +21,20 @@
 </item>
 
 <item>
+<title>[COLORwhite]Peter Kay Live At The Top Of The Tower[/COLOR]</title>
+<link>https://streamango.com/f/orcqrookrlsrfcdq</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kay Live At The Manchester Arena[/COLOR]</title>
+<link>https://streamango.com/f/cbtmlmltscqcqlbb</link>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sean Lock 2008[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=-JbXfBPypME</link>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
