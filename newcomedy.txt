@@ -41,6 +41,48 @@
 </item>
 
 <item>
+<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 01[/COLOR]</title>
+<link>https://streamango.com/f/dbbklnsqntfcbsmc/pkcs1_mp4</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 02[/COLOR]</title>
+<link>https://streamango.com/f/aabmaostbeefqlot/pkcs2_mp4</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 03[/COLOR]</title>
+<link>https://streamango.com/f/frmrodlpfnpkalkl/pkcs3_mp4</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 04[/COLOR]</title>
+<link>https://streamango.com/f/ltkemqceslbmafnq/pkcs4_mp4</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 05[/COLOR]</title>
+<link>https://streamango.com/f/smscmsdqersklapp/pkcs5_mp4</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 06[/COLOR]</title>
+<link>https://streamango.com/f/fncobknnnoqqtfmo/pkcs6_mp4</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sean Lock 2008[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=-JbXfBPypME</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
