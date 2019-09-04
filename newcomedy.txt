@@ -1,251 +1,251 @@
 <item>
 <title>[COLOR red]***If You Are An Easily Offended Snowflake***[/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR red]***Then This Shits Not For You***[/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Micky Flanagan Out Out Tour[/COLOR]</title>
 <link>https://streamango.com/f/teeerbqkqrbbspoo</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Peter Kay Live At The Top Of The Tower[/COLOR]</title>
 <link>https://streamango.com/f/orcqrookrlsrfcdq</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Peter Kay Live At The Manchester Arena[/COLOR]</title>
 <link>https://streamango.com/f/cbtmlmltscqcqlbb</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Peter Kay Live The Tour That Didn't Tour, Tour[/COLOR]</title>
 <link>https://streamango.com/f/nraseesddafdkbfl</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Sean Lock 2008[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=-JbXfBPypME</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Lee Mack: Live at London's Bloomsbury Theatre 2007[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=EQEokEau6r4</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Dara O'Briain - "Live at The Theater Royal" (Dara O' Briain Live 2006 Stand Up Full)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=lPCinKhnAQc</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jim Jefferies Contraband || Jim Jefferies Stand Up Comedy Full Show HD[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=vV0tasfmTys</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jim Jefferies Fully Functional 2012 - Jim Jefferies Stand Up Comedy Special Show[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=gDtkXPzUS0U</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jim Jefferies Alcoholocaust[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=4aO-4Dgb-2I</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jim Jefferies @Sidesplitters | Full Bootleg | 22nd April 2013[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=b3EVRrztslM</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Frankie Boyle Last Day's Of Sodom[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=QdetRllc1xI</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Frankie Boyle If I Could reach out through your TV And Strangle You I Would[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=YYa6OQzo0vQ</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Frankie Boyle: Live At The Hackney Empire London FULL[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=a3re1pM6a7Q</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Frankie Bolye ..Hurt Like You've Never Been Loved! 2016[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=KGpc1riQXsc</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Roy Chubby Brown - Giggling Lips (2004)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=rznp8zz7UNQ</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Roy Chubby Brown - Jingle Bollocks 1994[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=4dWn2836vkc</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Roy Chubby Brown standing room only[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=aby4-Vn4YjY</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 1/4)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=DZ7GbuAIEfU</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 2/4)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=kZ05k4UKovc</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 3/4)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=XJ3Cg3SB5Q4</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heroes of Comedy: Bernard Manning (Part 4/4)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=3HoJI9XrUpU</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]paddy mcguinness live full concert 2006[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=vevBCMrwZPs</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Mick Miller - In The Club[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=t0SfUH73WGA</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Whoopi Goldberg Presents Billy Connolly - 1989 standup comedy[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=Hx_4dcuD6pI</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Tommy Tiernan - Live (First DVD)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=ylF-cNIQZlo</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jethro I Told It My Way[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=sP90kd0kFx4</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Cannon and Ball Live In Blackpool at Grand Theatre 2002[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=ENmmg0UEQGk</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Cannon and Ball The Boys In Blue[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=k-7422O-5Js</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]An Evening with Lily Savage 1996[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=L_UhCQ987pc</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]An Audience with Alf Garnett[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=bp8aTvVqE7I</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]BILL BURR: WHY DO I DO THIS | STAND UP SPECIAL[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=5nxD4PY39xw</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Ricky Gervais Stand Up - Out Of England 2[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=jje0noqhxPk</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Stand up-Kevin Hart Stand up comedy! Hilarious & VERY Funny!! The Best[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=xkWZhQ67Cq0</link>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ct8nkeN.jpg</thumbnail>
 <fanart></fanart>
 </item>
