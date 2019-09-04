@@ -83,6 +83,41 @@
 </item>
 
 <item>
+<title>[COLORwhite]Kevin Bloody Wilson Live Down Under[/COLOR]</title>
+<link>https://streamango.com/f/ensooseesnpmbfcc</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lee Evans XL Tour Live 2005[/COLOR]</title>
+<link>https://streamango.com/f/mqdcftlkbdrfpqnl</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lee Evans Monsters Live 2014[/COLOR]</title>
+<link>https://streamango.com/f/mnecellncqkbqast</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lee Evans Live At The O2 Disc 1[/COLOR]</title>
+<link>https://streamango.com/f/mfpfakacffsscpoe</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lee Evans Live At The O2 Disc 2[/COLOR]</title>
+<link>https://streamango.com/f/keofttpclrcrensf</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sean Lock 2008[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=-JbXfBPypME</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
