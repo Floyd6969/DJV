@@ -1,0 +1,40 @@
+<dir>
+<name>[COLOR white][B]Real Debrid Re-Authorise[/B][/COLOR]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>[COLOR white][B]All Debrid Re-Authorise[/B][/COLOR]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_ad</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+ 
+<item>
+<title>[COLOR white][B]Openload Pair Online Here[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<pairwith>openload</pairwith>
+<fanart>/fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Movie Site Pairing[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<pairwith>pairlist</pairwith>
+</item>
+
+<dir>
+<name>[COLOR white][B]Clear The Cache[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<link>plugin://plugin.video.Maverick/?mode=clearCache</link>
+<fanart></fanart>
+</dir>
+ 
+<dir>
+<title>[COLOR white][B]General Settings[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<mysettings>1/0</mysettings>
+<fanart></fanart>
+</dir>
