@@ -1,20 +1,20 @@
 <plugin>
 <title>[COLOR lime]World Webcams Playlist 350+[/COLOR]</title>
-<link>Plugin://plugin.video.youtube/playlist/PLxHkQ8mgoqI9q2AFi8LQrAE7UPdGh4N9k</link>
+<link>Plugin://plugin.video.youtube/playlist/PLxHkQ8mgoqI9q2AFi8LQrAE7UPdGh4N9k/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
 <title>[COLOR lime]Live Stream Cams UK[/COLOR]</title>
-<link>Plugin://plugin.video.youtube/playlist/PLhK4K9XV6T0UVGkIofrQ3jpGAHkPjd6Zs</link>
+<link>Plugin://plugin.video.youtube/playlist/PLhK4K9XV6T0UVGkIofrQ3jpGAHkPjd6Zs/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
 <title>[COLOR lime]Live Animal Cams UK[/COLOR]</title>
-<link>Plugin://plugin.video.youtube/playlist/PLhK4K9XV6T0Whte7CEGZQx03yPbjKmitO</link>
+<link>Plugin://plugin.video.youtube/playlist/PLhK4K9XV6T0Whte7CEGZQx03yPbjKmitO/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
@@ -22,7 +22,14 @@
 
 <plugin>
 <title>[COLOR lime]Cam Europe 99 Of The Best[/COLOR]</title>
-<link>Plugin://plugin.video.youtube/playlist/PLZvylrVZzE3Me9lzE-nnC04ZhmPSjHntD</link>
+<link>Plugin://plugin.video.youtube/playlist/PLZvylrVZzE3Me9lzE-nnC04ZhmPSjHntD/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORwhite]Top Of The Pops 1964 - 1974[/COLOR]</title>
+<link>Plugin://plugin.video.youtube/playlist/PLpBw3PwViVCm1ihwrFs2qEhVfPpth1KWV/</link>
+<thumbnail>http://www.electrofunkroots.co.uk/wp-content/uploads/2012/07/totp-logo.jpg</thumbnail>
+<fanart>https://i.imgur.com/QAgx2XT.jpg</fanart>
 </plugin>
