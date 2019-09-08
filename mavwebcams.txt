@@ -35,7 +35,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORwhite]World Webcams Playlist 350+[/COLOR]</title>
+<title>[COLORlime]World Webcams Playlist 350+[/COLOR]</title>
 <link>Plugin://plugin.video.youtube/playlist/PLxHkQ8mgoqI9q2AFi8LQrAE7UPdGh4N9k/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
