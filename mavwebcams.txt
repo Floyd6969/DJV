@@ -1,19 +1,19 @@
 <plugin>
-<title>[COLOR lime]World Webcams Playlist 350+[/COLOR]</title>
+<name>[COLOR lime]World Webcams Playlist 350+[/COLOR]</name>
 <link>https://www.youtube.com/watch?v=dSycFECDqME&list=PLxHkQ8mgoqI9q2AFi8LQrAE7UPdGh4N9k</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
-<title>[COLOR lime]Live Stream Cams UK[/COLOR]</title>
+<name>[COLOR lime]Live Stream Cams UK[/COLOR]</name>
 <link>https://www.youtube.com/watch?v=l45QeFNExnk&list=PLhK4K9XV6T0UVGkIofrQ3jpGAHkPjd6Zs</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
-<title>[COLOR lime]Live Animal Cams UK[/COLOR]</title>
+<name>[COLOR lime]Live Animal Cams UK[/COLOR]</name>
 <link>https://www.youtube.com/watch?v=XLrABK1Yzsk&list=PLhK4K9XV6T0Whte7CEGZQx03yPbjKmitO</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -21,7 +21,7 @@
 
 
 <plugin>
-<title>[COLOR lime]Cam Europe 99 Of The Best[/COLOR]</title>
+<name>[COLOR lime]Cam Europe 99 Of The Best[/COLOR]</name>
 <link>https://www.youtube.com/watch?v=yMSc-qqW3To&list=PLZvylrVZzE3Me9lzE-nnC04ZhmPSjHntD</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
