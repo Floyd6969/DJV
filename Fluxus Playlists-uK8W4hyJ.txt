@@ -3,14 +3,13 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/ZzGTySZE&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-<info>Maverick TV</info>
 </dir>
 
 <dir>
 <title>[COLOR lime][B]Fluxus Movies And Shows[/B][/COLOR]</title>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/jbqA0j82&mode=1</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
@@ -18,7 +17,6 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/ikshwe1W&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-<info>Maverick TV</info>
 </dir>
 
 <dir>
@@ -26,7 +24,6 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/pQJ9pFjHmode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-<info>Maverick TV</info>
 </dir>
 
 <dir>
@@ -34,5 +31,4 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/d5cb3Wxw&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-<info>Maverick TV</info>
 </dir>
