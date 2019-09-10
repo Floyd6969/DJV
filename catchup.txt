@@ -48,8 +48,21 @@
 </dir>
 
 <dir>
-<title>[COLOR lime][B]Airtable Sports[/B][/COLOR]</title>
-<Airtable>sports_channels</Airtable>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+    <title>[COLORlime]Catch Up TV UK[/COLOR]</title>
+    <tvmaze>country/United Kingdom/1</tvmaze>
+</dir>
+
+<dir>
+    <title>[COLORlime]Catch Up TV USA[/COLOR]</title>
+    <tvmaze>country/United States/1</tvmaze>
+</dir>
+ 
+<dir>
+    <title>[COLORlime]Netflix / Amazon Prime Etc.[/COLOR]</title>
+    <tvmaze>web_channel/1</tvmaze>
+ </dir>
+
+<dir>
+    <title>[COLORlime]All Networks[/COLOR]</title>
+    <tvmaze>country/all</tvmaze>
 </dir>
