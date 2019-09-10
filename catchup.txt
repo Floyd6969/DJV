@@ -1,0 +1,55 @@
+<plugin>
+<name>[COLOR lime][B]BBC IPlayer (Eastenders Catch-Up)[/B][/COLOR]</name>
+<link>plugin://plugin.video.iplayerwww/</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLOR lime][B]ITV Player (Emmerdale & Corrie Catch-Up)[/B][/COLOR]</name>
+<link>plugin://plugin.video.itv/</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLOR lime][B]UK Soaps Catch-up TV[/B][/COLOR]</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2ftvsoap%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLOR lime][B]Classic Emmerdale - Eastenders - Corrie[/B][/COLOR]</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fladytaraoakwell%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<dir>
+<title>[COLOR lime][B]US Cable Networks[/B][/COLOR]</title>
+<arconaitv>networks</arconaitv>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime][B]Airtable IPTV Channels[/B][/COLOR]</title>
+<Airtable>tv_channels</Airtable>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+ 
+<dir>
+<title>[COLOR lime][B]Airtable IPTV Channels Extra[/B][/COLOR]</title>
+<Airtable>channels2</Airtable>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime][B]Airtable Sports[/B][/COLOR]</title>
+<Airtable>sports_channels</Airtable>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
