@@ -228,7 +228,7 @@
 </plugin>
 
 <plugin>
-<title>[COLOR lime]Smokin' Old Skool[/COLOR]</title>
+<title>[COLORwhite]Smokin' Old Skool[/COLOR]</title>
 <link>Plugin://plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR/</link>
 <thumbnail>https://i.imgur.com/JAA6Dhk.jpg</thumbnail>
 <fanart></fanart>
