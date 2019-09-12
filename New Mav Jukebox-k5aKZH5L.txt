@@ -226,6 +226,13 @@
 <thumbnail>http://www.bobmarley.com/wp-content/uploads/2013/11/36589_10151614824990757_468584728_n.jpg</thumbnail>
 <fanart>http://deskbg.com/s3/wpp/0/548/trippy-weed-desktop-background.jpg</fanart>
 </plugin>
+
+<plugin>
+<title>[COLOR lime]Smokin' Old Skool[/COLOR]</title>
+<link>Plugin://plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR/</link>
+<thumbnail>https://i.imgur.com/JAA6Dhk.jpg</thumbnail>
+<fanart></fanart>
+</plugin>
  
 <plugin>
 <title>[COLORwhite]Old School R+B Hip Hop Rap Soul[/COLOR]</title>
