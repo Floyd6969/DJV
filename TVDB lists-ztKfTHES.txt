@@ -28,7 +28,7 @@
 
 <dir>
 <title>[COLORlime]Barry Norman’s 100 Greatest Films of All Time[/COLOR]</title>
-<link>https://pastebin.com/raw/Kq5B8FAz</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/BNorms100-Kq5B8FAz.txt</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
