@@ -15,6 +15,6 @@
 <dir>
 <title>[COLORlime][B]Latest TV Shows 100+ (Could Take A While To Load The List)[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<tmdb>list/51225</tmdb>
+<tmdb>https://www.themoviedb.org/list/51225</tmdb>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
