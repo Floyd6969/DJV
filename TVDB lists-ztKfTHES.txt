@@ -21,7 +21,7 @@
 
 <dir>
 <title>[COLORlime]Mavericks Personal Top 100 Movies[/COLOR]</title>
-<link>https://pastebin.com/raw/TWM2HmbJ</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Mav100-TWM2HmbJ.txt</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
