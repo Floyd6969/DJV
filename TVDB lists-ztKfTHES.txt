@@ -34,22 +34,8 @@
 </dir>
 
 <dir>
-  <title>[COLORlime]IMDB 1000 Top Rated Movies Of All Time[/COLOR]</title>
+  <title>[COLORlime]IMDB Top Rated Movies Of All Time[/COLOR]</title>
   <imdburl>http://www.imdb.com/search/title?groups=top_1000</imdburl>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</dir>
-
-<dir>
-  <title>[COLORlime]IMDB 100 Top Rated Movies Of All Time[/COLOR]</title>
-  <imdburl>http://www.imdb.com/search/title?groups=top_100</imdburl>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</dir>
-
-<dir>
-  <title>[COLORlime]IMDB 250 Top Rated Movies Of All Time[/COLOR]</title>
-  <imdburl>http://www.imdb.com/search/title?groups=top_250</imdburl>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </dir>
