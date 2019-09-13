@@ -1,21 +1,28 @@
 <dir>
-<title>[COLORlime][B]Latest TV Shows Most Popular[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<title>[COLOR lime][B]Popular TV Shows (Updates Daily)[/B][/COLOR]</title>
 <tmdb>tv/popular</tmdb>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
-<title>[COLORlime][B]Latest TV Shows People Watching[/B][/COLOR]</title>
+<title>[COLOR lime][B]Top Rated TV Shows (Updates Daily)[/B][/COLOR]</title>
+<tmdb>tv/top_rated</tmdb>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+ 
+<dir>
+<title>[COLOR lime][B]Top Shows On The Air (Updates Daily)[/B][/COLOR]</title>
 <tmdb>tv/on_the_air</tmdb>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
 <dir>
-<title>[COLOR lime][B]Latest TV Shows (Work In Progress)[/B][/COLOR]</title>
+<title>[COLOR lime][B]Latest TV Shows (Updates Daily)[/B][/COLOR]</title>
+<tmdb>tv/today</tmdb>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<tmdb>list/121382</tmdb>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
