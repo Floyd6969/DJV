@@ -15,7 +15,7 @@
 <dir>
 <title>[COLOR lime][B]Latest TV Shows[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<tmdb>list/51225</tmdb>
+<tmdb>list/103502</tmdb>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
