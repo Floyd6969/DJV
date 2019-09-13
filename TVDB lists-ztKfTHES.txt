@@ -1,0 +1,203 @@
+﻿<dir>
+  <title>[COLORlime]TMDB Movies Now Playing[/COLOR]</title>
+  <tmdb>movies/now_playing</tmdb>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]Currently Most Popular Movies (Changes Daily)[/COLOR]</title>
+  <tmdb>movies/popular</tmdb>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]Upcoming Movies[/COLOR]</title>
+  <tmdb>movie/upcoming</tmdb>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORlime]Mavericks Personal Top 100 Movies[/COLOR]</title>
+<link>https://pastebin.com/raw/TWM2HmbJ</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORlime]Barry Norman’s 100 Greatest Films of All Time[/COLOR]</title>
+<link>https://pastebin.com/raw/Kq5B8FAz</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB 1000 Top Rated Movies Of All Time[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?groups=top_1000</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB 100 Top Rated Movies Of All Time[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?groups=top_100</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB 250 Top Rated Movies Of All Time[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?groups=top_250</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]TMDB Top Rated Movies Of All Time[/COLOR]</title>
+  <tmdb>movies/top_rated</tmdb>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Movies To See Before You Die[/COLOR]</title>
+  <imdburl>list/ls000207697</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Horror Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=horror</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Action Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=action</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Comedy Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=comedy</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Sci-Fi Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=sci_fi</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Crime Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=crime</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Fantasy Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=fantasy</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Family Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=family</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Biographies[/COLOR]</title>
+  <imdburl>https://www.imdb.com/search/title?title_type=feature,tv_movie&genres=biography</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Animated Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=animation</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Film Noir[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?genres=film_noir</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Musicals[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=musical</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Westerns[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=western</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Biography[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=biography</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Most Popular Sports Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=sport</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Oscar Winners[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?groups=oscar_winner</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Top Animated Movies Of All Time[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?title_type=feature&genres=animation</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Razzie Winners[/COLOR]</title>
+  <imdburl>https://www.imdb.com/search/title?title_type=feature,tv_movie&groups=razzie_winner</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]IMDB Crappiest 1000 Movies[/COLOR]</title>
+  <imdburl>http://www.imdb.com/search/title?groups=bottom_1000</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLORlime]Star Wars Collection[/COLOR]</title>
+  <tmdb>collection/10</tmdb>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
