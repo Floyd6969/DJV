@@ -294,8 +294,8 @@
 </plugin>
  
 <plugin>
-<title>[COLOR lime]Joe 90[/COLOR]</title>
-<link>Plugin://plugin.video.youtube/playlist/PLI3L5xxcUL3CyvqIbdh2Gbi0IvLVNBrff/</link>
+<title>[COLOR lime]Classic Kids TV Playlist Random Shows[/COLOR]</title>
+<link>Plugin://plugin.video.youtube/playlist/PLMfPU38K84hJw4FbrCyMW4dyfrR-KUWyW/</link>
 <thumbnail>http://img.soundtrackcollector.com/movie/large/Joe_90_(TV).jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </plugin>
@@ -331,15 +331,4 @@
 <thumbnail>http://www.kids-tv.co.uk/progs/images/rentaghst.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
 </plugin>
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
