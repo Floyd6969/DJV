@@ -1,4 +1,12 @@
 <plugin>
+<title>[COLOR lime]Loads Of Classic Kids TV Stuff (For The Big Kids)[/COLOR]</title>
+
+<link>Plugin://plugin.video.youtube/playlist/PLLFWrh68-XMRTh2VGq4UU-eIOtcbpkBin/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/40/Thames_Television_logo_%281968-1989%29.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/V0V7FcT.jpg</fanart>
+</plugin>
+
+<plugin>
 <title>[COLOR lime]Rugrats[/COLOR]</title>
 
 <link>Plugin://plugin.video.youtube/playlist/PLNUj2jg1L1S4ok-efWnbDgw6FGGOmn3gz/</link>
