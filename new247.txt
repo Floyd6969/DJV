@@ -20,7 +20,7 @@ dir>
 </dir>
 
 <dir>
-<title>[COLOR white][B]24/7 Movies*[/B][/COLOR]</title>
+<title>[COLOR white][B]24/7 Movies**[/B][/COLOR]</title>
 <link>https://pastebin.com/raw/mv3vq6YQ</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
