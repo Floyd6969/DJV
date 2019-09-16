@@ -19,23 +19,23 @@ dir>
 <fanart></fanart>
 </dir>
 
-<item>
-<title>[COLOR white][B]24/7 Movies[/B][/COLOR]</title>
+<dir>
+<title>[COLOR white][B]24/7 Movies*[/B][/COLOR]</title>
 <link>https://pastebin.com/raw/mv3vq6YQ</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</dir>
  
-<item>
+<dir>
 <title>[COLOR white][B]24/7 TV Shows[/B][/COLOR]</title>
 <link>https://pastebin.com/raw/Muiqymaw</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</dir>
 
-<item>
+<dir>
 <title>[COLOR white][B]US Cable Networks[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/new247.txt</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</dir>
