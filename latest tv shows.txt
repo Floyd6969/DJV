@@ -48,6 +48,13 @@
 </dir>
 
 <dir>
+<title>[COLOR lime][B]Creepshow Season 01[/B][/COLOR]</title>
+<link>https://pastebin.com/raw/FDZ1BrTc</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+
+<dir>
 <title>[COLOR lime][B]Godfather Of Harlem Season 01[/B][/COLOR]</title>
 <link>https://pastebin.com/raw/3Es3FgJv</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
