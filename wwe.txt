@@ -1,3 +1,10 @@
+<item>
+<title>WWE Hell In A Cell (2019)</title>
+<link>https://vidoza.net/upnr7n46scw3.html</link>
+<thumbnail>https://i.imgur.com/IKTTO4Z.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <plugin>
 <title>[COLORlime]WWE You Tube Channel[/COLOR]</title>
 
