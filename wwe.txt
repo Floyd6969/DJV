@@ -12,6 +12,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORlime]WWE Hell In A Cell (2018)[/COLOR]</title>
+<link>https://vidoza.net/ftoljsm3w51y.html</link>
+<thumbnail>https://i.imgur.com/IKTTO4Z.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <plugin>
 <title>[COLORlime]WWE You Tube Channel[/COLOR]</title>
 
