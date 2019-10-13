@@ -5,6 +5,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORlime]WWE Money In The Bank 19th May 2019[/COLOR]</title>
+<link>https://vidoza.net/os7y52cvcmmz.html</link>
+<thumbnail>https://i.imgur.com/IKTTO4Z.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <plugin>
 <title>[COLORlime]WWE You Tube Channel[/COLOR]</title>
 
