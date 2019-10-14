@@ -19,6 +19,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORlime]WWE Wrestlemania XXXIV 8th April (2018)[/COLOR]</title>
+<link>https://vidoza.net/8k4xbuu7pvnb.html</link>
+<thumbnail>https://i.imgur.com/IKTTO4Z.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <plugin>
 <title>[COLORlime]WWE You Tube Channel[/COLOR]</title>
 
