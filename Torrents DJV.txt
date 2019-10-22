@@ -1,4 +1,11 @@
 <item>
+<title>[COLORblue][B]Debrid Needed For These Movies All 1080p And 4K[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Godzilla: King of the Monsters (2019) 4K</title>
 <link>
 sublink:magnet:?xt=urn:btih:18fec667d9dcb580d530f51fcddcddac384fb7da&dn=Godzilla.King.of.the.Monsters.2019.INTERNAL.2160p.WEB.H265-DEFLATE#
@@ -197,7 +204,7 @@ sublink:magnet:?xt=urn:btih:2fb95d6bc207c44ab94eb1a7948f06f626cc5f77&dn=The.Curs
 </item>
 
 <item>
-<title>Pokémon Detective Pikachu (2019)</title>
+<title>PokÃ©mon Detective Pikachu (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:18560491ab3e461ba04fcefda0c49cd1633be12a&dn=Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA#
 </link>
