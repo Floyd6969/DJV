@@ -1,4 +1,18 @@
 <item>
+<title>[COLORlime]UFC Fight Night 163 Zabit vs Kattar[/COLOR]</title>
+<link>https://vidoza.net/lsmt60j3ax1o.html</link>
+<thumbnail>https://i.imgur.com/KOltbQk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+item>
+<title>[COLORlime]UFC Fight Night 163 Zabit vs Kattar Preliminary Fights 09-11-2019[/COLOR]</title>
+<link>https://vidoza.net/2ogyo3g21qmy.html</link>
+<thumbnail>https://i.imgur.com/KOltbQk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORlime]AEW Full Gear PPV 2019[/COLOR]</title>
 <link>https://vidoza.net/2ogyo3g21qmy.html</link>
 <thumbnail>https://i.imgur.com/eyXXnL2.jpg</thumbnail>
