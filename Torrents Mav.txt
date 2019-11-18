@@ -6,6 +6,178 @@
 </item>
 
 <item>
+<title>Anna (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:312ec41e1a53fd6d9ad827000bfa6e43e77406ef&dn=Anna.2019.INTERNAL.HDR.2160p.WEB.X265-DEFLATE</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjE4M2FjMDQtZGQ5Mi00YTliLWIwZmMtZGJkMjgxYTY5ZTlmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Anna (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:185fc48524db33c0b4438799dbc1652e573d4e19&dn=Anna.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjE4M2FjMDQtZGQ5Mi00YTliLWIwZmMtZGJkMjgxYTY5ZTlmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Child's Play (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:365675ffaf43a37cabe3bb3c0faa1cd08a34585c&dn=Childs.Play.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTNlNjIxNjktOWUyMS00YWY5LWEwZGItMjZmODJlZWNiZGM2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Aladdin (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:efc526905a40c19a85f81fa51d4453b214be9262&dn=Aladdin.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Aladdin (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:aa8e024a128b9335097715ba431b0b3a790c376d&dn=Aladdin.2019.1080p.BluRay.x264-SPARKS</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Fanatic (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:646562ec8b4b14622129bbee87a7351859dcf481&dn=The.Fanatic.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmM4ZGM3MGItZjg3My00MDNlLWJhMDktZWFhNDNkNDJjOTA5XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Hex (2018)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:86c0125bd70e40d6ed940074993610b54cdac768&dn=Hex.2018.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjkyMjM0ODgtNTRkYS00MmUwLWEwZDgtZTk1N2Y1MDNmYzk1XkEyXkFqcGdeQXVyMTQwNjAwMw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Late Night (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:4013e2ee2f5c6debaf47597ac22a267761f9b470&dn=Late.Night.2019.1080p.AMZN.WEBRip.DDP5.1.x264-monkee</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjZmOTEwMGEtOWVmMy00Njg4LWI1OGEtMGYwN2VmYzJiYzAzXkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blinded by the Light (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:15e972ff9d60367da28256c4d3506a1dc4488e3c&dn=Blinded.by.the.Light.2019.1080p.NF.WEBRip.DDP5.1.x264-KHN</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDUzNGYxZDAtZjVjZC00YzI2LTk3MTItNmE3NGQwOWQwZjJiXkEyXkFqcGdeQXVyMjcyMzI2OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Dark Phoenix (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:7757f5c4d12b3fcc9a34552a3522cd5525032844&dn=Dark.Phoenix.2019.1080p.BluRay.x264-GECKOS</sublink>
+</link>
+<thumbnail>https://i.imgur.com/xl4JTlJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ma (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:235f291ccc84bc3ee45d2678061be8f2f629395c&dn=Ma.2019.1080p.BluRay.x264.DTS-FGT</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmU5NzI1MGQtMWRjYi00ZGM2LTkwZDEtNzRlY2YwNjllMWIwXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tone-Deaf (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:ee4961666e3838cba4973cb543f0814649e15b05&dn=Tone.Deaf.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/UxKJSfC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jacob's Ladder (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:8614878c598b43688803fc24d867fd8b77280e1e&dn=Jacobs.Ladder.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/0GQLa0c.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Burn (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:0c8d14ac451d518dbed4306c5262a3730425d52b&dn=Burn.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/rEEekYP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>John Wick: Chapter 3 - Parabellum (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:419b2c9566bc2969a57d669ebdcdd35f14f9f2af&dn=John.Wick.Chapter.3.Parabellum.2019.INTERNAL.HDR.2160p.WEB.X265-DEFLATE</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Secret Life of Pets 2 (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:567ff21bfecd2e88fa29accec880d22d02bdcf8b&dn=The.Secret.Life.of.Pets.2.2019.1080p.BluRay.x264.DTS-FGT</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzdlMWQzZmItMDA5Ny00MGFjLTk0MDAtYjgzMmMyNTEwMzdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Avengers: Endgame (2019) Bonus Disc</title>
+<link>
+<sublink>magnet:?xt=urn:btih:7be32c72b1a0410a9d2bd1fafd5d21fbf5d490a8&dn=Avengers.Endgame.2019.BONUS.DISC.1080p.BluRay.REMUX.AVC.DD5.1-FGT</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Men in Black: International (2019) 4K HDR</title>
+<link>
+<sublink>magnet:?xt=urn:btih:420fd9404e86a9d9468606fcc3052992b41a0cab&dn=Men.in.Black.International.2019.INTERNAL.HDR.2160p.WEB.H265-DEFLATE</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Men in Black: International (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:42a724f90cff5035c2dc80fe880fb6f683b93313&dn=Men.in.Black.International.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Godzilla: King of the Monsters (2019) 4K</title>
 <link>
 <sublink>magnet:?xt=urn:btih:18fec667d9dcb580d530f51fcddcddac384fb7da&dn=Godzilla.King.of.the.Monsters.2019.INTERNAL.2160p.WEB.H265-DEFLATE</sublink>
