@@ -769,9 +769,9 @@
 </item>
 
 <item>
-<title>Test</title>
-<link>https://vidoza.net/ogvfzvdt8zs7.html</link>
-<thumbnail>https://mixdrop.co/f/dl51eszs</thumbnail>
+<title>Test!</title>
+<link>https://mixdrop.co/f/dl51eszs</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  
