@@ -208,3 +208,10 @@ dir>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/HPmc4xT7&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
+
+<dir>
+<name>[COLORlime][B]Maverick Version 1.0.0.1[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>ignorme</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
