@@ -767,6 +767,13 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWU3MWRhMjItZDA0Yy00OWQ3LWI1MzYtZmJhYWZhNjRkYWRiXkEyXkFqcGdeQXVyNjUyNDkyMjQ@._V1_SY1000_CR0,0,720,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Test</title>
+<link>https://vidoza.net/ogvfzvdt8zs7.html</link>
+<thumbnail>https://mixdrop.co/f/dl51eszs</thumbnail>
+<fanart></fanart>
+</item>
  
 <dir>
 <title>[COLOR lime]>>> New Releases Next Page If You're Using Maverick / Mercury>>>[/COLOR]</title>
