@@ -25,6 +25,20 @@
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>ANYA (2019)</title>
+<link>https://clicknupload.org/7rvuywd3dv6h</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC5Py0CMalpWGLDGf7IdpMTHgVt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Stay Out Stay Alive (2019)</title>
+<link>https://clicknupload.org/xs7sqfau1ecg</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8xpasGfnHpmE3WNz8bokecouf6.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>Disconnect To Connect (2019)</title>
