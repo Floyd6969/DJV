@@ -173,3 +173,10 @@
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Mav%20Tools-cLFU3DBE.txt</link>
 <fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
 </dir>
+
+<dir>
+<name>[COLORwhite][B]Mercury Version 1.0.1[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/ewZqfXr.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Mav%20Tools-cLFU3DBE.txt</link>
+<fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
+</dir>
