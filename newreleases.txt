@@ -20,7 +20,7 @@
 </item>
  
 <item>
-<title>[COLORblue][B]No Cameras Anymore Folks.. Sorry[/B][/COLOR]</title>
+<title>[COLORblue][B]New Shortcut Please Re-Link[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
