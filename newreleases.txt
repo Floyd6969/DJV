@@ -27,6 +27,13 @@
 </item>
 
 <item>
+<title>Running with the Devil (2019)</title>
+<link>https://mixdrop.co/f/32tg6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2H94PpXxZgiGGUNkyLSKZzm8u.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Busby (2019)</title>
 <link>https://uptobox.com/xczhswi34tpq</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDAwMzMwZDUtOWQ4Mi00ZDE4LWJlNmUtYWIxZjU4ZjNhNjVkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
