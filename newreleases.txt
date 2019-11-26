@@ -769,12 +769,12 @@
 </item>
 
 <item>
-<title>Test!</title>
+<title>Test1</title>
 <link>https://mixdrop.co/f/dl51eszs</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <dir>
 <title>[COLOR lime]>>> New Releases Next Page If You're Using Maverick / Mercury>>>[/COLOR]</title>
 <link>https://pastebin.com/raw/93wtJeTX</link>
