@@ -27,6 +27,13 @@
 </item>
 
 <item>
+<title>Semper Fi (2019)</title>
+<link>https://mixdrop.co/f/g6na82</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OEnUJemQZuKFyxXYlmRznoUemX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Irishman (2019) (SD)</title>
 <link>https://clicknupload.org/o4nzb7fxodjl</link>
 <thumbnail>https://i.imgur.com/FMKUZ6L.jpg</thumbnail>
