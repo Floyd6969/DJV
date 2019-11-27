@@ -27,8 +27,15 @@
 </item>
 
 <item>
-<title>The Irishman (2019)</title>
+<title>The Irishman (2019) (Link 1)</title>
 <link>https://clicknupload.org/o4nzb7fxodjl</link>
+<thumbnail>https://i.imgur.com/FMKUZ6L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Irishman (2019) (Link 2)</title>
+<link>https://clicknupload.org/fb68yq1dlx4f</link>
 <thumbnail>https://i.imgur.com/FMKUZ6L.jpg</thumbnail>
 <fanart></fanart>
 </item>
