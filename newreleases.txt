@@ -26,6 +26,15 @@
 <fanart></fanart>
 </item>
 
+item>
+<title>The Irishman (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:6f74751d615bd91390ea67f1734a3ae89b278207&dn=The.Irishman.2019.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM#
+</link>
+<thumbnail>https://i.imgur.com/FMKUZ6L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>Running with the Devil (2019)</title>
 <link>https://mixdrop.co/f/32tg6</link>
