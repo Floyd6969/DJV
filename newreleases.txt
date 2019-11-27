@@ -41,8 +41,15 @@
 </item>
 
 <item>
-<title>The Irishman (2019) (HD)</title>
+<title>The Irishman (2019) (720p)</title>
 <link>https://clicknupload.org/fb68yq1dlx4f</link>
+<thumbnail>https://i.imgur.com/FMKUZ6L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Irishman (2019) (1080p)</title>
+<link>https://clicknupload.org/x0oxz1x41yo2</link>
 <thumbnail>https://i.imgur.com/FMKUZ6L.jpg</thumbnail>
 <fanart></fanart>
 </item>
