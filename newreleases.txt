@@ -27,6 +27,13 @@
 </item>
 
 <item>
+<title>Abominable (2019)</title>
+<link>https://onlystream.tv/yce3fwwx6ux7</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Semper Fi (2019)</title>
 <link>https://mixdrop.co/f/g6na82</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OEnUJemQZuKFyxXYlmRznoUemX.jpg</thumbnail>
