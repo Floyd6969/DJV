@@ -27,6 +27,13 @@
 </item>
 
 <item>
+<title>The Mandalorian S01 Ep04</title>
+<link>https://uptobox.com/nuk4di72adhq</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Turtle Odyssey (2018)</title>
 <link>https://clicknupload.org/ue061vzx4wo5</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bjc4coSxMnIj9oQv7S6DCTyjUQ.jpg</thumbnail>
