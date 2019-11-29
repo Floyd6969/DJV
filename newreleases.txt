@@ -27,6 +27,20 @@
 </item>
 
 <item>
+<title>Turtle Odyssey (2018)</title>
+<link>https://clicknupload.org/ue061vzx4wo5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bjc4coSxMnIj9oQv7S6DCTyjUQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Report (2019)</title>
+<link>https://clicknupload.org/00vc9hk1oj2w</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Another Version of You (2018)</title>
 <link>https://clicknupload.org/q4qmbrqq24r2</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGE1M2FlYjEtYWI1NC00NTNjLTk4ZTMtNjhhYTgxYzcwMjNhXkEyXkFqcGdeQXVyMzU2NjM2MDA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
@@ -49,7 +63,7 @@
 
 <item>
 <title>Freaks (2018)</title>
-<link>https://clicknupload.org/ha03yfbev91k</link>
+<link>https://clicknupload.org/xzkpr028mj2b</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDIzNDk0YWYtZjQwZC00NTljLWFiNDktYzRkNDc0MWY5NWQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
