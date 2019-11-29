@@ -28,7 +28,7 @@
 
 <item>
 <title>I Lost My Body (2019)</title>
-<link>https://jetload.net/p/rEJxkytCik1q</link>
+<link>https://jetload.net/e/rEJxkytCik1q</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzRlNmViODgtNjQwZC00ZGE3LWJmMWMtOTcwNzMwYTY5OTcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
