@@ -28,7 +28,7 @@
 
 <item>
 <title>The Mandalorian S01 Ep04</title>
-<link>https://clicknupload.org/t3hu57h9kt8o</link>
+<link>https://clicknupload.org/bgg3ev1cfnqf</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
