@@ -28,6 +28,13 @@
 
 <item>
 <title>The Mandalorian S01 Ep04</title>
+<link>https://jetload.net/e/nFvm14LBu7RD</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Mandalorian S01 Ep04</title>
 <link>https://clicknupload.org/t3hu57h9kt8o</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
