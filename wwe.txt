@@ -1,7 +1,14 @@
 <item>
-<title>[COLORlime]City V United[/COLOR]</title>
+<title>[COLORlime]City V United 1st Half (Foreign Commentary)[/COLOR]</title>
 <link>https://vidoza.net/n73zv6t1bsda.html</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/CeCJimc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]City V United 2nd Half (Foreign Commentary)[/COLOR]</title>
+<link>https://vidoza.net/2qwlw4rnq9iz.html</link>
+<thumbnail>https://i.imgur.com/CeCJimc.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
