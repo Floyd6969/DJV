@@ -66,7 +66,7 @@
 </channel>
  
 <channel>
-<name>[COLOR gold][B]Battered Around The Ring (WWE/AEW/UFC/Boxing)[/B][/COLOR]</name>
+<name>[COLOR gold][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/wwe.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
