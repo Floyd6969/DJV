@@ -83,7 +83,7 @@
 </dir>
  
 <dir>
-<name>[COLORwhite][B]WWE/AEW Replays[/B][/COLOR]</name>
+<name>[COLORwhite][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/wwe.txt</link>
 <thumbnail>https://i.imgur.com/ewZqfXr.png</thumbnail>
 <fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
