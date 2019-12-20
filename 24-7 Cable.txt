@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+<title>[COLOR lime]A and E[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=216</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]ABC[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=2</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]AMC[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=6</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Animal Planet[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=9</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]BBC America[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=175</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Bravo Tv[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=124</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]CBC Toronto[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=206</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]CBS[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=25</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]CityTv[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=207</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]CNBC[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=123</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]CTV[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=205</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Discovery Channel[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=35</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Fight Network[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=219</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Fox[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=43</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]FOX 43 WMPT[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=178</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Fox News[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=44</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Freeform[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=52</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]FX[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=49</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]FYI[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=218</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Game Show Network[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=217</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Lifetime Movies[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=220</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]MavTV[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=177</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]MSNBC[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=176</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]NASA HD[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=174</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]National Geographic[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=67</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]NBC[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=122</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]PBS[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=71</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Sundance TV[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=131</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]SYFY[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=121</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]The CW[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=92</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]TLC[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=130</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]TVOntario[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=208</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]USA Network[/COLOR]</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=120</sportsdevil>
+<referer>https://www.arconaitv.us</referer>
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
