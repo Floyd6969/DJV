@@ -22,25 +22,11 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/newreleases.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
- 
-<channel>
-<name>[COLOR gold][B]Recent Movies One Click[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/93wtJeTX</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
-</channel>
- 
+
 <channel>
 <name>[COLOR gold][B]Debrid Classic Movies[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Z5LedtfL</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLOR gold][B]Debrid Classic Movie Torrents[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/upGfrVuh</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TClassics.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
@@ -54,14 +40,14 @@
 <channel>
 <name>[COLOR gold][B]24/7 Continuous Play TV Shows[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Muiqymaw</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7%20Shows.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
 <channel>
 <name>[COLOR gold][B]24/7 Continuous Play US Cable[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/NsGwUZkf</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7%20Cable.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
