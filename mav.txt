@@ -7,14 +7,14 @@
  
 <dir>
 <name>[COLORlime][B]Debrid Movies 4K UHD[/B][/COLOR]</name>
-<link>https://pastebin.com/raw/LTfEPrwy</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Mav%204K.txt</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Debrid New Releases FHD + 4K[/B][/COLOR]</name>
-<link>https://pastebin.com/raw/wRXXA10D</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/DJVT-Newreleases.txt</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
@@ -28,7 +28,7 @@
  
 <dir>
 <name>[COLORlime][B]New Releases One Click Top 100[/B][/COLOR]</name>
-<link>https://pastebin.com/raw/DXArv1C9</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newreleases.txt</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
@@ -42,7 +42,7 @@
  
 <dir>
 <name>[COLORlime][B]Debrid Classic Movies FHD[/B][/COLOR]</name>
-<link>https://pastebin.com/raw/xv6wA5L2</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TClassics.txt</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
@@ -81,13 +81,6 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
- 
-dir>
-<title>[COLORlime][B]Live Sports HD (Test)[/B][/COLOR]</title>
-<hesgoal>games</hesgoal>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
  
 <dir>
 <name>[COLOR lime][B]Fluxus Playlists[/B][/COLOR]</name>
