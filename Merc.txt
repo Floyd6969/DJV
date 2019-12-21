@@ -28,7 +28,7 @@
  
 <dir>
 <name>[COLORwhite][B]Debrid New Releases FHD[/B][/COLOR]</name>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/DJVT-Newreleases.txt</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/MavT%20New%20Releases.txt</link>
 <thumbnail>https://i.imgur.com/ewZqfXr.png</thumbnail>
 <fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
 </dir>
