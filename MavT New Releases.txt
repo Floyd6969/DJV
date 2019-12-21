@@ -16,6 +16,42 @@
 </item>
 
 <item>
+<title>The Lighthouse (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:a148b026819a68f12374867013d47252f9b95739&dn=The.Lighthouse.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwXmOYJVM1VIkkSXHY5zYSaLJLC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Two Popes (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:eb6633bbb8502fae9dc4278c441b35a335f3564e&dn=The.Two.Popes.2019.INTERNAL.1080p.WEB.x264-STRiFE</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jojo Rabbit (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:906d21249a12b732fd1fe70e35824b8d6df92c2e&dn=Jojo.Rabbit.2019.DVDScr.XVID.AC3.HQ.Hive-CM8</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Aeronauts (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:7eab4332c85447e280ae41c34ab13f2bffb6fb39&dn=The.Aeronauts.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZHnblqmTBUBgzYBIxWIz9txsEi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Lucy in the Sky (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:3b73084140ea23cc65ef6827121995067888b0dc&dn=Lucy.In.The.Sky.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
