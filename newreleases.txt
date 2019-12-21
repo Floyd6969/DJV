@@ -18,6 +18,13 @@
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Soul Hunters (2019)</title>
+<link>https://vidoza.net/urwb55gypn0x.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e71M2SyLOLl9XkOWjyyR76eo7hP.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>The Kill Team (2019)</title>
