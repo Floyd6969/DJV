@@ -5,14 +5,14 @@
 <channel>
 <name>[COLOR gold][B]4K UHD Movies[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/gKcTs967</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DJV4K.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
 <channel>
 <name>[COLOR gold][B]Debrid Latest Movies FHD + 4K[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/h0GXTX4N</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DJVT-Newreleases.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
@@ -33,7 +33,7 @@
 <channel>
 <name>[COLOR gold][B]24/7 Continuous Play Movies[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/mv3vq6YQ</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7%20Movies.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
