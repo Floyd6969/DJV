@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+ 
+<item>
+<title>[COLOR lime]Action Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=3</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Animated Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=10</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Comedy Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=31</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Cult Classics[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=185</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Disney Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=184</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Documentaries[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=37</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Harry Potter[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=51</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Horror Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=54</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]James Bond[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=179</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Kubrick Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=186</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]KungFu Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=188</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Lord Of The Rings[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=180</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Mafia Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=59</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Marvel Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=187</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Monster Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=156</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Musical Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=63</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Movies with Arc[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=108</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Mystery Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=65</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Pixar Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=189</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Random Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=73</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Romantic Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=77</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Sci-Fi Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=153</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Star Trek[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=181</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Star Wars[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=87</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Stephen King[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=190</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Studio Ghibli[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=88</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]War Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=154</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]Westerns[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=155</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]All Year Round Christmas Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=27</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
