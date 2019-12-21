@@ -20,20 +20,6 @@
 </item>
  
 <item>
-<title>[COLORblue][B]If You See Any Captcha Crap Popping Up, Just Click Cancel Twice[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLORblue][B]I'll Get Around To Renewing The Links[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>The Kill Team (2019)</title>
 <link>https://vidoza.net/l4pa2po6un7i.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg</thumbnail>
