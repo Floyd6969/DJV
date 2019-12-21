@@ -20,6 +20,27 @@
 </item>
 
 <item>
+<title>The Two Popes (2019)</title>
+<link>https://vidoza.net/fug6nf8094xh.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Togo (2019)</title>
+<link>https://vidoza.net/pp0mtihfmu1k.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/97vakT4O6wrkD9sfUnpXiSFNN3u.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jojo Rabbit (2019)</title>
+<link>https://vidoza.net/znxlw4xwse3g.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Soul Hunters (2019)</title>
 <link>https://vidoza.net/urwb55gypn0x.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e71M2SyLOLl9XkOWjyyR76eo7hP.jpg</thumbnail>
