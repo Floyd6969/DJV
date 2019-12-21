@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>The Lighthouse (2019)</title>
+<link>https://vidoza.net/lgyx584nmv4y.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwXmOYJVM1VIkkSXHY5zYSaLJLC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Two Popes (2019)</title>
 <link>https://vidoza.net/fug6nf8094xh.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg</thumbnail>
