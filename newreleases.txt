@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Star Wars: The Rise of Skywalker (2019) (HD Cam) (Watch It, Don't Watch It, Don't Care)</title>
+<link>https://clicknupload.org/57wap6xzturx</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Scarecrow's Revenge (2019)</title>
 <link>https://vidoza.net/25cixh8zi3n5.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckJ3mV2XuLeCPh4V6P166PdAMsj.jpg</thumbnail>
@@ -72,13 +79,6 @@
 <title>The Aeronauts (2019)</title>
 <link>https://vidoza.net/2c4vktfqqfy6.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZHnblqmTBUBgzYBIxWIz9txsEi.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Star Wars: The Rise of Skywalker (2019) (VPN In The US) (Watch It, Don't Watch It, Don't Care)</title>
-<link>https://uptobox.com/e8c87pyzhf71</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
