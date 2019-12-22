@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Scarecrow's Revenge (2019)</title>
+<link>https://vidoza.net/25cixh8zi3n5.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckJ3mV2XuLeCPh4V6P166PdAMsj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Lighthouse (2019)</title>
 <link>https://vidoza.net/lgyx584nmv4y.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwXmOYJVM1VIkkSXHY5zYSaLJLC.jpg</thumbnail>
