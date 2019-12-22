@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Star Wars: The Rise of Skywalker (2019) (HD Cam) (Non Geo-No Ads)</title>
+<link>https://vidlox.me/j3krogr7x6lk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Star Wars: The Rise of Skywalker (2019) (HD Cam) (Non US Link)</title>
 <link>https://uptobox.com/w4stq9o4aj0u</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
