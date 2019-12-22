@@ -1,4 +1,18 @@
 <item>
+<title>[COLORlime]Bellator 235[/COLOR]</title>
+<link>https://vidoza.net/w6fnqz4eetuf.html</link>
+<thumbnail>https://i.imgur.com/JLoRFBh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]UFC Fight Night 165[/COLOR]</title>
+<link>https://vidoza.net/kmdp072sehqc.html</link>
+<thumbnail>https://i.imgur.com/hZcYsrG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORlime]UFC Fight Night 165 Prelims[/COLOR]</title>
 <link>https://vidoza.net/l7gbzxoy2d1x.html</link>
 <thumbnail>https://i.imgur.com/cS6c6hw.jpg</thumbnail>
