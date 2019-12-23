@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>The Informer (2019)</title>
+<link>https://vidoza.net/wlg5d2352fuo.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zombieland: Double Tap (2019)</title>
+<link>https://vidoza.net/k090z786yb3x.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIcV8XXIIvJCbtPoxF9qHMKdRr2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sacren (2019)</title>
 <link>https://vidoza.net/zdm3tt10dphg.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftgUgpmp1RFJznhufwWaqUqwiuK.jpg</thumbnail>
@@ -215,12 +229,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>Zombieland: Double Tap (2019)</title>
-<link>https://vidoza.net/ehkm5uxrwvqo.html</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIcV8XXIIvJCbtPoxF9qHMKdRr2.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>Uncut Gems (2019)</title>
