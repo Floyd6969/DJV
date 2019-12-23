@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Zombieland: Double Tap (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:3be8c14aac0374678826a7eafa219755a64e600a&dn=Zombieland.Double.Tap.2019.1080p.BluRay.x264-DRONES#
+</link>
+<thumbnail>https://i.imgur.com/q0niaYr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Lighthouse (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:a148b026819a68f12374867013d47252f9b95739&dn=The.Lighthouse.2019.1080p.WEB-DL.DD5.1.H264-FGT#
@@ -66,15 +75,6 @@ sublink:magnet:?xt=urn:btih:3b73084140ea23cc65ef6827121995067888b0dc&dn=Lucy.In.
 sublink:magnet:?xt=urn:btih:a1970cffb3bc341a7c66bf1afc7436f147df3517&dn=Joker.2019.1080p.WEB-DL.DD5.1.H264-FGT#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Zombieland: Double Tap (2019)</title>
-<link>
-sublink:magnet:?xt=urn:btih:d4802011b209001045854e411a6f67d7e640b305&dn=Zombieland.Double.Tap.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT#
-</link>
-<thumbnail>https://i.imgur.com/q0niaYr.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
