@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>Jexi (2019)</title>
+<link>https://vidoza.net/vryxosu2ynxp.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Segfault (2018)</title>
+<link>https://vidoza.net/inhqgcx0gbu4.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubn1xVFD1oboxmgQayBbYSZ94AE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Addams Family (2019)</title>
 <link>https://vidoza.net/yge6zfm4631t.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaXNjRkDdjfxfVuKHo25wkA6CiA.jpg</thumbnail>
