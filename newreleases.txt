@@ -20,6 +20,27 @@
 </item>
 
 <item>
+<title>Trick (2019)</title>
+<link>https://vidoza.net/efbwdtpzd4ps.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5e6x6ijLUYYWqGSX07EHIplyaP3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Simple Wedding (2018)</title>
+<link>https://vidoza.net/hnuunz4jvcft.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUVAfi6cBYDSIdLAj5FtIOxTY6q.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Beautiful Day in the Neighborhood (2019)</title>
+<link>https://vidoza.net/ijpj420fip9s.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9vCAVhDK375XyobVcKqzqzsUHE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Informer (2019)</title>
 <link>https://vidoza.net/wlg5d2352fuo.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg</thumbnail>
