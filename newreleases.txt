@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>The Addams Family (2019)</title>
+<link>https://vidoza.net/yge6zfm4631t.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaXNjRkDdjfxfVuKHo25wkA6CiA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Trick (2019)</title>
 <link>https://vidoza.net/efbwdtpzd4ps.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5e6x6ijLUYYWqGSX07EHIplyaP3.jpg</thumbnail>
