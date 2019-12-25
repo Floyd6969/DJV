@@ -20,6 +20,34 @@
 </item>
 
 <item>
+<title>Always a Bridesmaid (2019)</title>
+<link>https://vidoza.net/i0zlccrydnk8.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu3BAlCrXxGBEWJGbu2kREAMVvV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ride Like a Girl (2019)</title>
+<link>https://vidoza.net/27uhwhmazu1s.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/axXI9HOiBVJIblWBbSH7mIUB5Yb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Abigail (2019)</title>
+<link>https://vidoza.net/qmbln6khhsxq.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rNWxdsUYDsDxHrEc3OmXZVdKwJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Ghost Who Walks (2019)</title>
+<link>https://vidoza.net/2nz07d2zo2u2.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD7l55S7YDKwZ9GVfx1qkVCFyXm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Jexi (2019)</title>
 <link>https://vidoza.net/vryxosu2ynxp.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg</thumbnail>
