@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Knives Out (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:a9e60d53e95c0047c1ec405cc019c2f88865043e&dn=Knives.Out.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Zombieland: Double Tap (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:3be8c14aac0374678826a7eafa219755a64e600a&dn=Zombieland.Double.Tap.2019.1080p.BluRay.x264-DRONES</sublink>
