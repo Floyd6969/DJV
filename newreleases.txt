@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>The Murder of Nicole Brown Simpson (2019)</title>
+<link>https://vidoza.net/b5b3ictd1pzw.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i63tnkQ1YhJ4ADE3X71BPlzUNnN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Kill Mode (2019)</title>
 <link>https://vidoza.net/th27fkc8wz4i.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGKdrPQDkDS8xsv0ogLasgQVyGs.jpg</thumbnail>
