@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>Kill Mode (2019)</title>
+<link>https://vidoza.net/th27fkc8wz4i.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGKdrPQDkDS8xsv0ogLasgQVyGs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Knives Out (2019)</title>
+<link>https://vidoza.net/34uryh7c1xxh.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Always a Bridesmaid (2019)</title>
 <link>https://vidoza.net/i0zlccrydnk8.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu3BAlCrXxGBEWJGbu2kREAMVvV.jpg</thumbnail>
