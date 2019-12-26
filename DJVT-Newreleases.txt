@@ -16,6 +16,42 @@
 </item>
 
 <item>
+<title>A Beautiful Day in the Neighborhood (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:7971b11a336ded5dc18fb373fdc67d3d59c9e394&dn=A.Beautiful.Day.in.the.Neighborhood.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9vCAVhDK375XyobVcKqzqzsUHE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jexi (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:6c9b09f28d1e41d969d26a08c463c1cf6f4c6eb9&dn=Jexi.2019.1080p.WEBRip.DD5.1.x264-CM&#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Addams Family (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:348bb1ce353368092ef7b8114063cbaf9ddfbaa8&dn=The.Addams.Family.2019.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaXNjRkDdjfxfVuKHo25wkA6CiA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Knives Out (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:a9e60d53e95c0047c1ec405cc019c2f88865043e&dn=Knives.Out.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Zombieland: Double Tap (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:3be8c14aac0374678826a7eafa219755a64e600a&dn=Zombieland.Double.Tap.2019.1080p.BluRay.x264-DRONES#
