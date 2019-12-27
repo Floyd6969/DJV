@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Apparition (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:110a01d7b36f4647e1a35cc9ceb8c39a0d358de5&dn=Apparition.2019.1080p.WEBRip.x264-RARBG</sublink>
+</link>
+<thumbnail>https://i.imgur.com/WK2z3tY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>A Beautiful Day in the Neighborhood (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:7971b11a336ded5dc18fb373fdc67d3d59c9e394&dn=A.Beautiful.Day.in.the.Neighborhood.2019.DVDScr.XVID.AC3.HQ.Hive-CM8</sublink>
