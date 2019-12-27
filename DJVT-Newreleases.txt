@@ -18,7 +18,7 @@
 <item>
 <title>Joker (2019) 4K</title>
 <link>
-sublink:magnet:?xt=urn:btih:33b8d0a6f822e118bd20a5a592468f4a1ac86843&dn=Joker.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-AAAUHD#
+sublink:magnet:?xt=urn:btih:17412747662a8461ae897b2100a8d0ad544f4d1c&dn=Joker.2019.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
