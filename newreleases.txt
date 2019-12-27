@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Mission: Impossible - Fallout (2018)</title>
+<link>https://vidoza.net/k3derfl19f4g.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Outlawed (2018)</title>
 <link>https://vidoza.net/z9d1kumto3xc.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOgKZIk9S1MreMC7AjyFhcrK4Oz.jpg</thumbnail>
