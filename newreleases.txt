@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>The Mandalorian S01 E08</title>
+<link>https://uptobox.com/g1ashod4w4th</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Mission: Impossible - Fallout (2018)</title>
 <link>https://vidoza.net/k3derfl19f4g.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg</thumbnail>
