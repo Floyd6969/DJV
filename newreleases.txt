@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>Letters From the Heart (2019)</title>
+<link>https://vidoza.net/pka7udn0xgfo.html</link>
+<thumbnail>https://i.imgur.com/aGPsJM7.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Groupers (2019)</title>
+<link>https://vidoza.net/krevqehme0lu.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqYhJho9y68XqIYaVLT2mmSxy7v.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Ford v Ferrari (2019)</title>
 <link>https://vidoza.net/sslan6i9udu0.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg</thumbnail>
