@@ -53,6 +53,13 @@ sublink:magnet:?xt=urn:btih:c92f656155d0d8e87d21471d7ea43e3ad0d42723&dn=Star+War
 </item>
 
 <item>
+<title>[COLOR white]Star Wars The Empire Strikes Back FHD (Original Despecialized Version)[/COLOR][COLOR yellow] (Real Debrid)[/COLOR]</title>
+<link>https://rapidgator.net/file/6cb7bae540a78b2199d29a6e58d99e5c/sw2.mkv.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,641,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR white]Star Wars The Empire Strikes Back FHD[/COLOR][COLOR yellow] (Real Debrid)[/COLOR]</title>
 <link>
 sublink:magnet:?xt=urn:btih:898880149b304feaa5ff6f6de633aa4c5703dc1a&dn=Star+Wars%3A+Episode+V+-+The+Empire+Strikes+Back+%281980%29+1080p+BrRi&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80#
