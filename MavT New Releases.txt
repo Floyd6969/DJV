@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Black and Blue (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:b41d1db95010d6d05c678c6882649db99bf7a63e&dn=Black.and.Blue.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/vyFJtOt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Star Wars (1977) (Original Despecialized Version)</title>
 <link>https://rapidgator.net/file/7a5f12ffd047994c748e2dac7229de72/sw1.mkv.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/btTdmkgIvOi0FFip1sPuZI2oQG6.jpg</thumbnail>
