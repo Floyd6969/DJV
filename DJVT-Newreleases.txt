@@ -29,9 +29,9 @@
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>Return of the Jedi (1983) (Original Despecialized Version)</title>
-<link></link>
+<link>https://rapidgator.net/file/b7564523f0cb10a1818a6e7416a16b92/Sw3.mkv.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrJWyjOVjPhghl4KyAMtOepAxs.jpg</thumbnail>
 <fanart></fanart>
 </item>
