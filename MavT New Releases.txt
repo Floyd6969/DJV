@@ -16,6 +16,27 @@
 </item>
 
 <item>
+<title>Star Wars (1977) (Original Despecialized Version)</title>
+<link>https://rapidgator.net/file/7a5f12ffd047994c748e2dac7229de72/sw1.mkv.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/btTdmkgIvOi0FFip1sPuZI2oQG6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Empire Strikes Back (1980) (Original Despecialized Version)</title>
+<link>https://rapidgator.net/file/6cb7bae540a78b2199d29a6e58d99e5c/sw2.mkv.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SKDSFbaM6LuGqG1aPWN3wYGEyD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Return of the Jedi (1983) (Original Despecialized Version)</title>
+<link>https://rapidgator.net/file/b7564523f0cb10a1818a6e7416a16b92/Sw3.mkv.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrJWyjOVjPhghl4KyAMtOepAxs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Ford v Ferrari (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:0d8e21c721c63f224857b1daf4cd408955f1b63f&dn=Ford.V.Ferrari.2019.1080p.DVDScr.X264.AC3.SHQ.Hive-CM8</sublink>
