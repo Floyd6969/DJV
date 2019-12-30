@@ -62,6 +62,13 @@ sublink:magnet:?xt=urn:btih:898880149b304feaa5ff6f6de633aa4c5703dc1a&dn=Star+War
 </item>
 
 <item>
+<title>[COLOR white]Star Wars FHD (Original Despecialized Version)[/COLOR][COLOR yellow] (Real Debrid)[/COLOR]</title>
+<link>https://rapidgator.net/file/7a5f12ffd047994c748e2dac7229de72/sw1.mkv.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,643,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR white]Star Wars FHD[/COLOR][COLOR yellow] (Real Debrid)[/COLOR]</title>
 <link>
 sublink:magnet:?xt=urn:btih:fe1e1069de410fb44157f02b4f6655dde99621c6&dn=Star+Wars%3A+Episode+IV+-+A+New+Hope+%281977%29+1080p+BrRip+x264+-+YIF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80#
