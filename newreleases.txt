@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Maleficent: Mistress of Evil (2019)</title>
+<link>https://vidoza.net/f6ef6leyc5pc.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBuabjEqxzoUBHfbyNbd8ulgy5j.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Black and Blue (2019)</title>
 <link>https://vidoza.net/147bjdgjj3uu.html</link>
 <thumbnail>https://i.imgur.com/vyFJtOt.jpg</thumbnail>
