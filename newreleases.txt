@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>Stalked (2019)</title>
+<link>https://vidoza.net/w3iyo7gmeez1.html</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjg0MzVmODctYWUxZS00YjQyLTgwZjMtOTgwNjA5OGY1ZmU4XkEyXkFqcGdeQXVyNzEyMTIxNDc@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Heritage (2019)</title>
+<link>https://uptobox.com/30wipsd03dze</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjU5YjdjNTItYzAyNi00ZGIzLWFkNzYtODdhYzc2Y2VkMGVjXkEyXkFqcGdeQXVyNDk5NDA1Njg@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Maleficent: Mistress of Evil (2019)</title>
 <link>https://vidoza.net/f6ef6leyc5pc.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBuabjEqxzoUBHfbyNbd8ulgy5j.jpg</thumbnail>
