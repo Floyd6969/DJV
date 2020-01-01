@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>The Naked Wanderer (2019)</title>
+<link>https://vidoza.net/fkgyk9974ahn.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPobR1AZaS5gqQTsLIO7bMhQngQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Depraved (2019)</title>
 <link>https://vidoza.net/ccrmegdkcq1y.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMNqjuJBjOaOFY3kVqHjN2FQahg.jpg</thumbnail>
