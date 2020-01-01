@@ -1,4 +1,123 @@
 <item>
+<title>This Is Our Home (2019)</title>
+<link>https://vidoza.net/xewigkdz1579.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5Tj9mTg9ft39bO0SiLxlOpt2RC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Beyond The Law (2019)</title>
+<link>https://vidoza.net/bv19tk0dchac.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZjVbENNMZjqkmBWOTSLU8v7td.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Trauma Center (2019)</title>
+<link>https://vidoza.net/i2nnyvmjxwy7.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHwxtAVkB1jQMOUczhKg9NHmgFT.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hell Girl (2019)</title>
+<link>https://vidoza.net/x6dnh53o1v6h.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/57N66lJHDtf68lJC3e95om4avRx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>D-Day (2019)</title>
+<link>https://vidoza.net/ur1m7bjenxrh.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDfg34RhJZ5HP70ynf2kA8O2ayo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Amundsen (2019)</title>
+<link>https://vidoza.net/iuij2a4wyvt8.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvz9rsCnqq1F0MauURPzps11Y6S.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Madness Within (2019)</title>
+<link>https://vidoza.net/9f782g5pno9h.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDyA0su06KD7HdpNfZiL0xFrlg8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spare Room (2018)</title>
+<link>https://vidoza.net/b3zy5ze3pw05.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAlA41mifilDG4L5z79cK5FtX5c.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Automation (2019)</title>
+<link>https://vidoza.net/q3pssz3fggtq.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMTtmaikyYDpm5oHOlmc7WC4WJB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Legend of Cocaine Island (2018)</title>
+<link>https://vidoza.net/3tgpio06mhff.html</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWI3ZGM1NWYtMmE5NC00MTIwLThjZTUtODZmMzA0MzMzNzRmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>1st Born (2019)</title>
+<link>https://vidoza.net/mvgeuhswk5z7.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkBFjCktRSKizuLrSOqAZbmmNzV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>QT8: The First Eight (2019)</title>
+<link>https://vidoza.net/d06h52xbz1e8.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGPwMYUeygsUAmo0NS8IPlhQEfH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Red Handed (2019)</title>
+<link>https://vidoza.net/57lvbt0bvtr6.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnaX1fI32pYotlXlbiMPGBjEtfk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tower of Silence (2019)</title>
+<link>https://vidoza.net/v3lm8oomitv1.html</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjdiMDc0ODAtMGVkYS00YmMwLTllM2ItNDZhNzY3YTZmMTQ2XkEyXkFqcGdeQXVyNTA1NjUxMjI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ad Astra (2019)</title>
+<link>https://vidoza.net/0c4mmom0dw4z.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJUILftRf6TJxloOgrilOTJfeOn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Outpost Earth (2019)</title>
+<link>https://vidoza.net/vjqog06z4k30.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYh6QS25xzbbxCUF4Wrwwi0YDll.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Before You Know It (2019)</title>
+<link>https://vidoza.net/u9f73nd7unrw.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAM1OSLm1AoVoXyLdbnkBlRSCdi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Arctic Dogs (2019)</title>
 <link>https://uptobox.com/94utp7c4552m</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTY1OTQyM2YtM2ZjOC00OWQwLTkzM2YtZjAyOGZkYjlhNWFhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
