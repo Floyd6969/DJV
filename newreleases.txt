@@ -20,6 +20,27 @@
 </item>
 
 <item>
+<title>Depraved (2019)</title>
+<link>https://vidoza.net/ccrmegdkcq1y.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMNqjuJBjOaOFY3kVqHjN2FQahg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Victoria Gotti: My Father's Daughter (2019)</title>
+<link>https://vidoza.net/p9dff1pa6prx.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iqbjyoaOsf5NoSDdjad3MEIMFk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>What Lies Ahead (2019)</title>
+<link>https://vidoza.net/y7fjsfmefgl4.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFyiplcg19F5fBWJpJaNf6vCYET.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Stalked (2019)</title>
 <link>https://vidoza.net/w3iyo7gmeez1.html</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjg0MzVmODctYWUxZS00YjQyLTgwZjMtOTgwNjA5OGY1ZmU4XkEyXkFqcGdeQXVyNzEyMTIxNDc@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
