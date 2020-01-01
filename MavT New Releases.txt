@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Maleficent: Mistress of Evil (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:7a121e63c0bd1e65dd72722db850628e92f8de62&dn=Maleficent.Mistress.of.Evil.2019.2160p.WEB.H265-DEFLATE</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBuabjEqxzoUBHfbyNbd8ulgy5j.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Maleficent: Mistress of Evil (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:af1b4aa76961ece080971659fcf4d4d5a84b68c1&dn=Maleficent.Mistress.of.Evil.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
