@@ -706,6 +706,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Test Link</title>
+<link>https://gounlimited.to/3nr5codd7roa/Marriage.Story.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <dir>
 <title>[COLOR lime]>>> New Releases Next Page If You're Using Maverick / Mercury>>>[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/recentreleases.txt</link>
