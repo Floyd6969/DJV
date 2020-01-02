@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Frozen II (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:1f5459a65ed0f990566dad74ed79c0fc17e30e63&dn=Frozen.2.2019.DVDScr.XVID.AC3.HQ.Hive-CM8</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Maleficent: Mistress of Evil (2019) 4K</title>
 <link>
 <sublink>magnet:?xt=urn:btih:7a121e63c0bd1e65dd72722db850628e92f8de62&dn=Maleficent.Mistress.of.Evil.2019.2160p.WEB.H265-DEFLATE</sublink>
