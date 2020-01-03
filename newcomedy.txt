@@ -68,6 +68,13 @@ item>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Peter Kays Car Share Bloopers[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=VMNXNNbYPBE</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
 item>
 <title>[COLORwhite]Peter Kay Live At The Top Of The Tower[/COLOR]</title>
 <link>https://streamango.com/f/orcqrookrlsrfcdq</link>
@@ -148,6 +155,13 @@ item>
 <item>
 <title>[COLORwhite]Mike Reid Live at the London Palladium[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=Hd3r7qpASQI</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mick Miller - In The Club[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=t0SfUH73WGA</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
 <fanart></fanart>
 </item>
