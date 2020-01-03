@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Ana (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:815ac62c44151e79e1b731025725aa8cbe8d7733&dn=Ana.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h41SILqFhYHuxRtWdxbr1myUtY7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Frozen II (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:1f5459a65ed0f990566dad74ed79c0fc17e30e63&dn=Frozen.2.2019.DVDScr.XVID.AC3.HQ.Hive-CM8</sublink>
