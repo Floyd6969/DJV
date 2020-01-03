@@ -173,6 +173,13 @@ item>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Gavin and Stacey Series 1 - Behind the Scenes[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=l7R_zK61Bbs</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
 item>
 <title>[COLORwhite]Peter Kays Comedy Shuffle Ep 01[/COLOR]</title>
 <link>https://streamango.com/f/dbbklnsqntfcbsmc/pkcs1_mp4</link>
