@@ -279,13 +279,6 @@ item>
 </item>
 
 <item>
-<title>[COLORwhite]Sean Lock 2008[/COLOR]</title>
-<link>https://www.youtube.com/watch?v=-JbXfBPypME</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Lee Mack: Live at London's Bloomsbury Theatre 2007[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=EQEokEau6r4</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
