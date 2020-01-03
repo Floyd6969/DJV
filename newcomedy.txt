@@ -264,9 +264,9 @@ item>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORwhite]Lee Evans Monsters Live 2014[/COLOR]</title>
-<link>https://streamango.com/f/mnecellncqkbqast</link>
+<link>https://vidoza.net/8s8ojn3l3z7p.html</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
 <fanart></fanart>
 </item>
