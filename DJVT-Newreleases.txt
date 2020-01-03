@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Rambo: Last Blood (2019) (Extended)</title>
+<link>
+sublink:magnet:?xt=urn:btih:4ea369f772ee73a9a017b66db902266fd45baf0a&dn=Rambo.Last.Blood.2019.EXTENDED.1080p.BluRay.H264.AAC-RARBG#
+</link>
+<thumbnail>https://artworks.thetvdb.com/banners/movies/13659/posters/13659.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Frozen II (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:1f5459a65ed0f990566dad74ed79c0fc17e30e63&dn=Frozen.2.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
