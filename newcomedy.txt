@@ -145,6 +145,13 @@ item>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Mike Reid Live at the London Palladium[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Hd3r7qpASQI</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
 item>
 <title>[COLORwhite]Peter Kays Comedy Shuffle Ep 01[/COLOR]</title>
 <link>https://streamango.com/f/dbbklnsqntfcbsmc/pkcs1_mp4</link>
