@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Ana (2020)</title>
+<link>
+sublink:magnet:?xt=urn:btih:815ac62c44151e79e1b731025725aa8cbe8d7733&dn=Ana.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h41SILqFhYHuxRtWdxbr1myUtY7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Rambo: Last Blood (2019) (Extended)</title>
 <link>
 sublink:magnet:?xt=urn:btih:4ea369f772ee73a9a017b66db902266fd45baf0a&dn=Rambo.Last.Blood.2019.EXTENDED.1080p.BluRay.H264.AAC-RARBG#
