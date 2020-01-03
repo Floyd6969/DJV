@@ -69,8 +69,15 @@ item>
 </item>
 
 <item>
-<title>[COLORwhite]Peter Kays Car Share Bloopers[/COLOR]</title>
+<title>[COLORwhite]Peter Kay's Car Share Series 1 FULL Outtakes[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=VMNXNNbYPBE</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kay's Car Share Series 2 FULL Outtakes[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=VSBfQ4uhBZk</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
 <fanart></fanart>
 </item>
