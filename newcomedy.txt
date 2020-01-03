@@ -194,6 +194,13 @@ item>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Michael Mcintyre Newest 2017[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=z--7YmLr7nU</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
 item>
 <title>[COLORwhite]Peter Kays Comedy Shuffle Ep 01[/COLOR]</title>
 <link>https://streamango.com/f/dbbklnsqntfcbsmc/pkcs1_mp4</link>
