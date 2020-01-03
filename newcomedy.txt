@@ -89,6 +89,20 @@ item>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Al Murray on nations[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=1CS1cUIxBVg</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Al Murray The Pub Landlord - Beautiful British Tour O2[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=vD0Dyz4XQHs</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
 item>
 <title>[COLORwhite]Peter Kays Comedy Shuffle Ep 01[/COLOR]</title>
 <link>https://streamango.com/f/dbbklnsqntfcbsmc/pkcs1_mp4</link>
