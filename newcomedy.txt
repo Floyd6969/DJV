@@ -132,6 +132,13 @@ item>
 </item>
 
 <item>
+<title>[COLORwhite]Mock the Week: Frankie Boyle Scenes We'd Like To See Compilation[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=nbUqsZlDErg</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bottom.. The Funniest Live Blooper Ever (You May Well Piss Your Pants)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=O44q63oHYnY</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
