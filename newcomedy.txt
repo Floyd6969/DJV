@@ -125,6 +125,13 @@ item>
 </item>
 
 <item>
+<title>[COLORwhite]Mock The Week Too Hot For TV 3 Part 1[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=LPf9oJV_qDw</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bottom.. The Funniest Live Blooper Ever (You May Well Piss Your Pants)[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=O44q63oHYnY</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
