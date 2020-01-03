@@ -257,6 +257,13 @@ item>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Lee Evans Live In Scotland[/COLOR]</title>
+<link>https://vidoza.net/uutrzkhthuin.html</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
 item>
 <title>[COLORwhite]Lee Evans Monsters Live 2014[/COLOR]</title>
 <link>https://streamango.com/f/mnecellncqkbqast</link>
@@ -264,16 +271,16 @@ item>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORwhite]Lee Evans Live At The O2 Disc 1[/COLOR]</title>
-<link>https://streamango.com/f/mfpfakacffsscpoe</link>
+<link>https://vidoza.net/ttru9mc9avsm.html</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORwhite]Lee Evans Live At The O2 Disc 2[/COLOR]</title>
-<link>https://streamango.com/f/keofttpclrcrensf</link>
+<link>https://vidoza.net/04iyynztoxbn.html</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
 <fanart></fanart>
 </item>
