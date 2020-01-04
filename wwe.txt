@@ -6,7 +6,7 @@
 </item>
 
 <item>
-<title>[COLORblue][B]Dates Shown Are Written The UK Way DD-MM-YYYY[/B][/COLOR]</title>
+<title>[COLORblue][B]Dates Shown Are Written In UK Format DD-MM-YYYY[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
