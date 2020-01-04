@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Harriet (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:12f076d8341c79d0c8ab4158e1895415a4afe305&dn=Harriet.2019.720P.DVDScr.x264.AC3.HQ.Hive-CM8#
+</link>
+<thumbnail>https://i.imgur.com/vsub5lg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Ana (2020)</title>
 <link>
 sublink:magnet:?xt=urn:btih:815ac62c44151e79e1b731025725aa8cbe8d7733&dn=Ana.2019.1080p.WEB-DL.DD5.1.H264-FGT#
