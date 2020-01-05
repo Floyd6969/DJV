@@ -22,9 +22,18 @@ sublink:magnet:?xt=urn:btih:54e7954de9e6fcef22057078f6527528fc1124c7&dn=Star.War
 </item>
 
 <item>
-<title>Shameless S10 E09</title>
+<title>Shameless US S10 E09</title>
 <link>
 sublink:magnet:?xt=urn:btih:4452ef11c1c630a377b028c6fcdd40f405439b6f&dn=Shameless.US.S10E09.Shameless.O.Captain.My.Captain.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ray Donovan S07 E08</title>
+<link>
+sublink:magnet:?xt=urn:btih:4b943a319bc5a95e09e85dab2057cff0033cc8b9&dn=Ray.Donovan.S07E08.1080p.WEB.h264-TBS%5Brartv%5D#
 </link>
 <thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
 <fanart></fanart>
