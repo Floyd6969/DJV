@@ -67,9 +67,9 @@ sublink:magnet:?xt=urn:btih:ca3b1e617a7defb9d4aa13e3fdd058cfea88f966&dn=Big.Hero
 </item>
 
 <item>
-<title>The Voice UK S09 E01</title>
+<title>Harley Quinn S01 E06</title>
 <link>
-sublink:magnet:?xt=urn:btih:7e9bc3732f9f61ccc82101c94b8a3c2294dd59ae&dn=The.Voice.UK.S09E01.HDTV.x264-LiNKLE%5Brartv%5D#
+sublink:magnet:?xt=urn:btih:42c39b7cf9ddd7f2f57a28d8d977f243a1258b3b&dn=Harley.Quinn.S01E06.Youre.a.Damn.Good.Cop.Jim.Gordon.1080p.DCU.WEBRip.DD5.1.H264-NTb%5Brartv%5D#
 </link>
 <thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
 <fanart></fanart>
