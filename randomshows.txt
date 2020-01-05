@@ -38,3 +38,48 @@ sublink:magnet:?xt=urn:btih:4b943a319bc5a95e09e85dab2057cff0033cc8b9&dn=Ray.Dono
 <thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>The L Word: Generation Q S01 E05</title>
+<link>
+sublink:magnet:?xt=urn:btih:ab3dea3a40acea69c0eb41aa7bae0f82b3b8330c&dn=The.L.Word.Generation.Q.S01E05.iNTERNAL.1080p.WEB.h264-BAMBOOZLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Power S06 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:12eaaf89e685cdf068a813ada0b058e11bb2c1b9&dn=Power.2014.S06E11.1080p.WEB.h264-TBS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Big Hero 6: The Series S02 E19</title>
+<link>
+sublink:magnet:?xt=urn:btih:ca3b1e617a7defb9d4aa13e3fdd058cfea88f966&dn=Big.Hero.6.The.Series.S02E19.Hiro.the.Villain.720p.DSNY.WEBRip.AAC2.0.x264-LAZY%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Voice UK S09 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:7e9bc3732f9f61ccc82101c94b8a3c2294dd59ae&dn=The.Voice.UK.S09E01.HDTV.x264-LiNKLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Monster Shipwreck Mystery of the Mars</title>
+<link>
+sublink:magnet:?xt=urn:btih:ad6fade07970a85b890b6f7e44889c213105b7eb&dn=Monster.Shipwreck.Mystery.of.the.Mars.1080p.HDTV.x264.AAC.MVGroup.org.mp4#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
