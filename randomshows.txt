@@ -1,5 +1,5 @@
 <item>
-<title>[COLORblue][B]Debrid Needed For These Shows All 1080p And 4K[/B][/COLOR]</title>
+<title>[COLORblue][B]Debrid Needed For These Shows[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
