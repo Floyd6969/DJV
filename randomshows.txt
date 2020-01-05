@@ -83,3 +83,12 @@ sublink:magnet:?xt=urn:btih:ad6fade07970a85b890b6f7e44889c213105b7eb&dn=Monster.
 <thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>QI S17 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:bc8f87dbcb3c5efe5ac068687e54fa6dfe28f79a&dn=QI.S17E10.Quiet.1080p.HDTV.x264-LiNKLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
