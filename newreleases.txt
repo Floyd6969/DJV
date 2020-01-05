@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>Honeyland (2019)</title>
+<link>https://vidoza.net/9ubalym96a9w.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvO1rKTjohHjdYAZDkG8Ygz1KdC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Give Me Liberty (2019)</title>
+<link>https://vidoza.net/c3r390zk03nt.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Killer Camera Monsters (2020)</title>
 <link>https://vidoza.net/0hbuvb1f8pud.html</link>
 <thumbnail>https://i.imgur.com/x5pAn4W.jpg</thumbnail>
