@@ -1,0 +1,22 @@
+<item>
+<title>[COLORblue][B]Debrid Needed For These Shows All 1080p And 4K[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue][B]Sign Up For RD http://real-debrid.com/?id=2022612[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Star Wars Resistance S02 E14</title>
+<link>
+sublink:magnet:?xt=urn:btih:54e7954de9e6fcef22057078f6527528fc1124c7&dn=Star.Wars.Resistance.S02E14.1080p.WEB.h264-TBS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
