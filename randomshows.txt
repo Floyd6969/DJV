@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>Call the Midwife S09 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:bd219a02e1c38793f97f8d44dc1b168d7a783822&dn=Call.the.Midwife.S09E01.1080p.HDTV.H264-BRISK%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Simpsons S31 E11</title>
 <link>
 sublink:magnet:?xt=urn:btih:21c09fa7953f4e59c5747d14019f97aa13190e7b&dn=The.Simpsons.S31E11.1080p.WEB.x264-XLF%5Brartv%5D#
