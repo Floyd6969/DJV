@@ -104,6 +104,48 @@ item>
 </item>
 
 <item>
+<title>[COLORwhite]Phoenix Nights S01 E01[/COLOR]</title>
+<link>https://vidoza.net/lze05eqtjxh6.html</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Phoenix Nights S01 E02[/COLOR]</title>
+<link>https://vidoza.net/4eu4j4ge8u2i.html</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Phoenix Nights S01 E03[/COLOR]</title>
+<link>https://vidoza.net/k9e7tt9qqzhg.html</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Phoenix Nights S01 E04[/COLOR]</title>
+<link>https://vidoza.net/mu5tl7kjwisk.html</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Phoenix Nights S01 E05[/COLOR]</title>
+<link>https://vidoza.net/0mm9n179x9ry.html</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Phoenix Nights S01 E06[/COLOR]</title>
+<link>https://vidoza.net/aomlwpxf2dgv.html</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Al Murray on nations[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=1CS1cUIxBVg</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
@@ -197,48 +239,6 @@ item>
 <item>
 <title>[COLORwhite]Michael Mcintyre Newest 2017[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=z--7YmLr7nU</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 01[/COLOR]</title>
-<link>https://streamango.com/f/dbbklnsqntfcbsmc/pkcs1_mp4</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 02[/COLOR]</title>
-<link>https://streamango.com/f/aabmaostbeefqlot/pkcs2_mp4</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 03[/COLOR]</title>
-<link>https://streamango.com/f/frmrodlpfnpkalkl/pkcs3_mp4</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 04[/COLOR]</title>
-<link>https://streamango.com/f/ltkemqceslbmafnq/pkcs4_mp4</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 05[/COLOR]</title>
-<link>https://streamango.com/f/smscmsdqersklapp/pkcs5_mp4</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORwhite]Peter Kays Comedy Shuffle Ep 06[/COLOR]</title>
-<link>https://streamango.com/f/fncobknnnoqqtfmo/pkcs6_mp4</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
 <fanart></fanart>
 </item>
