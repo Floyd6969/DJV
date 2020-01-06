@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>The Simpsons S31 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:21c09fa7953f4e59c5747d14019f97aa13190e7b&dn=The.Simpsons.S31E11.1080p.WEB.x264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Family Guy S18 E10</title>
 <link>
 sublink:magnet:?xt=urn:btih:a736f1163dceb11319bff52d097729690272e6ff&dn=Family.Guy.S18E10.1080p.WEB.x264-TBS%5Brartv%5D#
