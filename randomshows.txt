@@ -94,9 +94,18 @@ sublink:magnet:?xt=urn:btih:bc8f87dbcb3c5efe5ac068687e54fa6dfe28f79a&dn=QI.S17E1
 </item>
 
 <item>
-<title>Doctor Who S12 E10</title>
+<title>Doctor Who S12 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:3f91b987b0da3f7abb36d6121b44923b9ed2279e&dn=Doctor.Who.2005.S12E01.Spyfall.Pt.1.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Doctor Who S12 E02</title>
+<link>
+sublink:magnet:?xt=urn:btih:3bf9bd9c8514e0188ef6862dd24aa496323897c6&dn=Doctor.Who.2005.S12E02.1080p.HDTV.H264-BRISK%5Brartv%5D#
 </link>
 <thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
 <fanart></fanart>
