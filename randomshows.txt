@@ -13,6 +13,33 @@
 </item>
 
 <item>
+<title>Shark Tank S11 E10</title>
+<link>
+sublink:magnet:?xt=urn:magnet:?xt=urn:btih:1be1b2fa94583df465b60d18096882075adcd930&dn=Shark.Tank.S11E10.720p.HDTV.x264-CROOKS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Doctor Who S12 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:3f91b987b0da3f7abb36d6121b44923b9ed2279e&dn=Doctor.Who.2005.S12E01.Spyfall.Pt.1.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Doctor Who S12 E02</title>
+<link>
+sublink:magnet:?xt=urn:btih:3bf9bd9c8514e0188ef6862dd24aa496323897c6&dn=Doctor.Who.2005.S12E02.1080p.HDTV.H264-BRISK%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Star Wars Resistance S02 E14</title>
 <link>
 sublink:magnet:?xt=urn:btih:a7f494391b4da568aa49c43387b15af22ffc4817&dn=Star.Wars.Resistance.S02E14.The.Mutiny.720p.DSNY.WEBRip.AAC2.0.x264-LAZY%5Brartv%5D#
@@ -93,20 +120,4 @@ sublink:magnet:?xt=urn:btih:bc8f87dbcb3c5efe5ac068687e54fa6dfe28f79a&dn=QI.S17E1
 <fanart></fanart>
 </item>
 
-<item>
-<title>Doctor Who S12 E01</title>
-<link>
-sublink:magnet:?xt=urn:btih:3f91b987b0da3f7abb36d6121b44923b9ed2279e&dn=Doctor.Who.2005.S12E01.Spyfall.Pt.1.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
-</link>
-<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>Doctor Who S12 E02</title>
-<link>
-sublink:magnet:?xt=urn:btih:3bf9bd9c8514e0188ef6862dd24aa496323897c6&dn=Doctor.Who.2005.S12E02.1080p.HDTV.H264-BRISK%5Brartv%5D#
-</link>
-<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
-<fanart></fanart>
-</item>
