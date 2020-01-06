@@ -60,7 +60,7 @@ sublink:magnet:?xt=urn:btih:3bf9bd9c8514e0188ef6862dd24aa496323897c6&dn=Doctor.W
 <item>
 <title>Star Wars Resistance S02 E14</title>
 <link>
-sublink:magnet:?xt=urn:btih:a7f494391b4da568aa49c43387b15af22ffc4817&dn=Star.Wars.Resistance.S02E14.The.Mutiny.720p.DSNY.WEBRip.AAC2.0.x264-LAZY%5Brartv%5D#
+sublink:magnet:?xt=urn:btih:312eea1ac42455cc40013b6428e89bb01debda59&dn=Star.Wars.Resistance.S02E14.The.Mutiny.1080p.HULU.WEBRip.DDP5.1.x264-AJP69%5Brartv%5D#
 </link>
 <thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
 <fanart></fanart>
