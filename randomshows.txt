@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>NCIS: Los Angeles S11 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:3dee067e4b8c63f0c262736aaa46e3d8c59ab84f&dn=NCIS.Los.Angeles.S11E12.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Shark Tank S11 E10</title>
 <link>
 sublink:magnet:?xt=urn:magnet:?xt=urn:btih:1be1b2fa94583df465b60d18096882075adcd930&dn=Shark.Tank.S11E10.720p.HDTV.x264-CROOKS%5Brartv%5D#
