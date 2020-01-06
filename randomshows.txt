@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>Agatha Raisin S02 E03</title>
+<link>
+sublink:magnet:?xt=urn:btih:09470e74890965f33aac8230b9cc2b4a6fa1658c&dn=Agatha.Raisin.S02E03.Agatha.Raisin.and.the.Curious.Curate.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Call the Midwife S09 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:bd219a02e1c38793f97f8d44dc1b168d7a783822&dn=Call.the.Midwife.S09E01.1080p.HDTV.H264-BRISK%5Brartv%5D#
