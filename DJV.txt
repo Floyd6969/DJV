@@ -50,6 +50,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7%20Cable.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
+
+<channel>
+<name>[COLOR gold][B]Latest TV Shows Debrid Required[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/randomshows.txt</externallink>
+<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+</channel>
  
 <channel>
 <name>[COLOR gold][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
@@ -128,11 +135,4 @@
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
-<channel>
-<name>[COLOR gold][B]Random TV Shows RD Needed (Test)[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/randomshows.txt</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
-</channel>
- 
 </channels>
