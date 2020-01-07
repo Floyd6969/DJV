@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Last Christmas (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:1dee03a06952a5bbda52c33079580721224084e6&dn=Last.Christmas.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Snatchers (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:73193b92f83d1152682c3e78a09699c69b0f6fa6&dn=Snatchers.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/gc7D7Zl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Harriet (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:12f076d8341c79d0c8ab4158e1895415a4afe305&dn=Harriet.2019.720P.DVDScr.x264.AC3.HQ.Hive-CM8</sublink>
