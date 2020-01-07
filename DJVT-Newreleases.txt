@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>77th Golden Globe Awards (2020)</title>
+<link>
+sublink:magnet:?xt=urn:btih:5270b1f24902176992b12d7399896e8880d5643d&dn=The.77th.Annual.Golden.Globe.Awards.2020.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://i.imgur.com/2vEYctf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Last Christmas (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:1dee03a06952a5bbda52c33079580721224084e6&dn=Last.Christmas.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT#
