@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>Last Christmas (2019)</title>
+<link>https://vidoza.net/kqabren6gcwi.html</link>
+<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Snatchers (2019)</title>
+<link>https://vidoza.net/gaa8g2dtdemy.html</link>
+<thumbnail>https://i.imgur.com/gc7D7Zl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Toxicity (2019)</title>
 <link>https://vidoza.net/di57k09xw8mz.html</link>
 <thumbnail>https://i.imgur.com/XVKgrr4.jpg</thumbnail>
