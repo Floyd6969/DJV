@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Togo (2019) 4K</title>
+<link>
+sublink:magnet:?xt=urn:btih:3e9ea8dbaa59f9fec654cda36e92b308e364b563&dn=Togo.2019.2160p.DSNP.WEBRip.x265.10bit.HDR.DDP5.1.Atmos-TrollUHD#
+</link>
+<thumbnail>https://i.imgur.com/4EojOsp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>77th Golden Globe Awards (2020)</title>
 <link>https://rapidgator.net/file/23ac4cc8d65bef6ace2a14a9c1556899</link>
 <thumbnail>https://i.imgur.com/2vEYctf.jpg</thumbnail>
