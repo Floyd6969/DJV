@@ -13,6 +13,42 @@
 </item>
 
 <item>
+<title>Manifest S02 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:dbed9180ccfcc9216aeabe1d1d38a883b5bb509d&dn=Manifest.S02E01.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>WWE Monday Night RAW 2020 01 06 720p</title>
+<link>
+sublink:magnet:?xt=urn:btih:32eb554998613a844d1bc7577c6c711539a32650&dn=WWE.Monday.Night.RAW.2020.01.06.720p.HDTV.x264-KYR%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Below Deck S07 E14</title>
+<link>
+sublink:magnet:?xt=urn:btih:ca007ab0388d6fba6eee8cacb6c9cc00fb007851&dn=Below.Deck.S07E14.Witch.Hunt.1080p.HDTV.x264-CRiMSON%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bull S04 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:f74420b048bc67e472449f154c6d6d2f20d16798&dn=Bull.2016.S04E11.1080p.HDTV.x264-LucidTV%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Agatha Raisin S02 E03</title>
 <link>
 sublink:magnet:?xt=urn:btih:09470e74890965f33aac8230b9cc2b4a6fa1658c&dn=Agatha.Raisin.S02E03.Agatha.Raisin.and.the.Curious.Curate.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES%5Brartv%5D#
