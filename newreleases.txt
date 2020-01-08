@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>Bloodhound (2019)</title>
+<link>https://vidoza.net/v4i5gx8cj9zw.html</link>
+<thumbnail>https://i.imgur.com/D9X8YHF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bulletproof 2 (2019)</title>
+<link>https://vidoza.net/4efcxcqkq0hl.html</link>
+<thumbnail>https://i.imgur.com/3Nax5wY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Cutoff (2019)</title>
 <link>https://vidoza.net/rx63tl2sxdw0.html</link>
 <thumbnail>https://i.imgur.com/SKUDYOu.jpg</thumbnail>
