@@ -13,6 +13,24 @@
 </item>
 
 <item>
+<title>Ink Master S13 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:97b2c6bd757dfd30953af877aa39d15926164526&dn=Ink.Master.S13E01.1080p.WEB.x264-KOMPOST%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Resident S03 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:d560dfc49e19950e50eb2d6589c491821a32aa87&dn=The.Resident.S03E11.WEBRip.x264-ION10#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Schitt's Creek S06 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:b21f7a3ae91073a0c6d10bc2ae5f22f10ee0fbd7&dn=Schitts.Creek.S06E01.720p.WEBRip.x264-CookieMonster%5Brartv%5D#
