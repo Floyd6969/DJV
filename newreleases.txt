@@ -20,6 +20,27 @@
 </item>
 
 <item>
+<title>Cutoff (2019)</title>
+<link>https://vidoza.net/rx63tl2sxdw0.html</link>
+<thumbnail>https://i.imgur.com/SKUDYOu.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spiral Farm (2019)</title>
+<link>https://vidoza.net/i36f28jfpjho.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BeLDjs4hzYdQmlh1H4Zwc949Fn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Six Days of Sistine (2019)</title>
+<link>https://vidoza.net/0jvz9ai0rhzk.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMetkCpQRIk32rvZS4CEOx9xiBP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Star Wars The Rise of Skywalker (2020)</title>
 <link>https://gounlimited.to/af4ne6vawd1f/starwarshctc.mp4</link>
 <thumbnail>https://i.imgur.com/q4g7fhB.jpg</thumbnail>
