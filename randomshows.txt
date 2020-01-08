@@ -13,6 +13,78 @@
 </item>
 
 <item>
+<title>Schitt's Creek S06 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:b21f7a3ae91073a0c6d10bc2ae5f22f10ee0fbd7&dn=Schitts.Creek.S06E01.720p.WEBRip.x264-CookieMonster%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Black-ish S06 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:470ab5ffe3a474d2246d2b238c00b09d14600207&dn=Blackish.S06E11.720p.HDTV.x264-KILLERS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Emergence S01 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:cafb7f6f381a3d09fdea47d58d135bd168f62d17&dn=Emergence.S01E10.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FBI: Most Wanted S01 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:a66d698516beba37a7e553d13db904457b68f44b&dn=FBI.Most.Wanted.S01E01.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NCIS S17 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:95ef4e80af72fe9fefb6c4e161b038dcd0cd6917&dn=NCIS.S17E11.iNTERNAL.1080p.WEB.x264-BAMBOOZLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FBI S02 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:a7a3929dbb2af4899b2f0113238d2f5d6eb15f59&dn=FBI.S02E11.iNTERNAL.1080p.WEB.H264-AMRAP%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Curse of Oak Island S07 E08</title>
+<link>
+sublink:magnet:?xt=urn:btih:1a60b126f33e7fea740189fe4c6d30cfbb18c8db&dn=The.Curse.of.Oak.Island.S07E08.720p.WEB.h264-TBS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Vanderpump Rules S08 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:6ed17e6bbc435c5fe197314f55d49722285f29f1&dn=Vanderpump.Rules.S08E01.WEB.x264-FLX%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Manifest S02 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:dbed9180ccfcc9216aeabe1d1d38a883b5bb509d&dn=Manifest.S02E01.720p.HDTV.x264-AVS%5Brartv%5D#
