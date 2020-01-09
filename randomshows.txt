@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>Burden of Truth S03 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:b173381bed9f3e1b781902ab409c940ca4f92ccd&dn=Burden.of.Truth.S03E01.1080p.WEBRip.x264-CookieMonster%5Brartv%5D0#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Vikings S06 E06</title>
 <link>
 sublink:magnet:?xt=urn:btih:262edc4ece2347f3c4d716ed068528558a8b3aeb&dn=Vikings.S06E06.Death.and.the.Serpent.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
