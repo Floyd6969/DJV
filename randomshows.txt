@@ -13,6 +13,51 @@
 </item>
 
 <item>
+<title>Chicago P.D. S07 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:91691846ba8a5ac677ba163a14bef8079bd571df&dn=Chicago.PD.S07E10.1080p.WEB.H264-METCON%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Criminal Minds S15 E02</title>
+<link>
+sublink:magnet:?xt=urn:btih:ab30a87b6b79a70831be9a8a77e3b10e8ad55a3b&dn=Criminal.Minds.S15E02.iNTERNAL.1080p.WEB.x264-BAMBOOZLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Criminal Minds S15 E02</title>
+<link>
+sublink:magnet:?xt=urn:btih:ab30a87b6b79a70831be9a8a77e3b10e8ad55a3b&dn=Criminal.Minds.S15E02.iNTERNAL.1080p.WEB.x264-BAMBOOZLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Forged in Fire S07 E16</title>
+<link>
+sublink:magnet:?xt=urn:btih:dcfda7952698418a84caf17d294e8b63a310d6a4&dn=Forged.in.Fire.S07E16.720p.WEB.h264-TBS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Modern Family S11 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:cefa759af9778106ba786cd21937ca16ce4deb75&dn=Modern.Family.S11E10.1080p.WEB.H264-METCON%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Ink Master S13 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:97b2c6bd757dfd30953af877aa39d15926164526&dn=Ink.Master.S13E01.1080p.WEB.x264-KOMPOST%5Brartv%5D#
