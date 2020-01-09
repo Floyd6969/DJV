@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Bombshell (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:6be434d1f4ebefa14c4051e4bb0543cf47a86205&dn=Bombshell.2019.720p.DVDScr.X264.AC3.HQ.Hive-CM8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/BwEcCCE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Jay and Silent Bob Reboot (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:adba51c0c9fc4bf0fcde21ebbe42a690f09f5dfd&dn=Jay.and.Silent.Bob.Reboot.2019.1080p.BluRay.x264-AAA</sublink>
