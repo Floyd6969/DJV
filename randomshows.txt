@@ -31,15 +31,6 @@ sublink:magnet:?xt=urn:btih:ab30a87b6b79a70831be9a8a77e3b10e8ad55a3b&dn=Criminal
 </item>
 
 <item>
-<title>Criminal Minds S15 E02</title>
-<link>
-sublink:magnet:?xt=urn:btih:ab30a87b6b79a70831be9a8a77e3b10e8ad55a3b&dn=Criminal.Minds.S15E02.iNTERNAL.1080p.WEB.x264-BAMBOOZLE%5Brartv%5D#
-</link>
-<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Forged in Fire S07 E16</title>
 <link>
 sublink:magnet:?xt=urn:btih:dcfda7952698418a84caf17d294e8b63a310d6a4&dn=Forged.in.Fire.S07E16.720p.WEB.h264-TBS%5Brartv%5D#
