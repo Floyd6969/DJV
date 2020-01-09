@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Jay and Silent Bob Reboot (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:adba51c0c9fc4bf0fcde21ebbe42a690f09f5dfd&dn=Jay.and.Silent.Bob.Reboot.2019.1080p.BluRay.x264-AAA</sublink>
+</link>
+<thumbnail>https://i.imgur.com/BwEcCCE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Countdown (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:b4f43c4a2cc8d428ec1912e3ec9fd37254f2a7ac&dn=Countdown.2019.1080p.BluRay.x264-AAA</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjcxMjM4MjgtNTEwMi00ZmE2LTlhMWUtMzQ4OWFmYmQwM2NlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>77th Golden Globe Awards (2020)</title>
 <link>https://rapidgator.net/file/23ac4cc8d65bef6ace2a14a9c1556899</link>
 <thumbnail>https://i.imgur.com/2vEYctf.jpg</thumbnail>
