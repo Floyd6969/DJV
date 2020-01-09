@@ -20,7 +20,7 @@
 <link>
 <sublink>magnet:?xt=urn:btih:6be434d1f4ebefa14c4051e4bb0543cf47a86205&dn=Bombshell.2019.720p.DVDScr.X264.AC3.HQ.Hive-CM8</sublink>
 </link>
-<thumbnail>https://i.imgur.com/BwEcCCE.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/m2lRASw.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
