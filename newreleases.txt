@@ -20,6 +20,27 @@
 </item>
 
 <item>
+<title>Where We Disappear (2019)</title>
+<link>https://gounlimited.to/pegyhfixekp8/Where.We.Disappear.2019.1080p.WEBRip.mp4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWE4MDc4OWUtZTAyZS00YjMxLWJkNDgtNDE3OTFkMTVjZThjXkEyXkFqcGdeQXVyNTk5NTQxNzA@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Mercenary (2019)</title>
+<link>https://uptobox.com/u3xyoivcxfll</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2FiOGE5OTUtYjJjZi00Y2M3LWExM2ItZDk2NTU3ZTE1YWQzXkEyXkFqcGdeQXVyMjEwNjUxOA@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Countdown (2019)</title>
+<link>https://gounlimited.to/wytn1i44antz/Countdown.2019.1080p.BluRay.mp4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjcxMjM4MjgtNTEwMi00ZmE2LTlhMWUtMzQ4OWFmYmQwM2NlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Jay and Silent Bob Reboot (2019)</title>
 <link>https://vidoza.net/7thjuhcm2jxw.html</link>
 <thumbnail>https://i.imgur.com/BwEcCCE.jpg</thumbnail>
