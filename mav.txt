@@ -60,6 +60,13 @@
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/latest%20tv%20shows.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
+
+<dir>
+<title>[COLORlime][B]Latest TV Shows Debrid Required[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/randomtvmav</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
  
 <dir>
 <name>[COLORlime][B]24/7 Movies And Shows[/B][/COLOR]</name>
