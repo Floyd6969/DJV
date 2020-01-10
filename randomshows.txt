@@ -13,6 +13,42 @@
 </item>
 
 <item>
+<title>Young Sheldon S03 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:56cd352c4f1a0e062090398862ba548a365b2979&dn=Young.Sheldon.S03E11.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Will & Grace S11 E06</title>
+<link>
+sublink:magnet:?xt=urn:btih:1afa7e947c44c4acd066e64837ae748cb7c6411f&dn=Will.and.Grace.S11E06.Performance.Anxiety.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Law & Order: Special Victims Unit S21 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:adaf7f3311942913dcd632fed179faeff51a8615&dn=Law.and.Order.SVU.S21E10.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Harley Quinn S01 E07</title>
+<link>
+sublink:magnet:?xt=urn:btih:7d6f0e1a4bb0d7a385b11c523ff67499b63aa46e&dn=Harley.Quinn.S01E07.1080p.WEB.H264-METCON%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Servant S01 E09</title>
 <link>
 sublink:magnet:?xt=urn:btih:4fb5c1dd9bf9775f98c23b80b45c18f4f4544a53&dn=Servant.S01E09.Jericho.1080p.WEB-DL.DDP5.1.H264-CasStudio%5Brartv%5D#
