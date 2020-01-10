@@ -13,9 +13,18 @@
 </item>
 
 <item>
-<title>Project Runway S18 E05</title>
+<title>Servant S01 E09</title>
 <link>
-sublink:magnet:?xt=urn:btih:09a09cda3845f6e801fd08a9b5895da3f2b4021e&dn=Project.Runway.S18E05.Sew.80s.1080p.HDTV.x264-CRiMSON%5Brartv%5D#
+sublink:magnet:?xt=urn:btih:4fb5c1dd9bf9775f98c23b80b45c18f4f4544a53&dn=Servant.S01E09.Jericho.1080p.WEB-DL.DDP5.1.H264-CasStudio%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Evil S01 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:31bab7bfe25775274163b6fe8db277c3bba2fb8d&dn=Evil.S01E11.1080p.HDTV.x264-LucidTV%5Brartv%5D#
 </link>
 <thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
 <fanart></fanart>
