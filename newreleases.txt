@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Scooby-Doo! Return to Zombie Island</title>
+<link>https://vidoza.net/k2t524omcb0q.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Agent Jade Black (2020)</title>
 <link>https://gounlimited.to/jki2cijwy6mw/Agent_Jade_Black_(2020)_720p_WEB_DL.mp4</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2Q5ZDM4NmQtZDRiOC00ZGM5LTkzYjgtNjJkMDhkYWJmZGQzXkEyXkFqcGdeQXVyNjk1NTUwMTg@._V1_.jpg</thumbnail>
