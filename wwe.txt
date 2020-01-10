@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>[COLORlime]WWE NXT UK 09-01-2020[/COLOR]</title>
+<link>https://vidoza.net/5xnbxc1z04w0.html</link>
+<thumbnail>https://i.imgur.com/IKTTO4Z.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORlime]AEW Dynamite 08-01-2020[/COLOR]</title>
 <link>https://vidoza.net/7vbfvflui10y.html</link>
 <thumbnail>https://i.imgur.com/AEj9iwt.jpg</thumbnail>
@@ -20,7 +27,7 @@
 </item>
 
 <item>
-<title>[COLORlime]WWE NXT UK 08-01-2020[/COLOR]</title>
+<title>[COLORlime]WWE NXT 08-01-2020[/COLOR]</title>
 <link>https://vidoza.net/e8vp6unkemkk.html</link>
 <thumbnail>https://i.imgur.com/IKTTO4Z.jpg</thumbnail>
 <fanart></fanart>
