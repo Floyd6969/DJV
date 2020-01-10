@@ -13,6 +13,33 @@
 </item>
 
 <item>
+<title>Project Runway S18 E05</title>
+<link>
+sublink:magnet:?xt=urn:btih:09a09cda3845f6e801fd08a9b5895da3f2b4021e&dn=Project.Runway.S18E05.Sew.80s.1080p.HDTV.x264-CRiMSON%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Project Runway S18 E05</title>
+<link>
+sublink:magnet:?xt=urn:btih:09a09cda3845f6e801fd08a9b5895da3f2b4021e&dn=Project.Runway.S18E05.Sew.80s.1080p.HDTV.x264-CRiMSON%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Good Place S04 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:03675d0527492a44afb60a1513737344c9238594&dn=The.Good.Place.S04E10.Youve.Changed.Man.1080p.NF.WEBRip.DDP5.1.x264-AJP69%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Burden of Truth S03 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:b173381bed9f3e1b781902ab409c940ca4f92ccd&dn=Burden.of.Truth.S03E01.1080p.WEBRip.x264-CookieMonster%5Brartv%5D0#
