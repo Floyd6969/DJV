@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>The Glorious Seven (2019)</title>
+<link>https://vidoza.net/6dig6p51ym79.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fmt0OQyxmoivrZ3XllRrTfpVC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Inherit the Viper (2020)</title>
+<link>https://vidoza.net/gt3pjkltublo.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaLEThX7CxKJuAQDnrZcecpzu0I.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Sonata (2018)</title>
 <link>https://gounlimited.to/wql1c1385fza/The.Sonata.2018.1080p.WEBRip.mp4</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOGM1YTc1NzgtMDI0Ni00NzE2LWJiNzItOGVlYTcwNjUxMWQzXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
