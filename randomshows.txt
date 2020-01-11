@@ -13,6 +13,69 @@
 </item>
 
 <item>
+<title>Grantchester S05 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:b0cb6992631a9aa2bcf89f6b149a798a8c836816&dn=Grantchester.S05E01.1080p.HDTV.H264-MTB%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Deadwater Fell S01 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:425bf40a10bd84af166f0170fa93a64c5a70bbd6&dn=Deadwater.Fell.S01E01.720p.HDTV.x264-MTB%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>QI S17 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:6a49d13357001e514ac1a49c6de70d3bd4a30177&dn=QI.S17E11.Quaffing.1080p.HDTV.x264-LiNKLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Graham Norton Show S26 E13</title>
+<link>
+sublink:magnet:?xt=urn:btih:621bec2e6923355c8b6ee0464c04f66eced46977&dn=The.Graham.Norton.Show.S26E13.1080p.HDTV.x264-LiNKLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hawaii Five-0 S10 E13</title>
+<link>
+sublink:magnet:?xt=urn:btih:e26111beb5096d8848384f3e5c649bd3bccebd51&dn=Hawaii.Five-0.2010.S10E13.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Magnum P.I. S02 E13</title>
+<link>
+sublink:magnet:?xt=urn:btih:075d843ba0fe30aea0cd881de63fd56f5dab1caa&dn=Magnum.P.I.2018.S02E13.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blue Bloods S10 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:e157f3a19386dfada0085d11d29bd42f92a68ed5&dn=Blue.Bloods.S10E12.720p.HDTV.x264-KILLERS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Young Sheldon S03 E11</title>
 <link>
 sublink:magnet:?xt=urn:btih:56cd352c4f1a0e062090398862ba548a365b2979&dn=Young.Sheldon.S03E11.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
