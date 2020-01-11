@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Fractured (2019)</title>
+<link>https://vidoza.net/kfkfw4mdn0pa.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Glorious Seven (2019)</title>
 <link>https://vidoza.net/6dig6p51ym79.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fmt0OQyxmoivrZ3XllRrTfpVC.jpg</thumbnail>
