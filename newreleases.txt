@@ -20,6 +20,27 @@
 </item>
 
 <item>
+<title>Cannabis VS Cancer (2019)</title>
+<link>https://vidoza.net/ngjwfj1owia4.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQDsJjndVVyyGlR6SGHsGQZDTvx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Midway (2019) 1080p</title>
+<link>https://vidoza.net/5avo5sum1z3b.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Midway (2019) 720p</title>
+<link>https://vidoza.net/5j25oou8mjlh.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Fractured (2019)</title>
 <link>https://vidoza.net/kfkfw4mdn0pa.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg</thumbnail>
