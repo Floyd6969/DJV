@@ -19,6 +19,13 @@
 <fanart></fanart>
 </item>
 
+item>
+<title>Burning Shadow (2020)</title>
+<link>https://vidoza.net/tz68kc87iuif.html</link>
+<thumbnail>https://i.imgur.com/TQ5Dqc7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>Patients of a Saint (2019)</title>
 <link>https://vidoza.net/tz68kc87iuif.html</link>
