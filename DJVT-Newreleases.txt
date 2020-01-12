@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Midway (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:22139BDDF60A082DB1512EE3F4D71E2D47147026&dn=Midway.2019.READNFO.1080p.HDRip.X264-EVO%5BTGx%5D+%E2%AD%90#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bombshell (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:6be434d1f4ebefa14c4051e4bb0543cf47a86205&dn=Bombshell.2019.720p.DVDScr.X264.AC3.HQ.Hive-CM8#
