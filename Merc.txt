@@ -74,6 +74,13 @@
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/new247.txt</link>
 <fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
 </dir>
+
+<dir>
+<name>[COLORwhite][B]Latest TV Shows Debrid Required[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/ewZqfXr.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/randomtvmav</link>
+<fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
+</dir>
  
 <dir>
 <name>[COLORwhite][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
