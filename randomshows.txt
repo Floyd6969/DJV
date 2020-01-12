@@ -13,6 +13,42 @@
 </item>
 
 <item>
+<title>Power US S06 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:2382a047a8fa2ed974c039d50f0e1e300b2a5bb8&dn=Power.2014.S06E12.720p.WEB.H264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Power US S06 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:2382a047a8fa2ed974c039d50f0e1e300b2a5bb8&dn=Power.2014.S06E12.720p.WEB.H264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shameless US S10 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:2764008d838c96b9480bb16e902886e8a5eac4e7&dn=Shameless.US.S10E10.1080p.WEB.H264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ray Donovan S07 E09</title>
+<link>
+sublink:magnet:?xt=urn:btih:edda54399eaa415a58853f8fac1fe272bf1d6bc8&dn=Ray.Donovan.S07E09.1080p.WEB.H264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Grantchester S05 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:b0cb6992631a9aa2bcf89f6b149a798a8c836816&dn=Grantchester.S05E01.1080p.HDTV.H264-MTB%5Brartv%5D#
