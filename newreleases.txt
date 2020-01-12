@@ -19,6 +19,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Spunk's Not Dead (2019)</title>
+<link>https://vidoza.net/wzoyfi69er8d.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJji496Gsc9pG5JY6HCVh7BDJRC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 item>
 <title>Burning Shadow (2020)</title>
 <link>https://vidoza.net/tz68kc87iuif.html</link>
