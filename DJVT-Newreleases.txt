@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Little Women (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:565419121a2256510b8760c3af67a9440f7737a5&dn=Little.Women.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Midway (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:22139BDDF60A082DB1512EE3F4D71E2D47147026&dn=Midway.2019.READNFO.1080p.HDRip.X264-EVO%5BTGx%5D+%E2%AD%90#
