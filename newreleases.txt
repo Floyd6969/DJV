@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>24 Hours In London (2020)</title>
+<link>https://vidoza.net/oig3d7zzwaoe.html</link>
+<thumbnail>https://i.imgur.com/mMcBkkL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Little Women (2019)</title>
 <link>https://vidoza.net/agi0ibvcoq5f.html</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
@@ -33,10 +40,10 @@
 <fanart></fanart>
 </item>
 
-item>
-<title>Burning Shadow (2020)</title>
-<link>https://vidoza.net/tz68kc87iuif.html</link>
-<thumbnail>https://i.imgur.com/TQ5Dqc7.jpg</thumbnail>
+<item>
+<title>The Deadbeats (2019)</title>
+<link>https://vidoza.net/q2zxjyb4kib6.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mC2nNKTLUpugJA3hQ6aowjTWxpX.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
