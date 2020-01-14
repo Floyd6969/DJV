@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Harriet (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:e9ea4a7038d3cded95bda3d1f09bc51e6bec5c1c&dn=Harriet.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://i.imgur.com/vsub5lg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Motherless Brooklyn (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:8935ffc887edcbf2195864f2e6ea4257322d1697&dn=Motherless.Brooklyn.2019.1080p.WEBRip.DD5.1.x264-CM#
