@@ -34,7 +34,14 @@
 </item>
 
 <item>
-<title>Terminator: Dark Fate (2019)</title>
+<title>Terminator: Dark Fate (2019) 1080p</title>
+<link>https://vidoza.net/ctvfpq9ki4wy.html</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Terminator: Dark Fate (2019) 720p</title>
 <link>https://vidoza.net/gtoh0eqwvb9c.html</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
 <fanart></fanart>
