@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Terminator: Dark Fate (2019)</title>
+<link>https://gounlimited.to/wqpn5rx8hxxk/Terminator.Dark.Fate.2019.1080p.WEB-DL.DD5.1.x264-CMRG.mkv</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>37 Teen (2019)</title>
 <link>https://vidoza.net/u33syvfxwyid.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaAYrNJpMimeWKYIWul3chKnGQF.jpg</thumbnail>
