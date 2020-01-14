@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>WWE Monday Night Raw 13-01-2020</title>
+<link>
+sublink:magnet:?xt=urn:btih:15ce5d9d55e24bd97d8585740c04039fe10ea195&dn=WWE.Monday.Night.RAW.2020.01.13.720p.HDTV.x264-KYR%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bob's Burgers S10 E11</title>
 <link>
 sublink:magnet:?xt=urn:btih:d626de2b7487906ac8761460338f0351187df3a9&dn=Bobs.Burgers.S10E11.WEB.x264-TRUMP%5Brartv%5D#
