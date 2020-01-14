@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Motherless Brooklyn (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:8935ffc887edcbf2195864f2e6ea4257322d1697&dn=Motherless.Brooklyn.2019.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://i.imgur.com/0KGVxRq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Terminator: Dark Fate (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:7c08a4a370655d75caa7dffe33cd8172b3b25845&dn=Terminator.Dark.Fate.2019.1080p.WEBRip.DD5.1.x264-CM#
