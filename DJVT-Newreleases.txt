@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Terminator: Dark Fate (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:7c08a4a370655d75caa7dffe33cd8172b3b25845&dn=Terminator.Dark.Fate.2019.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Little Women (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:565419121a2256510b8760c3af67a9440f7737a5&dn=Little.Women.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
