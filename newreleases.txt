@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title>Terminator: Dark Fate (2019) 1080p (Non US Link)</title>
+<title>Terminator: Dark Fate (2019) 1080p (VPN Needed US)</title>
 <link>https://uptobox.com/o24jqooaehna</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
 <fanart></fanart>
