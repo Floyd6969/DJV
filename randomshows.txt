@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>Manifest S02 E02</title>
+<link>
+sublink:magnet:?xt=urn:btih:6c958f6650a3075d46ce10178f08ed2c0e085cd1&dn=Manifest.S02E02.Grounded.1080p.AMZN.WEBRip.DDP5.1.x264-AJP69%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>WWE Monday Night Raw 13-01-2020</title>
 <link>
 sublink:magnet:?xt=urn:btih:15ce5d9d55e24bd97d8585740c04039fe10ea195&dn=WWE.Monday.Night.RAW.2020.01.13.720p.HDTV.x264-KYR%5Brartv%5D#
