@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>37 Teen (2019)</title>
+<link>https://vidoza.net/u33syvfxwyid.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaAYrNJpMimeWKYIWul3chKnGQF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Western Stars (2019)</title>
+<link>https://vidoza.net/s7qhdob1zbvv.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aT5lsPynkYhDgFZH48jdNLobnZY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Cyber Bride (2019)</title>
 <link>https://gounlimited.to/fyrh1dmq5z54/Cyber.Bride.2019.1080p.WEBRip.mp4</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTFmNmZmZDgtM2RhNS00MzYyLWFkZGYtMzI5MjA3YjczZGQxXkEyXkFqcGdeQXVyMjM4MTU4NjQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
