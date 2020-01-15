@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>Terminator: Dark Fate (2019) 1080p (VPN Needed US)</title>
+<title>Terminator: Dark Fate (2019) 1080p (May Need VPN In The US)</title>
 <link>https://uptobox.com/o24jqooaehna</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -148,6 +148,13 @@
 <item>
 <title>Midway (2019) 1080p</title>
 <link>https://vidoza.net/5avo5sum1z3b.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Midway (2019) 1080p (May Need VPN In The US)</title>
+<link>https://uptobox.com/rp40cvwonnj6</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</thumbnail>
 <fanart></fanart>
 </item>
