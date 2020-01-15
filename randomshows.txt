@@ -22,15 +22,6 @@ sublink:magnet:?xt=urn:btih:cf0d0a95f6dac9808308ea604e5444077113b7a6&dn=NCIS.S17
 </item>
 
 <item>
-<title>NCIS S17 E12</title>
-<link>
-sublink:magnet:?xt=urn:btih:cf0d0a95f6dac9808308ea604e5444077113b7a6&dn=NCIS.S17E12.1080p.WEB.x264-TBS%5Brartv%5D#
-</link>
-<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>FBI S02 E12</title>
 <link>
 sublink:magnet:?xt=urn:btih:cc04a6f6da221c18c88ba71fcef761718ccec267&dn=FBI.S02E12.1080p.WEB.x264-XLF%5Brartv%5D#
