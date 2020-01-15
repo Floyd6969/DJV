@@ -20,6 +20,20 @@
 </item>
 
 <item>
+<title>Girl Wired (2019)</title>
+<link>https://gounlimited.to/7fz5j1q3kop8/Girl.Wired.2019.1080p.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://i.imgur.com/mj1Kr2z.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Manhunt (2020)</title>
+<link>https://gounlimited.to/a7fx6bpp7xrn/Manhunt.2020.1080p.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://i.imgur.com/AyE9lgM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>2050 (2019)</title>
 <link>https://vidoza.net/v02b9kko3unf.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSKXdkm38HIMsZZNYJDIOtfOV9B.jpg</thumbnail>
