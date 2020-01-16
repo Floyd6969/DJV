@@ -103,3 +103,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e9ea4a7038d3cded95bda3d1f09bc51e6bec5c1c&
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Angels Fallen (2020)</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/1yyvhhj8qcd1 ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/jmyxki7myu1n/Angels.Fallen.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/eakbgj45n9la ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
+sublink:LISTSOURCE:https://jetload.net/e/PjQdkeBJjcuK ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
