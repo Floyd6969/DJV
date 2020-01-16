@@ -159,3 +159,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:adba51c0c9fc4bf0fcde21ebbe42a690f09f5dfd&
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDBiN2Y1NTMtYzc1ZS00ODlhLWI3NGYtY2M5ODA1ZmY4ZTdjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>The Irishman (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/7y2fhqde23fr ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jnc74korh3ii.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hhlctdm1aljw ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/9sw5u8wr8vs7/The.Irishman.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:d42e534e307bdc79a29c5ed4cf8949e6df5f8aa9&dn=The.Irishman.2019.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
