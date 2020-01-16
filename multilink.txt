@@ -46,6 +46,19 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:33b8d0a6f822e118bd20a5a592468f4a1ac86843&
 </item>
 
 <item>
+<title>Once Upon a Time... in Hollywood (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/upwhcro1h6kb ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/od7wfietwq5g/Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/brf35m3x4ftw ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:766714ee74547250405acf56aa92a1a2505c20fc&dn=Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x264-SPARKS ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:e2ac27108da5fbae3f7de51891d373850c39f9a6&dn=Once.Upon.a.Time.in.Hollywood.2019.2160p.BluRay.HEVC.DTS-HD.MA.7.1-TERMiNAL ::LISTNAME:[COLOR lime]UHD Debrid Link (90GB File)[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Midway (2019)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5j25oou8mjlh.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
