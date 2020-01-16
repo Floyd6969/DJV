@@ -157,7 +157,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:adba51c0c9fc4bf0fcde21ebbe42a690f09f5dfd&
 <title>The Irishman (2019)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/jnc74korh3ii.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/7y2fhqde23fr ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7y2fhqde23fr ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/hhlctdm1aljw ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://gounlimited.to/9sw5u8wr8vs7/The.Irishman.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:d42e534e307bdc79a29c5ed4cf8949e6df5f8aa9&dn=The.Irishman.2019.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
