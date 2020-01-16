@@ -20,19 +20,6 @@
 </item>
 
 <item>
-<title>Terminator: Dark Fate (2019)</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/gtoh0eqwvb9c.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/wpfl48rhrucs/Terminator.Dark.Fate.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/o24jqooaehna ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:7c08a4a370655d75caa7dffe33cd8172b3b25845&dn=Terminator.Dark.Fate.2019.1080p.WEBRip.DD5.1.x264-CM ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:c29eec61d1e76e333d5f53799cec3408a4f61bb7&dn=Terminator.Dark.Fate.2019.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69 ::LISTNAME:[COLOR lime]UHD Debrid Link[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Nation's Fire (2019)</title>
 <link>https://gounlimited.to/sfbjmnvlp1nj/Nations.Fire.2020.1080p.WEBRip.mp4</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc0NzRmNWMtOThlNi00M2E5LTlkMGEtZDhjMDlhZTIwZWFlXkEyXkFqcGdeQXVyMjA1MTk4Ng@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
