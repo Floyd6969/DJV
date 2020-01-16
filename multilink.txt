@@ -151,7 +151,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:AC8DF63C8E9D3AE615951A9ADBF00BBA9B54A106&
 <title>Jay and Silent Bob Reboot (2019)</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/wotw4nsp28eu ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/7thjuhcm2jxw.html ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7thjuhcm2jxw.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/e8h64i64rztn ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
 sublink:LISTSOURCE:https://gounlimited.to/a4fqnltej5za/Jay.and.Silent.Bob.Reboot.2019.1080p.BluRay.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:adba51c0c9fc4bf0fcde21ebbe42a690f09f5dfd&dn=Jay.and.Silent.Bob.Reboot.2019.1080p.BluRay.x264-AAA ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
