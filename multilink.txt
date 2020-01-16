@@ -1,4 +1,25 @@
 <item>
+<title>[COLORblue][B]**All The Latest Blockbusters Multi Link**[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLORblue][B]A VPN May Be Needed In Some Parts Of The U.S.[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLORblue][B]Sign Up For RD http://real-debrid.com/?id=2022612[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Terminator: Dark Fate (2019)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gtoh0eqwvb9c.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
