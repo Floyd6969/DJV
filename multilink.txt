@@ -61,7 +61,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:34b282e75abdd85e6f109ba13387566f75494d13&
 <item>
 <title>Midway (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/5j25oou8mjlh.html ::LISTNAME:[COLOR blue]HD 720p/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5j25oou8mjlh.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/5avo5sum1z3b.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/rp40cvwonnj6 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:22139BDDF60A082DB1512EE3F4D71E2D47147026&dn=Midway.2019.READNFO.1080p.HDRip.X264-EVO%5BTGx%5D+%E2%AD%90 ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
