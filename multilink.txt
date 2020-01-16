@@ -196,3 +196,15 @@ sublink:LISTSOURCE:https://gounlimited.to/x0fzqtf58m6s/Rise.of.the.Footsoldier.M
 <fanart></fanart>
 </item>
 </item>
+
+<item>
+<title>Three Christs (2017)</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/i2lgrvr4qy1y ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2hgt2dxyhzp6::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/yv0e5ynchqhv/Three.Christs.2017.1080p.WEBRip.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:88d1b3e638df7f1b78aa8fa8ec5edb6d1f8dc26a&dn=Three.Christs.2017.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2JmZGJiYmYtNTcyNC00ODY4LTg5YWUtOTFlNWVhZDRlNDM1XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
