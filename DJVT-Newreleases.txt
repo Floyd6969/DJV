@@ -36,7 +36,7 @@ sublink:magnet:?xt=urn:btih:8935ffc887edcbf2195864f2e6ea4257322d1697&dn=Motherle
 <item>
 <title>Terminator: Dark Fate (2019) 4K</title>
 <link>
-sublink:magnet:?xt=urn:btih:42C11BE6B858B5BF4283360A20391B62CFEB1EF7&dn=Terminator+Dark+Fate+2019.UHD.2160p.SDR.AMZN.WEBRip.DDP.5.1.HEVC-DDR%5BEtHD%5D#
+sublink:magnet:?xt=urn:btih:c29eec61d1e76e333d5f53799cec3408a4f61bb7&dn=Terminator.Dark.Fate.2019.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
 <fanart></fanart>
