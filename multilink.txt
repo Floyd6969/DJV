@@ -13,13 +13,6 @@
 </item>
 
 <item>
-<title>[COLORblue][B]Non Geo Links Will Work Anywhere[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
 <title>[COLORblue][B]Sign Up For RD http://real-debrid.com/?id=2022612[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
@@ -29,11 +22,11 @@
 <item>
 <title>Terminator: Dark Fate (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/gtoh0eqwvb9c.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/wpfl48rhrucs/Terminator.Dark.Fate.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/o24jqooaehna ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:7c08a4a370655d75caa7dffe33cd8172b3b25845&dn=Terminator.Dark.Fate.2019.1080p.WEBRip.DD5.1.x264-CM ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:c29eec61d1e76e333d5f53799cec3408a4f61bb7&dn=Terminator.Dark.Fate.2019.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69 ::LISTNAME:[COLOR lime]UHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gtoh0eqwvb9c.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/wpfl48rhrucs/Terminator.Dark.Fate.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/o24jqooaehna ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:7c08a4a370655d75caa7dffe33cd8172b3b25845&dn=Terminator.Dark.Fate.2019.1080p.WEBRip.DD5.1.x264-CM ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:c29eec61d1e76e333d5f53799cec3408a4f61bb7&dn=Terminator.Dark.Fate.2019.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69 ::LISTNAME:[COLOR red]UHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -42,11 +35,11 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:c29eec61d1e76e333d5f53799cec3408a4f61bb7&
 <item>
 <title>Joker (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/5l6ngkqolakm.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/eqp9c12vvn1k/Joker.2019.1080p.BluRay.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ansmkzg1da1t ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:a1970cffb3bc341a7c66bf1afc7436f147df3517&dn=Joker.2019.1080p.WEB-DL.DD5.1.H264-FGT ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:33b8d0a6f822e118bd20a5a592468f4a1ac86843&dn=Joker.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-AAAUHD ::LISTNAME:[COLOR lime]UHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5l6ngkqolakm.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/eqp9c12vvn1k/Joker.2019.1080p.BluRay.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ansmkzg1da1t ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:a1970cffb3bc341a7c66bf1afc7436f147df3517&dn=Joker.2019.1080p.WEB-DL.DD5.1.H264-FGT ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:33b8d0a6f822e118bd20a5a592468f4a1ac86843&dn=Joker.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-AAAUHD ::LISTNAME:[COLOR red]UHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -55,11 +48,11 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:33b8d0a6f822e118bd20a5a592468f4a1ac86843&
 <item>
 <title>Once Upon a Time... in Hollywood (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/upwhcro1h6kb ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/od7wfietwq5g/Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/brf35m3x4ftw ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:b4351805ca3024017f5c532aa63a9ff0b438f297&dn=Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.H264.AAC-RARBG ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:34b282e75abdd85e6f109ba13387566f75494d13&dn=Once.Upon.a.Time.in.Hollywood.2019.2160p.UHD.BluRay.X265.10bit.HDR.DTS-HD.MA.7.1-TERMiNAL ::LISTNAME:[COLOR lime]UHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/upwhcro1h6kb ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/od7wfietwq5g/Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/brf35m3x4ftw ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:b4351805ca3024017f5c532aa63a9ff0b438f297&dn=Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.H264.AAC-RARBG ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:34b282e75abdd85e6f109ba13387566f75494d13&dn=Once.Upon.a.Time.in.Hollywood.2019.2160p.UHD.BluRay.X265.10bit.HDR.DTS-HD.MA.7.1-TERMiNAL ::LISTNAME:[COLOR red]UHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -68,10 +61,10 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:34b282e75abdd85e6f109ba13387566f75494d13&
 <item>
 <title>Midway (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/5j25oou8mjlh.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/5avo5sum1z3b.html ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/rp40cvwonnj6 ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:22139BDDF60A082DB1512EE3F4D71E2D47147026&dn=Midway.2019.READNFO.1080p.HDRip.X264-EVO%5BTGx%5D+%E2%AD%90 ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5j25oou8mjlh.html ::LISTNAME:[COLOR blue]HD 720p/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5avo5sum1z3b.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rp40cvwonnj6 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:22139BDDF60A082DB1512EE3F4D71E2D47147026&dn=Midway.2019.READNFO.1080p.HDRip.X264-EVO%5BTGx%5D+%E2%AD%90 ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</thumbnail>
 <fanart></fanart>
@@ -80,10 +73,10 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:22139BDDF60A082DB1512EE3F4D71E2D47147026&
 <item>
 <title>Last Christmas (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/kqabren6gcwi.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/kqabren6gcwi.html ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/v4n5kjl5phfr ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:1dee03a06952a5bbda52c33079580721224084e6&dn=Last.Christmas.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kqabren6gcwi.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kqabren6gcwi.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/v4n5kjl5phfr ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:1dee03a06952a5bbda52c33079580721224084e6&dn=Last.Christmas.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
 <fanart></fanart>
@@ -92,9 +85,9 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:1dee03a06952a5bbda52c33079580721224084e6&
 <item>
 <title>Sorry We Missed You (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/mex9okm6sgxr ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/4353cwn91b4h/Sorry.We.Missed.You.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3dj55kyf6fji ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/mex9okm6sgxr ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/4353cwn91b4h/Sorry.We.Missed.You.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3dj55kyf6fji ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDUzYWI5NzMtMjU4Yi00ZWY3LTgyOGYtNjkwOTM3MmM0NzAyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -103,10 +96,10 @@ sublink:LISTSOURCE:https://uptobox.com/3dj55kyf6fji ::LISTNAME:[COLOR lime]FHD N
 <item>
 <title>Motherless Brooklyn (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/ve22v00wvjea ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/wt2ic0qjd2yk/Motherless.Brooklyn.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/rvhlcxbhd5ft ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:8935ffc887edcbf2195864f2e6ea4257322d1697&dn=Motherless.Brooklyn.2019.1080p.WEBRip.DD5.1.x264-CM ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ve22v00wvjea ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/wt2ic0qjd2yk/Motherless.Brooklyn.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rvhlcxbhd5ft ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:8935ffc887edcbf2195864f2e6ea4257322d1697&dn=Motherless.Brooklyn.2019.1080p.WEBRip.DD5.1.x264-CM ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzQ0Mjk1YjItNWI1Ny00NWE2LWFlYTAtYjViY2YzMTVlOGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -115,10 +108,10 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8935ffc887edcbf2195864f2e6ea4257322d1697&
 <item>
 <title>Harriet (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/em7x2evadz1l ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/s5pp4ifqpk4q/Harriet.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/w12rkxsqbst9 ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:e9ea4a7038d3cded95bda3d1f09bc51e6bec5c1c&dn=Harriet.2019.1080p.WEB-DL.DD5.1.H264-FGT ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/em7x2evadz1l ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/s5pp4ifqpk4q/Harriet.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/w12rkxsqbst9 ::LISTNAME:[COLOR lime]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:e9ea4a7038d3cded95bda3d1f09bc51e6bec5c1c&dn=Harriet.2019.1080p.WEB-DL.DD5.1.H264-FGT ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -127,9 +120,9 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e9ea4a7038d3cded95bda3d1f09bc51e6bec5c1c&
 <item>
 <title>Angels Fallen (2020)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/1yyvhhj8qcd1 ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/jmyxki7myu1n/Angels.Fallen.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/eakbgj45n9la ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1yyvhhj8qcd1 ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/jmyxki7myu1n/Angels.Fallen.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/eakbgj45n9la ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -138,10 +131,10 @@ sublink:LISTSOURCE:https://uptobox.com/eakbgj45n9la ::LISTNAME:[COLOR lime]FHD N
 <item>
 <title>Togo (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/dbthi3wi3ung ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/j6znsf411y7x ::LISTNAME:[COLOR lime]HD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/8jrinqob66sh/Togo.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:AC8DF63C8E9D3AE615951A9ADBF00BBA9B54A106&dn=Togo+%282019%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dbthi3wi3ung ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/j6znsf411y7x ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/8jrinqob66sh/Togo.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:AC8DF63C8E9D3AE615951A9ADBF00BBA9B54A106&dn=Togo+%282019%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjJkYTc5N2UtMGRlMC00M2FmLTk0ZWMtOTYxNDUwNjI2YzljXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -150,11 +143,11 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:AC8DF63C8E9D3AE615951A9ADBF00BBA9B54A106&
 <item>
 <title>Jay and Silent Bob Reboot (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/wotw4nsp28eu ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/7thjuhcm2jxw.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/e8h64i64rztn ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/a4fqnltej5za/Jay.and.Silent.Bob.Reboot.2019.1080p.BluRay.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:adba51c0c9fc4bf0fcde21ebbe42a690f09f5dfd&dn=Jay.and.Silent.Bob.Reboot.2019.1080p.BluRay.x264-AAA ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wotw4nsp28eu ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7thjuhcm2jxw.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/e8h64i64rztn ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/a4fqnltej5za/Jay.and.Silent.Bob.Reboot.2019.1080p.BluRay.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:adba51c0c9fc4bf0fcde21ebbe42a690f09f5dfd&dn=Jay.and.Silent.Bob.Reboot.2019.1080p.BluRay.x264-AAA ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDBiN2Y1NTMtYzc1ZS00ODlhLWI3NGYtY2M5ODA1ZmY4ZTdjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -163,11 +156,11 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:adba51c0c9fc4bf0fcde21ebbe42a690f09f5dfd&
 <item>
 <title>The Irishman (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/7y2fhqde23fr ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/jnc74korh3ii.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/hhlctdm1aljw ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/9sw5u8wr8vs7/The.Irishman.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:d42e534e307bdc79a29c5ed4cf8949e6df5f8aa9&dn=The.Irishman.2019.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7y2fhqde23fr ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jnc74korh3ii.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hhlctdm1aljw ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/9sw5u8wr8vs7/The.Irishman.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:d42e534e307bdc79a29c5ed4cf8949e6df5f8aa9&dn=The.Irishman.2019.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -176,10 +169,10 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:d42e534e307bdc79a29c5ed4cf8949e6df5f8aa9&
 <item>
 <title>Ford v Ferrari (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/vhec0hti0jdv ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/sslan6i9udu0.html ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/swjl8jozzfsn ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:0d8e21c721c63f224857b1daf4cd408955f1b63f&dn=Ford.V.Ferrari.2019.1080p.DVDScr.X264.AC3.SHQ.Hive-CM8 ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vhec0hti0jdv ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sslan6i9udu0.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/swjl8jozzfsn ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:0d8e21c721c63f224857b1daf4cd408955f1b63f&dn=Ford.V.Ferrari.2019.1080p.DVDScr.X264.AC3.SHQ.Hive-CM8 ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -187,10 +180,10 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:0d8e21c721c63f224857b1daf4cd408955f1b63f&
 <item>
 <title>Rise of the Footsoldier: Marbella (2019)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/2jx4hzeoxx21 ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/pnbzmgmxm2ik.html ::LISTNAME:[COLOR lime]HD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/snqgqkb7khpc ::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/x0fzqtf58m6s/Rise.of.the.Footsoldier.Marbella.2019.1080p.WEBRip.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2jx4hzeoxx21 ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pnbzmgmxm2ik.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/snqgqkb7khpc ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/x0fzqtf58m6s/Rise.of.the.Footsoldier.Marbella.2019.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzkzN2QyMWQtYjQ3NC00NTYxLWI5YjctZDVjNGYxNzJkMTU2XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -200,10 +193,10 @@ sublink:LISTSOURCE:https://gounlimited.to/x0fzqtf58m6s/Rise.of.the.Footsoldier.M
 <item>
 <title>Three Christs (2017)</title>
 <link>
-sublink:LISTSOURCE:https://vidlox.me/i2lgrvr4qy1y ::LISTNAME:[COLOR lime]SD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/2hgt2dxyhzp6::LISTNAME:[COLOR lime]FHD Non US Link[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/yv0e5ynchqhv/Three.Christs.2017.1080p.WEBRip.mp4 ::LISTNAME:[COLOR lime]FHD Non Geo Link[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:88d1b3e638df7f1b78aa8fa8ec5edb6d1f8dc26a&dn=Three.Christs.2017.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR lime]FHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/i2lgrvr4qy1y ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2hgt2dxyhzp6::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/yv0e5ynchqhv/Three.Christs.2017.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:88d1b3e638df7f1b78aa8fa8ec5edb6d1f8dc26a&dn=Three.Christs.2017.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BY2JmZGJiYmYtNTcyNC00ODY4LTg5YWUtOTFlNWVhZDRlNDM1XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
