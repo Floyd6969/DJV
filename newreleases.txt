@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>The Host (2020)</title>
+<link>https://gounlimited.to/dnh7rhww4moq/The.Host.2020.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/on7pQgmvzXPx1dXufudom0yc3T7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>A Hidden Life (2019) (Screener)</title>
 <link>https://vidoza.net/79v374amevgx.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg</thumbnail>
