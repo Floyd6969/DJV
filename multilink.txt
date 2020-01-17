@@ -77,6 +77,17 @@ sublink:LISTSOURCE:https://gounlimited.to/anhqagrcjmlg/Queen.And.Slim.2019.Query
 </item>
 
 <item>
+<title>The Wave (2019)</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/5ptgp8sli7eh ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lir0vjjpit9f ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/vuto5lh3kje3/The.Wave.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDc0ZTIzZjEtNWIzZS00MTI0LWI5ZDQtMDg4Y2M1OWQ1YmQ5XkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Host (2020)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/k7g9gj9h993j.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
