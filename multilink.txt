@@ -146,7 +146,7 @@ sublink:LISTSOURCE:https://vidlox.me/1yyvhhj8qcd1 ::LISTNAME:[COLOR lime]SD Link
 sublink:LISTSOURCE:https://gounlimited.to/jmyxki7myu1n/Angels.Fallen.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/eakbgj45n9la ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjg1OTcxMTItOTM1Yy00NTEwLWE0YmItODhjYmJjOTJhMTViXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
