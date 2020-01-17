@@ -77,6 +77,17 @@ sublink:LISTSOURCE:https://gounlimited.to/anhqagrcjmlg/Queen.And.Slim.2019.Query
 </item>
 
 <item>
+<title>Intrigo Death of an Author (2019)</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/odpd2sobwqtr ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/hjybcmxra7vc ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/yfhzqq6b864n/Intrigo.Death.Of.An.Author.2018.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/HM3Zzzs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Wave (2019)</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/5ptgp8sli7eh ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
