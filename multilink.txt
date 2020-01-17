@@ -84,7 +84,7 @@ sublink:LISTSOURCE:https://uptobox.com/dmy4ez9brxa9 ::LISTNAME:[COLOR yellow]FHD
 sublink:LISTSOURCE:https://vidoza.net/qrpvh8f63izh.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://gounlimited.to/jbqm1lzegx29/Dark.Waters.2019.1080p.BluRay.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/on7pQgmvzXPx1dXufudom0yc3T7.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJ6YEbrjFvToa5c7IiUqILoB6Je.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
