@@ -77,6 +77,17 @@ sublink:LISTSOURCE:https://gounlimited.to/anhqagrcjmlg/Queen.And.Slim.2019.Query
 </item>
 
 <item>
+<title>Alone (2020)</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/f6ykue2576g5 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tw0n6upn83yc ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/uo1sigm3grmb/Alone.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmFiNTZjMmYtMTcyZS00MGQ5LWEwMDYtMGI5MGJiMjUwMDZhXkEyXkFqcGdeQXVyNzQ3MDQzMA@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Intrigo Death of an Author (2019)</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/odpd2sobwqtr ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
