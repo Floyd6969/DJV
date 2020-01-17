@@ -66,6 +66,18 @@ sublink:LISTSOURCE:https://gounlimited.to/bmx25k24rw5s/Color_Out_of_Space.2019_S
 </item>
 
 <item>
+<title>The Host (2020)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/k7g9gj9h993j.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2f20vu784lx3 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/80seyu32c6he.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/dnh7rhww4moq/The.Host.2020.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/on7pQgmvzXPx1dXufudom0yc3T7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Disturbing the Peace (2020)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ya0vx28y64jj.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
