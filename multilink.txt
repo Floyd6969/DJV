@@ -66,6 +66,17 @@ sublink:LISTSOURCE:https://gounlimited.to/bmx25k24rw5s/Color_Out_of_Space.2019_S
 </item>
 
 <item>
+<title>Queen & Slim (2019) (Screener)</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/h2hokpblhfu9 ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9cjuvh2cj33j ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/anhqagrcjmlg/Queen.And.Slim.2019.QuerySCR_x264-TOPKEK.mp4 ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIzYmJkZmEtM2RkZS00MDA4LTg4NjAtOGRkN2EwZmFmMWE4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Host (2020)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/k7g9gj9h993j.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
