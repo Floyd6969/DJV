@@ -31,6 +31,17 @@ sublink:LISTSOURCE:https://vidlox.me/2324dkbdztua ::LISTNAME:[COLOR gold]Screene
 </item>
 
 <item>
+<title>A Hidden Life (2019) (Screener)</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/8ln89ctims8w ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ibq9w3bh57ww ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/79v374amevgx.html ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Richard Jewell (2019) (Screener)</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/fwepaylsbvtd ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
