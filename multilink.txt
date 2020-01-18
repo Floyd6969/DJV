@@ -77,6 +77,19 @@ sublink:LISTSOURCE:https://gounlimited.to/anhqagrcjmlg/Queen.And.Slim.2019.Query
 </item>
 
 <item>
+<title>A Fall From Grace (2020)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/q4jnl4xky9v5.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/va2mh5m41iv4 ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/i993y2x0mvk2 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/i993y2x0mvk2 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/bppx9tbxzqio/A.Fall.from.Grace.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Epiphany (2019)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ru8gyys2iqqz.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
