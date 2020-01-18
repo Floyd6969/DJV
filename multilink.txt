@@ -102,17 +102,6 @@ sublink:LISTSOURCE:https://gounlimited.to/6es4yccw2bzq/Epiphany.2019.1080p.WEBRi
 </item>
 
 <item>
-<title>A Fall from Grace (2020)</title>
-<link>
-sublink:LISTSOURCE:https://uptobox.com/sp6eqamo9dz3 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/vwvk1733hyr3 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/rzgf0wz3drwx/A.Fall.from.Grace.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDM2YjliZDUtZWUzYi00ZDY4LWJlMTEtZGZiZDViZjJiMTllXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Dark Waters (2019)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5yaq8ugkm9vg.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
