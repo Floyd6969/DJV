@@ -88,6 +88,17 @@ sublink:LISTSOURCE:https://vidlox.me/in1lr4vphqg3 ::LISTNAME:[COLOR gold]Screene
 </item>
 
 <item>
+<title>Waves (2019) (Screener)</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/byadr8sr7aes ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/iwcwnkj71hve.html ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/byadr8sr7aes ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>A Fall From Grace (2020)</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/q4jnl4xky9v5.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
