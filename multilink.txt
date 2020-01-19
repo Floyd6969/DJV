@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>[COLORred][B]New Page Please Re-link Any Shortcuts To Keep Updated[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>1917 (2019) (Screener)</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/yxezso4kckig ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
