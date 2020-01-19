@@ -13,6 +13,69 @@
 </item>
 
 <item>
+<title>Power S06 E13</title>
+<link>
+sublink:magnet:?xt=urn:btih:fdf84d65c7fbcc951f2a6a91bc1ae066c9008aa5&dn=Power.2014.S06E13.1080p.WEB.h264-TBS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Power S06 E13</title>
+<link>
+sublink:magnet:?xt=urn:btih:fdf84d65c7fbcc951f2a6a91bc1ae066c9008aa5&dn=Power.2014.S06E13.1080p.WEB.h264-TBS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shameless S10 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:8cc2c87d6d8a70824b1ad5c15a5c51d448c64ae6&dn=Shameless.US.S10E11.1080p.WEB.h264-TBS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ray Donovan S07 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:5c81f70b5fe7e6656c6e5f30412f362379d8c56f&dn=Ray.Donovan.S07E10.Youll.Never.Walk.Alone.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SpongeBob SquarePants S12 E26</title>
+<link>
+sublink:magnet:?xt=urn:btih:c525b291054dd40e88f6769547b1d7fda1b0a1dc&dn=SpongeBob.SquarePants.S12E26.Escape.from.Glove.World.1080p.AMZN.WEBRip.DDP2.0.x264-TVSmash%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UFC 246 on ESPN 1080p</title>
+<link>
+sublink:magnet:?xt=urn:btih:e626f68fd943b86da9111624836867ad8627e6b9&dn=UFC.246.1080p.HDTV.x264-VERUM%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UFC 246 on ESPN 720p</title>
+<link>
+sublink:magnet:?xt=urn:btih:90d40f8e809d3765dc7fc9f5c49b8f02b09941c6&dn=UFC.246.720p.HDTV.x264-VERUM%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Evil S01 E12</title>
 <link>
 sublink:magnet:?xt=urn:btih:0da71f119e9ede2aec44e146c89e8023e3289447&dn=Evil.S01E12.1080p.HDTV.x264-LucidTV%5Brartv%5D#
