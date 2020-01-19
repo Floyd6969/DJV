@@ -22,15 +22,6 @@ sublink:magnet:?xt=urn:btih:fdf84d65c7fbcc951f2a6a91bc1ae066c9008aa5&dn=Power.20
 </item>
 
 <item>
-<title>Power S06 E13</title>
-<link>
-sublink:magnet:?xt=urn:btih:fdf84d65c7fbcc951f2a6a91bc1ae066c9008aa5&dn=Power.2014.S06E13.1080p.WEB.h264-TBS%5Brartv%5D#
-</link>
-<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Shameless S10 E11</title>
 <link>
 sublink:magnet:?xt=urn:btih:8cc2c87d6d8a70824b1ad5c15a5c51d448c64ae6&dn=Shameless.US.S10E11.1080p.WEB.h264-TBS%5Brartv%5D#
