@@ -16,6 +16,51 @@
 </item>
 
 <item>
+<title>Waves (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:fc7c1899320ddf63254fa93f17850019dacbba76&dn=Waves.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Doctor Sleep (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:501b40c5ea4879007b031239570e32bff2b6cd4a&dn=Doctor.Sleep.2019.DC.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Last Christmas (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:9c9b8a4f27ae22b8f0246c791ba969613e136abd&dn=Last.Christmas.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Good Liar (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:b7f37e39c293596107eec294012fcf6781ae575c&dn=The.Good.Liar.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2VhNTY5ZTUtYzc1NC00NjUyLWI1NDQtYWE3YmJlNjQ3OGVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Playing with Fire (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:a74de40f1d2e5b83f20fbc55f6583e75ccd36eab&dn=Playing.with.Fire.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTg4YjQyMDAtZWFiYi00OTMzLWJiYTgtMzRiNWMzMTAzMDQ0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Harriet (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:e9ea4a7038d3cded95bda3d1f09bc51e6bec5c1c&dn=Harriet.2019.1080p.WEB-DL.DD5.1.H264-FGT#
