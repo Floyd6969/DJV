@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Just Mercy (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:3298f9299f1a2e08c23c6f202ddfa3d576887403&dn=Just.Mercy.2019.720p.SCREENER.X264.AC3.HQ.Hive-CM8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/TVySfQy.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Waves (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:fc7c1899320ddf63254fa93f17850019dacbba76&dn=Waves.2019.1080p.WEBRip.x264-RARBG</sublink>
