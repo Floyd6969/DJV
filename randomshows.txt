@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>Star Trek: Picard S01 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:9bd0772c3bd73fb2f9912a5e4af430003ef05962&dn=Star.Trek.Picard.S01E01.Remembrance.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Stumptown S01 E12</title>
 <link>
 sublink:magnet:?xt=urn:btih:77d947525533a31225d7d84f9e63f20257005154&dn=Stumptown.S01E12.720p.HDTV.x264-AVS%5Brartv%5D#
