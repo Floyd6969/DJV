@@ -13,6 +13,60 @@
 </item>
 
 <item>
+<title>Stumptown S01 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:77d947525533a31225d7d84f9e63f20257005154&dn=Stumptown.S01E12.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Doctor Who S12 E04</title>
+<link>
+sublink:magnet:?xt=urn:btih:0fcaaa769a7091a8013c33b881cb965038455e7f&dn=Doctor.Who.2005.S12E04.1080p.HDTV.H264-MTB%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Criminal Minds S15 E04</title>
+<link>
+sublink:magnet:?xt=urn:btih:99f899cbc339da13d2ad2b73bc0944a859286721&dn=Criminal.Minds.S15E04.1080p.HDTV.x264-LucidTV%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Magicians S05 E02</title>
+<link>
+sublink:magnet:?xt=urn:btih:dedb8ddeb964262646d85aefc3515971bf85d58c&dn=The.Magicians.US.S05E02.1080p.WEB.x264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Modern Family S11 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:0f6b988adf18657fba4ae92d194fc10eaa512ce7&dn=Modern.Family.S11E12.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Vikings S06 E08</title>
+<link>
+sublink:magnet:?xt=urn:btih:845415dfc90d643c76c257e3aeaed4c7ada3fdb3&dn=Vikings.S06E08.720p.HDTV.x264-KILLERS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Arrow S08 E09</title>
 <link>
 sublink:magnet:?xt=urn:btih:d7739819e108472fbad2a856a0785587a599d553&dn=Arrow.S08E09.720p.HDTV.x264-AVS%5Brartv%5D#
