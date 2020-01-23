@@ -96,6 +96,14 @@
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Bar Rescue[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=232</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>[COLOR lime]Batman 1966[/COLOR]</title>
@@ -224,6 +232,14 @@
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Christmas Episodes[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=228</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>[COLOR lime]Classic Cartoons[/COLOR]</title>
@@ -260,6 +276,14 @@
 <item>
 <title>[COLOR lime]CSI Las Vegas[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=227</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]CSI: New York[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=235</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
@@ -320,10 +344,26 @@
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Everybody Loves Raymond[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=230</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>[COLOR lime]Family Guy[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=41</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Farscape[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=231</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
@@ -480,6 +520,14 @@
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Letterkenny[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=234</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>[COLOR lime]M*A*S*H[/COLOR]</title>
@@ -572,6 +620,14 @@
 <item>
 <title>[COLOR lime]NCIS[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=133</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Night Court[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=233</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
@@ -1028,6 +1084,14 @@
 <item>
 <title>[COLOR lime]Walking Dead[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=169</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Where in the World Is Carmen Sandiego[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=236</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
