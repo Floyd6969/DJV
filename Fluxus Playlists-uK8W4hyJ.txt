@@ -34,15 +34,8 @@
 </dir>
 
 <dir>
-<name>[COLOR lime][B]Test[/B][/COLOR]</name>
+<name>[COLOR lime][B]Random TV[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/VhkAUNK5&mode=1</link>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR lime][B]Test 2[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/Lpea5h1T&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
