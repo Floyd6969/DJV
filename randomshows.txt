@@ -13,6 +13,51 @@
 </item>
 
 <item>
+<title>Star Wars Resistance S02 E18</title>
+<link>
+sublink:magnet:?xt=urn:btih:f04a348783734b776f0b99473d9e49fe8eb0cd16&dn=Star.Wars.Resistance.S02E18.The.Escape.1080p.HULU.WEBRip.AAC2.0.H264-AJP69%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tangled: The Series S03 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:6edf345cce3f7f703862dc48cff3c51fcdc44a87&dn=Tangled.The.Series.S03E12.720p.WEB.h264-WALT%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Power S06 E14</title>
+<link>
+sublink:magnet:?xt=urn:btih:870bd1d34b9fdde0e3bad9410bd1605f16ed79e5&dn=Power.2014.S06E14.1080p.WEB.H264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Good Place S04 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:4b055194e1cdc86528a73ba16304cdad6ce00593&dn=The.Good.Place.S04E12.720p.HDTV.x264-AVS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shameless S10 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:7bc6c4896f8564c4f32eaf4a20ae966b65658451&dn=Shameless.US.S10E12.1080p.WEB.H264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Star Trek: Picard S01 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:9bd0772c3bd73fb2f9912a5e4af430003ef05962&dn=Star.Trek.Picard.S01E01.Remembrance.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
