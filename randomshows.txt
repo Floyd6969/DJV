@@ -13,6 +13,60 @@
 </item>
 
 <item>
+<title>Avenue 5 S01 E02</title>
+<link>
+sublink:magnet:?xt=urn:btih:68568d48bb1d4a1042cbf90e447d1466bca3c56f&dn=Avenue.5.S01E02.And.Then.Hes.Gonna.Shoot.Off.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Supergirl S05 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:cd93401e4b89986e22d077c9cb5ce84745a55fb5&dn=Supergirl.S05E11.1080p.WEB.H264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Top Gear S28 E01</title>
+<link>
+sublink:magnet:?xt=urn:btih:d0c8900e273d109a425392bb9d9a4c9fec30baaf&dn=Top.Gear.S28E01.1080p.HDTV.H264-MTB%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Outsider S01 E04</title>
+<link>
+sublink:magnet:?xt=urn:btih:dce1988ab84641180695253797b67b752c77f29d&dn=The.Outsider.2020.S01E04.iNTERNAL.1080p.WEB.h264-BAMBOOZLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Doctor Who S12 E05</title>
+<link>
+sublink:magnet:?xt=urn:btih:5c50b997e9b7eaacae0bb517f3ed86c6a9dafc7d&dn=Doctor.Who.2005.S12E05.1080p.HDTV.H264-MTB%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Batwoman S01 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:d58cd0973a261bd1cf3a2b7ce6ecbb32ebaa1760&dn=Batwoman.S01E11.An.Un-Birthday.Present.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Star Wars Resistance S02 E18</title>
 <link>
 sublink:magnet:?xt=urn:btih:f04a348783734b776f0b99473d9e49fe8eb0cd16&dn=Star.Wars.Resistance.S02E18.The.Escape.1080p.HULU.WEBRip.AAC2.0.H264-AJP69%5Brartv%5D#
