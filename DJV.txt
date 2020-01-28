@@ -135,11 +135,4 @@
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
-<channel>
-<name>[COLOR gold][B]DejaVu Version 1.1.5[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>ignoreme</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
-</channel>
-
 </channels>
