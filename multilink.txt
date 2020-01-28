@@ -20,18 +20,250 @@
 </item>
 
 <item>
-<title>[COLORred][B]New Page Please Re-link Any Shortcuts To Keep Updated[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<title>My Name is Myeisha (2018)</title>
+<link>
+sublink:LISTSOURCE:https://videobin.co/img6g44voaoq ::LISTNAME:[COLOR lime]SD (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8sm8jwpbfnqa ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/8sm8jwpbfnqa ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3a0sdl6vu8q2 ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWJkNDA2NmQtZjAyOS00YWI4LTljNTMtMWVmNTA5NGRiN2FkXkEyXkFqcGdeQXVyNjc3MjE2MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<item>
+<title>Get Gone (2019)</title>
+<link>
+sublink:LISTSOURCE:https://gounlimited.to/oz714xtjmszb ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bdjgv8vf39qf.html ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/e01q4qfvp4ry ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/e01q4qfvp4ry ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8ox43zycudo5 ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/cz30iqectzcj ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzA3M2E5YTItZDg2Yy00ODhlLWI2ZjYtMTI4ZTBiNWU1ZWY4XkEyXkFqcGdeQXVyMjg3OTQ2NTI@._V1_SY1000_CR0,0,777,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<item>
+<title>Ford v Ferrari (2019)</title>
+<link>
+sublink:LISTSOURCE:https://gounlimited.to/d5z1jf64au9m ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/j76tlichbr7c.html ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/iqybrbfcrc7f ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/iqybrbfcrc7f ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/efzar7lv5jo9 ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/cmmv7n1s1g65 ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<item>
+<title>The Last Tree (2019)</title>
+<link>
+sublink:LISTSOURCE:https://gounlimited.to/b8hycjvy6skq/The.Last.Tree.2019.720p.WEBRip.x264.AAC-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/y80gz396vx77.html ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/6h2f28su7mpp/The.Last.Tree.2019.1080p.WEBRip.x264.AAC5.1-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/6h2f28su7mpp ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0DHRJfdmdnGdxYVWFZCmQeSboM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Krays Mad Axeman (2019)</title>
+<link>
+sublink:LISTSOURCE:https://gounlimited.to/wd43buqxhkoi/The.Krays.Mad.Axeman.2019.720p.WEBRip.x264.AAC-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/j45ztj0iyi0i.html ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gcd7kro1gwlu ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/gcd7kro1gwlu ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/l9wzr9ouz96f/The.Krays.Mad.Axeman.2019.1080p.WEBRip.x264.AAC5.1-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAyZGE5ZDUtNzQxYi00YzUwLWJjYTMtNmE4MzUyMWFmN2RiXkEyXkFqcGdeQXVyOTM5MDA1MTU@._V1_SY1000_SX698_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>True History of the Kelly Gang (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/h48pjji7ufho.html ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/l4jckhd0gdta ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/l4jckhd0gdta ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/n2uhkw233xgl/True.History.Of.The.Kelly.Gang.2019.1080p.WEBRip.x264.AAC5.1-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjU4MWYyNjYtM2Q3ZC00OWU4LTg2ZDgtZDMxY2UwNDJmMDJlXkEyXkFqcGdeQXVyODgwOTIxODg@._V1_SY1000_SX690_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>John Henry (2020)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kgdc4q8io4st.html ::LISTNAME:[COLOR blue]HD 720p (Slow Internet)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mm06k3aif0jm ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/mm06k3aif0jm ::LISTNAME:[COLOR yellow]FHD 1080p (Free But Better With Debrid)[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/soca0q66vctr/John.Henry.2020.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p (Fast Internet)[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCAWeTGZ2o48nvNKPb4I7f4GQ5y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cats (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9ovkdq3kehc7.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/ftuufh6oq76v/Cats.2019.HC.720p.HDRip.X264_AC3-ETRG.mp4 ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2v8fpqks2f06.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6tfbsrZr4QPDHp7PlD0Z4ngIAs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dog Fight: Battle for the Skies (2020)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pl0pxg39po2x.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/659xmeoabqq4 ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/kvlwbks6jvqi ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/kvlwbks6jvqi ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/p7gadakj05et.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2Y1YTA3NDQtZDliNi00ZTczLThiZTQtZTZjODhhMWUwMjJjXkEyXkFqcGdeQXVyMjQ1NDM5ODE@._V1_SY1000_CR0,0,718,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kindred Spirits (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/y6n8np7as0x4.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/6j4bnew7rswq ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qh9e447zoxk7 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/qh9e447zoxk7 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/guwuhd733mmk/Kindred.Spirits.2019.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjdiYTJjNWUtYTkxZi00Zjc0LWFiNDItNWZiMjUwMWMyMTE4XkEyXkFqcGdeQXVyMjg1NDc1NA@@._V1_SY1000_CR0,0,684,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Playing with Fire (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3e0lfglc0kil.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zvfnptdcr920 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/zvfnptdcr920 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/y9s1vshbtupj ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:a74de40f1d2e5b83f20fbc55f6583e75ccd36eab&dn=Playing.with.Fire.2019.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTg4YjQyMDAtZWFiYi00OTMzLWJiYTgtMzRiNWMzMTAzMDQ0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Waves (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3ioeytmu66nz.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/e93ljzm4xf2e ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/e93ljzm4xf2e ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2m4m4wnlxosg ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:fc7c1899320ddf63254fa93f17850019dacbba76&dn=Waves.2019.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Good Liar (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qbo1q9v4brlj.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/59hb6eg7moc2.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/y2lgpq1mwr0j ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/y2lgpq1mwr0j ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ikmt1b4etnb9 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:b7f37e39c293596107eec294012fcf6781ae575c&dn=The.Good.Liar.2019.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2VhNTY5ZTUtYzc1NC00NjUyLWI1NDQtYWE3YmJlNjQ3OGVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Last Christmas (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xx2ru854me3i.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/simob1bwqvc8 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/simob1bwqvc8 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7z2mwkvczhgu ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:9c9b8a4f27ae22b8f0246c791ba969613e136abd&dn=Last.Christmas.2019.1080p.WEBRip.x264-RARBG ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>COBRA (2020) Season 01 HD</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3d46ccdali7v.html ::LISTNAME:[COLOR blue]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/d22w033wn3pr.html ::LISTNAME:[COLOR blue]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wckmhfnn6k1a.html ::LISTNAME:[COLOR blue]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/z5yvyxj83tp1.html ::LISTNAME:[COLOR blue]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bmdh9ghoho7o.html ::LISTNAME:[COLOR blue]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/uwf9o5736ado.html ::LISTNAME:[COLOR blue]Episode 06[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu44VNAq6yhQi0PamsSXXYS1sLr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bait (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dfvr3082hshq.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/urg6s31d7x6k ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sz23f7i5y5f3 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/wengshw22kgk/Bait.2019.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmIzNWJiYjEtNWQwYi00ZDNlLWE4ZjEtMTZmZWYyODNiZTRhXkEyXkFqcGdeQXVyOTE0MzQ5NQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Last Full Measure (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/weg1alblap24.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/w11mgp9djtxx ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/isqphb7ycv25 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/ok0fkjl8xmlo/The.Last.Full.Measure.2019.1080p.WEBRip.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyMjBmNDAtNDA0YS00ODFiLTk2OTUtMWM5NzI4NjM1YzhhXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_SY999_CR0,0,675,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Break (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bog8n7qreejh.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/elb1y0zwg08x ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://uptostream.com/elb1y0zwg08x ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/phph87795ap3 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWU1NmZmYzgtYzZjMC00Y2ExLWI2MDgtZTIyNjQ1M2UwODQyXkEyXkFqcGdeQXVyODIyNTYxNTE@._V1_SY1000_CR0,0,694,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>In Search of the Last Action Heroes (2019)</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6munzm049p5e.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/x81cd6ar0szn/In.Search.Of.The.Last.Action.Heroes.2019.720p.BluRay.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/67478t261cb7.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/jllkytk4kuo7/In.Search.Of.The.Last.Action.Heroes.2019.1080p.BluRay.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agex0cbYPwZqrh9lPbQw0vUEB1.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>1917 (2019) (Screener)</title>
 <link>
-sublink:LISTSOURCE:https://uptobox.com/yxezso4kckig ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/3e4dxats0hgj/1917.2019.DVDSCR.x264-TOPKEK.mp4 ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/2324dkbdztua ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yxezso4kckig ::LISTNAME:[COLOR gold]SD Link[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/lwhtrqcwi9ta/1917.2019.720p.DVDScr-ExtremlymTorrents.ws.mp4 ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vdtd5z19zz2w.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:25258C8806CECE293041A029A86E22D7E40517D9&dn=1917.2019.1080p.SCREENER.DD.2.0.HEVC-DDR%5BEtHD%5D ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -67,6 +299,7 @@ sublink:LISTSOURCE:https://uptobox.com/rz9s3t1094rw ::LISTNAME:[COLOR blue]HD 72
 sublink:LISTSOURCE:https://uptobox.com/hqb943bf7s5c ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/f7bvjgjyjd6b.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://gounlimited.to/bmx25k24rw5s/Color_Out_of_Space.2019_SCREENER.1080p.x264-TOPKEK.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:b8fed78a143fc368be6e80002cc236bed2762bb2&dn=Color.Out.of.Space.2019.1080p.SCREENER.x264-TOPKEK ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IjeaO2cYzWql0Zvx5oa1iA4zDK.jpg</thumbnail>
 <fanart></fanart>
@@ -91,17 +324,6 @@ sublink:LISTSOURCE:https://gounlimited.to/uqqnmjmphrjo/Honey.Boy.2019.Dvdscr.Xvi
 sublink:LISTSOURCE:https://vidlox.me/in1lr4vphqg3 ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWQ5YThjZjAtNWM3ZC00MDJjLWIzNDktY2Y2Y2FmMTFiNWJmXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Waves (2019) (Screener)</title>
-<link>
-sublink:LISTSOURCE:https://uptobox.com/byadr8sr7aes ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/iwcwnkj71hve.html ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
-sublink:LISTSOURCE:https://uptostream.com/byadr8sr7aes ::LISTNAME:[COLOR gold]Screener[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -137,6 +359,7 @@ sublink:LISTSOURCE:https://vidoza.net/5yaq8ugkm9vg.html ::LISTNAME:[COLOR blue]H
 sublink:LISTSOURCE:https://uptobox.com/dmy4ez9brxa9 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/qrpvh8f63izh.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:https://gounlimited.to/jbqm1lzegx29/Dark.Waters.2019.1080p.BluRay.x264-_5BYTS.LT_5D.mp4 ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:2097fd570d6e8f6532c959199579e263a378c2f8&dn=Dark.Waters.2019.1080p.SCREENER.x264.DTS-NOGRP ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJ6YEbrjFvToa5c7IiUqILoB6Je.jpg</thumbnail>
 <fanart></fanart>
@@ -209,6 +432,7 @@ sublink:LISTSOURCE:https://gounlimited.to/wpfl48rhrucs/Terminator.Dark.Fate.2019
 sublink:LISTSOURCE:https://uptobox.com/o24jqooaehna ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:7c08a4a370655d75caa7dffe33cd8172b3b25845&dn=Terminator.Dark.Fate.2019.1080p.WEBRip.DD5.1.x264-CM ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:c29eec61d1e76e333d5f53799cec3408a4f61bb7&dn=Terminator.Dark.Fate.2019.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69 ::LISTNAME:[COLOR red]UHD Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:72B89712D8F18BBA898B87E825FECFE98AB49501&dn=Terminator.Dark.Fate.2019.2160p.UHD.BluRay.10bit.HDR.x265-HazMatt.mkv ::LISTNAME:[COLOR red]UHD Debrid Link 10 Bit HDR Small File Size[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -249,18 +473,6 @@ sublink:LISTSOURCE:https://uptobox.com/rp40cvwonnj6 ::LISTNAME:[COLOR yellow]FHD
 sublink:LISTSOURCE:magnet:?xt=urn:btih:22139BDDF60A082DB1512EE3F4D71E2D47147026&dn=Midway.2019.READNFO.1080p.HDRip.X264-EVO%5BTGx%5D+%E2%AD%90 ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Last Christmas (2019)</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/kqabren6gcwi.html ::LISTNAME:[COLOR blue]HD 720p[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/kqabren6gcwi.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/v4n5kjl5phfr ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:1dee03a06952a5bbda52c33079580721224084e6&dn=Last.Christmas.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -347,17 +559,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:d42e534e307bdc79a29c5ed4cf8949e6df5f8aa9&
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title>Ford v Ferrari (2019)</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/vhec0hti0jdv ::LISTNAME:[COLOR lime]SD Link[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/sslan6i9udu0.html ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/swjl8jozzfsn ::LISTNAME:[COLOR yellow]FHD 1080p[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:0d8e21c721c63f224857b1daf4cd408955f1b63f&dn=Ford.V.Ferrari.2019.1080p.DVDScr.X264.AC3.SHQ.Hive-CM8 ::LISTNAME:[COLOR red]FHD Debrid Link[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart></fanart>
 
 <item>
 <title>Rise of the Footsoldier: Marbella (2019)</title>
