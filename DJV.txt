@@ -19,7 +19,7 @@
 <channel>
 <name>[COLOR gold][B]Latest Movies One Click Top 100[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://maverick54:philip04@maverick54.lw700.usbx.me/files/data/movies.xml</externallink>
+<externallink>https://pastebin.com/raw/Dgy5uHby</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
