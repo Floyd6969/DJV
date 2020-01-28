@@ -1,5 +1,5 @@
 <item>
-<title>[COLORblue][B]**All Movies Are Free To Watch - All HD**[/B][/COLOR]</title>
+<title>[COLORblue][B]***All Movies Are Free To Watch - All HD***[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
