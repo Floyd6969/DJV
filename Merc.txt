@@ -21,7 +21,7 @@
  
 <dir>
 <name>[COLORwhite][B]New Releases One Click Top 100[/B][/COLOR]</name>
-<link>https://pastebin.com/raw/Dgy5uHby</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newreleases.txt</link>
 <thumbnail>https://i.imgur.com/ewZqfXr.png</thumbnail>
 <fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
 </dir>
