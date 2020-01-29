@@ -138,7 +138,7 @@
 <channel>
 <name>[COLOR gold][B]Test[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>http://maverickrepo.ddns.net/data/movies.txt</externallink>
+<externallink>http://maverickrepo.ddns.net/data/movies.xml</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
