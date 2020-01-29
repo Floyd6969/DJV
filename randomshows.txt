@@ -13,6 +13,52 @@
 </item>
 
 <item>
+<title>FBI S02 E14</title>
+<link>
+sublink:magnet:?xt=urn:btih:a25aeb864135aa47ce2bcae4428ce5e5293943d2&dn=FBI.S02E14.1080p.WEB.x264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Resident S03 E14</title>
+<link>
+sublink:magnet:?xt=urn:btih:eedc472e5e777451e6a5a7fc83b9d225748fecb4&dn=The.Resident.S03E14.1080p.WEB.x264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FBI: Most Wanted S01 E04</title>
+<link>
+sublink:magnet:?xt=urn:btih:6b42e4e830f7a6d29d56ada2d1f5096f59019f79&dn=FBI.Most.Wanted.S01E04.1080p.WEB.x264-XLF%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Project Blue Book S02 E02</title>
+<link>
+sublink:magnet:?xt=urn:btih:a7a61efde84ccdb9a47ae19bb79fb08acbbeb4c3&dn=Project.Blue.Book.S02E02.The.Roswell.Incident.Part.2.1080p.AMZN.WEBRip.DDP2.0.x264-NTG%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Arrow S08 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:bea4bbd738edbe40312f84a8efddb3c2a3066dba&dn=Arrow.S08E10.1080p.HDTV.x264-CRAVERS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Manifest S02 E04</title>
 <link>
 sublink:magnet:?xt=urn:btih:966f8bfee00b5954a344750cd4eca1503f7abae7&dn=Manifest.S02E04.1080p.WEB.H264-GHOSTS%5Brartv%5D#
