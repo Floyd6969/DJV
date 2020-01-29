@@ -74,6 +74,13 @@
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/new247.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
+
+<dir>
+<name>[COLORlime][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
+<link>http://maverickrepo.ddns.net/data/wwe.xml</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
  
 <dir>
 <name>[COLORlime][B]The Comedians (18+)[/B][/COLOR]</name>
@@ -109,13 +116,6 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
- 
-<dir>
-<name>[COLORlime][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/wwe.txt</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
  
 <dir>
 <name>[COLOR lime][B]Mavericks Movie Lists[/B][/COLOR]</name>
