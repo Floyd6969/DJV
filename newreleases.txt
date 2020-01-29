@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Dead Earth (2020)</title>
+<link>https://vidoza.net/c0h6rx1pkn1e.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIsdea2elL0xXTSM1cuV3G6DBF5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Great Alaskan Race (2019)</title>
 <link>https://vidoza.net/rqfg9dca612t.html</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzY2NDFhYzctM2ZmMi00MmU3LWJkOWMtM2UyYzQzYzZmYjQzXkEyXkFqcGdeQXVyMTA0NTU3MDYz._V1_SY1000_SX675_AL_.jpg</thumbnail>
