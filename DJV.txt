@@ -135,4 +135,11 @@
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
+<channel>
+<name>[COLOR gold][B]Test[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://maverick54.lw700.usbx.me/files/movies.txt</externallink>
+<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+</channel>
+
 </channels>
