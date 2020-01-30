@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Waves (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:77c2d3d82e9cd1e74d0ace64b8f75603807af1cf&dn=Waves.2019.1080p.BluRay.x264-AAA#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Ford v Ferrari (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:cf1bd81715b979012b7792401179a97e80312f84&dn=Ford.v.Ferrari.2019.1080p.BluRay.x264-AAA#
