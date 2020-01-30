@@ -62,15 +62,6 @@
 </item>
 
 <item>
-<title>Last Christmas (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:9c9b8a4f27ae22b8f0246c791ba969613e136abd&dn=Last.Christmas.2019.1080p.WEBRip.x264-RARBG</sublink>
-</link>
-<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>The Good Liar (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:b7f37e39c293596107eec294012fcf6781ae575c&dn=The.Good.Liar.2019.1080p.WEBRip.x264-RARBG</sublink>
