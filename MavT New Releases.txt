@@ -16,6 +16,33 @@
 </item>
 
 <item>
+<title>Waves (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:77c2d3d82e9cd1e74d0ace64b8f75603807af1cf&dn=Waves.2019.1080p.BluRay.x264-AAA</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ford v Ferrari (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:cf1bd81715b979012b7792401179a97e80312f84&dn=Ford.v.Ferrari.2019.1080p.BluRay.x264-AAA</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Last Christmas (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:372999d4b0a6c4d6afd9f722b0a11fe57bdb6f30&dn=Last.Christmas.2019.1080p.BluRay.x264-GUACAMOLE</sublink>
+</link>
+<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Just Mercy (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:3298f9299f1a2e08c23c6f202ddfa3d576887403&dn=Just.Mercy.2019.720p.SCREENER.X264.AC3.HQ.Hive-CM8</sublink>
@@ -24,14 +51,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>Waves (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:fc7c1899320ddf63254fa93f17850019dacbba76&dn=Waves.2019.1080p.WEBRip.x264-RARBG</sublink>
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>Doctor Sleep (2019)</title>
