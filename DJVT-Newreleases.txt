@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Last Christmas (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:372999d4b0a6c4d6afd9f722b0a11fe57bdb6f30&dn=Last.Christmas.2019.1080p.BluRay.x264-GUACAMOLE#
+</link>
+<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Just Mercy (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:3298f9299f1a2e08c23c6f202ddfa3d576887403&dn=Just.Mercy.2019.720p.SCREENER.X264.AC3.HQ.Hive-CM8#
