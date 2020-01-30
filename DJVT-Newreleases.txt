@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Ford v Ferrari (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:cf1bd81715b979012b7792401179a97e80312f84&dn=Ford.v.Ferrari.2019.1080p.BluRay.x264-AAA#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Last Christmas (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:372999d4b0a6c4d6afd9f722b0a11fe57bdb6f30&dn=Last.Christmas.2019.1080p.BluRay.x264-GUACAMOLE#
