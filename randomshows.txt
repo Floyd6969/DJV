@@ -40,15 +40,6 @@ sublink:magnet:?xt=urn:btih:2077b23af81b759dc6335796b858183b315eca50&dn=Hawaii.F
 </item>
 
 <item>
-<title>Hawaii Five-0 S10 E14</title>
-<link>
-sublink:magnet:?xt=urn:btih:2077b23af81b759dc6335796b858183b315eca50&dn=Hawaii.Five-0.2010.S10E14.1080p.WEB.H264-XLF%5Brartv%5D#
-</link>
-<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Avenue 5 S01 E03</title>
 <link>
 sublink:magnet:?xt=urn:btih:2d5441e8cfcfde3c7597191a56a0175637b9a8a0&dn=Avenue.5.S01E03.Im.a.Hand.Model.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
