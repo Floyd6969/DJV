@@ -84,7 +84,7 @@
  
 <dir>
 <name>[COLORwhite][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
-<link>http://maverickrepo.ddns.net/data/wwe.xml</link>
+<link>https://pastebin.com/raw/ymNGr2qW</link>
 <thumbnail>https://i.imgur.com/ewZqfXr.png</thumbnail>
 <fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
 </dir>
