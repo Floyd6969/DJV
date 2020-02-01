@@ -68,7 +68,7 @@
 <channel>
 <name>[COLOR gold][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>http://maverickrepo.ddns.net/data/wwe.xml</externallink>
+<externallink>https://pastebin.com/raw/ymNGr2qW</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
