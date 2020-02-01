@@ -19,14 +19,14 @@
 <channel>
 <name>[COLOR gold][B]Latest Movies One Click Top 100[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>http://maverickrepo.ddns.net/data/movies.xml</externallink>
+<externallink>https://pastebin.com/raw/Dgy5uHby</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
 <channel>
 <name>[COLOR gold][B]Latest Movies Multi Link[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>http://maverickrepo.ddns.net/data/multilink.xml</externallink>
+<externallink>https://pastebin.com/raw/XtrquvMg</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
