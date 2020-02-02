@@ -32,6 +32,13 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
+
+<dir>
+<name>[COLORlime][B]Classic Cinema One Click HD[/B][/COLOR]</name>
+<link>https://pastebin.com/raw/N6rBEJAG</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
  
 <dir>
 <title>[COLORlime][B]Top 50 New Releases[/B][/COLOR]</title>
