@@ -31,7 +31,7 @@
 </channel>
 
 <channel>
-<name>[COLOR gold][B]At The Flix (Under Construction)[/B][/COLOR]</name>
+<name>[COLOR gold][B]Classic Cinema One Click HD[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/N6rBEJAG</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
