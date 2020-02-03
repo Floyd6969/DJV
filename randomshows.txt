@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>NFL Super Bowl XIV Chiefs vs 49ers 2020-02-02</title>
+<link>
+sublink:magnet:?xt=urn:btih:042E0A6AC59D2A5265AA8C030FEDBB0539A2B0AA&dn=NFL+Super+Bowl+XIV+Chiefs+vs+49ers+2020-02-02+720p+AVCHD-SC-SDH#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Doctor Who S12 E06</title>
 <link>
 sublink:magnet:?xt=urn:btih:c3fbd8fdf490f46a9328ddeba2b3d52b08fd7131&dn=Doctor.Who.2005.S12E06.1080p.HDTV.H264-MTB%5Brartv%5D#
