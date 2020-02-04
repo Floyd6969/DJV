@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Jojo Rabbit (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:3190f0ccd5058562c694fea8541f491a635b7513&dn=Jojo.Rabbit.2019.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>21 Bridges (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:9654f5543a6986c28b2616f3b6c83b8a1832a1d1&dn=21.Bridges.2019.1080p.WEB-DL.DD5.1.H264-FGT#
