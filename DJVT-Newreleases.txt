@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>A Beautiful Day in the Neighborhood (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:8657bef0ce8f4c00eecbfe9aca82ab81e7df7c07&dn=A.Beautiful.Day.In.The.Neighborhood.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9vCAVhDK375XyobVcKqzqzsUHE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Jojo Rabbit (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:3190f0ccd5058562c694fea8541f491a635b7513&dn=Jojo.Rabbit.2019.1080p.WEBRip.DD5.1.x264-CM#
