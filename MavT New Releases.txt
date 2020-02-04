@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>21 Bridges (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:9654f5543a6986c28b2616f3b6c83b8a1832a1d1&dn=21.Bridges.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSN9SysoRBMwJKNkfOlQlCw2YQO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Uncut Gems (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:319f9be257fbd6f4d4b349bb3b16dfc32f9d3c73&dn=Uncut.Gems.2019.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG</sublink>
