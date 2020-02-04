@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Midway (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:2cf3f384fe8754630cad851456da363a445c1325&dn=Midway.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>A Beautiful Day in the Neighborhood (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:8657bef0ce8f4c00eecbfe9aca82ab81e7df7c07&dn=A.Beautiful.Day.In.The.Neighborhood.2019.1080p.WEB-DL.DD5.1.H264-FGT#
