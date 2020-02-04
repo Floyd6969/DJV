@@ -15,6 +15,14 @@
 </item>
 
 <item>
+<title>[COLOR blue][B]Mavericks Playlist[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLviL5t4JOQSN5iYPzMAC7Q_1lPx6J5f8t/?page=0</jsonrpc>
+<thumbnail>http://domrobinson.co.uk/dvd-fever/wp-content/uploads/2015/04/peter-kay-car-share-1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR blue][B]The Official 80's Videos Music Channel[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLjB-wurbnZxUY8WEq6iu-A45Bt_EjXvDX/?page=0</jsonrpc>
