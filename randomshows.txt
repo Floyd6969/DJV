@@ -13,7 +13,34 @@
 </item>
 
 <item>
-<title>Inside No. 9 S05 E1</title>
+<title>Schitt's Creek S06 E05</title>
+<link>
+sublink:magnet:?xt=urn:btih:46f5815f10f7095dc4eed74e8affec6e8795323f&dn=Schitts.Creek.S06E05.1080p.WEBRip.x264-CookieMonster%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DC's Legends of Tomorrow S05 E03</title>
+<link>
+sublink:magnet:?xt=urn:btih:23179fbde7b25fe22514d66b812e81ff7f6b9e7d&dn=DCs.Legends.of.Tomorrow.S05E03.1080p.HDTV.x264-LucidTV%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Flash S06 E10</title>
+<link>
+sublink:magnet:?xt=urn:btih:de155a627ba6eb148d9a65c7f3341764017feaee&dn=The.Flash.2014.S06E10.1080p.HDTV.x264-LucidTV%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Inside No. 9 S05 E01</title>
 <link>
 sublink:magnet:?xt=urn:btih:dacbcdc3444003111fbcf9b7cf51bcdd44d21127&dn=Inside.No.9.S05E01.The.Referees.A.720p.iP.WEBRip.AAC2.0.H264-RTN%5Brartv%5D#
 </link>
