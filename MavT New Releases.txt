@@ -96,6 +96,14 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Waves (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:fc7c1899320ddf63254fa93f17850019dacbba76&dn=Waves.2019.1080p.WEBRip.x264-RARBG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>Doctor Sleep (2019)</title>
@@ -103,6 +111,15 @@
 <sublink>magnet:?xt=urn:btih:501b40c5ea4879007b031239570e32bff2b6cd4a&dn=Doctor.Sleep.2019.DC.1080p.WEBRip.x264-RARBG</sublink>
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Last Christmas (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:9c9b8a4f27ae22b8f0246c791ba969613e136abd&dn=Last.Christmas.2019.1080p.WEBRip.x264-RARBG</sublink>
+</link>
+<thumbnail>https://i.imgur.com/NK94kiI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -124,7 +141,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>Harriet (2019)</title>
 <link>
@@ -144,6 +160,15 @@
 </item>
 
 <item>
+<title>Terminator: Dark Fate (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:c29eec61d1e76e333d5f53799cec3408a4f61bb7&dn=Terminator.Dark.Fate.2019.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Terminator: Dark Fate (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:7c08a4a370655d75caa7dffe33cd8172b3b25845&dn=Terminator.Dark.Fate.2019.1080p.WEBRip.DD5.1.x264-CM</sublink>
@@ -152,6 +177,14 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Little Women (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:565419121a2256510b8760c3af67a9440f7737a5&dn=Little.Women.2019.DVDScr.XVID.AC3.HQ.Hive-CM8</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>Midway (2019)</title>
@@ -186,6 +219,15 @@
 <sublink>magnet:?xt=urn:btih:b4f43c4a2cc8d428ec1912e3ec9fd37254f2a7ac&dn=Countdown.2019.1080p.BluRay.x264-AAA</sublink>
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjcxMjM4MjgtNTEwMi00ZmE2LTlhMWUtMzQ4OWFmYmQwM2NlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Togo (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:3e9ea8dbaa59f9fec654cda36e92b308e364b563&dn=Togo.2019.2160p.DSNP.WEBRip.x265.10bit.HDR.DDP5.1.Atmos-TrollUHD</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4EojOsp.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -229,6 +271,15 @@
 <sublink>magnet:?xt=urn:btih:815ac62c44151e79e1b731025725aa8cbe8d7733&dn=Ana.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h41SILqFhYHuxRtWdxbr1myUtY7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rambo: Last Blood (2019) (Extended)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:4ea369f772ee73a9a017b66db902266fd45baf0a&dn=Rambo.Last.Blood.2019.EXTENDED.1080p.BluRay.H264.AAC-RARBG</sublink>
+</link>
+<thumbnail>https://artworks.thetvdb.com/banners/movies/13659/posters/13659.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -441,7 +492,7 @@
 <thumbnail>https://artworks.thetvdb.com/banners/movies/13659/posters/13659.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Rambo: Last Blood (2019)</title>
 <link>
@@ -450,6 +501,7 @@
 <thumbnail>https://artworks.thetvdb.com/banners/movies/13659/posters/13659.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>6 Underground (2019)</title>
@@ -543,15 +595,6 @@
 </item>
 
 <item>
-<title>Rambo: Last Blood (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:638039A6ABF31274CD0ED375000A3E7012E7D7DC&dn=Rambo.Last.Blood.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG+%E2%AD%90</sublink>
-</link>
-<thumbnail>https://artworks.thetvdb.com/banners/movies/13659/posters/13659.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Freaks (2018)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:d4f16717406f7ecef1f33a5ce9ab50e23019f798&dn=Freaks.2018.1080p.BluRay.x264-AAA</sublink>
@@ -575,14 +618,14 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDFhMGJjMjQtODU0OC00NWQ5LWJhNjctOTZiZjA4NTYyZWQyXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Grace (2018)</title>
 <link>https://onlystream.tv/t3c0tv0q9o89</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjExZTNhMGItZjM4MS00N2QxLWJlZGItYzk4NTA2M2UyZTI3XkEyXkFqcGdeQXVyMTU3MzU2NQ@@._V1_SY1000_SX677_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>The Irishman (2019) (Link 1)</title>
 <link>https://1fichier.com/?gwanwfww25ycnf5xpfun</link>
@@ -677,7 +720,7 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Gemini Man (2019)</title>
 <link>
@@ -686,7 +729,6 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjI5OTNkMzUtZDYzYy00NWQ5LTg4YzYtZmZjZDI0MGQzNGY2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
 
 <item>
 <title>The Goldfinch (2019)</title>
@@ -757,7 +799,7 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2U3ZDBkYWUtNDY3Ny00OTliLTgxNTAtY2QwZTQxMmEwOTQ1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Noelle (2019)</title>
 <link>https://1fichier.com/?dc1kijrr4zsiagtk1w2u</link>
@@ -766,44 +808,8 @@
 </item>
 
 <item>
-<title>The Mandalorian S01 E01 1080p [COLORlime] DD 5.1[/COLOR]</title>
-<link>
-<sublink>magnet:?xt=urn:btih:02c4425e5d0c421accd792f9b6696cad35103766&dn=The.Mandalorian.S01E01.INTERNAL.1080p.WEB.H264-DEFLATE</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>The Mandalorian S01 E01 4K [COLORlime] DD 5.1[/COLOR]</title>
-<link>
-<sublink>magnet:?xt=urn:btih:76de54ff5232c89455ff449bb39458837d85d9d7&dn=The.Mandalorian.S01E01.2160p.WEBRip.x265.10bit.HDR.DDP5.1.Atmos-DEFLATE</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Angel Has Fallen (2019) [COLORlime] DD 5.1[/COLOR]</title>
-<link>
-<sublink>magnet:?xt=urn:btih:ba73db45ef7ca24b0b9bcc83119de3edf103ed95&dn=Angel.Has.Fallen.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmRmMWZhZGItYzA4MC00ZDYyLWE0OTMtYmM0MWRiN2Q4NGU2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Joker (2019) (Direct Link)</title>
 <link>https://1fichier.com/?s975dca20q3ta8wjb90w</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Joker (2019) (Torrent)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:4b3ea6a5b1e62537dceb67230248ff092a723e4d&dn=Joker.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT</sublink>
-</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -825,7 +831,7 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZThhM2Y1NjItMGE1NS00NWQ4LTliM2ItZDA5ZDNjYjk0YTE0XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Let It Snow (2019) [COLORlime] DD 5.1[/COLOR]</title>
 <link>
@@ -870,7 +876,7 @@
 <thumbnail>https://i.imgur.com/KMhE4W3.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>The King (2019) [COLORlime] DD 5.1[/COLOR]</title>
 <link>
@@ -897,7 +903,7 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGRjMTM3OGEtMmVjNC00YmJjLWI4MTktMGEyMmIwMjY2ZmJjXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Ghost in the Graveyard (2019)</title>
 <link>
@@ -955,7 +961,7 @@
 <item>
 <title>10 Minutes Gone (2019) [COLORlime] DD 5.1[/COLOR]</title>
 <link>
-<sublink>magnet:?xt=urn:btih:45D5A5F4C464DBBD35001A3A4B1624663E7ED027&dn=10+Minutes+Gone+%282019%29+%5BBluRay%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D</sublink>
+<sublink>magnet:?xt=urn:btih:8F70F2B0D275296A6072077041A7B37E3763BC7D&dn=10.Minutes.Gone.2019.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG+%E2%AD%90</sublink>
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDdiYjg2ZDEtMGY4MS00OTNiLWJjYzctNzUyYjk3ZmJkMzRkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
 <fanart></fanart>
@@ -1038,7 +1044,7 @@
 </item>
 
 <item>
-<title>Fat & Furious Presents: Hobbs & Shaw (2019) 4K</title>
+<title>Fat & Furious Presents: Hobbs & Shaw (2019) 4K [COLORlime] HDR-Atmos-7.1[/COLOR]</title>
 <link>
 <sublink>magnet:?xt=urn:btih:2DBF9508422A5A7CB029C80100D76C2800BC0C75&dn=Fast+and+Furious+Presents+Hobbs+and+Shaw+2019.UHD.BluRay.2160p.HDR.Atmos.7.1.HEVC-DDR</sublink>
 </link>
@@ -1131,6 +1137,13 @@
 </item>
 
 <item>
+<title>The Drone (2019)</title>
+<link>https://rapidgator.net/file/47828404141d275e9adde28e4f56d0d0</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzYyMDI0OTEtZjIwZC00ZjRkLTgxZDktMDE4NmU0NDY2MzdkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sweetheart (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:19c1f0ebaa2d9fbf50aa6ed039b47300033e0df9&dn=Sweetheart.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
@@ -1149,9 +1162,9 @@
 </item>
 
 <item>
-<title>The Drone (2019)</title>
-<link>https://rapidgator.net/file/47828404141d275e9adde28e4f56d0d0</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzYyMDI0OTEtZjIwZC00ZjRkLTgxZDktMDE4NmU0NDY2MzdkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<title>The Lion King (2019)</title>
+<link>https://rg.to/file/241a527f9f86167f7b0c4f3040bbc5eb</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -1236,7 +1249,7 @@
 </item>
 
 <item>
-<title>The Lion King (2019) (It's Not 4K It's 1080p)</title>
+<title>The Lion King (2019)</title>
 <link>https://rg.to/file/241a527f9f86167f7b0c4f3040bbc5eb</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -1251,14 +1264,14 @@
 
 <item>
 <title>A Model Kidnapping (2019)</title>
-<link>https://rg.to/file/0b7cfdb8cd3a08c3a00c218849650c05</link>
+<link>https://rapidgator.net/file/0b7cfdb8cd3a08c3a00c218849650c05</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzUyNDI5MGUtNWY4MC00ZWU3LThkOTMtMjIwNTAyZmIzYTkwXkEyXkFqcGdeQXVyNzYxMjI1Mzg@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Scary Stories to Tell in the Dark (2019)</title>
-<link>https://rg.to/file/aeb3b894495da2f3d8e2aecc16605fd3</link>
+<link>https://rg.to/file/753c4c953ca455f30eeff1aeac235c69</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjNiM2E3NDItNGU5NS00N2UwLTk2YWItZWRmMGFlNjJhYzE3XkEyXkFqcGdeQXVyOTQ5MTIwMjM@._V1_SY1000_CR0,0,712,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -1332,7 +1345,7 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2M0NTJmMDAtNWI0ZC00MjdlLTlmYWEtMjNiMmJmOGRiNTEwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>The Parts You Lose (2019)</title>
 <link>https://rg.to/file/caf1377d883a0f53a1b1ca5059b3d53f</link>
@@ -1368,13 +1381,13 @@
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>Altered Skin (2018)</title>
 <link>https://rg.to/file/4b93cc79b67d4fa18b1819242afa6b08</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzMxYjVjNGUtNjFlMC00OTZiLWJiOWYtOTMyZWFhNTkxYTFlXkEyXkFqcGdeQXVyMjEwNjUxOA@@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Devil's Revenge (2019)</title>
 <link>https://rg.to/file/bd9766b7725cd7721baffc03fe4f66a4</link>
@@ -1467,242 +1480,17 @@ item>
 </item>
 
 <item>
-<title>Prey (2019)</title>
-<link>https://rg.to/file/ef3599f7237bf4ac63310feece28d7e0</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BM2JjNjkwMWQtZDBkZi00NjA5LTgwNjItNzFiYjk1OTVhZGVlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX679_AL_.jpg</thumbnail>
+<title>Test</title>
+<link>https://mixdrop.co/f/dl51eszs</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>10 Minutes Gone (2019)</title>
-<link>https://rg.to/file/e3f47274b6d244dcd729295d3b36a1ef</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZDdiYjg2ZDEtMGY4MS00OTNiLWJjYzctNzUyYjk3ZmJkMzRkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Midsommar (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:55e4e50dd5ed46609576763ed54b8891a936a6ff&dn=Midsommar.2019.1080p.BluRay.x264-GECKOS</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Angel of Mine (2019)</title>
-<link>https://rg.to/file/3ea0231c113fc729a4760a32f4c9da6c</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYjgyNzFhZTctNjQ3Yy00NzBkLWI0MzItMWNjNzQ4ZDgzNDRiXkEyXkFqcGdeQXVyNjA3MzE2ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Amplify Her (2019)</title>
-<link>https://rg.to/file/a950cbaf6531e56e43641bc10a4e2019</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZTJiMDVlYTMtN2MzYS00NzFjLTgyN2EtNGYxOTVlNGMwYjZjXkEyXkFqcGdeQXVyNjQxOTg1NjY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>King of Boys (2018)</title>
-<link>https://rg.to/file/fb1fa348492b913d8819c8bdb8268fc1</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOWZmYWExODQtZGQ0Mi00YTcxLTgzMWUtNDc3OGVlNWIzNTI0XkEyXkFqcGdeQXVyODcyNTA3NTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Seeds (2018)</title>
-<link>https://rg.to/file/29ff5bd6ee5f3c5cf525db84e67f4790</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjMyMzMyODEzOF5BMl5BanBnXkFtZTgwMzc1MTg2NzE@._V1_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>An Audience of Chairs (2018)</title>
-<link>https://rg.to/file/a5aa2df40f8b7c3a589d7cd006433977</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZmJjODQ3YjItOGExYy00Mjc5LWIyMTItYWI3ZTZiNGM3NGYxXkEyXkFqcGdeQXVyNTcwMDExOTM@._V1_SY1000_SX694_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>The Field (2019)</title>
-<link>https://rg.to/file/9668045ef9db1ee5b76a1a6ebce3242d</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BY2QwODdlYTctZGEyNi00ZDY4LWJjOGMtN2NiNzJhMTJmYzdjXkEyXkFqcGdeQXVyNDgwMDE3MDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Crawl (2019)</title>
-<link>https://rg.to/file/037e23fc8e0ee7dbbe5078faf9657f20</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZGE4N2YzNzEtNTdmYy00ZjhkLTgyYWQtOGM4OTQ0ZGEzZGU5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Lie Low (2019)</title>
-<link>https://rg.to/file/bf496b6a465e4db94c34f93dd3ba1036</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDU5MWY0NDUtNzlmZS00NmQwLWFiM2ItNjFkOTdiMTlkZTQxXkEyXkFqcGdeQXVyNTkxNzMwMzk@._V1_SY1000_CR0,0,562,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>American Dreamer (2018)</title>
-<link>https://rg.to/file/561c220d3170652c62f5653bc5d8a216</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNmQxYTdhM2EtM2IzZi00YTJkLWJmZWItOGNlMThlMGY0MmJiXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SY1000_CR0,0,690,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Savage X Fenty Show (2019)</title>
-<link>https://rg.to/file/1a4d85357546b8f829b7d2772e58661b</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYjQwNDMyNjItYzIyYS00YzZmLWI0NWEtNzU0NDhmOGU3Y2Q0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>The Wedding Year (2019)</title>
-<link>https://rg.to/file/f4ea507fcb6895f71227366edb3bda78</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZGU0ZDAxNjYtMTFlMi00MzY5LThhYmUtYWM5MTY1ODVmZTNlXkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Running with the Devil (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:e7236569b13bd7ba70f46b972a6d93aef3ac4805&dn=Running.with.the.Devil.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNTViM2Q5MGQtM2E1ZS00ZjQ1LWJlYTItYjJkNzc2ZTk3ZmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Bloodline (2018)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:bfc2b43ed43667cc0a5aeb9774fcbadb7500e631&dn=Bloodline.2018.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODE0YjJlOTItOWYxYi00NTI4LTg5YTgtYjZhOTFkMzUwNGRkXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Between Two Ferns: The Movie (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:51cfae679aa3d4d57bb623f7ed0e92a4781a6eed&dn=Between.Two.Ferns.The.Movie.2019.1080p.NF.WEBRip.DDP5.1.x264-CM</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzgyNzUyZjAtNDRiZS00MjQwLTgzMzQtZThhY2Y3YjFmYTc1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Corporate Animals (2019) Debrid</title>
-<link>
-<sublink>magnet:?xt=urn:btih:30126902676ebf0bb4d2763c2e3cf748158fa3e9&dn=Corporate.Animals.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZGI4NDhmMTUtNTcwMC00OTY3LWIyYTItYWM5ZjNkZGM2ZjQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>Shaft (2019) 4K</title>
-<link>
-<sublink>magnet:?xt=urn:btih:4ad4e5982d49ccfcd791c1353b5cebdbd01e90cf&dn=Shaft.2019.INTERNAL.HDR.2160p.WEB.H265-DEFLATE</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNmExNGZmYzItZTMzMi00YWJjLWJkYmQtMDg5MjgzYjYyZDk1XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Shaft (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:e2a2601f15009370f2d6dc082fe21fa5539fc2a6&dn=Shaft.2019.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNmExNGZmYzItZTMzMi00YWJjLWJkYmQtMDg5MjgzYjYyZDk1XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Yesterday (2019) 4K</title>
-<link>
-<sublink>magnet:?xt=urn:btih:c391f2a97068e5190788e5786aea1669e8941f81&dn=Yesterday.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Yesterday (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:cd79cabb4d9e512cdcdc90388a05b0d4e09533be&dn=Yesterday.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Annabelle Comes Home (2019) 4K</title>
-<link>
-<sublink>magnet:?xt=urn:btih:86f6142b45dc9b96d3d4cb5e34a7cccea8da17bd&dn=Annabelle.Comes.Home.2019.INTERNAL.HDR.2160p.WEB.H265-DEFLATE</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Annabelle Comes Home (2019)</title>
-<link>https://rg.to/file/5404587fced2d0dc2e967ef7297935be</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Tall Girl (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:f292d0bc3e1874c480b6e4223ba14d0a5b739225&dn=Tall.Girl.2019.1080p.NF.WEBRip.DDP5.1.x264-CM</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDI3YmEwOTItNDEyNC00MGNlLWJiMjEtMzc0MTJjZmM1NGEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>The Sound of Silence (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:5bc3bce2130a13a08ec629c7756b962c17b62522&dn=The.Sound.of.Silence.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZDgxYjUyOGEtYTIxMi00NzIyLTllNjgtN2YxNzgzNzVhNzQyXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>3 Days with Dad (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:151188671bc6d5fd72ddf00919dac557cbc7b1cb&dn=3.Days.With.Dad.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
-</link>
-<thumbnail>https://i.imgur.com/w8olBYV.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Can You Keep a Secret? (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:8e5dc9a53e078904c7378049a0381f5482f77d64&dn=Can.You.Keep.A.Secret.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
-</link>
-<thumbnail>https://i.imgur.com/suP0XBZ.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Toy Story 4 (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:08de6942058e38a617b512fb66ae41865e8765f0&dn=Toy.Story.4.2019.1080p.WEBRip.x264.AAC2.0-SHITBOX</sublink>
-</link>
-<thumbnail>https://i.imgur.com/EJTBP5J.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<dir>
-<title>[COLOR lime]>>> Debrid New Releases Next Page >>>[/COLOR]</title>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Torrents%20Mav.txt</link>
+<title>[COLOR gold]>>> Debrid New Releases Next Page >>>[/COLOR]</title>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Torrents%20DJV.txt</link>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Torrents%20DJV.txt</externallink>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
-</dir>
+</item>
+
