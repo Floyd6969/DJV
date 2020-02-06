@@ -24,7 +24,7 @@ sublink:magnet:?xt=urn:btih:6b70eac78e9ce4a589a418ff390f4d9242f0f030&dn=Vikings.
 <item>
 <title>Star Trek: Picard S01 E03</title>
 <link>
-sublink:magnet:?xt=urn:btih:17acdcb2b556133f7762b6d4b9ec8a0b45fbb5a3&dn=Star.Trek.Picard.S01E03.iNTERNAL.720p.WEB.H264-AMRAP%5Brartv%5D#
+sublink:magnet:?xt=urn:btih:454be90005d1cf42c003c09bb74753a7b9ea33f1&dn=Star.Trek.Picard.S01E03.The.End.is.the.Beginning.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
 </link>
 <thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
 <fanart></fanart>
