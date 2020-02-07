@@ -13,6 +13,15 @@
 </item>
 
 <item>
+<title>Harley Quinn S01 E11</title>
+<link>
+sublink:magnet:?xt=urn:btih:c69cfe6beb35698e6aa724ea4919ea8abf8bf420&dn=Harley.Quinn.S01E11.Harley.Quinn.Highway.1080p.DCU.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Brooklyn Nine-Nine S07 E02</title>
 <link>
 sublink:magnet:?xt=urn:btih:98c547c47ade2ecc8625a9eb7469aea920165f2b&dn=Greys.Anatomy.S16E12.720p.HDTV.x264-AVS%5Brartv%5D#
