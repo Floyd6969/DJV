@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Come to Daddy (2020)</title>
+<link>
+sublink:magnet:?xt=urn:btih:3c01ac34cc22017128373f4d9bab957582f78105&dn=Come.To.Daddy.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofJp9SfJFlzCaDCUFfvCx08Hwfh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Knives Out (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:a751a0d64ae7b285c3707428d445db150fe81be8&dn=Knives.Out.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Midway (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:2cf3f384fe8754630cad851456da363a445c1325&dn=Midway.2019.1080p.WEB-DL.DD5.1.H264-FGT#
