@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Dolittle (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:49707066e947d6c42c1c5e7094fb976baf02f50d&dn=Dolittle.2020.1080p.HDRip.x264.AAC2.0-STUTTERSHIT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrraiBBuhu5E50otrtrykNqnOt5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Come to Daddy (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:3c01ac34cc22017128373f4d9bab957582f78105&dn=Come.To.Daddy.2019.1080p.WEBRip.x264-RARBG</sublink>
