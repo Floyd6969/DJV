@@ -3,22 +3,6 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>[COLOR lime]Test[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/e6afdc01-5215-4106-b56c-2a3337b01336</link>
-
-<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Tester[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://www.arconaitv.us/e6afdc01-5215-4106-b56c-2a3337b01336</link>
-
-<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
 <title>[COLOR lime]30 Rock[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://arconaitv.us/stream.php?id=191</link>
 
