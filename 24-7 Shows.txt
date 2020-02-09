@@ -11,8 +11,8 @@
 </item>
 
 <item>
-<title>[COLOR lime]Test 2[/COLOR]</title>
-<link>https://www.arconaitv.us/e6afdc01-5215-4106-b56c-2a3337b01336</link>
+<title>[COLOR lime]Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://www.arconaitv.us/e6afdc01-5215-4106-b56c-2a3337b01336</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
