@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
  
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+<title>[COLOR lime]Test[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=238</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>[COLOR lime]30 Rock[/COLOR]</title>
