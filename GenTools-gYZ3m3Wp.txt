@@ -11,3 +11,10 @@
 <thumbnail><thumbnail>
 <fanart><fanart>
 <item>
+
+<item>
+<title>[COLORsilver]Internet Speedtest[/COLOR]<title>
+<link>plugin://script.speedtestnet<link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<item>
