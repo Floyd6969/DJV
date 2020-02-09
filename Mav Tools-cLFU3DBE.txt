@@ -12,12 +12,12 @@
 <fanart></fanart>
 </dir>
  
-<item>
-<title>[COLOR white][B]Openload Pair Online Here[/B][/COLOR]</title>
+<dir>
+<name>[COLOR white][B]Internet Speedtest[/B][/COLOR]</name>
+<link>plugin://script.speedtestnet</link>
 <thumbnail></thumbnail>
-<pairwith>openload</pairwith>
-<fanart>/fanart>
-</item>
+<fanart></fanart>
+</dir>
  
 <item>
 <title>[COLOR white][B]Movie Site Pairing[/B][/COLOR]</title>
