@@ -19,9 +19,3 @@
 <fanart><fanart>
 <item>
 
-<item>
-<title>[COLORsilver]Kodi Clean Up /Cache/Thumnails Etc.[/COLOR]<title>
-<link>plugin://script.ezmaintenance<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
-<item>
