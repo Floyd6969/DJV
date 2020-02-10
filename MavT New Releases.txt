@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>A Shaun the Sheep Movie: Farmageddon (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:2b45d5819c7d3b6e0db21c998291ff14879428ea&dn=A.Shaun.the.Sheep.Movie.Farmageddon.2019.1080p.BluRay.X264-AMIABLE</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Dolittle (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:49707066e947d6c42c1c5e7094fb976baf02f50d&dn=Dolittle.2020.1080p.HDRip.x264.AAC2.0-STUTTERSHIT</sublink>
