@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Charlie's Angels (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:0a905b77888aae9cd8a3bbaadafd031b0363e58b&dn=Charlies.Angels.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/XxzgnBB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Frozen II (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:c88e9f697281ce987e60ecd5273caeca745399e9&dn=Frozen.2.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/ttOi2bI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>A Shaun the Sheep Movie: Farmageddon (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:2b45d5819c7d3b6e0db21c998291ff14879428ea&dn=A.Shaun.the.Sheep.Movie.Farmageddon.2019.1080p.BluRay.X264-AMIABLE</sublink>
