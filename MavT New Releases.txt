@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Jumanji: The Next Level (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:d87387770204b6fe42dcb7b6f7dfb65f718b7177&dn=Jumanji.The.Next.Level.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Charlie's Angels (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:0a905b77888aae9cd8a3bbaadafd031b0363e58b&dn=Charlies.Angels.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
