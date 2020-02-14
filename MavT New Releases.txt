@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Jojo Rabbit (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:81a94a3f1850f6eae3485e4e90d6517d2423121f&dn=Jojo.Rabbit.2019.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>A Shaun the Sheep Movie: Farmageddon (2019) 4K</title>
 <link>
 <sublink>magnet:?xt=urn:btih:ff3dffe83c70f1737630705abf193efd4da2bebc&dn=A.Shaun.the.Sheep.Movie.Farmageddon.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-IAMABLE<sublink>
