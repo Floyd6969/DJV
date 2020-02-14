@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Frozen II (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:79cc4560cf83408490f99ae79c98336eeaeda163&dn=Frozen.II.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL</sublink>
+</link>
+<thumbnail>https://i.imgur.com/ttOi2bI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Frozen II (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:841282038bf0ddb83703c6c633cf0780dff60282&dn=Frozen.II.2019.1080p.BluRay.x264-YOL0W</sublink>
+</link>
+<thumbnail>https://i.imgur.com/ttOi2bI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Knives Out (2019) 4K</title>
 <link>
 <sublink>magnet:?xt=urn:btih:a997001e31c14029fa4dd3835474ad4f0b737338&dn=Knives.Out.2019.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69</sublink>
@@ -48,15 +66,6 @@
 <sublink>magnet:?xt=urn:btih:0a905b77888aae9cd8a3bbaadafd031b0363e58b&dn=Charlies.Angels.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
 </link>
 <thumbnail>https://i.imgur.com/XxzgnBB.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Frozen II (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:c88e9f697281ce987e60ecd5273caeca745399e9&dn=Frozen.2.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
-</link>
-<thumbnail>https://i.imgur.com/ttOi2bI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
