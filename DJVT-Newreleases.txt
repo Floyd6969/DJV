@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Knives Out (2019) 4K</title>
+<link>
+sublink:magnet:?xt=urn:btih:a997001e31c14029fa4dd3835474ad4f0b737338&dn=Knives.Out.2019.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Knives Out (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:6cc66efdbb060ec024415221cc746628afd1d0d3&dn=Knives.Out.2019.1080p.BluRay.x264-YOL0W#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Jumanji: The Next Level (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:d87387770204b6fe42dcb7b6f7dfb65f718b7177&dn=Jumanji.The.Next.Level.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT#
@@ -66,15 +84,6 @@ sublink:magnet:?xt=urn:btih:49707066e947d6c42c1c5e7094fb976baf02f50d&dn=Dolittle
 sublink:magnet:?xt=urn:btih:3c01ac34cc22017128373f4d9bab957582f78105&dn=Come.To.Daddy.2019.1080p.WEBRip.x264-RARBG#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofJp9SfJFlzCaDCUFfvCx08Hwfh.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Knives Out (2019)</title>
-<link>
-sublink:magnet:?xt=urn:btih:a751a0d64ae7b285c3707428d445db150fe81be8&dn=Knives.Out.2019.1080p.WEBRip.x264-RARBG#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
