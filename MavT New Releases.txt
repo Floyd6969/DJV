@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>A Shaun the Sheep Movie: Farmageddon (2019) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:ff3dffe83c70f1737630705abf193efd4da2bebc&dn=A.Shaun.the.Sheep.Movie.Farmageddon.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-IAMABLE<sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Frozen II (2019) 4K</title>
 <link>
 <sublink>magnet:?xt=urn:btih:79cc4560cf83408490f99ae79c98336eeaeda163&dn=Frozen.II.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL</sublink>
