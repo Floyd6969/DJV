@@ -4,6 +4,22 @@
 
 <item>
 <title>[COLOR lime]30 Rock[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=blob:https://www.arconaitv.us/45a3ba6c-9f4c-4c53-925b-1281dd5ce87c</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]30 Rock[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/45a3ba6c-9f4c-4c53-925b-1281dd5ce87c</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]30 Rock[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://arconaitv.us/stream.php?id=191</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
