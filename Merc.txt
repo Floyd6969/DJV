@@ -26,7 +26,7 @@
 <fanart>https://i.imgur.com/2aMoMQv.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>[COLORwhite][B]Classic Cinema One Click HD[/B][/COLOR]</name>
 <link>https://pastebin.com/raw/N6rBEJAG</link>
 <thumbnail>https://i.imgur.com/ewZqfXr.png</thumbnail>
