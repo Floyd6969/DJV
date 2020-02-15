@@ -36,7 +36,7 @@
 
 <item>
 <title>[COLOR lime]Addams Family[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://arconaitv.us/stream.php?id=214</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=214</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
