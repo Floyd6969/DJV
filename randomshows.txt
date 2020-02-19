@@ -13,6 +13,60 @@
 </item>
 
 <item>
+<title>Manifest S02 E07</title>
+<link>
+sublink:magnet:?xt=urn:btih:d25d5d7fd446b0c2f20e8bc363d70f41d46973f1&dn=Manifest.S02E07.iNTERNAL.1080p.WEB.H264-GHOSTS%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Simpsons S31 E12</title>
+<link>
+sublink:magnet:?xt=urn:btih:64e3ca418bff9e41993a6d59bcd42373f846111a&dn=The.Simpsons.S31E12.The.Miseducation.of.Lisa.Simpson.1080p.HULU.WEBRip.DDP5.1.x264-CtrlHD%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DC's Legends of Tomorrow S05 E05</title>
+<link>
+sublink:magnet:?xt=urn:btih:fdf498ebf1fb21d3e341abc702950dfb9c2385a1&dn=DCs.Legends.of.Tomorrow.S05E05.iNTERNAL.1080p.WEB.h264-HILLARY%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FBI S02 E16</title>
+<link>
+sublink:magnet:?xt=urn:btih:ca2c8185f5085546f886f452e1d9f4e663f03a54&dn=FBI.S02E16.iNTERNAL.1080p.WEB.x264-BAMBOOZLE%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FBI: Most Wanted S01 E06</title>
+<link>
+sublink:magnet:?xt=urn:btih:66720da32627f7f769cc7594f4baab28c728e3e7&dn=FBI.Most.Wanted.S01E06.1080p.HDTV.x264-LucidTV%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Project Blue Book S02 E05</title>
+<link>
+sublink:magnet:?xt=urn:btih:1fcfc5576a8b4f632470302c27fc4f5926bad361&dn=Project.Blue.Book.S02E05.The.Men.in.Black.1080p.AMZN.WEBRip.DDP2.0.x264-NTG%5Brartv%5D#
+</link>
+<thumbnail>https://i.imgur.com/hWnpibB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Batwoman S01 E12</title>
 <link>
 sublink:magnet:?xt=urn:btih:90b764509de59ed8b67e2e22d98e229b9740eb79&dn=Batwoman.S01E12.Take.Your.Choice.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D#
