@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Jumanji: The Next Level (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:0572bcd758f4690310569d661cc9db846fba859d&dn=Jumanji.The.Next.Level.2019.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Superman: Red Son (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:71de0e429c1c8e2fc3047a291cda5e01f145cfcb&dn=Superman.Red.Son.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
