@@ -16,6 +16,33 @@
 </item>
 
 <item>
+<title>Superman: Red Son (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:71de0e429c1c8e2fc3047a291cda5e01f145cfcb&dn=Superman.Red.Son.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/FVU9HZ87VfYMe5vIJvM3hFTG5i.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Charlie's Anals (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:6eb55feb576580dd86895991de947f9ac4ce6615&dn=Charlies.Angels.2019.1080p.BluRay.x264-DRONES</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2VkMjQwZWMtMzc1NC00ZjJiLWJlNTMtNmRjOTE2ZTJmYzUwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SY1000_CR0,0,731,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Last Thing He Wanted (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:894c106bc7543841fd14f7bd1d0a6c4a8ab956b1&dn=The.Last.Thing.He.Wanted.2020.1080p.NF.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI3ODZlNjgtNWM4OC00MDFhLTg2MmYtYjk3M2I0OWJmZmE2XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Jojo Rabbit (2019) 4K</title>
 <link>
 <sublink>magnet:?xt=urn:btih:81a94a3f1850f6eae3485e4e90d6517d2423121f&dn=Jojo.Rabbit.2019.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ</sublink>
