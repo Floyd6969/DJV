@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>All the Bright Places (2020)</title>
+<link>
+sublink:magnet:?xt=urn:btih:9f3cce183ba15dc2dcfbfcb802456bade22ee103&dn=All.The.Bright.Places.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Guns Akimbo (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:632411c82acb31dcd822e519f2b4598d7a2cd1c5&dn=Guns.Akimbo.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzU3ZTI1OTktNjVkNy00OWEzLWIyNzAtMWQ5YjRkZDU1ZjAxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Spies in Disguise (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:ab5e048a43f1089f39b86962782a610709c51318&dn=Spies.in.Disguise.2019.1080p.BluRay.x264-YOL0W#
