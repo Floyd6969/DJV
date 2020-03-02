@@ -8,8 +8,6 @@
 <regex>
 <name>file</name>
 <expres>source src="(.*?)"</expres>
-<page>http://www.justproxy.co.uk/index.php</page>
-<referer>http://www.justproxy.co.uk</referer>
 <rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
 </regex>
 <regex>
