@@ -3,8 +3,8 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>[COLOR lime]Action Movies[/COLOR]</title> 
-<sportsdevil>https://www.arconaitv.co/stream.php?id=3</sportsdevil> 
+<title>[COLOR lime]Action Movies 3[/COLOR]</title> 
+<sportsdevil>https://www.arconaitv.us/stream.php?id=3</sportsdevil> 
 <referer></referer>
 <thumbnail>http://www.ask4glass.co.uk/images/targetwebsite35.nrgdigital.net/images/round_24-7_logo__cropped_.png</thumbnail>
 <fanart></fanart> 
@@ -30,9 +30,9 @@
 </item>
 
 <item>
-<title>[COLOR red]30 Rock[/COLOR]</title>
-<spotrsdevil>https://arconaitv.us/stream.php?id=191</spotrsdevil>
-<referer>https://arconaitv.us</referer>
+<title>30 Rock</title>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=191</sportsdevil>
+<referer></referer>
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
