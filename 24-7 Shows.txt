@@ -19,6 +19,25 @@
 </item>
 
 <item>
+<title>24/7 Action Movies 2</title>
+<link>$doregex[file]|user-agent=iPhone</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.justproxy.co.uk/index.php</page>
+<referer>http://www.justproxy.co.uk</referer>
+<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote('https://www.arconaitv.us/stream.php?id=191/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://tse3.mm.bing.net/th?id=OIP.M5564c7878aa32f603040cf318f2bebc3H0&pid=15.1&P=0&w=300&h=300</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR red]30 Rock[/COLOR]</title>
 <spotrsdevil>https://arconaitv.us/stream.php?id=191</spotrsdevil>
 <referrer>https://arconaitv.us</referrer>
