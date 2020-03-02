@@ -3,19 +3,11 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>24/7 Action Movies</title>
-<link>$doregex[file]|user-agent=iPhone</link>
-<regex>
-<name>file</name>
-<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
-</regex>
-<regex>
-<name>url-quote</name>
-<expres>$pyFunction:urllib.quote('https://www.arconaitv.us/stream.php?id=191')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR lime]Action Movies[/COLOR]</title> 
+<sportsdevil>https://www.arconaitv.co/stream.php?id=3</sportsdevil> 
+<referer></referer>
+<thumbnail>http://www.ask4glass.co.uk/images/targetwebsite35.nrgdigital.net/images/round_24-7_logo__cropped_.png</thumbnail>
+<fanart></fanart> 
 </item>
 
 <item>
@@ -40,7 +32,7 @@
 <item>
 <title>[COLOR red]30 Rock[/COLOR]</title>
 <spotrsdevil>https://arconaitv.us/stream.php?id=191</spotrsdevil>
-<referrer>https://arconaitv.us</referrer>
+<referer>https://arconaitv.us</referer>
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
