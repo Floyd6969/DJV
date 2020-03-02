@@ -3,8 +3,8 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>[COLOR lime]Test[/COLOR]</title> 
-<sportsdevil>https://www.arconaitv.us/stream.php?id=242</sportsdevil> 
+<title>[COLOR lime]Test 1[/COLOR]</title> 
+<sportsdevil>https://www.arconaitv.us/6bb9d397-b3a1-4e4e-9354-a3aefe07ae63</sportsdevil> 
 <referer></referer>
 <thumbnail>http://www.ask4glass.co.uk/images/targetwebsite35.nrgdigital.net/images/round_24-7_logo__cropped_.png</thumbnail>
 <fanart></fanart> 
