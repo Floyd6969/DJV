@@ -11,7 +11,7 @@
 </regex>
 <regex>
 <name>url-quote</name>
-<expres>$pyFunction:urllib.quote('https://arconaitv.us/stream.php?id=191')</expres>
+<expres>$pyFunction:urllib.quote('https://www.arconaitv.us/stream.php?id=191')</expres>
 <page></page>
 </regex>
 <thumbnail></thumbnail>
