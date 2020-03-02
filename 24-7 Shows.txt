@@ -3,8 +3,8 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>[COLOR lime]Action Movies 3[/COLOR]</title> 
-<sportsdevil>https://www.arconaitv.us/stream.php?id=3</sportsdevil> 
+<title>[COLOR lime]Test[/COLOR]</title> 
+<sportsdevil>https://www.arconaitv.us/stream.php?id=242</sportsdevil> 
 <referer></referer>
 <thumbnail>http://www.ask4glass.co.uk/images/targetwebsite35.nrgdigital.net/images/round_24-7_logo__cropped_.png</thumbnail>
 <fanart></fanart> 
@@ -22,7 +22,7 @@
 </regex>
 <regex>
 <name>url-quote</name>
-<expres>$pyFunction:urllib.quote('https://www.arconaitv.us/stream.php?id=191/')</expres>
+<expres>$pyFunction:urllib.quote('https://www.arconaitv.us/stream.php?id=242/')</expres>
 <page></page>
 </regex>
 <thumbnail>https://tse3.mm.bing.net/th?id=OIP.M5564c7878aa32f603040cf318f2bebc3H0&pid=15.1&P=0&w=300&h=300</thumbnail>
@@ -31,7 +31,7 @@
 
 <item>
 <title>30 Rock</title>
-<sportsdevil>https://www.arconaitv.us/stream.php?id=191</sportsdevil>
+<sportsdevil>https://www.arconaitv.us/stream.php?id=242</sportsdevil>
 <referer></referer>
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
