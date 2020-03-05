@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>Little Women (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:2d032e734ff0a4af636dd3e45e9e7f128f8d86aa&dn=Little.Women.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://i.imgur.com/fpVktky.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>All the Bright Places (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:9f3cce183ba15dc2dcfbfcb802456bade22ee103&dn=All.The.Bright.Places.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG</sublink>
