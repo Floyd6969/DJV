@@ -36,7 +36,7 @@
 <item>
 <title>Sonic the Hedgehog (2020)</title>
 <link>
-<sublink>magnet:?xt=urn:btih:6a931fa8d6cc0107ea9f86ee36079df7f6dbd879&dn=Sonic.the.Hedgehog.2020.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT</sublink>
+<sublink>magnet:?xt=urn:btih:af1f17c7af7b51ef2cc2303ca722c038dc6fc93d&dn=Sonic.the.Hedgehog.2020.1080p.HDRip.x264.AAC2.0-STUTTERSHIT</sublink>
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDc1ZTlmOWUtNDY2YS00OGU5LTg2MTYtYTk2MmQzMGE2NzUwXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
