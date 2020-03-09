@@ -25,6 +25,15 @@
 </item>
 
 <item>
+<title>Spenser Confidential (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:072c9b274c0353a6fb2748f0dda56de3b748412e&dn=Spenser.Confidential.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTdkOTEwYjMtNDA1YS00YzVlLTg0NWUtMmQzNDZhYWUxZmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Escape from Pretoria (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:90a4964baa9189d4d3de8e81712bdcae687a6dea&dn=Escape.from.Pretoria.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
