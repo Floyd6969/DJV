@@ -48,6 +48,14 @@
 <thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Godzilla Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=226</link>
+
+<thumbnail>http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>[COLOR lime]Harry Potter[/COLOR]</title>
