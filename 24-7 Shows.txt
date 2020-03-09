@@ -3,12 +3,13 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>30 Rock</title>
-<sportsdevil>https://www.arconaitv.us/stream.php?id=242</sportsdevil>
-<referer></referer>
+<title>[COLOR lime]30 Rock[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://arconaitv.us/stream.php?id=242</link>
+
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
  
 <item>
 <title>[COLOR lime]3rd Rock From The Sun[/COLOR]</title>
