@@ -3,33 +3,6 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>[COLOR lime]Test 1[/COLOR]</title> 
-<sportsdevil>https://www.arconaitv.us/6bb9d397-b3a1-4e4e-9354-a3aefe07ae63</sportsdevil> 
-<referer></referer>
-<thumbnail>http://www.ask4glass.co.uk/images/targetwebsite35.nrgdigital.net/images/round_24-7_logo__cropped_.png</thumbnail>
-<fanart></fanart> 
-</item>
-
-<item>
-<title>24/7 Action Movies 2</title>
-<link>$doregex[file]|user-agent=iPhone</link>
-<regex>
-<name>file</name>
-<expres>source src="(.*?)"</expres>
-<page>http://www.justproxy.co.uk/index.php</page>
-<referer>http://www.justproxy.co.uk</referer>
-<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
-</regex>
-<regex>
-<name>url-quote</name>
-<expres>$pyFunction:urllib.quote('https://www.arconaitv.us/stream.php?id=242/')</expres>
-<page></page>
-</regex>
-<thumbnail>https://tse3.mm.bing.net/th?id=OIP.M5564c7878aa32f603040cf318f2bebc3H0&pid=15.1&P=0&w=300&h=300</thumbnail>
-<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
-</item>
-
-<item>
 <title>30 Rock</title>
 <sportsdevil>https://www.arconaitv.us/stream.php?id=242</sportsdevil>
 <referer></referer>
@@ -199,6 +172,14 @@
 <item>
 <title>[COLOR lime]Bones[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=159</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Boston Legal[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=229</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
@@ -373,6 +354,14 @@
 </item>
 
 <item>
+<title>[COLOR lime]E.R[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=239</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR lime]Everybody Loves Raymond[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=230</link>
 
@@ -383,6 +372,14 @@
 <item>
 <title>[COLOR lime]Family Guy[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=41</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Family Matters[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=237</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
@@ -447,6 +444,14 @@
 <item>
 <title>[COLOR lime]Ghost Whisperer[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=162</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Glee[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=241</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
@@ -551,6 +556,14 @@
 <item>
 <title>[COLOR lime]Letterkenny[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=234</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Love Boat[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=238</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
@@ -859,10 +872,26 @@
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Step by Step[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=240</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>[COLOR lime]Steven Universe[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=152</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Suits[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=242</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
