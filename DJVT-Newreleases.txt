@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>The Grudge (2020)</title>
+<link>
+sublink:magnet:?xt=urn:btih:8a5a769dc0cbf495cef3a961790e446a594c2da2&dn=The.Grudge.2020.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>1917 (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:456921509782b06a930cf800ce9a9798691ea44d&dn=1917.2019.1080p.WEB-DL.DD5.1.H264-FGT#
