@@ -1,5 +1,300 @@
 
 <item>
+<title>Ryde or Die (2018)</title>
+<link>https://uptobox.com/byjbg1tal7c1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h5UgJ19lTB3iDjYtBJwwZe8Mt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rocking the Couch (2018)</title>
+<link>https://vidoza.net/j2l65t7oq07j.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFV84L5C9OHuyUsEoP7DGAGxCns.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Dustwalker (2019)</title>
+<link>https://uptobox.com/ds670djpzrys</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eIoM5bc9t7YVPx2DOGL3DHwx7T.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Incident at Montauk (2019)</title>
+<link>https://uptobox.com/homnhxvj377w</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW8IgkpKPICmBeLjBi4SXFu48Zb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Stressed (2019)</title>
+<link>https://vidoza.net/gngw9cfi8e1f.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLHR1SMoZQ2yMBjp8IDjD4JqmlM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sunday Girl (2019)</title>
+<link>https://uptobox.com/6ummi8udg7ei</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjExODIyZjktYmI1Ni00YjcwLTk5MTgtNGEyNTE0NGVhZjBkXkEyXkFqcGdeQXVyNjExOTcwNzk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Prayer for the Damned (2018)</title>
+<link>https://vidoza.net/a4agbr6szbrv.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/145rfYd3bwaXm6uBAXGyYQ8YMYa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hollywould (2019)</title>
+<link>https://uptobox.com/uauq4h5hhmbt</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjBiOGNmYmYtM2YzZS00OTkxLWE1ZDMtMWYwNGRhODY2OTFlXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_SY1000_CR0,0,716,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Dawn (2019)</title>
+<link>https://uptobox.com/tbngdayq1rnp</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGFkMmE5ZDMtY2FjZi00MjUzLTg5YTQtNmNmZTg2MGFkODQwXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dark Waters (2019)</title>
+<link>https://uptobox.com/zqq5d88pl7iz</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0M2Y5M2QtZGIwMC00MzJjLThlMzYtNmE3ZTMzZTYzOGEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Queen & Slim (2019)</title>
+<link>https://uptobox.com/ap3gxqwt9imr</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIzYmJkZmEtM2RkZS00MDA4LTg4NjAtOGRkN2EwZmFmMWE4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Not for Resale (2019)</title>
+<link>https://uptobox.com/co52m02bu7f7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA63SZbenhawWhPDQV7D4JZlwlC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Jack in the Box (2020)</title>
+<link>https://uptobox.com/yfcx38tyrbrt</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AV1ozhhVQT2GzUVE13udmlsdpy.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dead Fred (2019)</title>
+<link>https://uptobox.com/z5xagqx633hk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDQ2MGI1ZDQtNDRhZi00YmNmLThlZjQtNDAzMGNiYWNiOTYzXkEyXkFqcGdeQXVyMjAzNjE5NzA@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Brown Paper Bag (2020)</title>
+<link>https://uptobox.com/gre6znkrntph</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6M69Ge5U2q7EWhyOwHYaqell1JR.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Come As You Are (2019)</title>
+<link>https://uptobox.com/r3bvuwi3d3h9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdyX1d5chcvEkMqg5clmJt2QTtX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Z-O-M-B-I-E-S 2 (2020)</title>
+<link>https://uptobox.com/24u4dottt7rw</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/frTwEqSMWQ27oQeuiBO5PT0ZNqq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cupid (2020)</title>
+<link>https://uptobox.com/plu5b7veipv7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PPrZ2YEIBF3hlz7V42dc3Q4vPR.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>After Midnight (2020)</title>
+<link>https://uptobox.com/coy92m6l8ehn</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo3fqfe28u7EaNm8aaUaJt84rIE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Waiting for Anya (2020)</title>
+<link>https://uptobox.com/sb1h1jw0ls6x</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmcrWULl3eO7pHL5brMQ5pdtJvb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Buffaloed (2019)</title>
+<link>https://uptobox.com/oy057lfhr662</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2I2ZjlkYzAtZWE5OC00ODc5LTk0ZDUtMGJiY2MwM2VlMjlkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Kindness of Strangers (2019)</title>
+<link>https://uptobox.com/jhu4d8pg7h3p</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGVlNDI2Y2QtMjIwOS00OGZjLTkzZGMtOWQxNDg4NGU2Njc4XkEyXkFqcGdeQXVyMTEyNDk3MjY3._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VFW (2019)</title>
+<link>https://uptobox.com/5g1025vyzq6u</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5YzRlYzQtNjQ0OS00OGExLTg4OWUtZWZhNDM2YTQyZjZjXkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Alien Outbreak (2020)</title>
+<link>https://uptobox.com/1m83801y1xlu</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/VmUwzEQTfO09c9CHcNoAUUWQxU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sadistic Intentions (2018)</title>
+<link>https://uptobox.com/a1nkafnl5fit</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EeYGIk6MPytw28qo1Pfyu62HGo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Rest of Us (2019)</title>
+<link>https://uptobox.com/smmhtjx3pm6n</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jU0fYMOvKefK9FLamsXHR7zScpH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spy Intervention (2020)</title>
+<link>https://uptobox.com/04qc6ef5qo9s</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/UsWENHqyQbY1yWZu51DSv7q88n.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mickey and the Bear (2019)</title>
+<link>https://uptobox.com/8d251s4ztya8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tk9PKt6tjPVx6jJmWdGR1XG4RTp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Olympic Dreams (2019)</title>
+<link>https://uptobox.com/yi2l78fo9tw1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eat Brains Love (2019)</title>
+<link>https://uptobox.com/v0am8sux4k54</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpN7nQJD6W4LmJXYVcaurA5ej1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>After Class (2019)</title>
+<link>https://uptobox.com/170e9nlwk1yq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ypa5J1E6HkcEfUJyfRGUZbVNFY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Wheres My Roy Cohn? (2019)</title>
+<link>https://uptobox.com/myn0wxbrh3pq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLLsinqf2a6dC7HcYPY3oiL9s1N.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Star Trek: Picard (2020) S01 E04</title>
+<link>https://uptobox.com/jym43gkxeblk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Black Christmas (2019)</title>
+<link>https://uptobox.com/bgddkrd5dswd</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMBlUzqwpz9ffbeLsYjyHPp8tn8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Birds of Prey (2020) HD Cam New</title>
+<link>https://uptobox.com/eln4hvrsn8qp</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7FCF54Jvzv9Anxyf82QeqFXXOO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>End Of Sentence (2020)</title>
+<link>https://uptobox.com/pbeisihe4vjr</link>
+<thumbnail>https://i.imgur.com/hFP2vcB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Uppity: The Willy T. Ribbs Story (2020)</title>
+<link>https://uptobox.com/hg7ow79hirn2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFpsNeyiRldJjWeXHVOedz2tG1P.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Cave (2019)</title>
+<link>https://uptobox.com/d3wix75ebepm</link>
+<thumbnail>https://i.imgur.com/NyEdIO2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spycies (2020)</title>
+<link>https://uptobox.com/ue8jn9ooe8zv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/csRRgPVNBCekUSe6FSdSp9iIdDn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jacobs Ladder (2019)</title>
+<link>https://uptobox.com/48l6k0agiloh</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIlmYRxrIVBo90ITVBCCbTqUZE3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>To All the Boys: P.S. I Still Love You (2020)</title>
+<link>https://uptobox.com/i09o4rvtcc0z</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGUyMjljNWUtY2FjNC00YjI3LTk0NWQtZjg4NDk1M2ZmN2YwXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Charlie's Angels (2019)</title>
+<link>https://uptobox.com/qwwec0ppqmxo</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2VkMjQwZWMtMzc1NC00ZjJiLWJlNTMtNmRjOTE2ZTJmYzUwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SY1000_CR0,0,731,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Agramons Gate (2020)</title>
 <link>https://uptobox.com/bqaei35iruyw</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM9iyyM52I2ekFcMgYyXHOO7atg.jpg</thumbnail>
