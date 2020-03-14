@@ -19,6 +19,7 @@
 <title>Star Wars: The Rise of Skywalker (2019)</title>
 <link>
 sublink:magnet:?xt=urn:btih:435ff595e5f133717778e57699fb5259e9f34a7d&dn=Star.Wars.Episode.IX.The.Rise.of.Skywalker.2020.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-Galaxy...#
+</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
 <fanart></fanart>
 </item>
