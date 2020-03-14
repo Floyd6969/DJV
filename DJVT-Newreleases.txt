@@ -2,6 +2,13 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
+<title>[COLORred][B]If You Can See This Message Please Reload The Page And Relink The Shortcut[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORblue][B]Debrid Needed For These Movies All 1080p And 4K[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
