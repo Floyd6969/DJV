@@ -25,6 +25,15 @@
 </item>
 
 <item>
+<title>Star Wars: The Rise of Skywalker (2019) (Digital Extras)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:c46b47418495d484a856093698d4204f352eb36d&dn=Star.Wars.Episode.IX.The.Rise.of.Skywalker.2019.Digital.EXTRAS.Only.1080p.WEBRip.x264-RARBG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>1917 (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:456921509782b06a930cf800ce9a9798691ea44d&dn=1917.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
