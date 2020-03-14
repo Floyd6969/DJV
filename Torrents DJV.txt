@@ -6,6 +6,810 @@
 </item>
 
 <item>
+<title>The Mandalorian S01 E02 1080p [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:4b14cca9d23d3e4509138ea81a12fe69d94d3d53&dn=The.Mandalorian.S01E02.1080p.WEBRip.DDP5.1.x264-CUSTOM%5Brartv%5D#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Mandalorian S01 E02 4K [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:5fd4ebadb5beff09c4c6184a5386b7d6a49a2fbc&dn=The.Mandalorian.S01E02.2160p.DSNP.WEBRip.x265.10bit.HDR.DD5.1-TrollUHD%5Brartv%5D#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Mandalorian S01 E01 1080p [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:02c4425e5d0c421accd792f9b6696cad35103766&dn=The.Mandalorian.S01E01.INTERNAL.1080p.WEB.H264-DEFLATE#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Mandalorian S01 E01 4K [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:76de54ff5232c89455ff449bb39458837d85d9d7&dn=The.Mandalorian.S01E01.2160p.WEBRip.x265.10bit.HDR.DDP5.1.Atmos-DEFLATE#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ready or Not (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:93cda8fdeb9b4b985ccca22515f3a09309cc4e33&dn=Ready.or.Not.2019.1080p.BluRay.x264.DTS-CHD#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Gemini Man (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:ad2cc1a218e2d63239aa56f125e357d72a4a7cee&dn=Gemini.Man.2019.1080p.WEBRip.AAC2.0.x264-CM#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjI5OTNkMzUtZDYzYy00NWQ5LTg4YzYtZmZjZDI0MGQzNGY2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Goldfinch (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:ce2963fa40a0fc0095e079e716e6d0feb04c6e62&dn=The.Goldfinch.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://i.imgur.com/tCS5W1o.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>It Chapter Two (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:9db23b3c57ba858e2eedba555d5e65af096ac4d5&dn=It.Chapter.Two.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Angel Has Fallen (2019) 4K [COLORlime] HDR Atmos 7.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:139422207459d3d2d2c92e1e0effde6d9c0e3f42&dn=Angel.Has.Fallen.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-AAAUHD#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmRmMWZhZGItYzA4MC00ZDYyLWE0OTMtYmM0MWRiN2Q4NGU2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Angel Has Fallen (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:14b158c33d2c95f32336c59b8d15ca4b571a42ef&dn=Angel.Has.Fallen.2019.1080p.BluRay.x264-AAA#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmRmMWZhZGItYzA4MC00ZDYyLWE0OTMtYmM0MWRiN2Q4NGU2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Paw Patrol: Ready, Race, Rescue! (2019) [COLORlime] DD+ 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:FE6A7157F28B2C2AED444C3709AF7AA6FD61EFAD&dn=Paw+Patrol+Ready+Race+Rescue+2019+1080p+NF+WEB-DL+AAC5.1+x264+CHX#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTZhMDQ2ODgtMjU2NC00NDg0LTgyZGQtMTQxYTIyYzBiN2ZmXkEyXkFqcGdeQXVyNjQ4NjY2MzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Klaus (2019) [COLORlime] DD+ 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:13dfa33c450ad675e243865d85ee65857be5388d&dn=Klaus.2019.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM#
+</link>
+<thumbnail>https://i.imgur.com/ZBdfo8U.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Earthquake Bird (2019) [COLORlime] DD+ 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:9b8cef10a22de2b31686231d32304895ea9fb8f2&dn=Earthquake.Bird.2019.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM#
+</link>
+<thumbnail>https://i.imgur.com/RlwtOk8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lady and the Tramp (2019)</title>
+<link>https://1fichier.com/?6qkchnlh93fjcl2j8zc2</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2U3ZDBkYWUtNDY3Ny00OTliLTgxNTAtY2QwZTQxMmEwOTQ1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Noelle (2019)</title>
+<link>https://1fichier.com/?dc1kijrr4zsiagtk1w2u</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Joker (2019) (Direct Link)</title>
+<link>https://1fichier.com/?s975dca20q3ta8wjb90w</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rise of the Footsoldier: Marbella (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:86f5e9ed85b5c98765fdad33e6a3359a81b67c6b&dn=Rise.of.the.Footsoldier.Marbella.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzkzN2QyMWQtYjQ3NC00NTYxLWI5YjctZDVjNGYxNzJkMTU2XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Primal (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:fb1523b21cd585a18d50a7efadad70e5e31f6834&dn=Primal.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZThhM2Y1NjItMGE1NS00NWQ4LTliM2ItZDA5ZDNjYjk0YTE0XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Let It Snow (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:96a10818e8ecd0d997829ac5fa6a86aec24f86f5&dn=Let.It.Snow.2019.1080p.NF.WEBRip.DDP5.1.x264-iKA#
+</link>
+<thumbnail>https://i.imgur.com/v5VIIIf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dora and the Lost City of Gold (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:a207ce299322c0d7faeef51525c4947ffb91d7a5&dn=Dora.and.the.Lost.City.of.Gold.2019.1080p.BluRay.x264-DRONES#
+</link>
+<thumbnail>https://i.imgur.com/xO5xJxJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Scary Stories to Tell in the Dark (2019) [COLORlime]4K HDR Dolby True HD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:dae9fec0c9f2ec9849d648f4b06e09d577069bf1&dn=Scary.Stories.to.Tell.in.the.Dark.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.5.1-WhiteRhino#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjNiM2E3NDItNGU5NS00N2UwLTk2YWItZWRmMGFlNjJhYzE3XkEyXkFqcGdeQXVyOTQ5MTIwMjM@._V1_SY1000_CR0,0,712,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rattlesnake (2019) [COLORlime]4K HDR DDP 5.1 Atmos[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:98c13804745ae78eb2c58c9c711857aa429c9415&dn=Rattlesnake.2019.RERIP.2160p.NF.WEBRip.x265.10bit.HDR.DDP5.1.Atmos-iNTENSO#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjlhZTVmMzktMmQzMy00MzQ2LWJkNzQtYTdjMjZjZmY0NjQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The King (2019) [COLORlime]4K HDR DDP 5.1 Atmos[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:a38e8d160fc139584b30196e6d6917b2f1f287aa&dn=The.King.2019.2160p.NF.WEBRip.x265.10bit.HDR.DDP5.1.Atmos-iNTENSO#
+</link>
+<thumbnail>https://i.imgur.com/KMhE4W3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The King (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:e5565ee93e964a16080c158afbd84649a8d38247&dn=The.King.2019.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG#
+</link>
+<thumbnail>https://i.imgur.com/KMhE4W3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Robert the Bruce (2019) [COLORlime] 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:5a115d47b4672163b9405af5f68ced3c10be37d0&dn=Robert.The.Bruce.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjUyZmIwZmUtMGFmMS00MTk5LThmNDItYzFkZTdlNjZiMzUzXkEyXkFqcGdeQXVyMzI0OTAwMg@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Red Letter Day (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:E1D077BC31EAA7F54DD8AD200CA0262BCA7AAFC9&dn=Red+Letter+Day+%282019%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGRjMTM3OGEtMmVjNC00YmJjLWI4MTktMGEyMmIwMjY2ZmJjXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ghost in the Graveyard (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:0CBA76E95EAF0BA3C625F78F4732195A27E403A6&dn=Ghost+in+the+Graveyard+%282019%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjgxY2MxNjktYmJkYy00NmYxLWIyODctYWQ2NjhkZmZmYTc5XkEyXkFqcGdeQXVyNjUzMzQzOTU@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Official Secrets (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:c1b27f59678bc7179012877135e0858f75ae6767&dn=Official.Secrets.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://i.imgur.com/YBpSBp9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Peanut Butter Falcon (2019) [COLORlime] DTS 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:c51045484e8e9222b53b5f7bae820cb7b48fe991&dn=The.Peanut.Butter.Falcon.2019.1080p.BluRay.x264-DRONES#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWVmZGQ0MGYtMDI1Yy00MDkxLWJiYjQtMmZjZmQ0NDFmMDRhXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>47 Meters Down: Uncaged (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:97066f9cd98e68b67c0cb321292af6e2b78382d3&dn=47.Meters.Down.Uncaged.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://i.imgur.com/8YeBjcV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Paradise Hills (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:d681ab0644279ad7d4ee132e606000c23768a64a&dn=Paradise.Hills.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG#
+</link>
+<thumbnail>https://i.imgur.com/fQugqYn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Adopt a Highway (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:d8b6e83480cd4df8ead1811f79bde1d5d341dadc&dn=Adopt.A.Highway.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://i.imgur.com/WrznhAB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>10 Minutes Gone (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:8F70F2B0D275296A6072077041A7B37E3763BC7D&dn=10.Minutes.Gone.2019.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG+%E2%AD%90#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDdiYjg2ZDEtMGY4MS00OTNiLWJjYzctNzUyYjk3ZmJkMzRkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Viking War (2019)</title>
+<link>https://rapidgator.net/file/ee9877306e38ba607cde6715d4f4ee7d</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTAwNjg3ZDUtZWYxOS00MGVjLTkyYTYtYjJhOGRhNmQzODRkXkEyXkFqcGdeQXVyMjM4MTU4NjQ@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Current War: Director's Cut (2017)</title>
+<link>
+sublink:magnet:?xt=urn:btih:3A896F244B65EB917D91DFFF157AD8D3B7CBFC72&dn=The+Current+War%3A+Director%26%23039%3Bs+Cut+%282017%29+%5BBluRay%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWIxOWU4OGUtMTY1Ny00YmY3LWFhOTgtNzk3NmExYjUwMTFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Current War (2017) [COLORlime] DD 5.1[/COLOR]</title>
+<link>https://rapidgator.net/file/55afa1bcd18cb11de330a50a5f7686d9</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWIxOWU4OGUtMTY1Ny00YmY3LWFhOTgtNzk3NmExYjUwMTFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lying and Stealing (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>https://rapidgator.net/file/f3362d21171177e4b17cb37f116fa0f1</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjc1YTg2OGItMDI3Zi00ODcxLTg1NWQtMTk4OGU4ZmYwYThkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Farewell (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:df4c15fdf9812306f31bd9e84db7a6caa37dfb5d&dn=The.Farewell.2019.SUBBED.1080p.AMZN.WEBRip.DDP5.1.x264-NTG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWE3MjViNWUtY2VjYS00ZDBjLTllMzYtN2FkY2QwYmRiMDhjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Brian Banks (2018)</title>
+<link>https://rapidgator.net/file/c980390245ea14a21c311c43079284ed</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGI4NGRlNjEtZDUwOC00ZmRkLWI1ZTgtOGZmMTk3MzQ0ODVhXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Fanatic (2019)</title>
+<link>https://rapidgator.net/file/30b4b0b7dfa622270bca176f93558bd2</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmM4ZGM3MGItZjg3My00MDNlLWJhMDktZWFhNDNkNDJjOTA5XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Good Boys (2019) [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:12aa1c96152f94d0070fe89fb1df16db889d197d&dn=Good.Boys.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc1NjIzODAxMF5BMl5BanBnXkFtZTgwMTgzNzk1NzM@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Farming (2018)</title>
+<link>https://rapidgator.net/file/0c6ff1bad72893bf1c84e4e1017fabe6</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTI1ZDA2YWUtOWRlOS00NzM3LWJmMjUtOTU5OWVkNTRiNDgxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,1351,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dolemite Is My Name (2019)</title>
+<link>https://rapidgator.net/file/d652e1e3f866937825c434b7d3c9b0b5</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fat & Furious Presents: Hobbs & Shaw (2019) 4K [COLORlime] HDR-Atmos-7.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:2DBF9508422A5A7CB029C80100D76C2800BC0C75&dn=Fast+and+Furious+Presents+Hobbs+and+Shaw+2019.UHD.BluRay.2160p.HDR.Atmos.7.1.HEVC-DDR#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Good Woman Is Hard to Find (2019)</title>
+<link>https://rapidgator.net/file/82f5ee05da3df3ea3150efcf76370349</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzE0ODNmOTktNzdlMy00MjUyLWEyMzYtMGU3N2U0YTdkMGJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Art of Racing in the Rain (2019)</title>
+<link>https://rapidgator.net/file/82835166d1a408be0070306dea620ed4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjU5ZTYzM2MtNDNhYi00YjU1LWE4MzEtODc0NmNlODZlMjlhXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Them That Follow (2019)</title>
+<link>https://rapidgator.net/file/2b42852d67fab0605d45b442f65f4705</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmJkYzIzNzQtMWY4My00ZDVhLTg2MjAtMDgyYjg3OGI1MDkzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Refuge (2019)</title>
+<link>https://rapidgator.net/file/f2e6cf40a34e9997533577acd6bca384</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMThlNmMxNzktZjcyNi00ZjVkLTlkZWQtZDc1NzVjOTY1YTMzXkEyXkFqcGdeQXVyMzc1OTg2MTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Wheel (2019)</title>
+<link>https://rapidgator.net/file/b4e1eb540f56fc3c8604e6bdfc773ea8</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjE1NTNjMmMtZDE2ZC00ZTA4LWE1YTAtZmQ4YWQwMTIzNGZjXkEyXkFqcGdeQXVyODc3ODg0ODQ@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Angry Birds Movie 2 (2019)</title>
+<link>https://rapidgator.net/file/1c1df5885f648e7bdfbd03ceaea57d94</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzdkNGJhNzQtMjY1OC00MDI3LTk0ZDUtNzU0MGZiY2YwZGUxXkEyXkFqcGdeQXVyNzMxNjQxMTk@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Extracurricular (2018)</title>
+<link>https://rapidgator.net/file/7b007a8a5f5f705e7912be3463fed9da</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzM2NTAzMzYtNWVlNi00NzFmLWE3MjgtMWI5NWI2MjAzZjdmXkEyXkFqcGdeQXVyODE2MzY0ODM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Kitchen (2019)</title>
+<link>https://rapidgator.net/file/d8c077c4239d691ca81e5d7e969b15de</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGEwMWJlNzMtMjQ4YS00YjI4LTkwZTYtMGFiZTY5YmE2ZTIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Extra Ordinary (2019)</title>
+<link>https://rapidgator.net/file/52e78ddfb171f1d5790034b54720306b</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTZiMzZiNTktZGRkNi00Yzc4LWEyZTYtMTEzOGZjOTFkNWZkXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kill Chain (2019)</title>
+<link>https://rapidgator.net/file/048f8458d1fbd4eb1a5d018326d39d4e</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDk0YWRhOWEtMjRlZi00M2RjLWJmOTAtZTVkNWY5Yzg5NGE5XkEyXkFqcGdeQXVyMTA4MzI0NDQz._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Room (2019)</title>
+<link>https://rapidgator.net/file/45103674a642d57d37ce4b98f8294165</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTExNTU3ZTMtMmMxNi00MjkyLTg1MWUtOGNmZGM2ZmU0YWFlXkEyXkFqcGdeQXVyMzA4MDA0Mjc@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hitsville: The Making of Motown (2019)</title>
+<link>https://rapidgator.net/file/65aada668735820ad6f72c06fe367f80</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzUxYWE4Y2EtMzIxYS00NWI3LWE1M2ItNWFiMjFlMWUwYWMxXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Drone (2019)</title>
+<link>https://rapidgator.net/file/47828404141d275e9adde28e4f56d0d0</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzYyMDI0OTEtZjIwZC00ZjRkLTgxZDktMDE4NmU0NDY2MzdkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sweetheart (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:19c1f0ebaa2d9fbf50aa6ed039b47300033e0df9&dn=Sweetheart.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTBhZTIxZGYtNzhjZi00MTA3LWE4OGUtMGIwYWMxYzFhMGRmXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Lion King (2019) 4K</title>
+<link>
+sublink:magnet:?xt=urn:btih:78d8fddbe0d0e6e83e950db63c833164130da3a5&dn=The.Lion.King.2019.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Lion King (2019)</title>
+<link>https://rg.to/file/241a527f9f86167f7b0c4f3040bbc5eb</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Along Came the Devil 2 (2019)</title>
+<link>https://rapidgator.net/file/efd10c2e235089e3d4f69ed5fba4ae36</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzUwYzBlYmEtN2M4ZC00MWIzLWJiM2UtMmUzM2FlNjY4NTFjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Skin (2018)</title>
+<link>https://rapidgator.net/file/3b2299f55b1c8e6376dd5fb9f0a51567</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmFiZjA2ZDEtMTk5NC00MTZkLTgxYTEtMjFmOGI4OTVmNmEwXkEyXkFqcGdeQXVyODQyNzE3MDg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fat & Furious Presents: Hobbs & Shaw (2019) Direct link</title>
+<link>https://rapidgator.net/file/d23fb0372a9a43e271a6aaa4717a81cf</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fat & Furious Presents: Hobbs & Shaw (2019) Torrent Link</title>
+<link>
+sublink:magnet:?xt=urn:btih:6ab39b7b5fc26d99b498a15d4fab1efe79e2bdfe&dn=Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fractured (2019)</title>
+<link>https://rapidgator.net/file/4e7704ab63ae5e8fc364be6e20e95996</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTE0MWE4NzMtMzc4Ny00NWE4LTg2OTQtZmIyNDdhZjdiZmJhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Camino: A Breaking Bad Movie (2019) 4K</title>
+<link>
+sublink:magnet:?xt=urn:btih:344DDD9C5CD93F8E210B0D9DD2AF3ADA36941C5A&dn=El+Camino+-+A+Breaking+Bad+Movie+%282019%29+%282160p+NF+WEBRip+NVENC+HEVC+10bit+AC3+5.1+Joy%29+%5BUTR%5D#
+</link>
+<thumbnail>https://i.imgur.com/ww5WAAc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Camino: A Breaking Bad Movie (2019) Direct Link</title>
+<link>https://rapidgator.net/file/4aeab41f59bec7f097aa6c8f42996bda</link>
+<thumbnail>https://i.imgur.com/ww5WAAc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Camino: A Breaking Bad Movie (2019) Torrent Link</title>
+<link>
+sublink:magnet:?xt=urn:btih:be9b5f2df95578e4ae4a9c3a823418e284a7da60&dn=El.Camino.A.Breaking.Bad.Movie.2019.1080p.NF.WEBRip.DD5.1.x264-FGT#
+</link>
+<thumbnail>https://i.imgur.com/ww5WAAc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mary (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:7df2ff3b2aa252cccc0b930f1057d79f6e0318fa&dn=Mary.2019.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://i.imgur.com/yGTKRYe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Little Monsters (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:d00d8375687831951d8edd765038f85cdc4a360c&dn=Little.Monsters.2019.1080p.HULU.WEBRip.DDP5.1.x264-NTG#
+</link>
+<thumbnail>https://i.imgur.com/EwZb8Pv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Lion King (2019)</title>
+<link>https://rg.to/file/241a527f9f86167f7b0c4f3040bbc5eb</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Roads (2019)</title>
+<link>https://rg.to/file/846c53de48516805226a0dc6df980341</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2RiN2IyY2QtYjU4ZC00MjM0LTkwMjUtZjVlOTBlNjgzYmJlXkEyXkFqcGdeQXVyNjE2ODIzMTA@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Model Kidnapping (2019)</title>
+<link>https://rapidgator.net/file/0b7cfdb8cd3a08c3a00c218849650c05</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzUyNDI5MGUtNWY4MC00ZWU3LThkOTMtMjIwNTAyZmIzYTkwXkEyXkFqcGdeQXVyNzYxMjI1Mzg@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Scary Stories to Tell in the Dark (2019)</title>
+<link>https://rg.to/file/753c4c953ca455f30eeff1aeac235c69</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjNiM2E3NDItNGU5NS00N2UwLTk2YWItZWRmMGFlNjJhYzE3XkEyXkFqcGdeQXVyOTQ5MTIwMjM@._V1_SY1000_CR0,0,712,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Harpoon (2019)</title>
+<link>https://rg.to/file/9fdc20a98a74ac81811ec404a1de059b</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGE5ZDI2NmUtZTU5Yi00NDVhLTk4OTItYzUyYWE5MzQ4OWYwXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Riot Act (2018)</title>
+<link>https://rg.to/file/2811fef872855d4926e7716f39e6b95a</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmVhOGFkODUtZGE1ZC00YTk4LTliYTItOGQyOGZhYjY0ZGExXkEyXkFqcGdeQXVyMjQzMjY5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Trauma Therapy (2019)</title>
+<link>https://rg.to/file/f132b217c651b38c2c83ca5704bc7f61</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzNmYzk2NTctMjg5NC00MGZkLThhOTQtZWUwYmJiOTBhODlkXkEyXkFqcGdeQXVyMDgwMzQxNQ@@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Death of Dick Long (2019)</title>
+<link>https://rg.to/file/865baf64466235fb74d6f46956b8a5c6</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQ3ZjZhZjAtNWRkNy00NWQ3LWJlMDgtMTExYmY5NTc0MWY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Art of Self-Defense (2019)</title>
+<link>https://rg.to/file/256a41533331a0ab89b6e5bdee6b962f</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDlkOGE4YTUtYWRlZS00YjFkLWE3NmUtNzNlNjdiZTk2NzdhXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Handy Dandy (2019)</title>
+<link>https://rg.to/file/285ae6eb0612c5417c93f0dd87e192a6</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWI4MDkyNGEtNzYzZi00YTVjLTlmNDMtOWZjNWFhMzk0NjU4XkEyXkFqcGdeQXVyMTI4MjQ1ODQ@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>3 from Hell (2019)</title>
+<link>https://rg.to/file/e8377e3f0a446474be93265cdd69aeed</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGZlNmYwZWYtOWU1My00Mzg3LThhNDMtMDQ0ZjAzNWNiNDZiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>It Chapter Two (2019)</title>
+<link>https://rg.to/file/aad14c80a40cfe2a5d7e777344574644</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nighthawks (2019)</title>
+<link>https://rg.to/file/8cefbc9ad5b0bb11bb23735f523e191d</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjk1MmNiODMtZDc5Mi00MmY2LThkNWEtYWZkNzg3YmU3Y2RmXkEyXkFqcGdeQXVyMjA2OTE4OA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>In the Tall Grass (2019)</title>
+<link>https://rg.to/file/94ea4b243ae109752566b7b9d29efc13</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2M0NTJmMDAtNWI0ZC00MjdlLTlmYWEtMjNiMmJmOGRiNTEwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Parts You Lose (2019)</title>
+<link>https://rg.to/file/caf1377d883a0f53a1b1ca5059b3d53f</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjViOGU0OGUtNTc3MC00YzBiLThiMGItZjBiODViYjEwMjM1XkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Last Prince of Atlantis (2018)</title>
+<link>https://rg.to/file/c7de2fa48a034f1e530d7f89ffaf0373</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzRkYmI3ZDUtMDNhMi00ZmQ0LWJiZmUtY2M2YjU0MTU0MWRjXkEyXkFqcGdeQXVyMjQzMTEyOTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>51 Nevada (2018)</title>
+<link>https://rg.to/file/21bf5e327b564359a05eb284c99fa186</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTFlZWE2ODYtYzY3NC00MTNlLWIzMWUtNGYxNTNjYmNkN2M3XkEyXkFqcGdeQXVyMjM2OTAxNg@@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Stuber (2019)</title>
+<link>https://rg.to/file/08e95015e97c18bc069f98d076fe9248</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGE1ZjFhYzAtYWM4ZC00NGI1LWFmYzMtZWRhZDhjMjE4YzBjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Low Tide (2019)</title>
+<link>https://rg.to/file/95feddbb7da188cbfd2ebd6e50daacea</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGM0M2Y5MGItNzhiMC00OWJjLTlkMGQtMTVjOGQ4YzliODBhXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Altered Skin (2018)</title>
+<link>https://rg.to/file/4b93cc79b67d4fa18b1819242afa6b08</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzMxYjVjNGUtNjFlMC00OTZiLWJiOWYtOTMyZWFhNTkxYTFlXkEyXkFqcGdeQXVyMjEwNjUxOA@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Devil's Revenge (2019)</title>
+<link>https://rg.to/file/bd9766b7725cd7721baffc03fe4f66a4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmI5MmIxM2YtNDc5NC00ODMyLTlhMTktNjQ0YWUxNzExZDVhXkEyXkFqcGdeQXVyNzcxOTk0MQ@@._V1_SY999_CR0,0,709,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Light of My Life (2019)</title>
+<link>https://rg.to/file/d81cc7add8c4833a16a8dbe5420fd0b6</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2FmMGNiODgtNTAyMy00N2VlLWEyODEtNDViMmRkZDA5Nzc3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>How To Get Rid Of A Body (and still be friends) (2018)</title>
+<link>https://rg.to/file/6d0f75d6ad4ba14ad1ba3790582e57f1</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTgxMzAyMDItOTllOS00MGNkLWEwNjEtY2UyNjlkNmUwOWU2XkEyXkFqcGdeQXVyMjA3MzA1MzY@._V1_SY1000_CR0,0,704,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Gwen (2018)</title>
+<link>https://rg.to/file/cc9995bf9a142ea01f1fda7542de6277</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzE4NjRjOWYtMWMyYy00ZjEwLTljYTctM2I0MDdhYThiOWM2XkEyXkFqcGdeQXVyMjI4NzUwNzg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spider-Man: Far from Home (2019) 4K</title>
+<link>
+sublink:magnet:?xt=urn:btih:729bd4cb47f9a723bdc8337279b1c9f3cc6c02b4&dn=Spider-Man.Far.From.Home.2019.INTERNAL.HDR.2160p.WEB.H265-DEFLATE#
+</link>
+<thumbnail>https://i.imgur.com/vcADnp2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spider-Man: Far from Home (2019) 3D SBS</title>
+<link>
+sublink:magnet:?xt=urn:btih:3205df8017069c8644ab0c7c8e9f322b1ee98ba9&dn=Spider-Man.Far.from.Home.2019.3D.1080p.BluRay.x264-SPRiNTER#
+</link>
+<thumbnail>https://i.imgur.com/vcADnp2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spider-Man: Far from Home (2019) 1080p</title>
+<link>
+sublink:magnet:?xt=urn:btih:934d47c71053c319d1e515c8c52983a14215496e&dn=Spider-Man.Far.from.Home.2019.1080p.BluRay.x264.DTS-HD.MA.7.1-FGT#
+</link>
+<thumbnail>https://i.imgur.com/vcADnp2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Day Shall Come (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:b4b5fae65b67a1b8bed38500fc6a69ce76a112fa&dn=The.Day.Shall.Come.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGY1ZDRiZmEtMzY3YS00OWM1LThhOGUtNjAyMjA3YjE3ZTQxXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>In the Shadow of the Moon (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:fb94d32321c96ee9a094f7550eed217711559251&dn=In.the.Shadow.of.the.Moon.2019.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2I1MGQ2ZjMtMjc1My00YzU1LThjNzktNzJlMWRkMTc0NjZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Toy Story 4 (2019) 4K</title>
+<link>
+sublink:magnet:?xt=urn:btih:315451172baf7a683c7e6b3b05c80c3a38b6230b&dn=Toy.Story.4.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL#
+</link>
+<thumbnail>https://i.imgur.com/EJTBP5J.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Toy Story 4 (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:53604a7f3947313652c38f97a3b83d28fcbff610&dn=Toy.Story.4.2019.1080p.BluRay.x264.DTS-HD.MA.7.1-FGT#
+</link>
+<thumbnail>https://i.imgur.com/EJTBP5J.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Prey (2019)</title>
 <link>https://rg.to/file/ef3599f7237bf4ac63310feece28d7e0</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2JjNjkwMWQtZDBkZi00NjA5LTgwNjItNzFiYjk1OTVhZGVlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX679_AL_.jpg</thumbnail>
