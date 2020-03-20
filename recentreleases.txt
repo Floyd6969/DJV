@@ -1,3 +1,199 @@
+<item>
+<title>Judy & Punch (2019)</title>
+<link>https://uptobox.com/68vrp2jy6ola</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0WRxfrVjPNelq7UuRoRnIZWn5A.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jumanji: The Next Level (2019)</title>
+<link>https://uptobox.com/68vrp2jy6ola</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rag Doll (2019)</title>
+<link>https://uptobox.com/r87ivsf8qiv2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljclAmZ3UBtHdRmzkrRbPc2uA1O.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Norm of the North: Family Vacation (2019)</title>
+<link>https://uptobox.com/y589g4tx2mlt</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlt8OFHyeeJubrOnd25Pj63oMIF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Drowning (2019)</title>
+<link>https://uptobox.com/glww7oq583sm</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7KtTFaDGapIAmHp9OKg5ypFhxZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Animal Among Us (2019)</title>
+<link>https://uptobox.com/7nt0bwfji3yj</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSMC0wtPJuEAkW4E1WwLlQk6Lmn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>2 Graves in the Desert (2020)</title>
+<link>https://uptobox.com/58nywidkbdjf</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXruYHmo9QLYqHdecC3XXcVenVe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fuck You Immortality (2019)</title>
+<link>https://uptobox.com/9a7orf7c638g</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF6yLUwciRT6OrsjveO6yAj9ulD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Threads (1984)</title>
+<link>https://uptobox.com/hqiba4tff1xi</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbmiUkCUqdFt6y40TQXpilya77r.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Coyote (2019)</title>
+<link>https://uptobox.com/ua4hua2oo1zi</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMNF02tJ515dSTNVPxEYrc1vnos.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Goldie (2020)</title>
+<link>https://uptobox.com/s1x48hpgaggk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLyvKX6F9qZWrCIGpRjCAAX9mWn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Verotika (2019)</title>
+<link>https://uptobox.com/j0ruhykq9t8j</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2U2ZTJiOTktZmRhYy00OTM1LWFhNTktYTg1MGE4YWIxMTZlXkEyXkFqcGdeQXVyMjUxOTAxNzI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Trouble (2019)</title>
+<link>https://uptobox.com/252gghbsoswp</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzk5NTEyZTUtNWM0ZC00ZWMzLTk2ZTMtMDRhMWJiNzJkYmJiXkEyXkFqcGdeQXVyNzQ3MTA4MDk@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Narco Soldiers (2019)</title>
+<link>https://uptobox.com/kap80x1auk05</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOhHJV4RyyFRRYZqXN1BIJbAT1E.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Superman: Red Son (2020)</title>
+<link>https://uptobox.com/41fazmb87e01</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/FVU9HZ87VfYMe5vIJvM3hFTG5i.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Corrupted (2019)</title>
+<link>https://uptobox.com/0ihs8afxnebq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/elf6HOIOAwMlxc4ZBsprEc5VQHc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Skullz (2019)</title>
+<link>https://uptobox.com/rgrro8f4irbj</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXRjBlYLVblubAnTngCzWRcGUgS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>O.J. Simpson: The Lost Confession? (2018)</title>
+<link>https://uptobox.com/rdgizw9dlj12</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNOJSTBGdDptrjZDFKKjigDOqQ7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sea of Shadows (2019)</title>
+<link>https://uptobox.com/1jmv0bsuvrpw</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oONUAloKVryxa3XZje6LLIscWC8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tejano (2018)</title>
+<link>https://uptobox.com/fgs6rscj64hp</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s79xAdAebyeFCCvH1ioQkgxDDsp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jarhead: Law of Return (2019)</title>
+<link>https://uptobox.com/ogis7qtb2oqb</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Night Clerk (2020)</title>
+<link>https://uptobox.com/utawggifudik</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji1JO9bZX3pQ15lhU96dj0gZO74.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Honey Boy (2019)</title>
+<link>https://uptobox.com/yfrrawtw347o</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWQ5YThjZjAtNWM3ZC00MDJjLWIzNDktY2Y2Y2FmMTFiNWJmXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Last Thing He Wanted (2020)</title>
+<link>https://uptobox.com/1n5wa2lx5odl</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI3ODZlNjgtNWM4OC00MDFhLTg2MmYtYjk3M2I0OWJmZmE2XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>8 (2020)</title>
+<link>https://uptobox.com/bqibr0vg2gmj</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJb6Yxd0BjgAhoKTAnHzIfSSwdS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Grease (1978)</title>
+<link>https://seedbox.slbots.workers.dev/Uploads/Grease%2520(1978)%2520%255B1080p%255D/Grease.1978.1080p.BrRip.x264.Deceit.YIFY.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMHdFTrCYhue74sBnXkdO39AJ3R.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Viva Amiga.. The Story Of A Very Beautiful Machine (2020)</title>
+<link>https://uptobox.com/ad0uf51lzh3i</link>
+<thumbnail>https://i.imgur.com/daQh56F.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Clown Fear (2020)</title>
+<link>https://vidoza.net/w11qezh7a3no.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jivoCprjp1bPsBtPreQQ784TFjc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>Ryde or Die (2018)</title>
