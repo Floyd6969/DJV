@@ -16,6 +16,15 @@
 </item>
 
 <item>
+<title>The Invisible Man (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:cdfa732e85c52baeeaa804196f11547a0a842b49&dn=The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO[TGx]</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Just Mercy (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:d9746cad097f9d82457f706dbbd35d6ac58c7941&dn=Just.Mercy.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
