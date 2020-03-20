@@ -16,6 +16,42 @@
 </item>
 
 <item>
+<title>The Hunt (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:08667ee93cda998048654323fd2703ff15ed23df&dn=The.Hunt.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7pG5vA2MKBGNV7x6NiCnoLkmh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Banker (2020) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:48fc40fe877e41f794ce511da5083ddd12a0b8df&dn=The.Banker.2020.2160p.ATVP.WEB-DL.x265.10bit.SDR.DDP5.1.Atmos-BaNkeR</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K8Lbz0Rtl7HjbojQlrEGg6Fy4y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Banker (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:a48ed8ec3aa42faf4471ef8b051c6730f7c14511&dn=The.Banker.2020.1080p.WEB.H264-SECRECY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K8Lbz0Rtl7HjbojQlrEGg6Fy4y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Emma. (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:4cfb5b42cbf6e58a7d112dcdf0dae2e94e7c511b&dn=Emma.2020.1080p.WEBRip.DD5.1.x264-SHITBOX</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm8iVzA7kRp0d4BSIsgXjsSBMKV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Invisible Man (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:cdfa732e85c52baeeaa804196f11547a0a842b49&dn=The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO[TGx]</sublink>
