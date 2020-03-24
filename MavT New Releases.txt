@@ -16,6 +16,33 @@
 </item>
 
 <item>
+<title>Bloodshot (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:2668982eb6012cc9a138d71896fa34d719f70c40&dn=Bloodshot.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Way Back (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:124d04927d633db764f464ec542849493bfa8bd4&dn=The.Way.Back.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwgPO5bamUuajIAEc02q9XZ2qhq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Gentlemen (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:23c4969cd21405541a21b17425a09af17bb5e2cc&dn=The.Gentlemen.2019.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Hunt (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:08667ee93cda998048654323fd2703ff15ed23df&dn=The.Hunt.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
