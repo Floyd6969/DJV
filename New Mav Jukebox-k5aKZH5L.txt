@@ -234,7 +234,7 @@
 <fanart>http://deskbg.com/s3/wpp/0/548/trippy-weed-desktop-background.jpg</fanart>
 </plugin>
 
-<plugin>
+plugin>
 <title>[COLORwhite]Smokin' Old Skool[/COLOR]</title>
 <link>Plugin://plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR/</link>
 <thumbnail>https://i.imgur.com/JAA6Dhk.jpg</thumbnail>
