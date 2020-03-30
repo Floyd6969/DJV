@@ -1,4 +1,299 @@
 <item>
+<title>Sonic the Hedgehog (2020)</title>
+<link>https://uptobox.com/a3yrxoq7bzqg</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDc1ZTlmOWUtNDY2YS00OGU5LTg2MTYtYTk2MmQzMGE2NzUwXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Go Back to China (2019)</title>
+<link>https://uptobox.com/x1cdbhdf7u6m</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vOZVGqxc7gNKq5cuMFsiHgjODA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Final Kill (2020)</title>
+<link>https://uptobox.com/es0rw2dm8dti</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7quwt9vsShFrCFyMTlAGLdvTcRJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Run This Town (2019)</title>
+<link>https://uptobox.com/ckzyb0b2t6tn</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KZ0cLrMqhugLBRSSmEmk3RN3Aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Swallow (2020)</title>
+<link>https://uptobox.com/ub29hf5en20s</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Zrwud1EVxNvcjQkotZo7jmr4L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Dark Red (2019)</title>
+<link>https://uptobox.com/m6o7uwftug9h</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tD25glEyUJSsqrsenc1i13YKxEo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spenser Confidential (2020)</title>
+<link>https://uptobox.com/315s1un2a5b1</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTdkOTEwYjMtNDA1YS00YzVlLTg0NWUtMmQzNDZhYWUxZmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Just One More Kiss (2019)</title>
+<link>https://uptobox.com/nkaryhkvqybf</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTdlZmExNzEtMDZkMS00MzQyLWI4Y2QtZjQ5NjQyYTY4NTZkXkEyXkFqcGdeQXVyMjkxMjYwNzc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Impossible Monsters (2019)</title>
+<link>https://uptobox.com/zrc7ape3s3r2</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjNjNmQzNjUtODVkZS00ZTIyLTg4M2EtMGNiOWM5MTczNDdhXkEyXkFqcGdeQXVyMTM1MjI4MDY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Escape from Pretoria (2020)</title>
+<link>https://uptobox.com/3r2cm1mf695j</link>
+<thumbnail>https://i.imgur.com/sQJz6pk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Dark Side of Opulent (2020)</title>
+<link>https://uptobox.com/eqtf2ia2k4hf</link>
+<thumbnail>https://i.imgur.com/1qMkqFo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>By Light of Desert Night (2020)</title>
+<link>https://uptobox.com/opo9xpobazum</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4whparlpkILImYx5vIeIeY9Tr3R.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Dare (2019)</title>
+<link>https://uptobox.com/opo9xpobazum</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji2S3mCKNrVf2sc4asOMymKuZc6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Brotherhood (2019)</title>
+<link>https://uptobox.com/58mnjns18ldy</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5enZgROSewdvJkVt42LS44k4X7P.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Warrant (2020)</title>
+<link>https://uptobox.com/ql4w9qfbyp8x</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yB6EJL8D7DGJeb5khODufiwl98.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Wakefield Project (2019)</title>
+<link>https://uptobox.com/4c0phrzqf9ol</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/twJ3pK3eHYjRIEuffyF27jCI4Ee.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Abducted (2020)</title>
+<link>https://uptobox.com/mrlbau8ttk5z</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjMwMGNhNTItYjFlYS00MjQ4LWE1ZDItNWIwZjM3ZGNmYmIzXkEyXkFqcGdeQXVyMzMzMDQ3MzY@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dead Sound (2018)</title>
+<link>https://uptobox.com/rf25kyiahcy3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pzCGhE658DwvzQgRG6NuaoaJ4G.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Impossible Monsters (2020)</title>
+<link>https://uptobox.com/wky1aq19360z</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/owYoNUwIPoPmHpDTHEokjJ3mNTb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Red Letter Day (2019)</title>
+<link>https://uptobox.com/5rjk0kh0hocm</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9zE1tPndPUtjXpHZ232jefeQft.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Social Ones (2019)</title>
+<link>https://uptobox.com/pzt70q0k4iux</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZvR8jngno4KeiiWg96wEeIO3Vb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>You Can't Take My Daughter (2020)</title>
+<link>https://uptobox.com/0hxafxu5x6ou</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gR18P8TtkpO7RFFbj8ODMJSiyU2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Hidden Life (2019)</title>
+<link>https://uptobox.com/94yvrw0nwwhv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1co8thSgZR34jHJweLS90yDyLsI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Richard Jewell (2019)</title>
+<link>https://uptobox.com/oga870y0rppp</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t00sQPe2IgPNLnKmG1EnPUu7Ua.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Frances Ferguson (2019)</title>
+<link>https://uptobox.com/prucvj5otsuz</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o6Rrp4Y7WuKxn88YM8OZQfKnpl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Handmaid's Tale (1990)</title>
+<link>https://uptobox.com/m5dmhepr27ac</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnkKQyRzoCMZliMaknTOXHqXKaz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Naked Wanderer (2019)</title>
+<link>https://uptobox.com/didnx9y64tqi</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPobR1AZaS5gqQTsLIO7bMhQngQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Wolf(2020)</title>
+<link>https://uptobox.com/kr0hlpx8odoo</link>
+<thumbnail>https://i.imgur.com/TWNGFCg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PandaMonium (2020)</title>
+<link>https://uptobox.com/vg5pzgk8i2in</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/579wgq5zwzvpoD3ys5uF1Z71vQa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cruel Peter (2020)</title>
+<link>https://uptobox.com/arfj4ugpwnoy</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2hzSxvgVkGq4JI8DOVsPAqtz4Q.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ready or Not (2019)</title>
+<link>https://uptobox.com/hzuq6julxf5z</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Anastasia: Once Upon a Time (2020)</title>
+<link>https://uptobox.com/z4qabwcs3ejj</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YAKTKToSdw9NXmhYGz9ep67exi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blood on Her Name (2020)</title>
+<link>https://uptobox.com/nmhtnjm4w06i</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VFsgJauwdnjzxU7DaTOnJVNQRE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>28 Days Later (2002)</title>
+<link>https://seedbox.slbots.workers.dev/Uploads/28%2520Days%2520Later...%2520(2002)%25201080p%2520BRRip%2520x264%2520-%2520FRISKY/28.Days.Later.2002.1080p.BRRip.x264.-FRISKY.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaYdxi1PBEAYvqknvAmMPK5Eff3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Holly Slept Over (2020)</title>
+<link>https://uptobox.com/w9fvb4tsjgvq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6vw5DqEvcCMreliZxLamykmWKm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Disappearance at Clifton Hill (2019)</title>
+<link>https://uptobox.com/0z188uyb233z</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qBNpBrNrOBC0sSmB1xg3vpI9WY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Villian (2020)</title>
+<link>https://uptobox.com/sytinayjbxjx</link>
+<thumbnail>https://i.imgur.com/sKl9yaj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>All the Bright Places (2020)</title>
+<link>https://uptobox.com/2wktenbbpqug</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Guns Akimbo (2019)</title>
+<link>https://uptobox.com/hdxnx2qez90w</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzU3ZTI1OTktNjVkNy00OWEzLWIyNzAtMWQ5YjRkZDU1ZjAxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Homeward (2020)</title>
+<link>https://uptobox.com/4kt2u2mpqtv5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2rQGU2seiJQ1iUtvuLvatmmgGh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spies in Disguise (2019)</title>
+<link>https://uptobox.com/upldnqqg74o4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/30YacPAcxpNemhhwX0PVUl9pVA3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bombshell (2019)</title>
+<link>https://uptobox.com/upldnqqg74o4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Judy & Punch (2019)</title>
 <link>https://uptobox.com/68vrp2jy6ola</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0WRxfrVjPNelq7UuRoRnIZWn5A.jpg</thumbnail>
