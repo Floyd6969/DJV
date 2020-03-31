@@ -214,7 +214,7 @@
 <fanart>http://wallpoper.com/images/00/43/97/36/guns-n-roses-logo-hd-2_00439736.jpg</fanart>
 </item>
  
-item>
+<item>
 <title>[COLOR lime]Smokin' Old Skool[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR/?page=0</jsonrpc>
