@@ -1,4 +1,187 @@
 <item>
+<title>Stargirl (2020)</title>
+<link>https://uptobox.com/zdjatcr16m6h</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKt6sDEGVGbQWkaBuVZxJcLmQXj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Go! (2020)</title>
+<link>https://uptobox.com/kki7jarbdwnk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqLULKMbtPe5NAuE9hhZWiBzGVo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tuscaloosa (2020)</title>
+<link>https://uptobox.com/whsx6dzq40ua</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTmCszAqPoa9lR2PON7A0YBIymO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Postcard Killings (2020)</title>
+<link>https://uptobox.com/y13t0o3a6qmt</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdj1EK3ZTTroWOcH1BTE7fZwm1c.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lost Transmissions (2020)</title>
+<link>https://uptobox.com/3rwe45h4elof</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYUmXYHFhNmvOxUBenpkO9pmgad.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lost Girls (2020)</title>
+<link>https://uptobox.com/o6cr5nf102zn</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKAOyKRjsGXn6Pwz49e2s1nf5S.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Abstruse (2019)</title>
+<link>https://uptobox.com/xgr1r1k5elfv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CLSV5FmbuAsYfakeLg13HzSdt2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Redemption (2020)</title>
+<link>https://uptobox.com/1qmma9yxpmg3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cByGM9j8oCX8557zWGP63RitKT.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Room (2019)</title>
+<link>https://uptobox.com/060o1uhfjyxi</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWyQwZziHh1DK9F59eqahZD8Upc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jurassic Thunder (2020)</title>
+<link>https://uptobox.com/utawc357tzn7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F6lmauuiJiot6KHddm8f6Qpypq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Alpha Test (2020)</title>
+<link>https://uptobox.com/fof5jss2nf6b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vO2mJRpTg8FlYUmZ5kTruIUOMh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Whistleblower (2019)</title>
+<link>https://uptobox.com/x6eg9daxfpqn</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVDINEoTV4c0dLq6mtDpKnBtw40.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>I Hate the Man in My Basement (2020)</title>
+<link>https://uptobox.com/7iw2dwchvlfk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgf4I5zwW9EvV9sTtLHCXRDM3LM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NeZha (2020)</title>
+<link>https://uptobox.com/29rwg81b1rem</link>
+<thumbnail>https://i.imgur.com/XKUdQKs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Don’t Speak (2020)</title>
+<link>https://uptobox.com/p3zqjnsuwjec</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnUOcrX6AENcpydRc9OItLxF889.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Exit 0 (2020)</title>
+<link>https://uptobox.com/bgp97zeyv1su</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiyzoPRrppXZpeYkz8VH1nd1P1C.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Adventure of A.R.I.: My Robot Friend (2020)</title>
+<link>https://uptobox.com/om6myjbmdbcv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwFdVyVCXEwjwU3f6VdgbtVSnI8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Grudge (2020)</title>
+<link>https://uptobox.com/kr07e34jxkpl</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Transference (2020)</title>
+<link>https://uptobox.com/9py2rmjffn3z</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJFsHVAYpHfSxgSfCYLeoSv4oB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sinister Stalker(2020)</title>
+<link>https://uptobox.com/ngo2onyexv3j</link>
+<thumbnail>https://i.imgur.com/7GaDWAD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shephard (2020)</title>
+<link>https://uptobox.com/x9zslvn3nfy6</link>
+<thumbnail>https://i.imgur.com/fOtGxYh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>1917 (2019)</title>
+<link>https://uptobox.com/rf3akrk9gn3x</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Haunting of Alcatraz (2020)</title>
+<link>https://uptobox.com/mx09g4oeimg9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/crElqQ3vJuKyuGjbnK6OfuZ67UN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dark Encounter (2019)</title>
+<link>https://uptobox.com/ekaegcahbw6z</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bwwpg25QTu9YwtXtsRfbHC4GL4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Foxtrot Six (2019)</title>
+<link>https://uptobox.com/keec482cm2ql</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJv6ZYsTOfkm51pJHHddWjsFE3D.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Adults in the Room (2019)</title>
+<link>https://uptobox.com/hycywpc6r32m</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3Cb5AkA5eDucPLlIEHzzVfzJcz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Sonic the Hedgehog (2020)</title>
 <link>https://uptobox.com/a3yrxoq7bzqg</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDc1ZTlmOWUtNDY2YS00OGU5LTg2MTYtYTk2MmQzMGE2NzUwXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
