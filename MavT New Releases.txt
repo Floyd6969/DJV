@@ -16,11 +16,47 @@
 </item>
 
 <item>
+<title>The Rhythm Section (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:6bd20cc953d3b962511a872cba132bcf1832add6&dn=The.Rhythm.Section.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/spTr0VYyRtl36Lkk6nCnnbFXhus.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bad Boys for Life (2020)</title>
 <link>
-<sublink>magnet:?xt=urn:btih:485c13c6cbad10511dad0edb6e4e60c12a852605&dn=Bad Boys for Life.2020.1080p.HDRip.X264.AC3-EVO[TGx]</sublink>
+<sublink>magnet:?xt=urn:btih:8df5453e6c786048d6d4a45eea55b5b89a9e2a72&dn=Bad.Boys.for.Life.2020.1080p.BluRay.x264-WUTANG</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Gretel And Hansel (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:d629085951bad443d6415f2666d02eaaec37022b&dn=Gretel.and.Hansel.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBBBXseq4k4dI63k06XIrsc02j8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Turning (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:21aa18f032ac85c5f496eb14cf5963aef0406f60&dn=The.Turning.2020.1080p.BluRay.x264-YOL0W</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5t5uHwmt3UQ8MbvnqE7aiL7RMW4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Like a Boss (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:3113b8bdc6c92f0e8513626c250ad57ae7895fbc&dn=Like.a.Boss.2020.1080p.BluRay.x264-WUTANG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifn7yLH7W69MdrEEkNzCyO8rTmL.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
