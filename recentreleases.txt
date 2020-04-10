@@ -1,4 +1,235 @@
 <item>
+<title>Birds of Prey (2020)</title>
+<link>https://uptobox.com/m005edt3opb4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Invisible Man (2020)</title>
+<link>https://uptobox.com/ns2wlf2tvoki</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Burning Dog (2020)</title>
+<link>https://uptobox.com/yp0773yf786c</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg7p2IwUNuwCxgfMCniYAuv8sOb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hooking Up (2020)</title>
+<link>https://uptobox.com/66l0pde5sde2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t04CPA0tCFJ72wKNQob3jneupMk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Human Capital (2020)</title>
+<link>https://uptobox.com/lheu80vcekfh</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcJOgtQjjcJpLw8UOBqNmfPthhm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>International Falls (2020)</title>
+<link>https://uptobox.com/wrv86qhe899q</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEPBK4Eg2c2Gw1vL07eR9peY12O.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Banker (2020)</title>
+<link>https://uptobox.com/164pku3fb3xr</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K8Lbz0Rtl7HjbojQlrEGg6Fy4y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blow the Man Down (2019)</title>
+<link>https://uptobox.com/5sl42ypmtmzq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgxDU9Vp0R6RIV6jpmQ4JrTcZzv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Current War (2017) Directors Cut</title>
+<link>https://uptobox.com/xdotd0xa97rp</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6vDqTz4fQb60QRcMLNbeJ1IMVq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Hunt (2020)</title>
+<link>https://uptobox.com/o19o2zgd58qj</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7pG5vA2MKBGNV7x6NiCnoLkmh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>28 Days Later (2002) [COLORgold](For Everyone In Isolation)[/COLOR]</title>
+<link>https://uptobox.com/na36jqus1aqy</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaYdxi1PBEAYvqknvAmMPK5Eff3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Contagion (2011) [COLORgold](For Everyone In Isolation)[/COLOR]</title>
+<link>https://uptobox.com/cru6yxbcullw</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbC6I0AOSLTHFA2dieyat9h8QHP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shaun of the Dead (2004) [COLORgold](For Everyone In Isolation)[/COLOR]</title>
+<link>https://uptobox.com/x3c8fvscimag</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2evlcGnsfdFWLb7geNlIjIewc0Q.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Twelve Monkeys (1995) [COLORgold](For Everyone In Isolation)[/COLOR]</title>
+<link>https://uptobox.com/x9q1t53pkdda</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sj9wDu3YugthXsU0Vry5XFAZGg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Timeless Love (2019)</title>
+<link>https://uptobox.com/ak1yecnbpsjo</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OtbnDt3om5ku6x6138xI7AevA6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Altered Carbon: Resleeved (2020)</title>
+<link>https://uptobox.com/4z9ke5zo3j7a</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlIYzx7cc4Wvaoh7ShjF2HZG45.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>By Day's End (2020)</title>
+<link>https://uptobox.com/j6gdxvd08dyh</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbYrcwH65SsvYhnGdLlP3DBRo8H.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Clemency (2019)</title>
+<link>https://uptobox.com/kf6fh7y7k8mf</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c03mA6GYRqcRLgxXQpKcYWEKxRn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Just Mercy (2019)</title>
+<link>https://uptobox.com/t07tumidw8if</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQGzAoYF6lXDN3L9hxBecQRZIwB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nefarious (2019)</title>
+<link>https://uptobox.com/mvlumrpu9mzu</link>
+<thumbnail>https://i.imgur.com/vGP36mV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>To Your Last Death (2019)</title>
+<link>https://uptobox.com/kjkbino8hh0z</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oezBM1FEEZE7jJE8d5XHL2FG3j8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Above Suspicion (2019)</title>
+<link>https://uptobox.com/n71oiglpcqqh</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpAG0I2KRLeEjdvv5FfojTLq0EC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Judy & Punch (2019)</title>
+<link>https://uptobox.com/zkci3kenelvy</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0WRxfrVjPNelq7UuRoRnIZWn5A.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cats (2019)</title>
+<link>https://uptobox.com/11s7izag16ip</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCNch5FmzT2WaUcY44925owIZXY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>We Go in at DAWN (2020)</title>
+<link>https://uptobox.com/3gtg35ekzbsq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBpeZuyR7qXIZtkmOdLpAoybe8A.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seberg (2019)</title>
+<link>https://uptobox.com/rkoeveqm1b42</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv78WJ2YvWyk3c32sbOGFh64xcs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ravers (2018)</title>
+<link>https://uptobox.com/c6g4sqapfg5l</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsKtz6gRNa0qv1br0n3UTo02ypw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ana (2020)</title>
+<link>https://uptobox.com/47nli4llanlw</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYHxq8yNLTr7LZP2wBjpMPkW6EV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Big Time Adolescence (2020)</title>
+<link>https://uptobox.com/m0aj61n7qx21</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFjhHlHjiWouLmJWxGMHGn1MQKX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Purity Falls (2019)</title>
+<link>https://uptobox.com/golic4sknc9e</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxiVuTepR6CeVtzXR8PdHHC5lbe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Star Wars: The Rise of Skywalker (2019)</title>
+<link>https://uptobox.com/ivrfrht33bby</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Star Wars: The Rise of Skywalker (2019) (Digital Extras)</title>
+<link>https://uptobox.com/60a48emz0tm1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>M.O.M. Mothers of Monsters (2020)</title>
+<link>https://uptobox.com/9xbjohya4145</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dilKYO82UwGStnKPhWrfBSL4bPs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Stargirl (2020)</title>
 <link>https://uptobox.com/zdjatcr16m6h</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKt6sDEGVGbQWkaBuVZxJcLmQXj.jpg</thumbnail>
