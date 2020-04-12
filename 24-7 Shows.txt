@@ -474,6 +474,14 @@
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR lime]Full House[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=257</link>
+
+<thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>[COLOR lime]Futurama[/COLOR]</title>
