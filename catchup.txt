@@ -34,8 +34,8 @@
 </dir>
 
 <plugin>
-<name>[COLOR lime][B]Test[/B][/COLOR]</name>
-<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2ftrending%2fofficial%2fchannel%3ftv%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<name>[COLOR lime][B]Test 1[/B][/COLOR]</name>
+<link>plugin://plugin.video.dailymotion_com/?url=%x7ta5ns%&mode=playVideo</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
