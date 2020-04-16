@@ -16,6 +16,34 @@
 </item>
 
 <item>
+<title>Misbehaviour (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:abfe5137b4048359f737d0e3dd33176e541394b9&dn=Misbehaviour.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyTmAYRwlXRNB7jYdGjDXCd4dQg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fantasy Island (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:3c18e2a56c60538da0551b1eadce409c229a6e3f&dn=Fantasy.Island.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mortal Kombat Legends: Scorpion’s Revenge (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:84b03563355c31b3c3c85cb3f5306bac9e366d15&dn=Mortal.Kombat.Legends.Scorpions.Revenge.2020.1080p.AMZN.WEBRip.DDP5.1.x264-TEPES</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>The Rhythm Section (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:6bd20cc953d3b962511a872cba132bcf1832add6&dn=The.Rhythm.Section.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
