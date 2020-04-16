@@ -34,7 +34,7 @@
 </item>
 
 <item>
-<title>Mortal Kombat Legends: Scorpion’s Revenge (2020)</title>
+<title>Mortal Kombat Legends: Scorpions Revenge (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:84b03563355c31b3c3c85cb3f5306bac9e366d15&dn=Mortal.Kombat.Legends.Scorpions.Revenge.2020.1080p.AMZN.WEBRip.DDP5.1.x264-TEPES</sublink>
 </link>
