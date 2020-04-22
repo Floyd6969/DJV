@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR lime]Queen Live Aid 1985[/COLOR]</title>
-<link>https://www.youtube.com/watch?v=A22oy8dFjqc</link>
+<link>https://www.youtube.com/watch?v=r19FYTYRvSc</link>
 <thumbnail>https://i.imgur.com/f6tkaxE.jpg</thumbnail>
 </item>
 
