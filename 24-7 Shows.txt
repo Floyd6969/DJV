@@ -1316,7 +1316,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]Test 1[/COLOR]</title>
+<title>[COLOR lime]Test 2[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://www.arconaitv.us/stream.php?id=264</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
