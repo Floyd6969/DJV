@@ -1317,7 +1317,7 @@
 
 <item>
 <title>[COLOR lime]Test 1[/COLOR]</title>
-<link>https://www.arconaitv.us/stream.php?id=264</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://www.arconaitv.us/stream.php?id=264</link>
 
 <thumbnail>https://i.imgur.com/IimJyIj.jpg</thumbnail>
 <fanart></fanart>
