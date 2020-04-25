@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Arkansas (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:4e79711580665d599b91f1e2ad0e5bd029094401&dn=Arkansas.2020.1080p.BluRay.x264-YOL0W</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qemMV4gdqLghSYFDSsaMFLXW7Cq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Extraction (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:88a3e262a0bb824e99c664beaf5b043e6bc12199&dn=Extraction.2020.iNTERNAL.1080p.WEB.x264-SECRECY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Misbehaviour (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:abfe5137b4048359f737d0e3dd33176e541394b9&dn=Misbehaviour.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
