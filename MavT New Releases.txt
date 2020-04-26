@@ -1100,11 +1100,10 @@
 <fanart></fanart>
 </item>
 
-
-<item>
-<title>[COLOR gold]>>> Debrid New Releases Next Page >>>[/COLOR]</title>
+<dir>
+<title>[COLOR lime]>>> Debrid New Releases Next Page >>>[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Torrents%20Mav.txt</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
-</item>
+</dir>
 
