@@ -6,6 +6,289 @@
 </item>
 
 <item>
+<title>Apparition (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:110a01d7b36f4647e1a35cc9ceb8c39a0d358de5&dn=Apparition.2019.1080p.WEBRip.x264-RARBG#
+</link>
+<thumbnail>https://i.imgur.com/WK2z3tY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Beautiful Day in the Neighborhood (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:7971b11a336ded5dc18fb373fdc67d3d59c9e394&dn=A.Beautiful.Day.in.the.Neighborhood.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9vCAVhDK375XyobVcKqzqzsUHE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jexi (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:6c9b09f28d1e41d969d26a08c463c1cf6f4c6eb9&dn=Jexi.2019.1080p.WEBRip.DD5.1.x264-CM&#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Addams Family (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:348bb1ce353368092ef7b8114063cbaf9ddfbaa8&dn=The.Addams.Family.2019.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaXNjRkDdjfxfVuKHo25wkA6CiA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Knives Out (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:a9e60d53e95c0047c1ec405cc019c2f88865043e&dn=Knives.Out.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zombieland: Double Tap (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:3be8c14aac0374678826a7eafa219755a64e600a&dn=Zombieland.Double.Tap.2019.1080p.BluRay.x264-DRONES#
+</link>
+<thumbnail>https://i.imgur.com/q0niaYr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Lighthouse (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:a148b026819a68f12374867013d47252f9b95739&dn=The.Lighthouse.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwXmOYJVM1VIkkSXHY5zYSaLJLC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Two Popes (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:eb6633bbb8502fae9dc4278c441b35a335f3564e&dn=The.Two.Popes.2019.INTERNAL.1080p.WEB.x264-STRiFE#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jojo Rabbit (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:906d21249a12b732fd1fe70e35824b8d6df92c2e&dn=Jojo.Rabbit.2019.DVDScr.XVID.AC3.HQ.Hive-CM8#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lucy in the Sky (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:3b73084140ea23cc65ef6827121995067888b0dc&dn=Lucy.In.The.Sky.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://i.imgur.com/NzUjmsW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rambo: Last Blood (2019) 4K</title>
+<link>
+sublink:magnet:?xt=urn:btih:08e3ef18ea46f53d3a9ae1acf3f320c7744522b7&dn=Rambo.Last.Blood.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-AAAUHD#
+</link>
+<thumbnail>https://artworks.thetvdb.com/banners/movies/13659/posters/13659.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rambo: Last Blood (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:638039A6ABF31274CD0ED375000A3E7012E7D7DC&dn=Rambo.Last.Blood.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG+%E2%AD%90#
+</link>
+<thumbnail>https://artworks.thetvdb.com/banners/movies/13659/posters/13659.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>6 Underground (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:c55da4bbc15e55b2f92ff8bc53cc7d0723a44671&dn=6.Underground.2019.INTERNAL.1080p.WEB.x264-STRiFE#
+</link>
+<thumbnail>https://i.imgur.com/VJHuxAI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Code 8 (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:A42CF4C1ADA51FC09FE34FD8E7D30A98AE82CD39&dn=Code.8.2019.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG+%E2%AD%90#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz3pXqYkajrHFl1RbuXJZ1GzSsu.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Room (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:bc804eb8cebda1617dae89b6b6dab19c8aef2e36&dn=The.Room.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvKyVUBSmTqZvE4X7wYZ8ynoUgn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Judy (2019)</title>
+<link>https://rapidgator.net/file/5bd093f264652849cb455eca9b512a68</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqJhHjD6k6T07waELjMKDpQJUP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Doctor Sleep (2019)</title>
+<link>https://rapidgator.net/file/a672df29323a1a82ab402ea54a8c58ea</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p69QzIBbN06aTYqRRiCOY1emNBh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Game of Thrones: The Last Watch (TV Movie 2019)</title>
+<link>https://rapidgator.net/file/76e832fd5a8fc10305cd9b3f3fb2cde2</link>
+<thumbnail>https://i.imgur.com/6IitG0q.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Playmobil: The Movie (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:3351647f16e208856c15bcd8a1e67804df818fba&dn=Playmobil.The.Movie.2019.RERIP.1080p.BluRay.x264-EiDER#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPQzLZnfVw9fbXyxxglyOsmQBlu.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Marriage Story (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:ef2b244da9314c0c9543e2d0e6c6e05c61549d0b&dn=Marriage.Story.2019.INTERNAL.1080p.WEB.x264-STRiFE#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm6zKJjKYKrIy3dcnOLk0kF85cl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ad Astra (2019) (Direct)</title>
+<link>https://rapidgator.net/file/35cfe71e5f307eaa932007f4c8a6bbe6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJUILftRf6TJxloOgrilOTJfeOn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ad Astra (2019) (Torrent)</title>
+<link>
+sublink:magnet:?xt=urn:btih:5fa4f24ea09d29cdf4c13effd995d996dbc73573&dn=Ad.Astra.2019.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJUILftRf6TJxloOgrilOTJfeOn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Once Upon a Time ... in Hollywood (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:766714ee74547250405acf56aa92a1a2505c20fc&dn=Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x264-SPARKS#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Freaks (2018)</title>
+<link>
+sublink:magnet:?xt=urn:btih:d4f16717406f7ecef1f33a5ce9ab50e23019f798&dn=Freaks.2018.1080p.BluRay.x264-AAA#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDIzNDk0YWYtZjQwZC00NTljLWFiNDktYzRkNDc0MWY5NWQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Abominable (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:91a990d6ca5bc8f9cf146537348d8f7b31a45ce7&dn=Abominable.2019.1080p.WEB-DL.DD5.1.H264-FGT#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Daniel Isn't Real (2019)</title>
+<link>https://onlystream.tv/h7ptc4s1tsrl</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDFhMGJjMjQtODU0OC00NWQ5LWJhNjctOTZiZjA4NTYyZWQyXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Grace (2018)</title>
+<link>https://onlystream.tv/t3c0tv0q9o89</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjExZTNhMGItZjM4MS00N2QxLWJlZGItYzk4NTA2M2UyZTI3XkEyXkFqcGdeQXVyMTU3MzU2NQ@@._V1_SY1000_SX677_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Irishman (2019) (Link 1)</title>
+<link>https://1fichier.com/?gwanwfww25ycnf5xpfun</link>
+<thumbnail>https://i.imgur.com/FMKUZ6L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Irishman (2019) (Link 2)</title>
+<link>https://rapidgator.net/file/06416cb5ef7c649edf941d8a20755ca2</link>
+<thumbnail>https://i.imgur.com/FMKUZ6L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hustlers (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:e0c0be05c44fd8175d7411b39d646a7999c35fc3&dn=Hustlers.2019.1080p.AMZN.WEBRip.DDP5.1.x264-NTG#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Downton Abbey (2019)</title>
+<link>
+sublink:magnet:?xt=urn:btih:933bd22b14a43566d03a02a69bab18ea35c3e93d&dn=Downton.Abbey.2019.1080p.WEBRip.DD5.1.x264-CM#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmQxNGRkMjYtZTAyMy00MDUyLThiNmYtODI1NTkyNmI0ZTNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Mandalorian S01 E03 1080p [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:5B6F9931AA240D4B7E33D59305BAA65FFCC78903&dn=The.Mandalorian.S01E03.1080p.WEB.H264-PETRiFiED%5BTGx%5D+%E2%AD%90#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Mandalorian S01 E03 4K [COLORlime] DD 5.1[/COLOR]</title>
+<link>
+sublink:magnet:?xt=urn:btih:1edfaad7a2dbf63efb44378e984954a8543053af&dn=The.Mandalorian.S01E03.Chapter.3.2160p.DSNP.WEBRip.x265.10bit.HDR.DDP5.1.Atmos-TrollUHD%5Brartv%5D#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>The Mandalorian S01 E02 1080p [COLORlime] DD 5.1[/COLOR]</title>
 <link>
 sublink:magnet:?xt=urn:btih:4b14cca9d23d3e4509138ea81a12fe69d94d3d53&dn=The.Mandalorian.S01E02.1080p.WEBRip.DDP5.1.x264-CUSTOM%5Brartv%5D#
