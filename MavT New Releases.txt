@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>The Assistant (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:e816e099654b13024f0c4d8546e9e3852a0f83ee&dn=The.Assistant.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGrKbiw3Xw5uyQyVWUcfiT7I04P.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Lodge (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:56bdde18eca8691245d54ccb6f303f79a8506704&dn=The.Lodge.2019.1080p.BluRay.x264-DRONES</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TBRVyMkMPAOAmUBf17KCYu4Gld.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bad Education (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:e82fda208435d413162a9b2e2065a7dcfa2403e7&dn=Bad.Education.2019.1080p.WEB.H264-SECRECY</sublink>
