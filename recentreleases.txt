@@ -1,4 +1,284 @@
 <item>
+<title>Time Apart (2020)</title>
+<link>https://uptobox.com/a7e9e50fl79c</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vI4uzbEUnB2fHZLBgW891owV6q0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Urban Myths (2020)</title>
+<link>https://uptobox.com/7u8vevzlksy4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5OkSiWTmRQpwDAtjbpYw9Kuit5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Corona Zombies (2020)</title>
+<link>https://uptobox.com/tvhl3n8jukma</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGFjNWZjMjQtMmNiZC00NWQyLWExZTItMzc2ZTczMDdkZjQyXkEyXkFqcGdeQXVyMjM4NjM5OA@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Be Still and Know (2019)</title>
+<link>https://uptobox.com/j3xg795bu2ee</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzlmNGI2ZGUtYmY1My00MjBkLThmY2EtNGZmZTMzMWU1NjJlXkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Misbehaviour (2020)</title>
+<link>https://uptobox.com/ro5rd6xayewh</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1whMBmSZgT6lQTuUooB9fAgOvR9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>She Never Died (2020)</title>
+<link>https://uptobox.com/83zuz1q9ywfz</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/UJiBNlAUnFyUahO5kFRZ9aSvph.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Agent Toby Barks (2020)</title>
+<link>https://uptobox.com/pv02x93g9f9h</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ma8DPWRHiCHZaMkeruUTAkJSxCG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Doppel (2020)</title>
+<link>https://uptobox.com/fhikzx8z2nzy</link>
+<thumbnail>https://i.imgur.com/iO67M9L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Clark Sisters: The First Ladies of Gospel (2020)</title>
+<link>https://uptobox.com/vm1rpwcbizpi</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VIH5Sn72wMY5oRB8njv4LFLmnF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Getaway (2020)</title>
+<link>https://uptobox.com/5ujjkqlna95d</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/amnJ2diDUEYxzDRgRr1MY01ChUl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fantasy Island (2020)</title>
+<link>https://uptobox.com/8niyzsw0958b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Butt Boy (2020)</title>
+<link>https://uptobox.com/nz09faq9hvkj</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dt0Siikfy9uHfmgNVyRkiq6FuhW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Abominable (2020)</title>
+<link>https://uptobox.com/uay80xesvpq9</link>
+<thumbnail>https://i.imgur.com/nYNycl7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Wishmas Tree (2020)</title>
+<link>https://uptobox.com/6v64jj71zu04</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRWmmAF6Gz5JslicHeWuo0g9tjm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Double Belgian (2019)</title>
+<link>https://uptobox.com/khbea4l7wv6a</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1K76chRmPFawqyt8q8KKhF4Nrr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Coffee Kart (2019)</title>
+<link>https://uptobox.com/2etfkokotyoo</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFkXeJFEXPDcQZMvvImgCD6vSuD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Killer Tattooist (2020)</title>
+<link>https://uptobox.com/e1fty7kx6l2c</link>
+<thumbnail>https://i.imgur.com/d7H0Z7G.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blue Story (2019)</title>
+<link>https://uptobox.com/nixe76bpa14q</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI4Rw83LxKq07xIjM3RcbKcWpAM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Gentlemen (2020)</title>
+<link>https://uptobox.com/76ntrw7dmvcc</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>National Theatre Live: Fleabag (2019)</title>
+<link>https://uptobox.com/xjfg3h0ipq0k</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW2pgmj05KsXDNHRpQDm7YZWuEv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mortal Kombat Legends: Scorpions Revenge (2020)</title>
+<link>https://uptobox.com/zdwz9qz962mv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Am I a Serial Killer (2019)</title>
+<link>https://uptobox.com/0mqvevufb4vb</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zycNjyjasWMK28PEfv6giK6oH1S.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Four Kids and It (2020)</title>
+<link>https://uptobox.com/7vmsz84iz211</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qd0QgE8fZzNrq846k70xojoCIPK.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Roads Not Taken (2020)</title>
+<link>https://uptobox.com/29zrvbpyl2n5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Les Misérables (2019)</title>
+<link>https://uptobox.com/szx7og1v7b7v</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTZkYTBkY2MtMzRmNS00NjM3LWFiMzItZmJjNzNhMjgyYzczXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Porno (2019)</title>
+<link>https://uptobox.com/quo5d871di4f</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDViOGFjMzMtNmFkZS00ZDgxLWEzMGMtODFmZjkyMmU4NGI3XkEyXkFqcGdeQXVyNDc1MDExNzQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Main Event (2020)</title>
+<link>https://uptobox.com/z45ci25b5x2w</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfvpLrkpoYEf45OaC6pRIhe5sb6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Love. Wedding. Repeat (2020)</title>
+<link>https://uptobox.com/i2f4zl5z5bd1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn7feouGPU8sELez4qvpp0EtgeQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>We Summon the Darkness (2019)</title>
+<link>https://uptobox.com/3hgd0jfgnbat</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZsrojKJykh662OVJja9lvBYsF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Axcellerator (2020)</title>
+<link>https://uptobox.com/8u6l40mpwdo8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgHju1eKNmV5z0xHWUL1baEulAS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>In the Trap (2020)</title>
+<link>https://uptobox.com/sl4quqbxvpbl</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5fJNBIUrd2kdnJZmWuJ1kX1YAO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sea Fever (2020)</title>
+<link>https://uptobox.com/b7u5eyyre8p9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfbM8WpjP2J9y2dcjGYZHu0Vbw6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Stray Dolls (2020)</title>
+<link>https://uptobox.com/l74h955c41px</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCbAcqFcBKc0zjrIAJ660WCm2zq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Lost Husband (2020)</title>
+<link>https://uptobox.com/5k1d4ygu8rsv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouwKjq9SshrAzb2KIwa057O2I6N.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blush (2019)</title>
+<link>https://uptobox.com/e059j8rajolv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvutGCysWWGSJ6htSgaqnoo4qm0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>We Take the Low Road (2019)</title>
+<link>https://uptobox.com/qhg519uk2atu</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh8Ix2UUgz1cJZyEeIa4D8YKdcM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>David Blaine: The Magic Way (2020)</title>
+<link>https://uptobox.com/n3g8jw4j4h08</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UAlrOfyCJfq7bphgAFaT7x6je2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>8 Slices (2019)</title>
+<link>https://uptobox.com/h3kc4sfrrgs3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcru61quCOB7DPmF5jJMikgI68F.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kings of Mulberry Street (2019)</title>
+<link>https://uptobox.com/cb2mrw7rrtxk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaceycLJFR2FfEPzFyRlFTMWjKN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Powerbomb (2020)</title>
+<link>https://uptobox.com/64g3p7hhefiy</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2x5Nqy2OdRifjMFP53z1POjt65.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>40: The Temptation of Christ (2020)</title>
 <link>https://uptobox.com/wuy4bz9bkah2</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/49E08wFWJSYjTVxMkgqPlRKc9Su.jpg</thumbnail>
