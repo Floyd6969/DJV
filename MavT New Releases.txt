@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Justice League Dark: Apokolips War (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:f9bf26ab8b63d198b6842f2c696ffbff1895d166&dn=Justice.League.Dark.Apokolips.War.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1Wc96TasY2rNhDpt3kjbum2nSd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Greed (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:7625fb6ba0a2be80ad6718836136706c0ff23ea5&dn=Greed.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcfJjafV4YGKneLJbqJuIrwuyry.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Assistant (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:e816e099654b13024f0c4d8546e9e3852a0f83ee&dn=The.Assistant.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
