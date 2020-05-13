@@ -92,3 +92,8 @@
   <title>Western</title>
   <tmdb>genre/movies/37</tmdb>
 </dir>
+
+<dir>
+      <title>My Trakt Movie Watchlist (Authorize)</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+    </dir>
