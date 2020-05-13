@@ -4,6 +4,26 @@
 </dir>
 
 <dir>
+   <title>[COLORwhite]My Trakt Movie Collection[/COLOR]</title>
+   <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+ </dir>
+ 
+ <dir>
+    <title>[COLORwhite]My Trakt Movie Watchlist[/COLOR]</title>
+    <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+ </dir>
+ 
+  <dir>
+     <title>[COLORwhite]My Trakt TV Show Collection[/COLOR]</title>
+     <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+    </dir>
+  
+  <dir>
+      <title>[COLORwhite]My Trakt TV Show Watchlist[/COLOR]</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+  </dir>
+
+<dir>
   <title>[COLORwhite]My Lists[/COLOR]</title>
   <trakt>https://api.trakt.tv/users/me/lists/</trakt>
 </dir>
