@@ -16,6 +16,13 @@
 </item>
 
 <item>
+<title>Sonic the Hedgehog 4K HDR (2020)</title>
+<link>https://uptobox.com/pzjk2z0r6gci</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Justice League Dark: Apokolips War (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:f9bf26ab8b63d198b6842f2c696ffbff1895d166&dn=Justice.League.Dark.Apokolips.War.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
