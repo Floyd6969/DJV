@@ -80,6 +80,26 @@
 
 <dir>
   <title>[COLORwhite]Top 250 Movies[/COLOR]</title>
-  <trakt>https://raw.githubusercontent.com/Floyd6969/DJV/master/Reddit%20Top%20250-VVxjRd0E.txt</trakt>
+  <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items?limit=50&page=1</trakt>
+</dir>
+
+<dir>
+      <title>Rotten Tomatoes: Best of 2020</title>
+      <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2020/items?limit=50&page=1</trakt>
+</dir>
+
+<dir>
+      <title>Rotten Tomatoes: Best of 2019</title>
+      <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2019/items?limit=50&page=1</trakt>
+</dir>
+
+<dir>
+      <title>Rotten Tomatoes: Best of 2018</title>
+      <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2018/items?limit=50&page=1</trakt>
+</dir>
+
+<dir>
+      <title>Rotten Tomatoes: Best of 2017</title>
+      <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items?limit=50&page=1</trakt>
 </dir>
 
