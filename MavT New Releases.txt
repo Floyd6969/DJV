@@ -16,6 +16,33 @@
 </item>
 
 <item>
+<title>Top Gun (1986) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:3b1bc99e0b48634fa3f248f2a824d0771073cf16&dn=Top Gun (1986) [2160p] [HDR] (bluray) [WMAN-LorD]</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7ubPzNej5vR4mfahk7jhP6yXQG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Greed (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:3f5a57b756aa88a37eeb7279b77e1dbf2a545d73&dn=Greed.2019.1080p.BluRay.x264-LATENCY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcfJjafV4YGKneLJbqJuIrwuyry.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Wrong Missy (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:a4253c876350b9da1aefc8446a5dd3a0c87ae74b&dn=The.Wrong.Missy.2020.1080p.NF.WEBRip.DDP5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2YlIrzypvhS3vTFMcDkG3xLvac.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sonic the Hedgehog 4K HDR (2020)</title>
 <link>https://uptobox.com/pzjk2z0r6gci</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</thumbnail>
