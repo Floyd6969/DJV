@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>Inheritance (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:21b659852158896f069a4e428f559b57d6192b00&dn=Inheritance.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMKg0QHoSkqNNqxeDb5Bbx4S0nl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Lovebirds (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:571a3cefcad3eee071e8be81fab9623bf83c9244&dn=The.Lovebirds.2020.1080p.NF.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Top Gun (1986) 4K</title>
 <link>
 <sublink>magnet:?xt=urn:btih:3b1bc99e0b48634fa3f248f2a824d0771073cf16&dn=Top Gun (1986) [2160p] [HDR] (bluray) [WMAN-LorD]</sublink>
