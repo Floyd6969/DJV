@@ -1,4 +1,228 @@
 <item>
+<title>Brahms: The Boy II (2020)</title>
+<link>https://uptobox.com/j9l9u20jccwb</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Good Woman Is Hard to Find (2019)</title>
+<link>https://uptobox.com/mskufeu5nug3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r52hvxb75CL6HCD8Yndxk38ozY8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>More Beautiful for Having Been Broken (2019)</title>
+<link>https://uptobox.com/2sknrnpovlos</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svQhq78JEjCUhpaMZ1IkFyMOFG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Bellmen (2020)</title>
+<link>https://uptobox.com/yew7a1cny6gf</link>
+<thumbnail>https://i.imgur.com/nNclOaY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sweetness in the Belly (2019)</title>
+<link>https://uptobox.com/mtzjdq40qlrq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWq2b6MdYxdqkubAw4uK612a5Ia.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Awoken (2019)</title>
+<link>https://uptobox.com/a339h68gor2s</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPrjCDlTuAKfDMigdSykQm448Rf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Stairs (2019)</title>
+<link>https://uptobox.com/cytjdvi0o8r0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1VAPD49YIrMnN7bRBS6ZPiNrUS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Legion (2020)</title>
+<link>https://uptobox.com/ws8jrnsewzoo</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kiCqFizPPpULUR1YhAkp8bO9Jo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Valley Girl (2020)</title>
+<link>https://uptobox.com/zabxjw2hz41g</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcu6gt9kYCmv3AkehApv933ltth.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Walkaway Joe (2020)</title>
+<link>https://uptobox.com/7e9edox2otqm</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7gMPj1EpNkcwQsNBQCX3uRnMHl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Driveways (2019)</title>
+<link>https://uptobox.com/87ulox0r541k</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/axGElq7dTvVPJeRSowZzhOL2i1p.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Crazy Birds (2019)</title>
+<link>https://uptobox.com/zthmditez0m5</link>
+<thumbnail>https://i.imgur.com/qJWznIg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Being (2020)</title>
+<link>https://uptobox.com/z8tj6e0djum3</link>
+<thumbnail>https://i.imgur.com/06PXOUt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>H Is for Happiness (2019)</title>
+<link>https://uptobox.com/g7d2gw6b6kfe</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0JOVdkQceWcS7xT8ZdKMSxZXNt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hearts and Bones (2019)</title>
+<link>https://uptobox.com/xzv7xzv0ipj5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGDj6vMyjQ8zGubomWVQtUWEtTU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Intrigo: Dear Agnes (2019)</title>
+<link>https://uptobox.com/zwd7kqcxlf4m</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/in1xaEA22J0AaIdUoi8h50sW0vs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Intrigo: Samaria (2019)</title>
+<link>https://uptobox.com/nsfkjnrx8oyq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiGY0ZVl2lpM0JkHgBJLUhmRPfd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>South Mountain (2019)</title>
+<link>https://uptobox.com/7kgzslnev0za</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCO6EEOfSjbbXLWmRYBUVF4ZyQt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Working Man (2019)</title>
+<link>https://uptobox.com/lmhfrpr9m3vv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/plmz36TvOP34IVWvBuPF7kPFxAn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Human Zoo (2020)</title>
+<link>https://uptobox.com/mg4t7qixogj2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzTV8zQyqFOwIaU9TqlfOjOpL6s.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cry for the Bad Man (2019)</title>
+<link>https://uptobox.com/g8nqb9swbfih</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeKuObXMEvknT76gwIAhR7r5Jcp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cry Havoc (2020)</title>
+<link>https://uptobox.com/guv3o2jmci4w</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx4jyEKK8LbrvkHxBSHnrw2Ty5s.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Exorcism at 60000 Feet (2019)</title>
+<link>https://uptobox.com/0jzhtrw2beh6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/caCV0G43fx5rMoBLtWITiE0kcLS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Greed (2020)</title>
+<link>https://uptobox.com/i07anpk1m0kp</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcfJjafV4YGKneLJbqJuIrwuyry.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Incidental Characters (2020)</title>
+<link>https://uptobox.com/s3cv20na9lty</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QyKxE6mNLHSuhTamyduijWQuQJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Inheritance (2020)</title>
+<link>https://uptobox.com/ang3l7tdmv5x</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMKg0QHoSkqNNqxeDb5Bbx4S0nl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Miss Fisher and the Crypt of Tears (2020)</title>
+<link>https://uptobox.com/7sqby614rlqt</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6qn8ddIYKAKVsMKw5ZrIyl5RqF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Remember Me (2019)</title>
+<link>https://uptobox.com/c3j6cvwmy0ge</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/97b0xywgjen8zENjyTWGukBYlAz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Islands (2019)</title>
+<link>https://uptobox.com/ykvyra5qgr6v</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJeFmK3SykWzzLFOIaJQlSBl2nL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Wretch (2019)</title>
+<link>https://uptobox.com/a42lgqdypagc</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8sBgZdKOpXr2jTdza1GFMaFmkE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Z (2019)</title>
+<link>https://uptobox.com/9k91yyjceai5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kFQrl8fCIrQEXqFUc6bBUylrFs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fantasy Island (2020)</title>
+<link>https://uptobox.com/v04wdt7glnz8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sea Fever (2020)</title>
 <link>https://uptobox.com/anotlura933u</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfbM8WpjP2J9y2dcjGYZHu0Vbw6.jpg</thumbnail>
