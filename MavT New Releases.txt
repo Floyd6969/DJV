@@ -16,6 +16,31 @@
 </item>
 
 <item>
+<title>Capone (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:470b150e82e922a844abdc72f514707e2ad3687d&dn=Capone.2020.1080p.BluRay.x264.DTS-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/75gDv38UgRtAukSxNXcjatyQmEa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The High Note (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:74c925afcec6423164f0bcbb06423008f9495538&dn=The.High.Note.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHsu8swJSgqDrsPiu7adBjOPLlp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Justice League Dark: Apokolips War 4K (2020)</title>
+<link>https://uptobox.com/jep8wc0s6apk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1Wc96TasY2rNhDpt3kjbum2nSd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Inheritance (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:21b659852158896f069a4e428f559b57d6192b00&dn=Inheritance.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
