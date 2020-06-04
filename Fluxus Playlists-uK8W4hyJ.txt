@@ -20,6 +20,13 @@
 </plugin>
 
 <plugin>
+<name>[COLORlime][B]24/7 Movies[/B][/COLOR]</name>
+<link>plugin://script.module.swiftstreamz1/list_channels/7</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
 <name>[COLORlime][B]Full Channel List[/B][/COLOR]</name>
 <link>plugin://script.module.swiftstreamz1/</link>
 <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
