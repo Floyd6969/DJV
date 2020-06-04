@@ -1,3 +1,31 @@
+<plugin>
+<name>[COLORlime][B]UK TV[/B][/COLOR]</name>
+<link>plugin://script.module.swiftstreamz1/list_channels/4</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLORlime][B]US TV[/B][/COLOR]</name>
+<link>plugin://script.module.swiftstreamz1/list_channels/5</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLORlime][B]Sports TV[/B][/COLOR]</name>
+<link>plugin://script.module.swiftstreamz1/list_channels/8</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLORlime][B]Full Channel List[/B][/COLOR]</name>
+<link>plugin://script.module.swiftstreamz1/</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
 <dir>
 <name>[COLOR lime][B]Fluxus IPTV 2000+ Channels[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
