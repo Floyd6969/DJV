@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-
 <item>
 <title>[COLORblue][B]Debrid Needed For These Movies All 1080p And 4K[/B][/COLOR]</title>
 <link>ignoreme</link>
@@ -16,6 +13,121 @@
 </item>
 
 <item>
+<title>The Personal History of David Copperfield (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:a503a7841fe2b03af70a5738018a59dd0e0e23e4&dn=The.Personal.History.of.David.Copperfield.2019.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UFdQPDgbsCjZtZ6s4U7H6ugJNM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Artemis Fowl (2020) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:378a91d5fa67f2fdd8f463e7bbbf246da2ecc10f&dn=Artemis.Fowl.2020.HDR.2160p.WEB.H265-SECRECY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Yw6GXGEkLNff1pY7RLDj3KRfnV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Artemis Fowl (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:1760205bc8d87a852d011b538ad63a417fc52e03&dn=Artemis.Fowl.2020.1080p.WEB.H264-SECRECY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Yw6GXGEkLNff1pY7RLDj3KRfnV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Infamous (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:6c590f02f0482dc9af7dfe3404aaa101209267d0&dn=Infamous.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2lkJf1TAjImTHCEO7XvbqPtnPb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Da 5 Bloods (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:90cb4b42187a06e9cf40f6b9eea142f7b523a9c7&dn=Da.5.Bloods.2020.1080p.WEB.H264-SECRECY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The King of Staten Island (2020) 4K</title>
+<link>
+<sublink>magnet:?xt=urn:btih:4f151af982221e76270e3bb9f725ef9a9a98936b&dn=The.King.of.Staten.Island.2020.HDR.2160p.WEB.H265-HUZZAH##
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The King of Staten Island (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:24fc74533b7382bf1cce12ae0d348a99c24caa65&dn=The.King.of.Staten.Island.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Rising Hawk (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:7ede418dbc88a119b6c2352e2bbb77942f86a3e5&dn=The.Rising.Hawk.2019.1080p.WEB-DL.H264.AC3-EVO[TGx]#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajOov0Nr23fMfhsLJX1TOzy4srX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Last Days of American Crime (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:adb935c2624450c0c729a8a8bab4207b3345cf93&dn=The.Last.Days.of.American.Crime.2020.1080p.WEB.H264-HUZZAH</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Becky (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:b4f2df24363ae04fea19da2960f3458efb735000&dn=Becky.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZPd78TcZ8IlKkXoH9XpqCmkhIk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shirley (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:8ce5146f10f130c0df7dbccd2287b399f85bcddd&dn=Shirley.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSwTnNS7TKAS79Sz9LvyqlBxxrU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>War of the Worlds 4K (2005)</title>
+<link>https://uptobox.com/vjcot3lxsnvu</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Biy7R9LfumYshur3YKhpj56MpB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Blues Brothers 4K (1980)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:3f6339ad204b7dd7f3dbb5f6d43fddf51e8e557c&dn=The.Blues.Brothers.1980.EXTENDED.2160p.UHD.BluRay.x265.10bit.HDR.DTS-X.7.1-AViATOR</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DiSrcYELCLkwnjl9EZp2pkKGep.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Capone (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:470b150e82e922a844abdc72f514707e2ad3687d&dn=Capone.2020.1080p.BluRay.x264.DTS-FGT</sublink>
@@ -23,7 +135,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/75gDv38UgRtAukSxNXcjatyQmEa.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>The High Note (2020)</title>
 <link>
@@ -32,7 +144,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHsu8swJSgqDrsPiu7adBjOPLlp.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Justice League Dark: Apokolips War 4K (2020)</title>
 <link>https://uptobox.com/jep8wc0s6apk</link>
@@ -61,7 +173,7 @@
 <item>
 <title>Top Gun (1986) 4K</title>
 <link>
-<sublink>magnet:?xt=urn:btih:3b1bc99e0b48634fa3f248f2a824d0771073cf16&dn=Top Gun (1986) [2160p] [HDR] (bluray) [WMAN-LorD]</sublink>
+<sublink>magnet:?xt=urn:btih:3b1bc99e0b48634fa3f248f2a824d0771073cf16&dn=Top Gun (1986) [2160p] [HDR] (bluray) [WMAN-LorD]#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7ubPzNej5vR4mfahk7jhP6yXQG.jpg</thumbnail>
 <fanart></fanart>
@@ -182,7 +294,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>The Rhythm Section (2020)</title>
 <link>
@@ -229,6 +340,42 @@
 </item>
 
 <item>
+<title>The Call of the Wild (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:ae27a16c34697300a4b5a2237b180aa1b2901205&dn=The.Call.of.the.Wild.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Underwater (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:6777cf1acbd07b65da900a5233f957b41d0b839b&dn=Underwater.2020.1080p.BluRay.x265-RARBG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlHL2BH176JApGiLnNQLQgdjMFd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Vivarium (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:d2151df7cc22740ebeb9951552e68b2f518cc92d&dn=Vivarium.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEUWSg9v4dRyQ6rRRLTV80a6cvf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bad Boys for Life (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:485c13c6cbad10511dad0edb6e4e60c12a852605&dn=Bad Boys for Life.2020.1080p.HDRip.X264.AC3-EVO[TGx]#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bloodshot (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:2668982eb6012cc9a138d71896fa34d719f70c40&dn=Bloodshot.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
@@ -252,6 +399,15 @@
 <sublink>magnet:?xt=urn:btih:23c4969cd21405541a21b17425a09af17bb5e2cc&dn=The.Gentlemen.2019.1080p.WEBRip.DD5.1.x264-CM</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Onward (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:668380fdb9a281e18818136d37b9e7c245b02065&dn=Onward.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -294,7 +450,7 @@
 <item>
 <title>The Invisible Man (2020)</title>
 <link>
-<sublink>magnet:?xt=urn:btih:cdfa732e85c52baeeaa804196f11547a0a842b49&dn=The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO[TGx]</sublink>
+<sublink>magnet:?xt=urn:btih:cdfa732e85c52baeeaa804196f11547a0a842b49&dn=The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO[TGx]#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg</thumbnail>
 <fanart></fanart>
@@ -321,7 +477,7 @@
 <item>
 <title>Star Wars: The Rise of Skywalker (2019)</title>
 <link>
-<sublink>magnet:?xt=urn:btih:435ff595e5f133717778e57699fb5259e9f34a7d&dn=Star.Wars.Episode.IX.The.Rise.of.Skywalker.2020.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-Galaxy...</sublink>
+<sublink>magnet:?xt=urn:btih:435ff595e5f133717778e57699fb5259e9f34a7d&dn=Star.Wars.Episode.IX.The.Rise.of.Skywalker.2020.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-Galaxy...#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
 <fanart></fanart>
@@ -333,6 +489,15 @@
 <sublink>magnet:?xt=urn:btih:c46b47418495d484a856093698d4204f352eb36d&dn=Star.Wars.Episode.IX.The.Rise.of.Skywalker.2019.Digital.EXTRAS.Only.1080p.WEBRip.x264-RARBG</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Grudge (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:8a5a769dc0cbf495cef3a961790e446a594c2da2&dn=The.Grudge.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -427,6 +592,15 @@
 </item>
 
 <item>
+<title>Jumanji: The Next Level (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:0572bcd758f4690310569d661cc9db846fba859d&dn=Jumanji.The.Next.Level.2019.1080p.WEBRip.DD5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Superman: Red Son (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:71de0e429c1c8e2fc3047a291cda5e01f145cfcb&dn=Superman.Red.Son.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
@@ -465,7 +639,7 @@
 <item>
 <title>A Shaun the Sheep Movie: Farmageddon (2019) 4K</title>
 <link>
-<sublink>magnet:?xt=urn:btih:ff3dffe83c70f1737630705abf193efd4da2bebc&dn=A.Shaun.the.Sheep.Movie.Farmageddon.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-IAMABLE<sublink>
+<sublink>magnet:?xt=urn:btih:ff3dffe83c70f1737630705abf193efd4da2bebc&dn=A.Shaun.the.Sheep.Movie.Farmageddon.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-IAMABLE</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg</thumbnail>
 <fanart></fanart>
@@ -508,15 +682,6 @@
 </item>
 
 <item>
-<title>Jumanji: The Next Level (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:d87387770204b6fe42dcb7b6f7dfb65f718b7177&dn=Jumanji.The.Next.Level.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Charlie's Angels (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:0a905b77888aae9cd8a3bbaadafd031b0363e58b&dn=Charlies.Angels.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
@@ -549,15 +714,6 @@
 <sublink>magnet:?xt=urn:btih:3c01ac34cc22017128373f4d9bab957582f78105&dn=Come.To.Daddy.2019.1080p.WEBRip.x264-RARBG</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofJp9SfJFlzCaDCUFfvCx08Hwfh.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Knives Out (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:a751a0d64ae7b285c3707428d445db150fe81be8&dn=Knives.Out.2019.1080p.WEBRip.x264-RARBG</sublink>
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -940,46 +1096,9 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>Apparition (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:110a01d7b36f4647e1a35cc9ceb8c39a0d358de5&dn=Apparition.2019.1080p.WEBRip.x264-RARBG</sublink>
-</link>
-<thumbnail>https://i.imgur.com/WK2z3tY.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>A Beautiful Day in the Neighborhood (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:7971b11a336ded5dc18fb373fdc67d3d59c9e394&dn=A.Beautiful.Day.in.the.Neighborhood.2019.DVDScr.XVID.AC3.HQ.Hive-CM8</sublink>
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9vCAVhDK375XyobVcKqzqzsUHE.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Jexi (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:6c9b09f28d1e41d969d26a08c463c1cf6f4c6eb9&dn=Jexi.2019.1080p.WEBRip.DD5.1.x264-CM&</sublink>
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>The Addams Family (2019)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:348bb1ce353368092ef7b8114063cbaf9ddfbaa8&dn=The.Addams.Family.2019.1080p.WEBRip.DD5.1.x264-CM</sublink>
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaXNjRkDdjfxfVuKHo25wkA6CiA.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
 <dir>
 <title>[COLOR lime]>>> Debrid New Releases Next Page >>>[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Torrents%20Mav.txt</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </dir>
-
