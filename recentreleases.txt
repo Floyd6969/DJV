@@ -1,4 +1,172 @@
 <item>
+<title>Torpedo U 235 (2019)</title>
+<link>https://uptobox.com/kh01hi7ruwyl</link>
+<thumbnail>https://i.imgur.com/Rjjxhtc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Warrior Queen of Jhansi (2019)</title>
+<link>https://uptobox.com/4led7tqlh1dd</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynE0PcdNdcUSJOUfRgfRE6EDgQO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Secret Weapon (2020)</title>
+<link>https://uptobox.com/b5vr7bwjqm17</link>
+<thumbnail>https://i.imgur.com/jKaLphp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>My Zoe (2019)</title>
+<link>https://uptobox.com/12mh3ftil0vb</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLhNcVOXWfYLP6XpUSPvtVdU4UP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Healing River (2020)</title>
+<link>https://uptobox.com/dojdgrv1kl87</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/71EiO2SHQs2VvO3lp9n0sojpbdA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Faust the Necromancer (2020)</title>
+<link>https://uptobox.com/4p3092ie0fw1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3mIVxeEouI8AvvQalEVmM2B6a.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sonic the Hedgehog (Blu-Ray) (2020)</title>
+<link>https://uptobox.com/uv3gv471tad0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Trip To Greece (2020)</title>
+<link>https://uptobox.com/edm6c25s2rod</link>
+<thumbnail>https://i.imgur.com/aN4RoMp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Adam (2020)</title>
+<link>https://uptobox.com/2ls9ukzs1zrz</link>
+<thumbnail>https://i.imgur.com/ONBe1zU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Bugs Bunny Road Runner Movie (1979)</title>
+<link>https://uptobox.com/6w9jjl8cidy4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf8UBsqg0omm5QxBhEopKoDytvV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nymphomaniac: Vol. I (2013)</title>
+<link>https://uptobox.com/tpaaorsda2xa</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/piikL8vRh3s1ysHGTIqaZpdjfNU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Last Moment of Clarity (2020)</title>
+<link>https://uptobox.com/kwqu5yy18ccr</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnp30BsV1WU7FYP0DGQhy7TS9tT.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Union Bridge (2019)</title>
+<link>https://uptobox.com/j3vfilwvcnfw</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7U17jHTzvw7K7SYrjSPSfga5RH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ovid and the Art of Love (2019)</title>
+<link>https://uptobox.com/tni8ojt8qoix</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLEu7Oa9TnWT2HLRsMLoyOQZY83.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Killbird (2019)</title>
+<link>https://uptobox.com/fzl92g5l04xg</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/UPS58QFIEQGfz4Z9w68VnM1C84.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fast and Fierce: Death Race (2020)</title>
+<link>https://uptobox.com/e3uhyc5v3mmj</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVKK2DcZy5IecrSbLZVxT4ch0Hw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Chameleon (2019)</title>
+<link>https://uptobox.com/oh3f2rx747bq</link>
+<thumbnail>https://i.imgur.com/L3dqafe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lillian (2019)</title>
+<link>https://uptobox.com/pev7t60vx9xz</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/whOQRJVdd1WWXAQsAKxqDfn9suU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Good Kisser (2019)</title>
+<link>https://uptobox.com/pawhlez5xe16</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIjuPssXYycdf5yQNg4ES5wkzHX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Flying Cars (2019)</title>
+<link>https://uptobox.com/8eyt3ouwk4ou</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ez1V0pN2P2LMLiRS8caFSmYOr4P.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Inheritance (2020)</title>
+<link>https://uptobox.com/7sa0d489615w</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMKg0QHoSkqNNqxeDb5Bbx4S0nl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Body Cam (2020)</title>
+<link>https://uptobox.com/hlgulmkk8hz1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4FpiCt2G2SWwUtMX7kKZWayDUK.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Edge of Extinction (2020)</title>
+<link>https://uptobox.com/pd91521pfowq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPQwTtppe0nzbFLSAMaqMnL8e4c.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Banished (Caliban) 2019 (2019)</title>
+<link>https://uptobox.com/tpm8apsncudy</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9cRfC46xhA7j82EdX0AGxLDxN9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Xane: The Vampire God (2020)</title>
 <link>https://uptobox.com/tbl6dr69dkib</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDC7PBiw6pV4q6Ksvor5eDosfF5.jpg</thumbnail>
