@@ -187,3 +187,10 @@
   <fanart></fanart>
 </dir>
 
+<dir>
+<title>[COLORlime]Test[/COLOR]</title>
+<link>http://maverickrepo.ddns.net/data/BNorms.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
