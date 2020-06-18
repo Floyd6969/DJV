@@ -25,6 +25,7 @@
 <title>Force of Nature (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:b47c83abae500eee075b8d3156c772624c2a9ddd&dn=Force.of.Nature.2020.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG</sublink>
+</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucktgbaMSaETUDLUBp1ubGD6aNj.jpg</thumbnail>
 <fanart></fanart>
 </item>
