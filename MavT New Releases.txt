@@ -13,6 +13,23 @@
 </item>
 
 <item>
+<title>You Should Have Left (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:0abf1d133ff5419e1f05def16f710f131f807003&dn=You.Should.Have.Left.2020.1080p.WEB-DL.AAC5.1.H.264-CMRG[TGx]</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUYPIRhRpUyftOytmfJrm94rCAh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Force of Nature (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:b47c83abae500eee075b8d3156c772624c2a9ddd&dn=Force.of.Nature.2020.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG</sublink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucktgbaMSaETUDLUBp1ubGD6aNj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>The Personal History of David Copperfield (2019)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:a503a7841fe2b03af70a5738018a59dd0e0e23e4&dn=The.Personal.History.of.David.Copperfield.2019.1080p.WEBRip.DD5.1.x264-CM</sublink>
