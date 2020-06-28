@@ -13,6 +13,43 @@
 </item>
 
 <item>
+<title>Irresistible (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:cc2e8d2e5d39b445336c4e823cf8643f2678e6a6&dn=Irresistible.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPx3juctkdZvgrJ4DO35dUnVsyF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eurovision Song Contest: The Story of Fire Saga (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:cede7731bd3fbb9a4ceb27ab647cf5ced56b2ea1&dn=Eurovision.Song.Contest.The.Story.of.Fire.Saga.2020.1080p.WEB.H264-SECRECY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Wasp Network (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:ad9f587e74f4de1aa5e3d477ce386a6b4718bb7b&dn=Wasp.Network.2019.1080p.WEB.H264-SECRECY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsV3v4b26U80bHcHmnsHUJiArRq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Babyteeth (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:8d1104ea659c8be8251b7ce1a7eff24831193297&dn=Babyteeth.2019.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAuHbTctbSCIXTh8iA55vMOTAhi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>You Should Have Left (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:0abf1d133ff5419e1f05def16f710f131f807003&dn=You.Should.Have.Left.2020.1080p.WEB-DL.AAC5.1.H.264-CMRG[TGx]</sublink>
