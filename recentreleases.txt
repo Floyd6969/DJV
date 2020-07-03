@@ -1,4 +1,242 @@
 <item>
+<title>Infamous (2020)</title>
+<link>https://uptobox.com/9uo1qnjd0gfw</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2lkJf1TAjImTHCEO7XvbqPtnPb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Artemis Fowl (2020)</title>
+<link>https://uptobox.com/08agliqjep0d</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Yw6GXGEkLNff1pY7RLDj3KRfnV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Departure (2020)</title>
+<link>https://uptobox.com/8q3hpv9vu3q3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/caoKa7lyYjnv6HkEEN5UaLqpYcS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Darkness Falls (2020)</title>
+<link>https://uptobox.com/9ahbn6flwfgs</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJO6c7S0huzvrBzyCIfkN0sBcd2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The King of Staten Island (2020)</title>
+<link>https://uptobox.com/l0rkdnq3oh7e</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Psycho Yoga Instructor (2020)</title>
+<link>https://uptobox.com/zahabdis61w5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TWRfinccNiQS61r49PTfNEs2vz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Turner Risk (2020)</title>
+<link>https://uptobox.com/s6nz33jub1ct</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/465mf7BXdflTslKCG7rbqI4Twt1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Boonie Bears: Blast into the Past (2019)</title>
+<link>https://uptobox.com/yz2lcamonr5x</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9LDouwzCglbKB2rVECdkDqdYaZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Two Heads Creek (2019)</title>
+<link>https://uptobox.com/cumtscagxnd5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hXF74jSO5C4nGw5Zpc3UPtRi3a.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Tape (2020)</title>
+<link>https://uptobox.com/8zm2h1e5htfg</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QkD4rCbtM7GmZXODQLel7hmWMj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>A Thousand Miles Behind (2018)</title>
+<link>https://uptobox.com/xhkdxk62ojld</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbkTku6WCRlFdUL4cP24DLw8vbO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Here A While (2020)</title>
+<link>https://uptobox.com/ha47xoktcegk</link>
+<thumbnail>https://i.imgur.com/ofhAYCg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Dinner Party (2020)</title>
+<link>https://uptobox.com/qm6eelhlvau5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vr2qkrZv16TWd6NmeOcGdT4qXW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Candy Witch (2020)</title>
+<link>https://uptobox.com/2tpddhstjycm</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv9CJql799ej93urPm5NQScHxrC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Outback (2019)</title>
+<link>https://uptobox.com/282w516rsscr</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D2wfklvqrsjEInqNQ3NHCmAzxC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Sunny Daze (2019)</title>
+<link>https://uptobox.com/nciy3vcecse0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2R7gVx5JRuXB5GyZ9eotSzzLzu.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Burden (2019)</title>
+<link>https://uptobox.com/3ovamuw9v1an</link>
+<thumbnail>https://i.imgur.com/VLHuOPq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>We Summon the Darkness (BluRay) (2019)</title>
+<link>https://uptobox.com/24klynp4y3rr</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXAwq18CJYmzhLZNbLpBf3dG3A5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>We Bare Bears: The Movie (2020)</title>
+<link>https://uptobox.com/yy7ryuv07nm4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxCl6kJKvm8WO5oZDYOOEXTlnTE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Adrift in Soho (2018)</title>
+<link>https://uptobox.com/mfeydqhia1ub</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wov4mK5nDGWwJgPOtPBzV9giaWZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Love on the Rise (2020)</title>
+<link>https://uptobox.com/zapks2vsgpdi</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Twoq37KJudpNuXh5Zbp91IhsSq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Days of the Bagnold Summer (2019)</title>
+<link>https://uptobox.com/juyv8jhvhupu</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y4SKCHNI37Mfr58FdyVEsKrERB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Variant (2020)</title>
+<link>https://uptobox.com/qwuyt3ung1xs</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y20pp1kZtnYnqxsaJyhqsZlsrk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Legacy (2020)</title>
+<link>https://uptobox.com/lj8ndjv81gbm</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZIceEQEp3mlwhgT8eLOMdeWFZX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Quarry (BluRay) (2020)</title>
+<link>https://uptobox.com/fvvm7iwwys8i</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Annabellum - The Curse of Salem (2019)</title>
+<link>https://uptobox.com/iqu30p0807cg</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cMiaJOtIorpr0IiQPyTlb9tYVk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>7500 (BluRay) (2019)</title>
+<link>https://uptobox.com/jqbs4wd3zbfp</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrW048JoWofimI5AKXDTBzvxqRr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Sniper: Assassin's End (BluRay) (2020)</title>
+<link>https://uptobox.com/aaalb76jibn5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksxTiIMV6EdLOrPC05yuNG1yIqC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Dreamland (2019)</title>
+<link>https://uptobox.com/46z4pkl37kww</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcoD7tunK3tgImgb1P4wl9NOOU9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Dating Amber (2020)</title>
+<link>https://uptobox.com/v4ud6wjpleun</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVOqhqwLoHNzfihUkyqZ3pXWJyz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>War of the Worlds 4K (2005)</title>
+<link>https://uptobox.com/vjcot3lxsnvu</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Biy7R9LfumYshur3YKhpj56MpB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Deeper You Dig (2019)</title>
+<link>https://uptobox.com/3u55qflam10p</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuUSTJ6o3I9DR2GQffVIFdFZjlo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Last Days of American Crime (2020)</title>
+<link>https://uptobox.com/gs4aavlcn7yi</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Shirley (2020)</title>
+<link>https://uptobox.com/jmmywaaeui3q</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSwTnNS7TKAS79Sz9LvyqlBxxrU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Hammer (2019)</title>
 <link>https://uptobox.com/ridlqv76v4tt</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTExYjY5YzEtZjJhMy00ZTI2LWE2ODAtZjZlNGJmYzg4OWMxXkEyXkFqcGdeQXVyMzEyOTQ0NjY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
