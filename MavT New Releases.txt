@@ -13,6 +13,43 @@
 </item>
 
 <item>
+<title>Hamilton 4K (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:a6fbe780dfe113112e92a45a319a5d940a1efeac&dn=Hamilton.2020.PROPER.HDR.2160p.WEB.H265-PETRiFiED</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmxCLftLPw7NqjiA0Eu9c8ubP2v.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hamilton (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:0d4484b1dac79fd5c23c361a989aa618a44b3aaa&dn=Hamilton.2020.1080p.WEB.h264-WATCHER</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmxCLftLPw7NqjiA0Eu9c8ubP2v.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Desperados (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:fb8f6bb477d6e0c0a4931a200037091b00e7676f&dn=Desperados.2020.1080p.WEB.H264-HUZZAH</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0aJ42yUp5pS4MdPKP69VRZ2Gkp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Outpost (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:b89580e4aadc93ac92bb3e1b34e2c6094eba07a0&dn=The.Outpost.2020.1080p.WEBRip.AAC5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Irresistible (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:cc2e8d2e5d39b445336c4e823cf8643f2678e6a6&dn=Irresistible.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
