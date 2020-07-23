@@ -32,10 +32,38 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
+
+<dir>
+<name>[COLORlime][B]Star Wars (Digital Ennealogy + 3 Originals) (RD Only)[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/StarWars.xml</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLORlime][B]New Kids Movies (Free)[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewKidsMovies.xml</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
  
 <dir>
 <title>[COLORlime][B]Top 50 New Releases[/B][/COLOR]</title>
 <imdburl>http://www.imdb.com/search/title?title_type=feature</imdburl>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLORlime][B]Only The Classics (Real Debrid Only)[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/ClassicMovies.xml</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLORlime][B]Latest Cameras[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Cameras.xml</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
