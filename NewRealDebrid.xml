@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+ 
+<item>
+<title>[COLORblue][B]****Debrid Needed - All HD - Mostly 1080p****[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLORblue][B]All Direct Links - No Torrents[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLORblue][B]Sign Up For RD http://real-debrid.com/?id=2022612[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLORgold][B]****Latest Trailers From IMDB**** (DejaVU)[/B][/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://plugin.video.imdb.trailers/</jsonrpc>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<plugin>
+<name>[COLORlime][B]****Latest Trailers From IMDB**** (Maverick)[/B][/COLOR]</name>
+<link>plugin://plugin.video.imdb.trailers</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</plugin>
+
+<item>
+<title>Hippopotamus (2018)</title>
+<link>https://1fichier.com/?hii8swzn2ghozbdj1x2w</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEgiXXqYpiO11fpCh0Kn6vPkUgK.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Coma (2019)</title>
+<link>https://real-debrid.com/d/3ZE7J6IMJ5QQG</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/28y0JUa4b7OqcW5boIWY7TaDKVK.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blood Vessel (2019)</title>
+<link>https://1fichier.com/?gf3qzx526wrs1gl02iz2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMxsv1JD6wUSBIIFJV7MutnYF9d.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Killer Next Door (2020)</title>
+<link>https://1fichier.com/?b7vn3vabl5zbogr76ig6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcb9A9YwlDw59amw3R777asKQZI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Guest of Honour (2020)</title>
+<link>https://1fichier.com/?of324l7n8r6jmmaee2ss</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTe3GUHGWEGuaQb2gQvnaH4TSNe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Guest Artist (2019)</title>
+<link>https://1fichier.com/?x1d2gcaco8l2axznpclc</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sLTwTbVOIGcE05p5gL17uBWHMi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>White Lie (2019)</title>
+<link>https://1fichier.com/?8rijx9phv8w81z2xt7zu</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM2YnqgP0pp4g8K0BOiqpipqVHL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Very Excellent Mr. Dundee (2020)</title>
+<link>https://1fichier.com/?jp5lsgwvyiaudqcbackt</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DjNtM1S5YFAWghuMMKwwtXsbDW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kurier (2019)</title>
+<link>https://1fichier.com/?o0415sip5bx7y51bgd9j</link>
+<thumbnail>https://i.imgur.com/JoqfJ9X.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>American Fighter (2020)</title>
+<link>https://1fichier.com/?3w8wbsqfi8gj94tixbs4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOzb8mmpTILluq7Ef5SpnWo8mbH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Patsy & Loretta (2019)</title>
+<link>https://real-debrid.com/d/3XSTBBRQCZZAY</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oKY1GbaHp7RPxmwhbbLB5jREbs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Open 24 Hours (2018)</title>
+<link>https://1fichier.com/?jk9g08n1ll2opawf7m05</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKnSTA1hmxpmiBNSVUvKKntWhos.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Denmark (2019)</title>
+<link>https://real-debrid.com/d/XGIAUYBH452OY</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeaxgyhHs6OfXO9em7xa0RUAuGp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Debunkers, Inc. (2019)</title>
+<link>https://real-debrid.com/d/VOM5SRMX7WKP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eE5kEwL7LqIqIbtP7IHEu6gGjNJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Radio Silence (2019)</title>
+<link>https://1fichier.com/?76bx13hn8oa8c2v5t7jo</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wWj5J26fC44sACSterum5kwsCX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Silencing (2020)</title>
+<link>https://1fichier.com/?xgbo6g8slg2npxq36nqn</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/osoQHmiOMlk1v4sNyIMkO8RF4cJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SamSam (2020)</title>
+<link>https://1fichier.com/?296rodfimtilpfmkoljq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkKgPfaw5MGzY6KlLUkfnPbxoaw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Dirt Music (2020)</title>
+<link>https://1fichier.com/?87wpj5jyyig2tjnbms8w</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/10qkGLgCnEYfIzTHQMNAFSmGg27.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Sunlit Night (2020)</title>
+<link>https://real-debrid.com/d/WYFXORAX7CWTG</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/crMgeJWwAPhcE5kE8QLiVdhuyJe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>A Nice Girl Like You (2020)</title>
+<link>https://1fichier.com/?2bfql7a990krqpaksqlk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYzSgOos6Ni6YUWAuh6qC6BIlER.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Easy Does It (2020)</title>
+<link>https://1fichier.com/?fjgmye2grmpci46vdopy</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVuKIPl0CuDxwNz08uMVZp9GeiV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fatal Affair (2020)</title>
+<link>https://1fichier.com/?cl5l3vyawp76xkn3yjg9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Psych 2: Lassie Come Home (2020)</title>
+<link>https://1fichier.com/?o32s73oru4mgbyhm54nl</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LXQUhkzo27jKotK7poHkNaw59B.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ghosts of War (2020)</title>
+<link>https://1fichier.com/?duqmrblys87mia4vj1ce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG0Ni180gdqSTYd4Mmat5gR6ewQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Killer Raccoons 2: Dark Christmas in the Dark (2019)</title>
+<link>https://1fichier.com/?a6vppw06zprrjbxsxwux</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIyV3k13ABFvFao9L8vZlDwMH6S.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Rising Free (2019)</title>
+<link>https://1fichier.com/?2ynfewpnmimstuogzlpv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaXPbxDiuoseYrCOxXNzpSoA5nS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Alpha Code (2020)</title>
+<link>https://1fichier.com/?6awcrkp4lozoiz9zpjvn</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cE0Vsb4w5be5LMQe6JdC1LpRLr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Getting It (2020)</title>
+<link>https://1fichier.com/?mu34s7zfxhi0f1d8xf9c</link>
+<thumbnail>https://i.imgur.com/ct0OnCb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Clementine (2019)</title>
+<link>https://1fichier.com/?teiqiift2nwgisho02b8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcA4oFfMAk7plwFDogL0evll8L5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Suburban Wildlife (2019)</title>
+<link>https://real-debrid.com/d/2Z4SWVZEUF6IM</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VhPgZ7KhRFrWz70OQvyANAEBkn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Useless Humans (2020)</title>
+<link>https://1fichier.com/?b7ixvnc9x9cik2pqib29</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRIhl621qYeNpDftdiylKym7ysc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Coven (2020)</title>
+<link>https://1fichier.com/?vilwcfilmaukhqo6ebcf</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FSqRjFKnBMzaMu5B54AMKocQMZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Broken Poet (2020)</title>
+<link>https://1fichier.com/?8nm91vxb4illvgili6cl</link>
+<thumbnail>https://i.imgur.com/R3Th0yN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Arthur & Merlin: Knights of Camelot (2020)</title>
+<link>https://1fichier.com/?5qnsybkzop8fvczmw34j</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/chGTXsvn53XvEnvsJ9ZD9eiYKx9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Masters of Love (2019)</title>
+<link>https://1fichier.com/?aoxbmlcfs3y1w7i6megc</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/233aTXnXVfG2FFwukmXeDdIpDX4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Kat and the Band (2020)</title>
+<link>https://1fichier.com/?vggc5682aym5numwko1t</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR7uMfDu2pbB4TzZ1Nt1lUONrb9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Latte and the Magic Waterstone (2019)</title>
+<link>https://real-debrid.com/d/YAD27AQ3BOTL6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/saxPKOrN6rNScTicLpBDZw58Cw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Savage Creatures (2020)</title>
+<link>https://real-debrid.com/d/PZUWS3TKJWXM6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSYUGaOxfidNctDpep4HWNIoW6Z.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zoey (2020)</title>
+<link>https://real-debrid.com/d/QHDSYEINMNVNM</link>
+<thumbnail>https://i.imgur.com/xL2EI3X.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>One Last Prayer (2020)</title>
+<link>https://real-debrid.com/d/LFGYFZ5WRIQYM</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TgYlvbGMwmhuM8mXFxVd2NEl7p.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Marriage Story (2019)</title>
+<link>https://1fichier.com/?s9rtm08eg4sennx62jh6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZekG6xabTmZxjmYw10wN84Hp8d.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Greyhound 4K 5.1 DD+ (2020) [COLORred](RD Only)[/COLOR]</title>
+<link>https://real-debrid.com/d/YCHSFOX5PQLII</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Greyhound (2020)</title>
+<link>https://1fichier.com/?ijgl0jtepltsz7ilc2ju</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Old Guard (2020)</title>
+<link>https://1fichier.com/?717mgopp4bhikka4xn49</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>First Cow (2020)</title>
+<link>https://1fichier.com/?3jo1ym9w5xgaqyd1lhsw</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Archive (2020)</title>
+<link>https://1fichier.com/?1923aqihnrgbeomo0qva</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9t1AxbzyGQENDunK1GT8OS4aJl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Palm Springs (2020)</title>
+<link>https://1fichier.com/?sogejybrbs8lb99afop7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Journey to China: The Mystery of Iron Mask (2019) [COLORred](RD Only)[/COLOR]</title>
+<link>https://real-debrid.com/d/37FJGMUHTSB7S</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/GAeK18hkfR6rzlo1vITvQhoEiW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Runners (2020)</title>
+<link>https://1fichier.com/?2m36tp0g9c9277bx8ak7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yodATx9l84LSDTNqgAVRzh6zvpW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Relic (2020) [COLORred](RD Only)[/COLOR]</title>
+<link>https://real-debrid.com/d/GHZPW66FRWRYI</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4JLUythbN0M96KThzhybGNZAXj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Beach House (2020)</title>
+<link>https://1fichier.com/?vstre7olc7bg19on10at</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx4gpBKYle1OSScHb6BaeykrMHN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Invasion (2020) [COLORred](RD Only)[/COLOR]</title>
+<link>https://real-debrid.com/d/DUZSVAQYQQSOC</link>
+<thumbnail>https://i.imgur.com/UiaJGcQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blood Quantum (2019) [COLORred](RD Only)[/COLOR]</title>
+<link>https://real-debrid.com/d/UDHVCBTZCJIBM</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rSUEC2jUBbUFe5cvN8wbC1CSWB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Into The Void (2019) [COLORred](RD Only)[/COLOR]</title>
+<link>https://real-debrid.com/d/UOTJBFVKCAYR6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/irgJyd0uSs06zqzPEspWMpTYM8h.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Volition (2019)</title>
+<link>https://1fichier.com/?w43vzl0kovrvuyyswiqn</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cttGxFQt5nRROFZYC3nJbs3dPE1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Babysplitters (2019)</title>
+<link>https://1fichier.com/?rkf16f6rrpqjq7oaspt4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXWUh4cKBbLfokTaeIcBld8S829.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Commitments (1991)</title>
+<link>https://1fichier.com/?4mqt7seeqbj5wt45l6lu</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1voMaFayTb1KaIRKqEC8y5oaHFE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>24 Hour Party People (2002)</title>
+<link>https://1fichier.com/?5p4y4argj0cocqd1m3nf</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Battlefield 2025 (2020)</title>
+<link>https://1fichier.com/?dvtw77wplhx22n0yerxy</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb1j0DaMNEyWWDuCLB1ZctAmYjb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Above Suspicion (2019)</title>
+<link>https://1fichier.com/?o1kfzbjqmhdjejblc79c</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q2Bke9M0gUcoWaRTOtcKmHGQ59.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jim Jefferies: Intolerant (2020)</title>
+<link>https://1fichier.com/?eenk7q246vyoyh8jnzwp</link>
+<thumbnail>https://i.imgur.com/oDcD5oc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Between Shadow and Soul (2020)</title>
+<link>https://1fichier.com/?in2u36zd3clfbmf1emk2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYzn9e9MVz6u8jC2YscrzpzAVI9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Speak Your Mind (2019)</title>
+<link>https://1fichier.com/?qpqp8nn4hk20xno79j23</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/btRsrY0PUW1ApfRNnvsknTDSLQc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Browse (2020)</title>
+<link>https://1fichier.com/?sdn51t3xrlta30um8d1z</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6Eu9eyyol6tNjUOtFFNdmPBy3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mighty Oak (2020)</title>
+<link>https://1fichier.com/?6th1kkyk0az6gwg9zz6l</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPUnlOp92syBx1Hs1n2Yk6yohxV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Elvis from Outer Space (2020)</title>
+<link>https://1fichier.com/?rc1pkvkmjt12ixaju8ek</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ly6XMaCj3u6TSAJqptDVyjv515.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dead Voices (2020)</title>
+<link>https://1fichier.com/?8ap31l0c9mt7m8cgisk2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqPwUvYOnX4VJx77rLNYMT7q6NW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Where Sleeping Dogs Lie (2019)</title>
+<link>https://1fichier.com/?qzqwlvjrbdpjb9c7uxjv</link>
+<thumbnail>https://i.imgur.com/38VBcjF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Tommaso (2020)</title>
+<link>https://1fichier.com/?e037omrdfqalgg6y89nz</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/215gB2hfmSZFfdg9dIzIUD87QBg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Teen Musical (2020)</title>
+<link>https://1fichier.com/?omegxeu8xfm692dobm4w</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbO5KZ93o1va45Qc7IdTHmzMxSO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Death of a Vlogger (2019)</title>
+<link>https://1fichier.com/?hm320lbhz7aqzsnpa9ay</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2FBm30CDc8LgcUfN6yisgKP88m.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Amityville Island (2020)</title>
+<link>https://1fichier.com/?uihi8vhq5wkgufkp28b3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1b59rLYEw3WaBGrKBpxaHrEbhUq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Broil (2020)</title>
+<link>https://1fichier.com/?b7zdcaefwls8eejwtfv7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcNbQWAb9DVsL9U9dX4TYi3Ci9L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Termination (2019)</title>
+<link>https://1fichier.com/?28zj15xezud1127sp6kz</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBkEaMkgzVyDhEkuRXrmcucilmo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Desperados (2020)</title>
+<link>https://1fichier.com/?9pp7hq8d0dv0e1qk668f</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0aJ42yUp5pS4MdPKP69VRZ2Gkp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hamilton (2020)</title>
+<link>https://1fichier.com/?enhl3e6r4ijrotsle04l</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmxCLftLPw7NqjiA0Eu9c8ubP2v.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nowhere Alaska (2020)</title>
+<link>https://1fichier.com/?mgliqfngngu9f4ttjb3y</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YxwshS64OkBaA3b9s74xnF8RxP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Money Plane (2020)</title>
+<link>https://1fichier.com/?d6e93hp8hp3sqnr4p419</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v7ySZ4fLAKSS1lJZpH0EmAxrYB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Alone Wolf (2020)</title>
+<link>https://1fichier.com/?oembnd30w3k3r5ahyxil</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTa3CUW1eGmWv5xtxkMEBvbVDxV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Cut Off (2018)</title>
+<link>https://1fichier.com/?nkw85fvvkcseugs5277k</link>
+<thumbnail>https://i.imgur.com/UydKUGX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Outpost (2020)</title>
+<link>https://1fichier.com/?frflzgyxngh4sbvogy7h</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Invincible (2020)</title>
+<link>https://1fichier.com/?1fvwoz0stpy0z3q621dj</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4e6PvOtcEwNGjmpZqsYIj1GsoUO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shark School (2019)</title>
+<link>https://1fichier.com/?ilcvcspi9riat9yq239p</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2yPu4PbfGOfp5TiRO0EJ5heZkX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hope Gap (2019)</title>
+<link>https://1fichier.com/?73sxlqnxaviw4xdh9vsi</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKEweptGlfCqXeH66Q5l8o5or9b.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blood and Money (2020)</title>
+<link>https://1fichier.com/?p3alr3ors5bkb1gog7re</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/st4n0FALlo0twLkSqxAvU15SKvU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The F**k-It List (2020)</title>
+<link>https://1fichier.com/?wipc801fk8v57ym4xyza</link>
+<thumbnail>https://i.imgur.com/Ksbe4xh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>The Swing of Things (2020)</title>
+<link>https://1fichier.com/?vfmm89ixd71oykk0g8hz</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndd8yvaLk6xqmHtSpyTyhzDf1fw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Kingdom of Var (2019)</title>
+<link>https://1fichier.com/?ydgpaao2xixkesnzw727</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjY4MzAyNWEtNDFiNi00ZWU5LWIxNjctODFlYTU5ZTRjYTBjXkEyXkFqcGdeQXVyNjUzMjI0NjE@._V1_SY1000_CR0,0,721,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Aerialist (2020)</title>
+<link>https://1fichier.com/?8raygmfwszuwqphmkzb6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPT1sfhUeLTtMz5OMHxc2OBAKnp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Freshman Year (2019)</title>
+<link>https://1fichier.com/?94fza3mhn8dd36hkbb0a</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQTSIWnEpTbYBQsckRDMfqdCpps.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>American Woman (2019)</title>
+<link>https://1fichier.com/?514ysugk1k5bdrt1lnu2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfHzFvjjmbMQhqOpcs6gnG8Mbxx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Adu (2020)</title>
+<link>https://1fichier.com/?h72wfcwwukb3vtankwi4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFen11ZNKbvfhZo8WBKbC5te8Hi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Baby Frankenstein (2018)</title>
+<link>https://1fichier.com/?3nrsrc3p10oi5sqgde95</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/suUsjsbWKAOLGhBSJQxrkAYcH9O.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Disclosure (2020)</title>
+<link>https://1fichier.com/?80fehpofkx7vknd23drq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MB2FPNxdSlykbH7ghBltoBYnTH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Lection (2019)</title>
+<link>https://1fichier.com/?89xawf7mlumcoe2hoggt</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzJhNTMwMDQtMjk3YS00YmU4LWJkMDktM2JmZTllZTg5Y2EzXkEyXkFqcGdeQXVyODEyODMyNTU@._V1_SY1000_CR0,0,646,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dragon Soldiers (2020)</title>
+<link>https://1fichier.com/?ag7e2nayf6oz4zykkphm</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNCPqxqBZ74NpQfxpBBaD8o6eTg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>No Turning Back (2019)</title>
+<link>https://1fichier.com/?yk833w3j8gqphmvo16qg</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/clJmm36cEhIkP5PRTQ36E1GvEy8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Towering Inferno (1974)</title>
+<link>https://1fichier.com/?f2t5f0z0m2nnr1g6dlvu</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Viena and the Fantomes (2020)</title>
+<link>https://1fichier.com/?ug90bel4x37eou0edeln</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c4GhelRi8VF6M51CIgkMPKH90O.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Unsubscribe (2020)</title>
+<link>https://1fichier.com/?bo3m97cg62dxmn1gsqhd</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk6GxTJ2z17Vx1rMEcnvPHAwLEs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Alive (2019)</title>
+<link>https://1fichier.com/?2mhn41x5e1me3sv8z18u</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM4NDUyNmItNmMyMy00ZjVhLWI3N2UtZDk1N2YzNzA2NmJlXkEyXkFqcGdeQXVyMTk4MjcxNTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Shepherd: The Hero Dog (2019)</title>
+<link>https://1fichier.com/?n9kerstuixtxp0zeu2ek</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTMyYTk4MjItNTgzZi00NmExLTlkMDQtNjQ0OWVmMjQzNDhjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Repeat Attenders (2020)</title>
+<link>https://1fichier.com/?781rjhdb3aps5hogein4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjVuiZMfqp6uslcy3q9jZK7StYA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Disruption (2019)</title>
+<link>https://1fichier.com/?4hdduxlp5hfzu98vo3zx</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qslbTmflru2DuScNQy4m9tPmVE0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Homeless Ashes (2020)</title>
+<link>https://1fichier.com/?h1qy5owzo2ngbkqqhlx6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEVT6AXUDyLBcC6UA0W63VzGA2l.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Trolls World Tour (2020)</title>
+<link>https://1fichier.com/?ch1dpnrbue169yw1o3e4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Anna 2 (2019)</title>
+<link>https://1fichier.com/?5cg74lm6kx32pw8x6s4r</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5H8thBpBEhNfDac1MxyMqnsQjvb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Proximity (2020)</title>
+<link>https://1fichier.com/?puz2rhihebwnvyhlecps</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYio7FY9fDsH2DF9utAbK0J94Lc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Verotika (2019)</title>
+<link>https://1fichier.com/?e28ubvxobo4cvivk2dk0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/prPNXINKe53gzyhAGo5BSDqtGgm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Street Survivors: The True Story of the Lynyrd Skynyrd Plane Crash (2020)</title>
+<link>https://1fichier.com/?y7h7s459grf89fvmsrxt</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddSpb7Ft5Fx6OgwkCO2zzYZ3vQL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eurovision Song Contest: The Story of Fire Saga (2020)</title>
+<link>https://1fichier.com/?vj8htp5hgxuh89p12mr9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Allan The Dog (2020)</title>
+<link>https://1fichier.com/?ujajftrfxtjnoh8h6dll</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCUSXJUmDRMDINwPGZM064lmV1S.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test</title>
+<link>https://real-debrid.com/d/FMK5B3HGWQMLQ</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<dir>
+<title>[COLOR lime]>>> New Releases Next Page If You're Using Maverick / Mercury>>>[/COLOR]</title>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/recentreleases.txt</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</dir>
+ 
+<item>
+<title>[COLOR gold]>>> New Releases Next Page If You're Using DejaVu >>>[/COLOR]</title>
+<link>https://pastebin.com/raw/93wtJeTX</link>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/recentreleases.txt</externallink>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
