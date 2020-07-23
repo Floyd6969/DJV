@@ -47,9 +47,41 @@
 </item>
 
 <item>
+<title>[COLORgold][B]TV Tap Live TV[/B][/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://script.module.tt</jsonrpc>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]TV Tap Sports[/B][/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://script.module.tt/list_channels/5</jsonrpc>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]TV Tap Movies[/B][/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://script.module.tt/list_channels/2</jsonrpc>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORgold][B]Daily Motion Channels[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://plugin.video.dailymotion_com/</jsonrpc>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+item>
+<title>[COLORgold][B]Test[/B][/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://script.module.TvTap/</jsonrpc>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
