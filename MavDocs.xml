@@ -1,0 +1,27 @@
+<plugin>
+<name>[COLORlime][B]Maverick Documentaries[/B][/COLOR]</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fchannelhub%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLORlime][B]Red Bull Extreme Sports And Gaming[/B][/COLOR]</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fRedBull%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLORlime][B]Catch Up On The Latest TV[/B][/COLOR]</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=listVideos&amp;url=https%3a%2f%2fapi.dailymotion.com%2fvideos%3ffields%3ddescription%2cduration%2cid%2cowner.username%2ctaken_time%2cthumbnail_large_url%2ctitle%2cviews_total%26channel%3dtv%26sort%3dtrending%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<dir>
+<name>[COLORlime][B]iPlayer/ITV Player And Catchup[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/catchup.txt</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
