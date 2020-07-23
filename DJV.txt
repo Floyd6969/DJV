@@ -1,39 +1,25 @@
 <layouttype>thumbnail</layouttype>
  
 <channels>
- 
+
 <channel>
-<name>[COLOR gold][B]4K UHD Movies[/B][/COLOR]</name>
+<name>[COLOR gold][B]Debrid 4K UHD Movies[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DJV4K.txt</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLOR gold][B]Debrid Latest Movies FHD + 4K[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DJVT-Newreleases.txt</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLOR gold][B]Latest Movies One Click Top 100[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Dgy5uHby</externallink>
+<externallink>https://pastebin.com/raw/eGkQZpzR</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
 <channel>
-<name>[COLOR gold][B]Latest Movies Multi Link[/B][/COLOR]</name>
+<name>[COLOR gold][B]Latest Movies One Click[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/XtrquvMg</externallink>
+<externallink>https://pastebin.com/raw/20YbyXfG</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
 channel>
-<name>[COLOR gold][B]Classic Cinema One Click HD[/B][/COLOR]</name>
+<name>[COLOR gold][B]One Click TV Shows[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/N6rBEJAG</externallink>
+<externallink>https://pastebin.com/raw/R5e5qqCd</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
@@ -43,39 +29,46 @@ channel>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TClassics.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
- 
+
 <channel>
-<name>[COLOR gold][B]24/7 Continuous Play Movies[/B][/COLOR]</name>
+<name>[COLOR gold][B]New TV Shows (Debrid)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7%20Movies.txt</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLOR gold][B]24/7 Continuous Play TV Shows[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7%20Shows.txt</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLOR gold][B]24/7 Continuous Play US Cable[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7%20Cable.txt</externallink>
+<externallink>https://pastebin.com/raw/GUWM6Rii</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
 <channel>
-<name>[COLOR gold][B]Latest TV Shows Debrid Required[/B][/COLOR]</name>
+<name>[COLOR gold][B]Classic TV Shows (Debrid)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/randomshows.txt</externallink>
+<externallink>https://pastebin.com/raw/NAZTmV7a</externallink>
+<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+</channel>
+ 
+channel>
+<name>[COLOR gold][B]24/7 Continuous Play[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/PE8ZxyM8</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
 <channel>
-<name>[COLOR gold][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
+<name>[COLOR gold][B]Daily Motion / TV Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/SyfnJfJb</externallink>
+<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLOR gold][B]WWE/AEW/UFC/Boxing/Footy[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/ymNGr2qW</externallink>
+<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR gold][B]HD Sports Replays (RD Only)[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Sports.xml</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
  
@@ -92,7 +85,7 @@ channel>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewKidsTV.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
- 
+
 <channel>
 <name>[COLOR gold][B]You Tube Documentaries[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
@@ -134,11 +127,25 @@ channel>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Footyclubs-HGQRdauQ.txt</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
+
+<channel>
+<name>[COLOR gold][B]Random TV Stuff[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/A6VaAC9e</externallink>
+<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+</channel>
  
 <channel>
 <name>[COLOR gold][B]DejaVU Toolbox[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/GenTools-gYZ3m3Wp.txt</externallink>
+<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+</channel>
+
+channel>
+<name>[COLOR gold][B]Test Area[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Sports.xml</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
