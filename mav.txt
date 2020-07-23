@@ -1,160 +1,153 @@
 <dir>
 <title>[COLORlime][B]Search Movies And TV Shows[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <tmdb>search</tmdb>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Debrid Movies 4K UHD[/B][/COLOR]</name>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Mav%204K.txt</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>https://pastebin.com/raw/Vv23w18G</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
-<name>[COLORlime][B]Debrid New Releases FHD + 4K[/B][/COLOR]</name>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/MavT%20New%20Releases.txt</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLORlime][B]New Movie Releases Multi Link[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<tmdb>movies/now_playing</tmdb>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
- 
-<dir>
-<name>[COLORlime][B]New Releases One Click Top 100[/B][/COLOR]</name>
-<link>https://pastebin.com/raw/Dgy5uHby</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
-
-dir>
-<name>[COLORlime][B]Classic Cinema One Click HD[/B][/COLOR]</name>
-<link>https://pastebin.com/raw/N6rBEJAG</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLORlime][B]Top 50 New Releases[/B][/COLOR]</title>
-<imdburl>http://www.imdb.com/search/title?title_type=feature</imdburl>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<name>[COLORlime][B]New Movie Releases[/B][/COLOR]</name>
+<link>https://pastebin.com/raw/AXP5Sj66</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Debrid Classic Movies FHD[/B][/COLOR]</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TClassics.txt</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Top 250 Movies Of All Time[/B][/COLOR]</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Reddit%20Top%20250-VVxjRd0E.txt</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <title>[COLORlime][B]Latest TV Shows[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/latest%20tv%20shows.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
-
+ 
+plugin>
+<name>[COLORlime][B]24/7 Movies And Shows[/B][/COLOR]</name>
+<link>plugin://plugin.video.arconaitv/</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+ 
 <dir>
-<title>[COLORlime][B]Latest TV Shows Debrid Required[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/randomtvmav</link>
+<name>[COLORlime][B]New TV Shows (Debrid)[/B][/COLOR]</name>
+<link>https://pastebin.com/raw/GUWM6Rii</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
-<name>[COLORlime][B]24/7 Movies And Shows[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/new247.txt</link>
+<name>[COLORlime][B]Classic TV Shows (Debrid)[/B][/COLOR]</name>
+<link>https://pastebin.com/raw/NAZTmV7a</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+ 
+<dir>
+<name>[COLORlime][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
+<link>https://pastebin.com/raw/ymNGr2qW</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
 <dir>
-<name>[COLORlime][B]WWE/AEW/UFC/Boxing[/B][/COLOR]</name>
-<link>https://pastebin.com/raw/ymNGr2qW</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<name>[COLORlime][B]HD Sports Replays (RD Only)[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Sports.xml</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]The Comedians (18+)[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newcomedy.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <plugin>
-<name>[COLORlime][B]Maverick Documentaries[/B][/COLOR]</name>
-<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fchannelhub%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<name>[COLORlime][B]Daily Motion TV[/B][/COLOR]</name>
+<link>plugin://plugin.video.dailymotion_com/</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
  
 <dir>
-<name>[COLOR lime][B]Fluxus Playlists[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<name>[COLOR lime][B]Documentaries And Catchup TV[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<link>https://pastebin.com/raw/q26xH56w</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+ 
+<dir>
+<name>[COLOR lime][B]Fluxus Playlists / TV Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Fluxus%20Playlists-uK8W4hyJ.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
+<name>[COLOR lime][B]Your Trakt Lists[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/trakt.txt</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+ 
+<dir>
 <name>[COLOR lime][B]Maverick World CCTV[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/mavwebcams.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
-<plugin>
-<name>[COLORlime][B]Red Bull Extreme Sports And Gaming[/B][/COLOR]</name>
-<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fRedBull%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
- 
 <dir>
 <name>[COLOR lime][B]Mavericks Movie Lists[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TVDB%20lists-ztKfTHES.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Classic British Cinema[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/British-pHRdaUab.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Bond, James Bond[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Bond-JcgSVGTf.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Klassic Kids TV[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newmavkidstv.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Kids Movie Boxsets[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Kids%20Boxsets-fmUTKku0.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
@@ -162,20 +155,13 @@ dir>
 <dir>
 <title>[COLORlime][B]Movie Genres[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Movie%20Genres-HXG5df2D.txt</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
- 
-<dir>
-<name>[COLORlime][B]Trakt Lists[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/trakt.txt</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Live In Concert[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Concerts%20ATF-21eG2x0k.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 <info>Maverick TV</info>
@@ -184,41 +170,27 @@ dir>
 <dir>
 <title>[COLORlime][B]The Jukebox[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/New%20Mav%20Jukebox-k5aKZH5L.txt</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <title>[COLORlime][B]Online Radio[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RadioStations-6emgxmiv.txt</link>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
- 
-<dir>
-<name>[COLORlime][B]Catch Up TV[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/catchup.txt</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]Maverick Tool Box[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newmavtools.txt</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
- 
-<dir>
-<name>[COLORlime][B]Test Area. Enter At Your Own Risk[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/HPmc4xT7&mode=1</link>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
 
-<dir>
-<name>[COLORlime][B]Maverick Version 1.0.0.1[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>ignorme</link>
+plugin>
+<name>[COLORlime][B]Daily Motion TV[/B][/COLOR]</name>
+<link>plugin://script.module.swiftstreamz1/</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
+</plugin>
