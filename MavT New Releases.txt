@@ -13,6 +13,69 @@
 </item>
 
 <item>
+<title>The Kissing Booth 2 (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:2db7284e13eb274beebda6dc73d79828c04f84c0&dn=The.Kissing.Booth.2.2020.1080p.WEB.H264-SECRECY</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwmtGo0mTjTqWZwk3k3VSWtygxj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Rental (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:fe39f3443f59911b0363907f94b759959d839997&dn=The.Rental.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgRTJ8d5MlwSwSsv4WwPTh4Atan.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Big Ugly (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:7c44566c40d9141bba6de2415e9076fdca57e96d&dn=The.Big.Ugly.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink> 
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/34TU17zW5ggpYxk20drTN6srmqy.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Target Number One (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:d8dc21d87d91ef0c080d2823d7318506e44f5b4f&dn=Target.Number.One.2020.1080p.WEBRip.DDP5.1.x264-CM</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/npOZUVjSUJbL3WkL9jZBZ6gwURk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Amulet (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:fc599a48583b98348b567cb6001d961ac890eab9&dn=Amulet.2020.1080p.WEB-DL.DD5.1.H264-FGT</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/af8CM0ETQOZcGqXOhx4Dpq1UOA8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Old Guard 4K (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:481d22dc80df1f8f43a0cc0d06c0b82d1970da82&dn=The.Old.Guard.2020.2160p.NF.WEBRip.x265.10bit.SDR.DDP5.1.Atmos-NTb</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Greyhound 4K (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:9b132232a7c24ea195e44315a485814b31296bc2&dn=Greyhound.2020.2160p.ATVP.WEB-DL.x265.10bit.SDR.DDP5.1.Atmos-NiXON</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Hamilton 4K (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:a6fbe780dfe113112e92a45a319a5d940a1efeac&dn=Hamilton.2020.PROPER.HDR.2160p.WEB.H265-PETRiFiED</sublink>
@@ -48,13 +111,21 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>Irresistible (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:cc2e8d2e5d39b445336c4e823cf8643f2678e6a6&dn=Irresistible.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPx3juctkdZvgrJ4DO35dUnVsyF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eurovision Song Contest: The Story of Fire Saga 4K (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:66f35cd3ba8435006673245a111325ac9ad8eef5&dn=Eurovision.Song.Contest.The.Story.of.Fire.Saga.2020.2160p.NF.WEBRip.x265.10bit.SDR.DDP5.1.x265-AJP69</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -85,11 +156,10 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>You Should Have Left (2020)</title>
 <link>
-<sublink>magnet:?xt=urn:btih:0abf1d133ff5419e1f05def16f710f131f807003&dn=You.Should.Have.Left.2020.1080p.WEB-DL.AAC5.1.H.264-CMRG[TGx]</sublink>
+<sublink>magnet:?xt=urn:btih:0abf1d133ff5419e1f05def16f710f131f807003&dn=You.Should.Have.Left.2020.1080p.WEB-DL.AAC5.1.H.264-CMRG[TGx]#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUYPIRhRpUyftOytmfJrm94rCAh.jpg</thumbnail>
 <fanart></fanart>
@@ -1187,7 +1257,6 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZHnblqmTBUBgzYBIxWIz9txsEi.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
 <dir>
 <title>[COLOR lime]>>> Debrid New Releases Next Page >>>[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Torrents%20Mav.txt</link>
