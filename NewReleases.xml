@@ -6,13 +6,6 @@
 </item>
 
 <item>
-<title>[COLORred][B]*****New List Please Re-Link Your Shortcuts*****[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLORgold][B]****Latest Trailers From IMDB**** (DejaVU)[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://plugin.video.imdb.trailers/</jsonrpc>
