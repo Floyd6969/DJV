@@ -6,21 +6,6 @@
 </item>
 
 <item>
-<title>[COLORgold][B]****Latest Trailers From IMDB**** (DejaVU)[/B][/COLOR]</title>
-<link>IGNOREME</link>
-<jsonrpc>plugin://plugin.video.imdb.trailers/</jsonrpc>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<plugin>
-<name>[COLORlime][B]****Latest Trailers From IMDB**** (Maverick)[/B][/COLOR]</name>
-<link>plugin://plugin.video.imdb.trailers</link>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart></fanart>
-</plugin>
-
-<item>
 <title>A Murder to Remember (2020)</title>
 <link>https://clicknupload.co/foovvvbg3ev8</link>
 <thumbnail>https://i.imgur.com/onFiKou.jpg</thumbnail>
