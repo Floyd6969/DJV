@@ -1,8 +1,15 @@
 <item>
+<title>[COLORblue]Some Of The Live Channels May Not Work But The Rest Does[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORred]BBC IPlayer WWW[/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://plugin.video.iplayerwww/</jsonrpc>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -10,6 +17,6 @@
 <title>[COLORred]ITV Player[/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://plugin.video.itv/</jsonrpc>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
 <fanart></fanart>
 </item>
