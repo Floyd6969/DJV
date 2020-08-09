@@ -52,3 +52,11 @@
 <thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORred]The New Yankee Workshop[/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://plugin.video.newyankeeworkshop/</jsonrpc>
+<thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
+<fanart></fanart>
+</item>
