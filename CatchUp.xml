@@ -1,0 +1,15 @@
+<item>
+<title>[COLORred]BBC IPlayer WWW[/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://plugin.video.iplayerwww/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]ITV Player[/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://plugin.video.itv/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
