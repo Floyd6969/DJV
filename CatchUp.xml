@@ -20,3 +20,11 @@
 <thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORred]NASA TV Live[/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://plugin.video.nasa/</jsonrpc>
+<thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
+<fanart></fanart>
+</item>
