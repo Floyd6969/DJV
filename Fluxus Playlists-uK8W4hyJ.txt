@@ -96,3 +96,7 @@
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
+<dir>
+    <title>Test</title>
+    <trekkie>all</trekkie>
+</dir>
