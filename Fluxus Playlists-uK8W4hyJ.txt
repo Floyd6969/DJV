@@ -97,6 +97,6 @@
 </dir>
 
 <dir>
-    <title>Test</title>
-    <trekkie>all</trekkie>
+    <title>DC Comics Test</title>
+    <dccomics>all</dccomics>
 </dir>
