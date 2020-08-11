@@ -97,7 +97,7 @@
 </dir>
 
 <dir>
-<title>Test 1</title>
-<hesgoal>games</hesgoal>
-</dir>
+<title>Test 3</title>
+<topdocs>tdcategory/911</topdocs>
+ </dir>
 
