@@ -96,7 +96,3 @@
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
-<dir>
-    <title>DC Comics Test</title>
-    <dccomics>all</dccomics>
-</dir>
