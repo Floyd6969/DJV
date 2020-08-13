@@ -68,3 +68,19 @@
 <thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORred]GQ Magazine[/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://plugin.video.gq/</jsonrpc>
+<thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]HGTV[/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://plugin.video.hgtv/</jsonrpc>
+<thumbnail>https://i.imgur.com/iHZ9TU9.jpg</thumbnail>
+<fanart></fanart>
+</item>
