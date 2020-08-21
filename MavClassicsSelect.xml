@@ -1,0 +1,13 @@
+<dir>
+<title>[COLORlime][B]New Movie Releases Multi Link[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<tmdb>movies/now_playing</tmdb>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+ 
+<dir>
+<name>[COLORlime][B]New Releases One Click Top 100[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewReleases.xml</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
