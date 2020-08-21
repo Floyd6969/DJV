@@ -1,7 +1,7 @@
 <channel>
 <name>[COLOR gold][B]Debrid Classic Movies (Torrents)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewReleases.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TorrentClassics.xml</externallink>
 <fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
 </channel>
 
