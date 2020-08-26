@@ -26,9 +26,4 @@
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
-<dir>
-<title>[COLORlime][B]New TV Show Trailers[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<metacritic>tvshow/0</metacritic>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
+
