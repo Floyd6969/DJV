@@ -23,19 +23,11 @@
 </item>
  
 <item>
-<title>[COLORgold][B]****Latest Trailers From IMDB**** (DejaVU)[/B][/COLOR]</title>
-<link>IGNOREME</link>
-<jsonrpc>plugin://plugin.video.imdb.trailers/</jsonrpc>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<title>Hold Fast, Good Luck (2020)</title>
+<link>https://1fichier.com/?3amuwgjl3e8kpeqsrs2w</link>
+<thumbnail>https://i.imgur.com/SRm9Wtx.jpg</thumbnail>
 <fanart></fanart>
 </item>
- 
-<plugin>
-<name>[COLORlime][B]****Latest Trailers From IMDB**** (Maverick)[/B][/COLOR]</name>
-<link>plugin://plugin.video.imdb.trailers</link>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart></fanart>
-</plugin>
 
 <item>
 <title>Lost Bayou (2019)</title>
