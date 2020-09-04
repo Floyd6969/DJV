@@ -13,6 +13,33 @@
 </item>
 
 <item>
+<title>Mulan (2020) 1080p (Updated Link)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:689087bcbdad814e378988384f9a7f7c69710b79&dn=Mulan.2020.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-PHOENiX</sublink>
+</link>
+<thumbnail>https://i.imgur.com/AO0A3mL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Owners (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:49d71437d3e6e26d62b66f66494f4db38c39337b&dn=The.Owners.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
+</link>
+<thumbnail>https://i.imgur.com/TVp2MrZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>I'm Thinking of Ending Things (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:0cd716faa3d026e6be31c6a5e8baa4dc61d022a5&dn=Im.Thinking.of.Ending.Things.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM</sublink> 
+</link>
+<thumbnail>https://i.imgur.com/z4qwY7T.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bill & Ted Face the Music (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:009773c74964c64d96802ea8b0cd0d3e8f6082be&dn=Bill.and.Ted.Face.the.Music.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
