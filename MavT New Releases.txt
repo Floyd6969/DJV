@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>[COLORblue][B]These Will Be The Highest Quality Links Available[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORblue][B]Sign Up For RD http://real-debrid.com/?id=2022612[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
