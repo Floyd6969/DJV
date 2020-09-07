@@ -40,14 +40,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:49d71437d3e6e26d62b66f66494f4db38c39337b&
 <fanart></fanart>
 </item>
 
-<item>
-<title>The Owners (2020)</title>
-<link>
-sublink:magnet:?xt=urn:btih:49d71437d3e6e26d62b66f66494f4db38c39337b&dn=The.Owners.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG#
-</link>
-<thumbnail>https://i.imgur.com/TVp2MrZ.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>I'm Thinking of Ending Things (2020)</title>
@@ -61,7 +53,8 @@ sublink:magnet:?xt=urn:btih:0cd716faa3d026e6be31c6a5e8baa4dc61d022a5&dn=Im.Think
 <item>
 <title>Bill & Ted Face the Music (2020)</title>
 <link>
-sublink:magnet:?xt=urn:btih:009773c74964c64d96802ea8b0cd0d3e8f6082be&dn=Bill.and.Ted.Face.the.Music.2020.1080p.WEBRip.DD5.1.x264-CM#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:cecaf2b7651b425bbc614291aea88736c8b470f3&dn=Bill.and.Ted.Face.the.Music.2020.720p.AMZN.WEBRip.DDP5.1.x264-NTG ::LISTNAME:[COLOR blue]720p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:009773c74964c64d96802ea8b0cd0d3e8f6082be&dn=Bill.and.Ted.Face.the.Music.2020.1080p.WEBRip.DD5.1.x264-CM ::LISTNAME:[COLOR lime]1080p[/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/KgtyFpO.jpg</thumbnail>
 <fanart></fanart>
