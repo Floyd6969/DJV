@@ -63,7 +63,8 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:009773c74964c64d96802ea8b0cd0d3e8f6082be&
 <item>
 <title>The Binge (2020)</title>
 <link>
-sublink:magnet:?xt=urn:btih:8e965daf5cf97c0c8f56ccacdf7ef0029180eda4&dn=The.Binge.2020.1080p.HULU.WEBRip.DDP5.1.x264-NTG#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f305a142366a1d28abd93445459cb9d572475b78&dn=The.Binge.2020.720p.HULU.WEBRip.DDP5.1.x264-NTG ::LISTNAME:[COLOR blue]720p[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:8e965daf5cf97c0c8f56ccacdf7ef0029180eda4&dn=The.Binge.2020.1080p.HULU.WEBRip.DDP5.1.x264-NTG ::LISTNAME:[COLOR lime]1080p[/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/0VNF4wQ.jpg</thumbnail>
 <fanart></fanart>
