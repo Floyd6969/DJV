@@ -40,7 +40,7 @@ sublink:LISTSOURCE:https://dood.to/d/4sz0vxmrwvkv ::LISTNAME:[COLOR lime]Episode
 <item>
 <title>The Boys - Season 02</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/5v3dzaqzxz4z.html ::LISTNAME:[COLOR lime]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://dood.to/d/86ox56aj7r60 ::LISTNAME:[COLOR lime]Episode 01[/COLOR]::#
 sublink:LISTSOURCE:https://dood.to/d/c9g50otkfxau ::LISTNAME:[COLOR lime]Episode 02[/COLOR]::#
 sublink:LISTSOURCE:https://dood.to/d/msso22d5seb7 ::LISTNAME:[COLOR lime]Episode 03[/COLOR]::#
 </link>
@@ -73,6 +73,13 @@ sublink:LISTSOURCE:https://dood.to/d/6c94cfnktlee ::LISTNAME:[COLOR lime]Episode
 sublink:LISTSOURCE:https://dood.to/d/zncbexjvdw2s ::LISTNAME:[COLOR lime]Episode 06[/COLOR]::#  
 </link>
 <thumbnail>https://i.imgur.com/rXUAOhm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test Link</title>
+<link>https://dood.to/d/86ox56aj7r60</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
