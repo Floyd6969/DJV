@@ -85,3 +85,11 @@ item>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold][B]Test[/B][/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>plugin://script.module.swiftstreamzmav/</jsonrpc>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
