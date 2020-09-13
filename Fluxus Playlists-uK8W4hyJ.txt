@@ -1,39 +1,39 @@
-<plugin>
+plugin>
 <name>[COLORlime][B]UK TV[/B][/COLOR]</name>
 <link>plugin://script.module.swiftstreamz/list_channels/4</link>
 <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
 
-<plugin>
+plugin>
 <name>[COLORlime][B]US TV[/B][/COLOR]</name>
 <link>plugin://script.module.swiftstreamz/list_channels/5</link>
 <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
 
-<plugin>
+plugin>
 <name>[COLORlime][B]Sports TV[/B][/COLOR]</name>
 <link>plugin://script.module.swiftstreamz/list_channels/8</link>
 <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
 
-<plugin>
+plugin>
 <name>[COLORlime][B]Kids TV[/B][/COLOR]</name>
 <link>plugin://script.module.swiftstreamz/list_channels/15</link>
 <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
 
-<plugin>
+plugin>
 <name>[COLORlime][B]24/7 Movies[/B][/COLOR]</name>
 <link>plugin://script.module.swiftstreamz/list_channels/7</link>
 <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
 
-<plugin>
+plugin>
 <name>[COLORlime][B]Full Channel List[/B][/COLOR]</name>
 <link>plugin://script.module.swiftstreamz/</link>
 <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
