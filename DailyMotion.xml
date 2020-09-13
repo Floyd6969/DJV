@@ -1,47 +1,47 @@
-item>
+<item>
 <title>[COLORgold][B]UK TV[/B][/COLOR]</title>
 <link>IGNOREME</link>
-<jsonrpc>plugin://script.module.swiftstreamz1/list_channels/4</jsonrpc>
+<jsonrpc>plugin://script.module.swiftstreamz/list_channels/4</jsonrpc>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORgold][B]US TV[/B][/COLOR]</title>
 <link>IGNOREME</link>
-<jsonrpc>plugin://script.module.swiftstreamz1/list_channels/5</jsonrpc>
+<jsonrpc>plugin://script.module.swiftstreamz/list_channels/5</jsonrpc>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORgold][B]Sports TV[/B][/COLOR]</title>
 <link>IGNOREME</link>
-<jsonrpc>plugin://script.module.swiftstreamz1/list_channels/8</jsonrpc>
+<jsonrpc>plugin://script.module.swiftstreamz/list_channels/8</jsonrpc>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORgold][B]Kids TV[/B][/COLOR]</title>
 <link>IGNOREME</link>
-<jsonrpc>plugin://script.module.swiftstreamz1/list_channels/15</jsonrpc>
+<jsonrpc>plugin://script.module.swiftstreamz/list_channels/15</jsonrpc>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORgold][B]24/7 Movies[/B][/COLOR]</title>
 <link>IGNOREME</link>
-<jsonrpc>plugin://script.module.swiftstreamz1/list_channels/7</jsonrpc>
+<jsonrpc>plugin://script.module.swiftstreamz/list_channels/7</jsonrpc>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[COLORgold][B]Full Channel List[/B][/COLOR]</title>
 <link>IGNOREME</link>
-<jsonrpc>plugin://script.module.swiftstreamz1/</jsonrpc>
+<jsonrpc>plugin://script.module.swiftstreamz/</jsonrpc>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
