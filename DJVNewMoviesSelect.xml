@@ -4,70 +4,70 @@
 <name>[COLOR gold][B]Latest Movies One Click Top 100 (Free)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewReleases.xml</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
 
 <channel>
 <name>[COLOR gold][B]Latest Movies One Click - Page 2 (Free)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/RecentRelsFree</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
  
 <channel>
 <name>[COLOR gold][B]Latest Movies One Click Top 100 (Debrid Direct Links)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewRealDebrid.xml</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
 
 <channel>
 <name>[COLOR gold][B]Latest Movies One Click - Big List (Debrid Direct Links)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/recentreleases.txt</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
 
 <channel>
 <name>[COLOR gold][B]Star Wars Movies 1080p And 4K (RD Only)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/StarWars.xml</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
  
 <channel>
 <name>[COLOR gold][B]The Mandalorian Movies (2019) 4K UHD 10bit HDR (RD Only)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TheMandalorian.xml</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
 
 <channel>
 <name>[COLOR gold][B]New Kids Movies (Free)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewKidsMovies.xml</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
 
 <channel>
 <name>[COLOR gold][B]Only The Classics (Real Debrid Only)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ClassicMovies.xml</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
 
 channel>
 <name>[COLOR gold][B]Test Links[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Multilink.xml</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
  
 <channel>
 <name>[COLOR gold][B]Really, Really Old Movies[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/OldMovies.xml</externallink>
-<fanart>https://i.imgur.com/RwKNcIb.jpg</fanart>
+<fanart></fanart>
 </channel>
 
 </channels>
