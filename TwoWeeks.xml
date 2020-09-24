@@ -1,4 +1,11 @@
 <channels>
+ 
+<channel>
+<name>Agents of Chaos S01</name>
+<thumbnail>https://i.imgur.com/XbvnXqi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Chaos.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Away S01</name>
