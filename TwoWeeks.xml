@@ -160,6 +160,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Us.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Utopia S01</name>
+<thumbnail>https://i.imgur.com/SkaqzAH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/UtopiaTV.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Wentworth S08</name>
