@@ -272,8 +272,15 @@
 </item>
 
 <item>
-<title>[COLOR lime]Stream 10[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html</link>
+<title>[COLOR lime]Test[/COLOR]</title>
+<link>http://6stream.xyz/video/kansas-city-chiefs-vs-baltimore-ravens/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Test1[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://6stream.xyz/video/kansas-city-chiefs-vs-baltimore-ravens/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
