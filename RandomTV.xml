@@ -271,18 +271,4 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR lime]Test 3[/COLOR]</title>
-<link>IGNOREME</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26urlhttp://6stream.xyz/video/russian-grand-prix/</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>[COLORgold][B]Test 4[/B][/COLOR]</title>
-<link>IGNOREME</link>
-<jsonrpc>plugin://plugin.video.live.streamspro/?url=http://6stream.xyz/video/russian-grand-prix/</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
