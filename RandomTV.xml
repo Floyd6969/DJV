@@ -280,6 +280,15 @@
 
 <item>
 <title>[COLOR lime]Test 2[/COLOR]</title>
+<link>
+sublink:http://6stream.xyz/video/russian-grand-prix#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Test 3[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://6stream.xyz/video/russian-grand-prix/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
