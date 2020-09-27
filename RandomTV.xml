@@ -272,15 +272,15 @@
 </item>
 
 <item>
-<title>[COLOR lime]Test[/COLOR]</title>
-<link>http://6stream.xyz/video/kansas-city-chiefs-vs-baltimore-ravens/</link>
+<title>[COLOR lime]Test 1[/COLOR]</title>
+<link>http://6stream.xyz/video/russian-grand-prix/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]Test1[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://6stream.xyz/video/kansas-city-chiefs-vs-baltimore-ravens/</link>
+<title>[COLOR lime]Test 2[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://6stream.xyz/video/russian-grand-prix/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
