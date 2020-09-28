@@ -62,6 +62,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/FamilyGuyTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Fargo S04</name>
+<thumbnail>https://i.imgur.com/ckEhCGu.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/FargoTV.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Gangs of London S01</name>
