@@ -55,6 +55,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DesTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Family Guy S19</name>
+<thumbnail>https://i.imgur.com/JMw1TCI.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/FamilyGuyTV.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Gangs of London S01</name>
@@ -137,6 +144,13 @@
 <name>The Comey Rule S01</name>
 <thumbnail>https://i.imgur.com/THS3ayr.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ComeyRuleTV.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
+<name>The Simpsons S32</name>
+<thumbnail>https://i.imgur.com/NqvKlxv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/SimpsonsTV.xml</externallink>
 <fanart></fanart>
 </channel>
 
