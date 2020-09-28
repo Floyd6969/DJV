@@ -55,6 +55,13 @@
 </dir>
 
 <dir>
+<name>Family Guy S19</name>
+<thumbnail>https://i.imgur.com/JMw1TCI.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/FamilyGuyTV.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>Gangs of London S01</name>
 <thumbnail>https://i.imgur.com/QP3K8kG.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/GangsOfLondon.xml</link>
@@ -135,6 +142,13 @@
 <name>The Comey Rule S01</name>
 <thumbnail>https://i.imgur.com/THS3ayr.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/ComeyRuleTV.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>The Simpsons S32</name>
+<thumbnail>https://i.imgur.com/NqvKlxv.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/SimpsonsTV.xml</link>
 <fanart></fanart>
 </dir>
 
