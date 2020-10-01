@@ -64,6 +64,13 @@
 </channel>
  
 <channel>
+<name>Doom Patrol S02</name>
+<thumbnail>https://i.imgur.com/yhuPmkU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DoomTV.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Family Guy S19</name>
 <thumbnail>https://i.imgur.com/JMw1TCI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/FamilyGuyTV.xml</externallink>
