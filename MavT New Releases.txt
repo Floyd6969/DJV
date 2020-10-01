@@ -20,6 +20,130 @@
 </item>
 
 <item>
+<title>The Glorias (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:ef7cb3de5ca02e811ddab54bcc441a943988f62d&dn=The.Glorias.2020.720p.AMZN.WEBRip.900MB.x264-GalaxyRG ([COLORblue]720p[/COLOR])</sublink> 
+<sublink>magnet:?xt=urn:btih:0e6ac812b2c1982915777fa4d719f34fc88069ab&dn=The.Glorias.2020.1080p.WEBRip.x264-RARBG ([COLORlime]1080p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:0eb037a0b4b06563d0cf3a978ec7efac52d23e18&dn=The.Glorias.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG (Server 2)</sublink>
+</link>
+<thumbnail>https://i.imgur.com/lYJh505.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Boys in the Band (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:22131a422cc14527266b3c78f5fae7d2f2be786c&dn=The.Boys.in.the.Band.2020.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG ([COLORblue]720p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:70e9e985564b0ad5599e70f79d4860a0b668dde7&dn=The.Boys.in.the.Band.2020.1080p.WEBRip.x265-RARBG ([COLORlime]1080p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:a00837fa83c416aae4abe660dbe89108ca179ad0&dn=The.Boys.in.the.Band.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG ([COLORlime]1080p[/COLOR])</sublink>
+ </link>
+<thumbnail>https://i.imgur.com/WNkdkHN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Pets United (2019)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:950535bf70f0dea62f8fd303fb7151bbc6a031e4&dn=Pets.United.2020.1080p.NF.WEBRip.DDP5.1.x264-pawel2006 (Server 2)</sublink>
+<sublink>magnet:?xt=urn:btih:9f057dbd48ee602367adda4111b8f9e9d2b4078d&dn=Pets.United.2020.1080p.WEBRip.x265-RARBG ([COLORlime]1080p[/COLOR])</sublink> 
+</link>
+<thumbnail>https://i.imgur.com/YwbB5Y6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Antebellum (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:d0e9cbde08b076de83abc80a4555662015ef5424&dn=Antebellum.2020.1080p.WEBRip.DD5.1.x264-CM ([COLORlime]1080p[/COLOR])</sublink> 
+<sublink>magnet:?xt=urn:btih:d9f44db1feca3c47ce6562f2aecd2b59bc8923ea&dn=Antebellum.2020.1080p.WEBRip.x264-RARBG ([COLORlime]1080p[/COLOR])</sublink> 
+</link>
+<thumbnail>https://i.imgur.com/QqBaf6B.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Enola Holmes (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:6c91a052983a58ab4131d2b60182fabcec50f5ae&dn=Enola.Holmes.2020.720p.NF.WEBRip.DDP5.1.Atmos.x264-CM ([COLORblue]720p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:1e35a06b345b458d1399840444e54111d86a09a8&dn=Enola.Holmes.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM ([COLORlime]1080p[/COLOR])</sublink> 
+</link>
+<thumbnail>https://i.imgur.com/F0m9kPe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lost Girls and Love Hotels (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:64f85b431fa2c4d8c7a68acd6d94261f5365b0fb&dn=Lost.Girls.and.Love.Hotels.2020.720p.AMZN.WEBRip.DDP5.1.x264-NTG ([COLORblue]720p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:4a49668b36a18f2726422b7c23b9eaaf5458192e&dn=Lost.Girls.and.Love.Hotels.2020.1080p.WEBRip.DD5.1.x264-CM ([COLORlime]1080p[/COLOR])</sublink>
+</link>
+<thumbnail>https://i.imgur.com/SVjYFn5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Devil All the Time (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:e55773b8d19f879eda2c45a71c5636aa1aa15cff&dn=The.Devil.All.The.Time.2020.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG ([COLORblue]720p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:f7171196d42f90b6230b4a7c89e1ad4e8505dfa5&dn=The.Devil.All.the.Time.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM ([COLORlime]1080p[/COLOR])</sublink>
+</link>
+<thumbnail>https://i.imgur.com/oV3whFN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mulan (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:9917c2fb1a123cb755ee24c02399b5c21b80558a&dn=Mulan.2020.720p.DSNP.WEBRip.DDP5.1.Atmos.x264-NOGRP ([COLORblue]720p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:689087bcbdad814e378988384f9a7f7c69710b79&dn=Mulan.2020.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-PHOENiX ([COLORlime]1080p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:0296221accb3495e5a6ba48d6ee93bbd5dd663b0&dn=Mulan.2020.2160p.DSNP.WEBRip.x265.10bit.HDR.DDP5.1.Atmos-SEMANTiCS ([COLORyellow]4K UHD[/COLOR])</sublink>
+</link>
+<thumbnail>https://i.imgur.com/AO0A3mL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Owners (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:38499b8da4fab024ade87c964c040329e3ef1351&dn=The.Owners.2020.720p.AMZN.WEBRip.DDP5.1.x264-NTG ([COLORblue]720p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:49d71437d3e6e26d62b66f66494f4db38c39337b&dn=The.Owners.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG ([COLORlime]1080p[/COLOR])</sublink>
+</link>
+<thumbnail>https://i.imgur.com/TVp2MrZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>I'm Thinking of Ending Things (2020)</title>
+<link>
+sublink:magnet:?xt=urn:btih:0cd716faa3d026e6be31c6a5e8baa4dc61d022a5&dn=Im.Thinking.of.Ending.Things.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM</sublink>
+</link>
+<thumbnail>https://i.imgur.com/z4qwY7T.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bill & Ted Face the Music (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:cecaf2b7651b425bbc614291aea88736c8b470f3&dn=Bill.and.Ted.Face.the.Music.2020.720p.AMZN.WEBRip.DDP5.1.x264-NTG ([COLORblue]720p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:009773c74964c64d96802ea8b0cd0d3e8f6082be&dn=Bill.and.Ted.Face.the.Music.2020.1080p.WEBRip.DD5.1.x264-CM ([COLORlime]1080p[/COLOR])</sublink>
+</link>
+<thumbnail>https://i.imgur.com/KgtyFpO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Binge (2020)</title>
+<link>
+<sublink>magnet:?xt=urn:btih:f305a142366a1d28abd93445459cb9d572475b78&dn=The.Binge.2020.720p.HULU.WEBRip.DDP5.1.x264-NTG ([COLORblue]720p[/COLOR])</sublink>
+<sublink>magnet:?xt=urn:btih:8e965daf5cf97c0c8f56ccacdf7ef0029180eda4&dn=The.Binge.2020.1080p.HULU.WEBRip.DDP5.1.x264-NTG ([COLORlime]1080p[/COLOR])</sublink>
+</link>
+<thumbnail>https://i.imgur.com/0VNF4wQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Mulan (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:689087bcbdad814e378988384f9a7f7c69710b79&dn=Mulan.2020.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-PHOENiX</sublink>
