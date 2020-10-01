@@ -24,7 +24,7 @@
 <link>
 <sublink>magnet:?xt=urn:btih:ef7cb3de5ca02e811ddab54bcc441a943988f62d&dn=The.Glorias.2020.720p.AMZN.WEBRip.900MB.x264-GalaxyRG ([COLORblue]720p[/COLOR])</sublink> 
 <sublink>magnet:?xt=urn:btih:0e6ac812b2c1982915777fa4d719f34fc88069ab&dn=The.Glorias.2020.1080p.WEBRip.x264-RARBG ([COLORlime]1080p[/COLOR])</sublink>
-<sublink>magnet:?xt=urn:btih:0eb037a0b4b06563d0cf3a978ec7efac52d23e18&dn=The.Glorias.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG (Server 2)</sublink>
+<sublink>magnet:?xt=urn:btih:0eb037a0b4b06563d0cf3a978ec7efac52d23e18&dn=The.Glorias.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG ([COLORlime]1080p[/COLOR])</sublink>
 </link>
 <thumbnail>https://i.imgur.com/lYJh505.jpg</thumbnail>
 <fanart></fanart>
@@ -44,7 +44,7 @@
 <item>
 <title>Pets United (2019)</title>
 <link>
-<sublink>magnet:?xt=urn:btih:950535bf70f0dea62f8fd303fb7151bbc6a031e4&dn=Pets.United.2020.1080p.NF.WEBRip.DDP5.1.x264-pawel2006 (Server 2)</sublink>
+<sublink>magnet:?xt=urn:btih:950535bf70f0dea62f8fd303fb7151bbc6a031e4&dn=Pets.United.2020.1080p.NF.WEBRip.DDP5.1.x264-pawel2006 ([COLORlime]1080p[/COLOR])</sublink>
 <sublink>magnet:?xt=urn:btih:9f057dbd48ee602367adda4111b8f9e9d2b4078d&dn=Pets.United.2020.1080p.WEBRip.x265-RARBG ([COLORlime]1080p[/COLOR])</sublink> 
 </link>
 <thumbnail>https://i.imgur.com/YwbB5Y6.jpg</thumbnail>
@@ -142,49 +142,12 @@ sublink:magnet:?xt=urn:btih:0cd716faa3d026e6be31c6a5e8baa4dc61d022a5&dn=Im.Think
 <fanart></fanart>
 </item>
 
-
-<item>
-<title>Mulan (2020)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:689087bcbdad814e378988384f9a7f7c69710b79&dn=Mulan.2020.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-PHOENiX</sublink>
-</link>
-<thumbnail>https://i.imgur.com/AO0A3mL.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 <title>The Owners (2020)</title>
 <link>
 <sublink>magnet:?xt=urn:btih:49d71437d3e6e26d62b66f66494f4db38c39337b&dn=The.Owners.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG</sublink>
 </link>
 <thumbnail>https://i.imgur.com/TVp2MrZ.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>I'm Thinking of Ending Things (2020)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:0cd716faa3d026e6be31c6a5e8baa4dc61d022a5&dn=Im.Thinking.of.Ending.Things.2020.1080p.NF.WEBRip.DDP5.1.Atmos.x264-CM</sublink> 
-</link>
-<thumbnail>https://i.imgur.com/z4qwY7T.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Bill & Ted Face the Music (2020)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:009773c74964c64d96802ea8b0cd0d3e8f6082be&dn=Bill.and.Ted.Face.the.Music.2020.1080p.WEBRip.DD5.1.x264-CM</sublink>
-</link>
-<thumbnail>https://i.imgur.com/KgtyFpO.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>The Binge (2020)</title>
-<link>
-<sublink>magnet:?xt=urn:btih:8e965daf5cf97c0c8f56ccacdf7ef0029180eda4&dn=The.Binge.2020.1080p.HULU.WEBRip.DDP5.1.x264-NTG</sublink>
-</link>
-<thumbnail>https://i.imgur.com/0VNF4wQ.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
