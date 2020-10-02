@@ -125,6 +125,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Madagascar.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Monsterland S01</name>
+<thumbnail>https://i.imgur.com/8NYJXFn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/MonsterlandTV.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Power Book II: Ghost S01</name>
