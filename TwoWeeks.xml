@@ -71,6 +71,13 @@
 </channel>
  
 <channel>
+<name>Emily in Paris S01</name>
+<thumbnail>https://i.imgur.com/aAJ11nu.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/EmilyTV.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Family Guy S19</name>
 <thumbnail>https://i.imgur.com/JMw1TCI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/FamilyGuyTV.xml</externallink>
