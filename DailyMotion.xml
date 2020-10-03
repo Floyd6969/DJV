@@ -1,4 +1,4 @@
-<item>
+item>
 <title>[COLORgold][B]UK TV[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://script.module.swiftstreamz/list_channels/4</jsonrpc>
@@ -6,7 +6,7 @@
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLORgold][B]US TV[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://script.module.swiftstreamz/list_channels/5</jsonrpc>
@@ -14,7 +14,7 @@
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLORgold][B]Sports TV[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://script.module.swiftstreamz/list_channels/8</jsonrpc>
@@ -22,7 +22,7 @@
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLORgold][B]Kids TV[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://script.module.swiftstreamz/list_channels/15</jsonrpc>
@@ -30,7 +30,7 @@
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLORgold][B]24/7 Movies[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://script.module.swiftstreamz/list_channels/7</jsonrpc>
@@ -38,7 +38,7 @@
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLORgold][B]Full Channel List[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://script.module.swiftstreamz/</jsonrpc>
@@ -74,14 +74,6 @@
 <title>[COLORgold][B]Daily Motion Channels[/B][/COLOR]</title>
 <link>IGNOREME</link>
 <jsonrpc>plugin://plugin.video.dailymotion_com/</jsonrpc>
-<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORgold][B]Test[/B][/COLOR]</title>
-<link>IGNOREME</link>
-<jsonrpc>plugin://script.module.TvTap/</jsonrpc>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
