@@ -160,6 +160,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/RatchedTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Spitting Image S01</name>
+<thumbnail>https://i.imgur.com/DHC0gQX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Image.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Star Trek: Lower Decks S01</name>
