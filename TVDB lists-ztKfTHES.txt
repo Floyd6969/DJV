@@ -188,9 +188,9 @@
 </dir>
 
 <dir>
-<title>[COLORlime]Test[/COLOR]</title>
-<link>http://maverickrepo.ddns.net/data/BNorms.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+  <title>[COLORlime]Test[/COLOR]</title>
+  <imdburl>ls000096828</imdburl>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
 </dir>
 
