@@ -188,8 +188,8 @@
 </dir>
 
 <dir>
-  <title>[COLORlime]Test[/COLOR]</title>
-  <imdburl>ls000096828</imdburl>
+  <title>[COLORlime]Test 1[/COLOR]</title>
+  <imdburl>https://www.imdb.com/list/ls000096828/</imdburl>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </dir>
