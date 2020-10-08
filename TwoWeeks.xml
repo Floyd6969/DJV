@@ -139,6 +139,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/MonsterlandTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Next S01</name>
+<thumbnail>https://i.imgur.com/skRmz7W.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NextTV.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Power Book II: Ghost S01</name>
