@@ -204,6 +204,13 @@
 </channel>
  
 <channel>
+<name>The Haunting of Bly Manor S01</name>
+<thumbnail>https://i.imgur.com/v21rVnh.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/BlyManor.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>The Right Stuff S01</name>
 <thumbnail>https://i.imgur.com/3xTdsto.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/RightStuff.xml</externallink>
