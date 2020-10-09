@@ -216,6 +216,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/UmbrellaTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>The Walking Dead: World Beyond S01</name>
+<thumbnail>https://i.imgur.com/WxTlAnr.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TWD.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Trinkets S02</name>
