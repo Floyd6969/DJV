@@ -57,6 +57,13 @@
 </channel>
  
 <channel>
+<name>Derry Girls S01 & S02</name>
+<thumbnail>https://i.imgur.com/sOWA9pO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DerryTV.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Des S01</name>
 <thumbnail>https://i.imgur.com/fcPwA8B.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DesTV.xml</externallink>
