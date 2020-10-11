@@ -90,6 +90,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/FargoTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Fear the Walking Dead S06</name>
+<thumbnail>https://i.imgur.com/ZkICJn0.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/FearTWD.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Gangs of London S01</name>
