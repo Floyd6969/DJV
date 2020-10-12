@@ -160,6 +160,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NextTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Pandora S02</name>
+<thumbnail>https://i.imgur.com/8tIiOWH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Pandora.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Power Book II: Ghost S01</name>
