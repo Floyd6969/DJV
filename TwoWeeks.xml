@@ -197,6 +197,13 @@
 </channel>
  
 <channel>
+<name>Social Distance S01</name>
+<thumbnail>https://i.imgur.com/hOVCH29.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/SocialTV.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Spitting Image S01</name>
 <thumbnail>https://i.imgur.com/DHC0gQX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Image.xml</externallink>
