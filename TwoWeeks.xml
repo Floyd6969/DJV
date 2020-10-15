@@ -202,6 +202,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Image.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Star Trek: Discovery S03</name>
+<thumbnail>https://i.imgur.com/36l2gL0.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Discovery.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Star Trek: Lower Decks S01</name>
