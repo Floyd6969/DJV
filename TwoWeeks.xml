@@ -134,6 +134,13 @@
 </channel>
  
 <channel>
+<name>Helstrom S01</name>
+<thumbnail>https://i.imgur.com/h1rCiUS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/HelstromTV.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Helter Skelter: An American Myth S01</name>
 <thumbnail>https://i.imgur.com/nsGjNjt.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/HelterSkelterTV.xml</externallink>
