@@ -96,14 +96,14 @@ plugin>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>[COLOR lime][B]Test US[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/csKS48HU&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>[COLOR lime][B]Test UK[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/rH4HtEYh&mode=1</link>
