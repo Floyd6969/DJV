@@ -335,6 +335,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Wentworth.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Wireless S01</name>
+<thumbnail>https://i.imgur.com/542RZ6Z.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/WirelessTV.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Yellowstone S03</name>
