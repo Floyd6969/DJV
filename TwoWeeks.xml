@@ -309,6 +309,13 @@ channel>
 </channel>
 
 <channel>
+<name>Truth Seekers S01</name>
+<thumbnail>https://i.imgur.com/ZCJA73Y.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TruthSeekers.xml</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
 <name>Two Weeks to Live S01</name>
 <thumbnail>https://i.imgur.com/lX1Kl69.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TwoWeeksTV.xml</externallink>
