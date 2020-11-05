@@ -258,6 +258,13 @@ channel>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ComeyRuleTV.xml</externallink>
 <fanart></fanart>
 </channel>
+
+<channel>
+<name>The Conners S03</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRyVIe1eLaBr3mfQSduvkNJ4Aoi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Conners.xml</externallink>
+<fanart></fanart>
+</channel>
  
 <channel>
 <name>The Expecting S01</name>
