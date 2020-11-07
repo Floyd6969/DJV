@@ -194,3 +194,10 @@
   <fanart></fanart>
 </dir>
 
+<dir>
+  <title>[COLORlime]Test 2[/COLOR]</title>
+  <link>https://pastebin.com/raw/Ykf5pMXF</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
