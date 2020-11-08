@@ -110,23 +110,3 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>Russian Sports 1</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/ru/match1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Russian Sports 2</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/ru/match2.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Russian Sports 3</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/ru/match3.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
