@@ -172,3 +172,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Test</title>
+<link>http://p2p.nflsport.xyz/live/espn/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
