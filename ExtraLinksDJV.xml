@@ -132,8 +132,15 @@
 </item>
 
 <item>
-<title>Fubo Sports Network</title>
-<link>http://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8</link>
+<title>Bek Sports East</title>
+<link>https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bek Sports West</title>
+<link>https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
