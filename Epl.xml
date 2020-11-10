@@ -175,7 +175,14 @@
 
 <item>
 <title>Test</title>
-<link>http://p2p.nflsport.xyz/live/espn/chunks.m3u8</link>
+<link>http://cdnak19.cast4u.info/channels/2/10802.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test 1</title>
+<link>http://cdnak21.cast4u.info/channels/2/10802.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
