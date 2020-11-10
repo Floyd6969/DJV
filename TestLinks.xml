@@ -90,8 +90,22 @@
 </item>
 
 <item>
-<title>Test BR 1</title>
+<title>Premiere 1</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/br1.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Premiere 2</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/br2.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Premiere 3</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/br3.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
