@@ -111,6 +111,42 @@
 </item>
 
 <item>
+<title>Tennis Channel</title>
+<link>https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tennis Channel Plus</title>
+<link>https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Tennis Channel 1</title>
+<link>https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Tennis Channel 2</title>
+<link>https://dai.google.com/linear/hls/event/hj7NDZ5ZSE2m2MWQPiKp3Q/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Tennis Channel 3</title>
+<link>https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>ESPN 2</title>
 <link>https://gma2.blab.email/espn2.m3u8</link>
 <thumbnail></thumbnail>
@@ -169,20 +205,6 @@
 <item>
 <title>Rope 2 Rope</title>
 <link>https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Tennis Channel</title>
-<link>https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Tennis Channel Plus</title>
-<link>https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
