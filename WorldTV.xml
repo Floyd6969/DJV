@@ -20,6 +20,20 @@
 <externallink>https://iptv-org.github.io/iptv/countries/us.m3u</externallink>
 <fanart></fanart>
 </channel>
+  
+<channel>
+<name>[COLOR gold][B]Canadian Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ca.m3u</externallink>
+<fanart></fanart>
+</channel> 
+  
+<channel>
+<name>[COLOR gold][B]Australian Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/countries/au.m3u</externallink>
+<fanart></fanart>
+</channel> 
 
 <channel>
 <name>[COLOR gold][B]Music Channels[/B][/COLOR]</name>
