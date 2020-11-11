@@ -13,6 +13,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/eng.m3u</externallink>
 <fanart></fanart>
 </channel>
+  
+<channel>
+<name>[COLOR gold][B]UK National And Local Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/uk.m3u</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>[COLOR gold][B]US National And Local Channels[/B][/COLOR]</name>
