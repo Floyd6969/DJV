@@ -1,0 +1,38 @@
+<channels>
+
+<channel>
+<name>[COLOR gold][B]World Sports[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/categories/sport.m3u</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR gold][B]English Speaking Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/languages/eng.m3u</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR gold][B]US National And Local Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/countries/us.m3u</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR gold][B]Music Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/categories/music.m3u</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR gold][B]World News[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/categories/news.m3u</externallink>
+<fanart></fanart>
+</channel>
+
+</channels>
