@@ -1,65 +1,16 @@
-plugin>
-<name>[COLORlime][B]UK TV[/B][/COLOR]</name>
-<link>plugin://script.module.swiftstreamz/list_channels/4</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<dir>
+<name>[COLOR lime][B]World Sports[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/IntLinks.xml&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
+</dir>
 
-plugin>
-<name>[COLORlime][B]US TV[/B][/COLOR]</name>
-<link>plugin://script.module.swiftstreamz/list_channels/5</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<dir>
+<name>[COLOR lime][B]English Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/EngLinks.xml&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
-
-plugin>
-<name>[COLORlime][B]Sports TV[/B][/COLOR]</name>
-<link>plugin://script.module.swiftstreamz/list_channels/8</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
-
-plugin>
-<name>[COLORlime][B]Kids TV[/B][/COLOR]</name>
-<link>plugin://script.module.swiftstreamz/list_channels/15</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
-
-plugin>
-<name>[COLORlime][B]24/7 Movies[/B][/COLOR]</name>
-<link>plugin://script.module.swiftstreamz/list_channels/7</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
-
-plugin>
-<name>[COLORlime][B]Full Channel List[/B][/COLOR]</name>
-<link>plugin://script.module.swiftstreamz/</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
-
-<plugin>
-<name>[COLORlime][B]Tv Tap Live TV[/B][/COLOR]</name>
-<link>plugin://script.module.tt</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
-
-<plugin>
-<name>[COLORlime][B]Tv Tap Sports[/B][/COLOR]</name>
-<link>plugin://script.module.tt/list_channels/5</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
-
-<plugin>
-<name>[COLORlime][B]Tv Tap Movies[/B][/COLOR]</name>
-<link>plugin://script.module.tt/list_channels/2</link>
-<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</plugin>
+</dir>
 
 <dir>
 <name>[COLOR lime][B]Fluxus IPTV 5000+ Channels[/B][/COLOR]</name>
@@ -95,20 +46,4 @@ plugin>
 <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/d5cb3Wxw&mode=1</link>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </dir>
-
-<dir>
-<name>[COLOR lime][B]World Sports[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/IntLinks.xml&mode=1</link>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR lime][B]English Channels[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/EngLinks.xml&mode=1</link>
-<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
-</dir>
-
-
 
