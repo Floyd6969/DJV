@@ -139,6 +139,48 @@
 </item>
 
 <item>
+<title>New Japan Pro Wrestling World</title>
+<link>https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Oman Sport</title>
+<link>https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Pro X</title>
+<link>https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Racing.com</title>
+<link>https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Real Madrid</title>
+<link>https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Real Madrid TV</title>
+<link>https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sport TV 1</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
 <thumbnail></thumbnail>
