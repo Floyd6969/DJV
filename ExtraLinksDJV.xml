@@ -111,22 +111,29 @@
 </item>
 
 <item>
-<title>Esporte Interativo Plus</title>
-<link>https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8</link>
+<title>Fight Sports</title>
+<link>http://210.210.155.35/uq2663/h/h05/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Fight Sports</title>
-<link>http://210.210.155.35/uq2663/h/h05/index.m3u8</link>
+<title>FOX Sport HD 1 Australia</title>
+<link>https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-item>
-<title>Fight Sports</title>
-<link>http://210.210.155.35/uq2663/h/h05/index.m3u8</link>
+<item>
+<title>Jordan Sport TV</title>
+<link>https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Maroc SPORT</title>
+<link>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
