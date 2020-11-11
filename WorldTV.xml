@@ -34,5 +34,12 @@
 <externallink>https://iptv-org.github.io/iptv/categories/news.m3u</externallink>
 <fanart></fanart>
 </channel>
+  
+<channel>
+<name>[COLOR gold][B]Test[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/music.m3u</externallink>
+<fanart></fanart>
+</channel>
 
 </channels>
