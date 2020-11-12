@@ -125,55 +125,6 @@
 </item>
 
 <item>
-<title>[COLORwhite]Michael Mcintyre Newest 2017[/COLOR]</title>
-<link>https://www.youtube.com/watch?v=z--7YmLr7nU</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORwhite]Kevin Bloody Wilson Live Down Under[/COLOR]</title>
-<link>https://streamango.com/f/ensooseesnpmbfcc</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLORwhite]Lee Evans XL Tour Live 2005[/COLOR]</title>
-<link>https://streamango.com/f/mqdcftlkbdrfpqnl</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Lee Evans Live In Scotland[/COLOR]</title>
-<link>https://vidoza.net/uutrzkhthuin.html</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Lee Evans Monsters Live 2014[/COLOR]</title>
-<link>https://vidoza.net/8s8ojn3l3z7p.html</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Lee Evans Live At The O2 Disc 1[/COLOR]</title>
-<link>https://vidoza.net/ttru9mc9avsm.html</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Lee Evans Live At The O2 Disc 2[/COLOR]</title>
-<link>https://vidoza.net/04iyynztoxbn.html</link>
-<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Lee Mack: Live at London's Bloomsbury Theatre 2007[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=EQEokEau6r4</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
