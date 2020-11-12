@@ -1,4 +1,18 @@
 <item>
+<title>[COLOR lime]Queen - Live AID 1985[/COLOR]</title>
+<link>https://youtu.be/1SgXcMStODI</link>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]QUEEN - LIVE IN WEMBLEY 1986[/COLOR]</title>
+<link>https://youtu.be/GBNEr5VPWfc</link>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR lime]The Beatles Live In Wasington Full Concert 1966 HD[/COLOR]</title>
 <link>https://youtu.be/OFt0UMUI7y4</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
