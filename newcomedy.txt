@@ -139,13 +139,6 @@
 </item>
 
 <item>
-<title>Phoenix Nights S01 E01</title>
-<link>https://streamtape.com/v/pVPk3v3OoZtr2wW/Phoenix_Nights_S01E01.mp4</link>
-<thumbnail>https://i.imgur.com/HltNeaU.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Fawlty Towers S01 E01</title>
 <link>https://streamtape.com/v/e00K8lPRjaFYW1R/Fawlty_Towers_-_S01E01.mp4</link>
 <thumbnail>https://i.imgur.com/YJ5DwqC.jpg</thumbnail>
@@ -226,6 +219,13 @@
 <title>Fawlty Towers S02 E06</title>
 <link>https://streamtape.com/v/V74wQZDe7xsOV8/Fawlty_Towers_-_S02E06.mp4</link>
 <thumbnail>https://i.imgur.com/YJ5DwqC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Phoenix Nights S01 E01</title>
+<link>https://streamtape.com/v/pVPk3v3OoZtr2wW/Phoenix_Nights_S01E01.mp4</link>
+<thumbnail>https://i.imgur.com/HltNeaU.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
