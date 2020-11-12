@@ -1,13 +1,13 @@
 <item>
-<title>[COLOR lime]Beatles -- Live -- Australia Concert[/COLOR]</title>
-<link>https://youtu.be/e6r523MsuUk</link>
+<title>[COLOR lime]The Beatles Live In Wasington Full Concert 1966 HD[/COLOR]</title>
+<link>https://youtu.be/OFt0UMUI7y4</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]The Beatles, live Empire Pool 1965, full concert[/COLOR]</title>
-<link>https://youtu.be/tAlZlzIPuPY</link>
+<title>[COLOR lime]The Beatles - Live at the Shea Stadium HD[/COLOR]</title>
+<link>https://youtu.be/gu27IQPsqdU</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
