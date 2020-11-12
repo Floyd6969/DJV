@@ -573,42 +573,42 @@
 </item>
 
 <item>
-<title>Love Thy Neighbour-The Housewarming Party</title>
+<title>Love Thy Neighbour - The Housewarming Party</title>
 <link>https://youtu.be/OxhGbHAff50</link>
 <thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Love Thy Neighbour-Refused A Drink</title>
+<title>Love Thy Neighbour - Refused A Drink</title>
 <link>https://youtu.be/C84pvy_jZ8w</link>
 <thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Love Thy Neighbour-Limbo Dancing</title>
+<title>Love Thy Neighbour - Limbo Dancing</title>
 <link>https://youtu.be/54x_wAYdrEw</link>
 <thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Love Thy Neighbour-The Petition</title>
+<title>Love Thy Neighbour - The Petition</title>
 <link>https://youtu.be/l0rWZJMSXVA</link>
 <thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Love Thy Neighbour-The Factory Dispute</title>
+<title>Love Thy Neighbour - The Factory Dispute</title>
 <link>https://youtu.be/aEzN4a5OO5Q</link>
 <thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Love Thy Neighbour-The Seven Year Itch</title>
+<title>Love Thy Neighbour - The Seven Year Itch</title>
 <link>https://youtu.be/KidUMOgQ208</link>
 <thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
 <fanart></fanart>
