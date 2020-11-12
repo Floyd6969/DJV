@@ -659,21 +659,42 @@
 <item>
 <title>Till Death Us Do Part - The TV Licence</title>
 <link>https://youtu.be/wNYKYMZMKS8</link>
-<thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Till Death Us Do Part - State Visit</title>
 <link>https://youtu.be/xIDZMnsWqGE</link>
-<thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Till Death Us Do Part - Two toilets That's posh</title>
 <link>https://youtu.be/XP3rqgJheQc</link>
-<thumbnail>https://i.imgur.com/ixlKUXF.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Till Death Us Do Part - To Garnett A Grandson</title>
+<link>https://youtu.be/0IWRPtkHkVY</link>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Till Death Us Do Part - Party Night</title>
+<link>https://youtu.be/SVc7KHCSt-0</link>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Till Death Us Do Part - Up The Hammers</title>
+<link>https://youtu.be/djBGwSN4DCY</link>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
