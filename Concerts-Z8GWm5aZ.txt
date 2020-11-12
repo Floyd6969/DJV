@@ -1,2831 +1,2831 @@
 <item>
-<title>[COLOR lime]Queen - Live AID 1985[/COLOR]</title>
+<title>Queen - Live AID 1985</title>
 <link>https://youtu.be/1SgXcMStODI</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]QUEEN - LIVE IN WEMBLEY 1986[/COLOR]</title>
+<title>QUEEN - LIVE IN WEMBLEY 1986</title>
 <link>https://youtu.be/GBNEr5VPWfc</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]The Beatles Live In Wasington Full Concert 1966 HD[/COLOR]</title>
+<title>The Beatles Live In Wasington Full Concert 1966 HD</title>
 <link>https://youtu.be/OFt0UMUI7y4</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]The Beatles - Live at the Shea Stadium HD[/COLOR]</title>
+<title>The Beatles - Live at the Shea Stadium HD</title>
 <link>https://youtu.be/gu27IQPsqdU</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]Pink Floyd Live At Live 8 London 2005[/COLOR]</title>
+<title>Pink Floyd Live At Live 8 London 2005</title>
 <link>https://youtu.be/ljaU7YcrKAU</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]Candy Dulfer - LIVE Full Concert 2016[/COLOR]</title>
+<title>Candy Dulfer - LIVE Full Concert 2016</title>
 <link>https://youtu.be/S3kKiot7u5Q</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]Adele live at The Tabernacle[/COLOR]</title>
+<title>Adele live at The Tabernacle</title>
 <link>https://youtu.be/wL8xvTAhlmE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Adele Live in New York City 2015[/COLOR]</title>
+<title>Adele Live in New York City 2015</title>
 <link>https://youtu.be/sVheh0DSMs4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bruno Mars great live BBC Radio best hits 2015 full concert[/COLOR]</title>
+<title>Bruno Mars great live BBC Radio best hits 2015 full concert</title>
 <link>https://youtu.be/fV8OTEGjgk4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Pink Floyd Live At Live 8 London 2005[/COLOR]</title>
+<title>Pink Floyd Live At Live 8 London 2005</title>
 <link>https://youtu.be/ljaU7YcrKAU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Stevie Wonder - Live At Last: A Wonder Summer's Night - Full Concert (HD)[/COLOR]</title>
+<title>Stevie Wonder - Live At Last: A Wonder Summer's Night - Full Concert (HD)[/COLOR]</title>
 <link>https://youtu.be/9dB9ZyXtXlQ</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Phil Collins The Last Farewell Tour[/COLOR]</title>
+<title>Phil Collins The Last Farewell Tour</title>
 <link>https://youtu.be/39LAJeXudiM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)[/COLOR]</title>
+<title>Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)[/COLOR]</title>
 <link>https://youtu.be/oerZ1cYE-Qk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bon JovI Live At Cleveland 2013 Full Concert[/COLOR]</title>
+<title>Bon JovI Live At Cleveland 2013 Full Concert</title>
 <link>https://youtu.be/O1x-nXUL0hE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Neil Diamond - 1988 Greatest Hits Live Concert[/COLOR]</title>
+<title>Neil Diamond - 1988 Greatest Hits Live Concert</title>
 <link>https://youtu.be/iVRXOWAHs9w</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Earth Wind and Fire - Live '99 by Request Concert[/COLOR]</title>
+<title>Earth Wind and Fire - Live '99 by Request Concert</title>
 <link>https://youtu.be/0mTLd9dpzas</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Michael Jackson History Tour Live Munich Germany (Full)[/COLOR]</title>
+<title>Michael Jackson History Tour Live Munich Germany (Full)[/COLOR]</title>
 <link>https://youtu.be/Y0JcJbzTjjw</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]DAVID BOWIE - (Full Concert) - Live at the BBC Radio Theatre, London, 2000[/COLOR]</title>
+<title>DAVID BOWIE - (Full Concert) - Live at the BBC Radio Theatre, London, 2000</title>
 <link>https://youtu.be/OIK35u0Nx2k</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]David Bowie - Live By Request (2002)[/COLOR]</title>
+<title>David Bowie - Live By Request (2002)[/COLOR]</title>
 <link>https://youtu.be/eQq4FH81jd0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Jam - Bingley Hall 1982[/COLOR]</title>
+<title>The Jam - Bingley Hall 1982</title>
 <link>https://youtu.be/1H1uos6v9zM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Madness - At MadStock[/COLOR]</title>
+<title>Madness - At MadStock</title>
 <link>https://youtu.be/vLxhn5Q4-eM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Specials - Live At Glastonbury[/COLOR]</title>
+<title>The Specials - Live At Glastonbury</title>
 <link>https://youtu.be/1xbea_0pY0g</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Specials 30th Anniversary Tour (Full)[/COLOR]</title>
+<title>The Specials 30th Anniversary Tour (Full)[/COLOR]</title>
 <link>https://youtu.be/u9GnGMQz22A</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Selecter - Live From London[/COLOR]</title>
+<title>The Selecter - Live From London</title>
 <link>https://youtu.be/WeCNje7mgs4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bad Manners - Don't Knock The Bald Heads[/COLOR]</title>
+<title>Bad Manners - Don't Knock The Bald Heads</title>
 <link>https://youtu.be/AcWIup_XKLw</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bob Marley & the Wailers 7-21-1979 Live Full Show[/COLOR]</title>
+<title>Bob Marley & the Wailers 7-21-1979 Live Full Show</title>
 <link>https://youtu.be/3-5yg7C5o4Q</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Boomtown Rats Live - Dublin 12/10/2013[/COLOR]</title>
+<title>The Boomtown Rats Live - Dublin 12/10/2013</title>
 <link>https://youtu.be/87f0k8H7Arw</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]UB40 live at Montreux 2002[/COLOR]</title>
+<title>UB40 live at Montreux 2002</title>
 <link>https://youtu.be/Pxsu5ZKhnRQ</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]UB40-Homegrown in Holland Live 2003[/COLOR]</title>
+<title>UB40-Homegrown in Holland Live 2003</title>
 <link>https://youtu.be/J2GrFNHSZCg</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Stiff Little Fingers - At The Edge 2004 (full concert)[/COLOR]</title>
+<title>Stiff Little Fingers - At The Edge 2004 (full concert)[/COLOR]</title>
 <link>https://youtu.be/AwJLoUINqSM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]STRANGLERS Hamburg Markthalle 20.February 1985 Complete Concert[/COLOR]</title>
+<title>STRANGLERS Hamburg Markthalle 20.February 1985 Complete Concert</title>
 <link>https://youtu.be/HyPQYaXvC5g</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]There'll Always be an England(Sex Pistols Live at Brixton Academy 2007)[/COLOR]</title>
+<title>There'll Always be an England(Sex Pistols Live at Brixton Academy 2007)[/COLOR]</title>
 <link>https://youtu.be/o_SQI9kgqIc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Black Sabbath - The End (Full Concert) 2016-06-15 at Hallenstadion, Zurich, Switzerland[/COLOR]</title>
+<title>Black Sabbath - The End (Full Concert) 2016-06-15 at Hallenstadion, Zurich, Switzerland</title>
 <link>https://youtu.be/bZ66kVyCwz4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Iron Maiden- Live Wacken 2016 (Full Concert)- HD[/COLOR]</title>
+<title>Iron Maiden- Live Wacken 2016 (Full Concert)- HD</title>
 <link>https://youtu.be/bHM2mwMQUDo</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Guns N' Roses: Tokyo 1992 FULL CONCERT (HD)[/COLOR]</title>
+<title>Guns N' Roses: Tokyo 1992 FULL CONCERT (HD)[/COLOR]</title>
 <link>https://youtu.be/oKw4HWNFN2Y</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Guns N' Roses live at The Ritz 1988 - Full concert[/COLOR]</title>
+<title>Guns N' Roses live at The Ritz 1988 - Full concert</title>
 <link>https://youtu.be/9zKPjJgfIss</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Guns N' Roses - Live in Chicago 1992 [Full Concert][/COLOR]</title>
+<title>Guns N' Roses - Live in Chicago 1992 [Full Concert][/COLOR]</title>
 <link>https://youtu.be/6SlKqVJT9tI</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Rolling Stones Glastonbury Festival 2013 06 29 Full Concert[/COLOR]</title>
+<title>The Rolling Stones Glastonbury Festival 2013 06 29 Full Concert</title>
 <link>https://youtu.be/V9NaxP7VCCc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Fab Four - Beatles Tribute Full Concert[/COLOR]</title>
+<title>The Fab Four - Beatles Tribute Full Concert</title>
 <link>https://youtu.be/4rHiDArtjuM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]ERIC CLAPTON Live at Budokan, Tokyo, 2001 (Full Concert)[/COLOR]</title>
+<title>ERIC CLAPTON Live at Budokan, Tokyo, 2001 (Full Concert)[/COLOR]</title>
 <link>https://youtu.be/3FE70D5mRp0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Roger Waters - Radio Kaos Tour - Montreal 1987 DVD[/COLOR]</title>
+<title>Roger Waters - Radio Kaos Tour - Montreal 1987 DVD</title>
 <link>https://youtu.be/cwNqFTIpaSM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Dead Kennedys Live San Francisco 1984 (full show) VHSrip[/COLOR]</title>
+<title>Dead Kennedys Live San Francisco 1984 (full show) VHSrip</title>
 <link>https://youtu.be/FYfSt0xcQIk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Amy Winehouse Live In London 2007[/COLOR]</title>
+<title>Amy Winehouse Live In London 2007</title>
 <link>https://youtu.be/UNkuQQ3FJ8U</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Amy Winehouse Concert 2008 HD[/COLOR]</title>
+<title>Amy Winehouse Concert 2008 HD</title>
 <link>https://youtu.be/8Poc65uzT1s</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]U2 - Glastonbury 2011 - Full Concert - HD[/COLOR]</title>
+<title>U2 - Glastonbury 2011 - Full Concert - HD</title>
 <link>https://youtu.be/7Nt5hycaqoU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]U2 - Elevation tour - Live from Boston full[/COLOR]</title>
+<title>U2 - Elevation tour - Live from Boston full</title>
 <link>https://youtu.be/BYOu7N8e9PU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]U2: "U22 The Show Never Done" [Entire Show 1080p][/COLOR]</title>
+<title>U2: "U22 The Show Never Done" [Entire Show 1080p][/COLOR]</title>
 <link>https://youtu.be/TBuK2rgqYUk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Oasis - Live Manchester 2005 HD Full Concert[/COLOR]</title>
+<title>Oasis - Live Manchester 2005 HD Full Concert</title>
 <link>https://youtu.be/UWH3vFQhC1o</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Noel gallagher and gem of oasis live in paris 2008 [FULL CONCERT][/COLOR]</title>
+<title>Noel gallagher and gem of oasis live in paris 2008 [FULL CONCERT][/COLOR]</title>
 <link>https://youtu.be/8aWiKV_1fSM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Stone Roses live in Blackpool 12.08.1989[/COLOR]</title>
+<title>The Stone Roses live in Blackpool 12.08.1989</title>
 <link>https://youtu.be/pNfHoPIxhXM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]James - TITP 2014[/COLOR]</title>
+<title>James - TITP 2014</title>
 <link>https://youtu.be/jBxFfTHj8_I</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Arctic Monkeys Glastonbury (2013)[/COLOR]</title>
+<title>Arctic Monkeys Glastonbury (2013)[/COLOR]</title>
 <link>https://youtu.be/BoHkfAhQ8Fc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rocky Horror Show Live Cinema Screening, 17-09-2015[/COLOR]</title>
+<title>Rocky Horror Show Live Cinema Screening, 17-09-2015</title>
 <link>https://youtu.be/VIPckPtYmXk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Queen - Live at LIVE AID 1985/07/13[/COLOR]</title>
+<title>Queen - Live at LIVE AID 1985/07/13</title>
 <link>https://youtu.be/A22oy8dFjqc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Queen - Hungarian Rhapsody Live In Budapest 1986[/COLOR]</title>
+<title>Queen - Hungarian Rhapsody Live In Budapest 1986</title>
 <link>https://youtu.be/8cTiLQiSsoE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Queen - Live At Wembley Stadium - 12th July 1986 - Full Concert[/COLOR]</title>
+<title>Queen - Live At Wembley Stadium - 12th July 1986 - Full Concert</title>
 <link>https://youtu.be/Wvors-vs9Ko</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Queen + Adam Lambert 2016 Summer Festival[/COLOR]</title>
+<title>Queen + Adam Lambert 2016 Summer Festival</title>
 <link>https://youtu.be/s64Qo6yLrd4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Beatles Live in Melbourne[/COLOR]</title>
+<title>The Beatles Live in Melbourne</title>
 <link>https://youtu.be/fj5tKYgz9Zc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Beatles ֠Live in Melbourne [HD. Remastered][/COLOR]</title>
+<title>The Beatles ֠Live in Melbourne [HD. Remastered][/COLOR]</title>
 <link>https://youtu.be/MAyVIG1jFo0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Beatles, live Empire Pool 1965, full concert[/COLOR]</title>
+<title>The Beatles, live Empire Pool 1965, full concert</title>
 <link>https://youtu.be/tAlZlzIPuPY</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Who concert Los Angeles august 1989[/COLOR]</title>
+<title>The Who concert Los Angeles august 1989</title>
 <link>https://youtu.be/yhU-ADBYGCc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Who - Ziggo Dome Amsterdam 2015[/COLOR]</title>
+<title>The Who - Ziggo Dome Amsterdam 2015</title>
 <link>https://youtu.be/pNYiIhC95JE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Who (Quadrophenia Concert Hyde Park London 1996)[/COLOR]</title>
+<title>The Who (Quadrophenia Concert Hyde Park London 1996)[/COLOR]</title>
 <link>https://youtu.be/cQlXlkGRW7k</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Who - Live at the Royal Albert Hall 2000 - Full Concert[/COLOR]</title>
+<title>The Who - Live at the Royal Albert Hall 2000 - Full Concert</title>
 <link>https://youtu.be/16TRDbYdcrg</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Cream - Live at the Royal Albert Hall, 2005 (+ Bonus)[/COLOR]</title>
+<title>Cream - Live at the Royal Albert Hall, 2005 (+ Bonus)[/COLOR]</title>
 <link>https://youtu.be/jxZThfFoQ0g</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Paul Mc Cartney & Wings - Rockshow 1980[/COLOR]</title>
+<title>Paul Mc Cartney & Wings - Rockshow 1980</title>
 <link>https://youtu.be/p1UafXtokdE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Wings Over Australia 1975 complete concert + soundcheck[/COLOR]</title>
+<title>Wings Over Australia 1975 complete concert + soundcheck</title>
 <link>https://youtu.be/M4T4biiXqvs</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Paul McCartney in Concert (2013)[/COLOR]</title>
+<title>Paul McCartney in Concert (2013)[/COLOR]</title>
 <link>https://youtu.be/7S2JJpSmqZo</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Paul McCartney & Wings - Band On The Run (Rockshow) [HD][/COLOR]</title>
+<title>Paul McCartney & Wings - Band On The Run (Rockshow) [HD][/COLOR]</title>
 <link>https://youtu.be/t8dQwP80uNQ</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Paul McCartney Live In Rio 1990 Full Concert[/COLOR]</title>
+<title>Paul McCartney Live In Rio 1990 Full Concert</title>
 <link>https://youtu.be/_0C_yRKR3Rc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Paul McCartney - Get Back World Tour 1989 - Full Concert (HD)[/COLOR]</title>
+<title>Paul McCartney - Get Back World Tour 1989 - Full Concert (HD)[/COLOR]</title>
 <link>https://youtu.be/3Z3Ek1gL_JU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]John Lennon - One To One Concert (Live)[/COLOR]</title>
+<title>John Lennon - One To One Concert (Live)[/COLOR]</title>
 <link>https://youtu.be/gV43e_LJ3I4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]John Lennon - Live in NY City (1972)[/COLOR]</title>
+<title>John Lennon - Live in NY City (1972)[/COLOR]</title>
 <link>https://youtu.be/k-fSSJj8xW4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Elvis Presley in concert - june 19, 1977[/COLOR]</title>
+<title>Elvis Presley in concert - june 19, 1977</title>
 <link>https://youtu.be/tzhQ6CmZsq0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Elvis Presley - Live 1977 - Last Concert (STEREO) (HD)[/COLOR]</title>
+<title>Elvis Presley - Live 1977 - Last Concert (STEREO) (HD)[/COLOR]</title>
 <link>https://youtu.be/Xh53niIqMtk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Elvis Presley In Concert 1977 Full[/COLOR]</title>
+<title>Elvis Presley In Concert 1977 Full</title>
 <utube>-w2WVzLMdWM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Elvis Presley - Charlotte, GA Macon Coliseum 1976[/COLOR]</title>
+<title>Elvis Presley - Charlotte, GA Macon Coliseum 1976</title>
 <link>https://youtu.be/PYf3tHuuQt4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Led Zeppelin - Celebration Day 2012[/COLOR]</title>
+<title>Led Zeppelin - Celebration Day 2012</title>
 <link>https://youtu.be/OM_y3pHZGHU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Stones in the Park July 5 1969 1080P High Quality[/COLOR]</title>
+<title>The Stones in the Park July 5 1969 1080P High Quality</title>
 <link>https://youtu.be/Z-YCqUMQ29U</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]THE Doors - Live at the Bowl `68[/COLOR]</title>
+<title>THE Doors - Live at the Bowl `68</title>
 <link>https://youtu.be/cJEL6b9Z78w</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]AC/DC - FULL CONCERT (Multicam-Mix) - Berlin 2015[/COLOR]</title>
+<title>AC/DC - FULL CONCERT (Multicam-Mix) - Berlin 2015</title>
 <link>https://youtu.be/7uauVGvTF-8</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]AC DC live at river plate full concert HD 2011[/COLOR]</title>
+<title>AC DC live at river plate full concert HD 2011</title>
 <link>https://youtu.be/Sofbb2gIpxU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Nirvana - MTV Live And Loud 1993 (Full Concert)[/COLOR]</title>
+<title>Nirvana - MTV Live And Loud 1993 (Full Concert)[/COLOR]</title>
 <link>https://youtu.be/i0g8toTz-ek</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Nirvana - MTV Unplugged (1993) (Full Concert)[/COLOR]</title>
+<title>Nirvana - MTV Unplugged (1993) (Full Concert)[/COLOR]</title>
 <utube>-m2yifmS4-Y</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]METALLICA - Full Show in Minneapolis (Multi-Cam) - 20 August 2016[/COLOR]</title>
+<title>METALLICA - Full Show in Minneapolis (Multi-Cam) - 20 August 2016</title>
 <link>https://youtu.be/sn2YnyoXIqI</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rammstein Live 2016 Full Concert[/COLOR]</title>
+<title>Rammstein Live 2016 Full Concert</title>
 <link>https://youtu.be/UhyRYaeoLyU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rammstein- Berlin Waldb�� 2016 M.C (4K)[/COLOR]</title>
+<title>Rammstein- Berlin Waldb�� 2016 M.C (4K)[/COLOR]</title>
 <link>https://youtu.be/CdYU0SK4QRg</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]System Of A Down - Live In Armenia 2015 [HD][/COLOR]</title>
+<title>System Of A Down - Live In Armenia 2015 [HD][/COLOR]</title>
 <link>https://youtu.be/zvGcMNSCc4M</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]System Of A Down - Rock In Rio 2015 [HD][/COLOR]</title>
+<title>System Of A Down - Rock In Rio 2015 [HD][/COLOR]</title>
 <link>https://youtu.be/o3r1sn-t3is</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]GREEN DAY - ROCK AM RING 2013 [LIVE HD][/COLOR]</title>
+<title>GREEN DAY - ROCK AM RING 2013 [LIVE HD][/COLOR]</title>
 <link>https://youtu.be/Q93wKRpmZU0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rage Against the Machine - Full Concert - 07/24/99[/COLOR]</title>
+<title>Rage Against the Machine - Full Concert - 07/24/99</title>
 <link>https://youtu.be/F9S-JVKw0mE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Pearl Jam 10-16-2014 Detroit Mi Full Show Multicam[/COLOR]</title>
+<title>Pearl Jam 10-16-2014 Detroit Mi Full Show Multicam</title>
 <link>https://youtu.be/UKOpnK5fC4k</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bruce Springsteen - Full Concert Video (Brisbane, Australia)[/COLOR]</title>
+<title>Bruce Springsteen - Full Concert Video (Brisbane, Australia)[/COLOR]</title>
 <link>https://youtu.be/DkEcQ_bdqxc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bruce Springsteen - Born In The USA Live: London 2013[/COLOR]</title>
+<title>Bruce Springsteen - Born In The USA Live: London 2013</title>
 <link>https://youtu.be/O_BuT8qg4lA</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bruce Springsteen in Lisbon2016[/COLOR]</title>
+<title>Bruce Springsteen in Lisbon2016</title>
 <link>https://youtu.be/B_FOn2nUy5Q</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bruce Springsteen - New York - Madison Square Garden 2016 full show[/COLOR]</title>
+<title>Bruce Springsteen - New York - Madison Square Garden 2016 full show</title>
 <link>https://youtu.be/Nv36RaPrOrc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Prince - 2009.07.18 Montreux, Auditorium Stravinski[/COLOR]</title>
+<title>Prince - 2009.07.18 Montreux, Auditorium Stravinski</title>
 <link>https://youtu.be/KPwcWuihCaw</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Prince New Year's Eve 1987[/COLOR]</title>
+<title>Prince New Year's Eve 1987</title>
 <link>https://youtu.be/BnWLp5z2iA0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Prince Lovesexy Tour 1988 full[/COLOR]</title>
+<title>Prince Lovesexy Tour 1988 full</title>
 <link>https://youtu.be/ACsJ0k_qdPE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]MEAT LOAF - Live London 1987 (Full)[/COLOR]</title>
+<title>MEAT LOAF - Live London 1987 (Full)[/COLOR]</title>
 <link>https://youtu.be/_-aavkTiXIc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]MEAT LOAF - HISTORY LIVE 1994[/COLOR]</title>
+<title>MEAT LOAF - HISTORY LIVE 1994</title>
 <link>https://youtu.be/stJDZ4XrKLQ</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Meat Loaf 1995, Neighbourhood Live[/COLOR]</title>
+<title>Meat Loaf 1995, Neighbourhood Live</title>
 <link>https://youtu.be/M9JkyfS_XlY</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Meat Loaf - The Guilty Pleasure Tour[/COLOR]</title>
+<title>Meat Loaf - The Guilty Pleasure Tour</title>
 <link>https://youtu.be/Z3tnb6c6iuU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Foreigner - Live At Deer Creek - 1993[/COLOR]</title>
+<title>Foreigner - Live At Deer Creek - 1993</title>
 <link>https://youtu.be/0CnRbhB38O0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Foreigner - Live in Dortmund Germany 1981 (German TV Broadcast)[/COLOR]</title>
+<title>Foreigner - Live in Dortmund Germany 1981 (German TV Broadcast)[/COLOR]</title>
 <link>https://youtu.be/yTkHV3hD010</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Foreigner - Unplugged [TV] Full Concert[/COLOR]</title>
+<title>Foreigner - Unplugged [TV] Full Concert</title>
 <link>https://youtu.be/mPnjyrQIn6E</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rod Stewart One Night Only full concert Live at Royal Albert Hall 2004[/COLOR]</title>
+<title>Rod Stewart One Night Only full concert Live at Royal Albert Hall 2004</title>
 <link>https://youtu.be/aVnfZMTUB7Q</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rod Stewart Hyde Park 2015 complete show[/COLOR]</title>
+<title>Rod Stewart Hyde Park 2015 complete show</title>
 <link>https://youtu.be/922xvZKeImY</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]BeeGees Live One For Australia[/COLOR]</title>
+<title>BeeGees Live One For Australia</title>
 <link>https://youtu.be/p_SOJauGVeI</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Elton John. Basel 18 November 2006[/COLOR]</title>
+<title>Elton John. Basel 18 November 2006</title>
 <link>https://youtu.be/lNag96i3zkM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Dire straits Concert In Nimes 1992 [FULL CONCERT][/COLOR]</title>
+<title>Dire straits Concert In Nimes 1992 [FULL CONCERT][/COLOR]</title>
 <link>https://youtu.be/x4Qy-AUIm-0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Bootleg Beatles - live at Crocus City Hall 07.10.2014[/COLOR]</title>
+<title>The Bootleg Beatles - live at Crocus City Hall 07.10.2014</title>
 <link>https://youtu.be/ydn2-V0rWXU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Slade - Full Concert - 08/04/75 - Winterland (OFFICIAL)[/COLOR]</title>
+<title>Slade - Full Concert - 08/04/75 - Winterland (OFFICIAL)[/COLOR]</title>
 <link>https://youtu.be/aqcpx2K2SVA</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Slade alive in German Democratic Republic '77[/COLOR]</title>
+<title>Slade alive in German Democratic Republic '77</title>
 <link>https://youtu.be/XsAVuIji6sI</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Jimi Hendrix live Stockholm 1969 rare colour video[/COLOR]</title>
+<title>Jimi Hendrix live Stockholm 1969 rare colour video</title>
 <link>https://youtu.be/co0Mc5CrMcc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Jimi Hendrix live at the Royal Albert Hall Full concert 1969 Stereo[/COLOR]</title>
+<title>Jimi Hendrix live at the Royal Albert Hall Full concert 1969 Stereo</title>
 <link>https://youtu.be/Nr0d79HiSGY</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bob Dylan - Full Concert - 12/04/88 - Oakland Coliseum Arena[/COLOR]</title>
+<title>Bob Dylan - Full Concert - 12/04/88 - Oakland Coliseum Arena</title>
 <link>https://youtu.be/AIjzSrq0UgE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Tina Turner - One Last Time Live In Concert (Live in Wembley, 2000 HQ)[/COLOR]</title>
+<title>Tina Turner - One Last Time Live In Concert (Live in Wembley, 2000 HQ)[/COLOR]</title>
 <link>https://youtu.be/5rQ4gXu_B6c</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Madonna - Sticky & Sweet Tour HD[/COLOR]</title>
+<title>Madonna - Sticky & Sweet Tour HD</title>
 <link>https://youtu.be/aiuB_e2QYb8</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Take That Live 2015, Full concert[/COLOR]</title>
+<title>Take That Live 2015, Full concert</title>
 <link>https://youtu.be/vdgSkQm3zAY</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Take That - The Ultimate Tour 2006 HD[/COLOR]</title>
+<title>Take That - The Ultimate Tour 2006 HD</title>
 <link>https://youtu.be/XA9e_x6tZaQ</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Robbie Williams LIVE At The Royal Albert Hall 2001 HD[/COLOR]</title>
+<title>Robbie Williams LIVE At The Royal Albert Hall 2001 HD</title>
 <link>https://youtu.be/1dV7mnWDf6c</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Robbie Williams - Live In Tallinn 1080p Full Concert[/COLOR]</title>
+<title>Robbie Williams - Live In Tallinn 1080p Full Concert</title>
 <link>https://youtu.be/mY9tL_EuWSo</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Cher LIVE IN CONCERT[/COLOR]</title>
+<title>Cher LIVE IN CONCERT</title>
 <link>https://youtu.be/O8aH7iLegP0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Shania Twain Up! Live In Chicago 2003[/COLOR]</title>
+<title>Shania Twain Up! Live In Chicago 2003</title>
 <link>https://youtu.be/cgFLdewM1ys</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]The Tragically Hip August 12 2016 Live in Toronto Full Concert in HD[/COLOR]</title>
+<title>The Tragically Hip August 12 2016 Live in Toronto Full Concert in HD</title>
 <link>https://youtu.be/hBX7TQqBAXE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Manic Street Preachers Live from Cardiff Castle 2015[/COLOR]</title>
+<title>Manic Street Preachers Live from Cardiff Castle 2015</title>
 <link>https://youtu.be/xqkG3xsq8_g</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Manic Street Preachers - Live At Nynex 1997 [Everything Live Uncut Version][/COLOR]</title>
+<title>Manic Street Preachers - Live At Nynex 1997 [Everything Live Uncut Version][/COLOR]</title>
 <link>https://youtu.be/4sjIUbEHgP8</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Manics - TInThePark (11th July 2014) Highlights[/COLOR]</title>
+<title>Manics - TInThePark (11th July 2014) Highlights</title>
 <link>https://youtu.be/ZsJFM7SSwVg</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Black Sabbath Live in Paris 1970 (Full Show)[/COLOR]</title>
+<title>Black Sabbath Live in Paris 1970 (Full Show)[/COLOR]</title>
 <link>https://youtu.be/6yZA4TC_pt4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Black Sabbath - Live in Hyde Park, London 04.07.2014[/COLOR]</title>
+<title>Black Sabbath - Live in Hyde Park, London 04.07.2014</title>
 <link>https://youtu.be/n5REfM-zMBM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Black Sabbath - Never Say Die 1978 (Full Concert)[/COLOR]</title>
+<title>Black Sabbath - Never Say Die 1978 (Full Concert)[/COLOR]</title>
 <link>https://youtu.be/ZGdtehZ1BZ0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rainbow - Live Between the Eyes San Antonio 1982 Full Concert[/COLOR]</title>
+<title>Rainbow - Live Between the Eyes San Antonio 1982 Full Concert</title>
 <link>https://youtu.be/fx2B8ii_Yf4</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rainbow - Live in Japan 1984[/COLOR]</title>
+<title>Rainbow - Live in Japan 1984</title>
 <utube>-buED-MpVg8</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Rainbow - 1997 Toronto - FULL CONCERT HQ[/COLOR]</title>
+<title>Rainbow - 1997 Toronto - FULL CONCERT HQ</title>
 <link>https://youtu.be/8-h6XENwvLk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Bryan Adams - Rocks Big Ben Live (2016) HD FULL CONCERT[/COLOR]</title>
+<title>Bryan Adams - Rocks Big Ben Live (2016) HD FULL CONCERT</title>
 <link>https://youtu.be/E-5wCTTL7fg</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Radiohead - Live at NOS Alive! Festival, 2016 (Full Concert) [50fps][/COLOR]</title>
+<title>Radiohead - Live at NOS Alive! Festival, 2016 (Full Concert) [50fps][/COLOR]</title>
 <link>https://youtu.be/1Qs8cWPE5MA</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Radiohead - Live Outside Lands Festival 2016 (Full Show) HD[/COLOR]</title>
+<title>Radiohead - Live Outside Lands Festival 2016 (Full Show) HD</title>
 <link>https://youtu.be/PsYxwPCGxy8</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR lime]Radiohead Live @ Lollapalooza Berlin 2016[/COLOR]</title>
+<title>Radiohead Live @ Lollapalooza Berlin 2016</title>
 <link>https://youtu.be/T7tif9pFYp0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORlime]1975 - Lounge Symphony[/COLOR]</title>
+<title>1975 - Lounge Symphony</title>
 <link><link>https://youtu.be/IiYbBdacOtM</link>
 <thumbnail>http://www.aaaedinburgh.co.uk/wp-content/uploads/2015/11/the19751.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]1975 Live - Reading and Leeds Festival[/COLOR]</title>
+<title>1975 Live - Reading and Leeds Festival</title>
 <link><link>https://youtu.be/lNEN7MLgFiY</link>
 <thumbnail>http://www.aaaedinburgh.co.uk/wp-content/uploads/2015/11/the19751.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]ABBA - Live at Wembley[/COLOR]</title>
+<title>ABBA - Live at Wembley</title>
 <link><link>https://youtu.be/UFBKCuu3ts8</link>
 <thumbnail>https://c.saavncdn.com/artists/Abba.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]ABBA - Live in Australia[/COLOR]</title>
+<title>ABBA - Live in Australia</title>
 <link><link>https://youtu.be/6Z3XvUzQjco</link>
 <thumbnail>https://c.saavncdn.com/artists/Abba.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]AC/DC - Live at Oakland Coliseum[/COLOR]</title>
+<title>AC/DC - Live at Oakland Coliseum</title>
 <link><link>https://youtu.be/https://youtu.be/epSe9V5ngeo</link>
 <thumbnail>https://www.music-bazaar.com/album-images/vol12/627/627652/2473053-big/The-Very-Best-Of-AC-DC-CD2-cover.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]AC/DC - Live in Munich 2001[/COLOR]</title>
+<title>AC/DC - Live in Munich 2001</title>
 <link><link>https://youtu.be/SaUN0QHOkHk</link>
 <thumbnail>https://www.music-bazaar.com/album-images/vol12/627/627652/2473053-big/The-Very-Best-Of-AC-DC-CD2-cover.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]AC/DC - Rock Or Bust[/COLOR]</title>
+<title>AC/DC - Rock Or Bust</title>
 <link><link>https://youtu.be/7uauVGvTF-8</link>
 <thumbnail>https://www.music-bazaar.com/album-images/vol12/627/627652/2473053-big/The-Very-Best-Of-AC-DC-CD2-cover.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Above & Beyond - Live at EDC Las Vegas[/COLOR]</title>
+<title>Above & Beyond - Live at EDC Las Vegas</title>
 <link><link>https://youtu.be/cS6Hi2Avoww</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000081639580-p1ksiw-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Above & Beyond - Live at Ziggo Dome[/COLOR]</title>
+<title>Above & Beyond - Live at Ziggo Dome</title>
 <link><link>https://youtu.be/cS6Hi2Avoww</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000081639580-p1ksiw-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Adele - Live at The Tabernacle[/COLOR]</title>
+<title>Adele - Live at The Tabernacle</title>
 <link><link>https://youtu.be/xUkFF5l_uvU</link>
 <thumbnail>http://www.bennytarantini.com/site/wp-content/uploads/2015/07/OP15246_AM_Adele_PR2_RGB-e1456936271246.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Adele - Live in New York city[/COLOR]</title>
+<title>Adele - Live in New York city</title>
 <link><link>https://youtu.be/b-XlTuEdL7g</link>
 <thumbnail>http://www.bennytarantini.com/site/wp-content/uploads/2015/07/OP15246_AM_Adele_PR2_RGB-e1456936271246.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Aerosmith - Live in Detroit[/COLOR]</title>
+<title>Aerosmith - Live in Detroit</title>
 <link><link>https://youtu.be/neFgnugwc14</link>
 <thumbnail>https://www.equinox-music.com/files/img/aerosmith.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Aerosmith - Live in Moscow[/COLOR]</title>
+<title>Aerosmith - Live in Moscow</title>
 <link><link>https://youtu.be/SFD2ZgVe_pc</link>
 <thumbnail>https://www.equinox-music.com/files/img/aerosmith.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Amy Winehouse - Live In London[/COLOR]</title>
+<title>Amy Winehouse - Live In London</title>
 <link><link>https://youtu.be/XwLaaPrybUA</link>
 <thumbnail>http://saintheron.com/wp-content/uploads/2015/12/IMG_1233-500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Amy Winehouse - Live at Glastonbury[/COLOR]</title>
+<title>Amy Winehouse - Live at Glastonbury</title>
 <link><link>https://youtu.be/8Poc65uzT1s</link>
 <thumbnail>http://saintheron.com/wp-content/uploads/2015/12/IMG_1233-500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Arctic Monkeys - AM Tour[/COLOR]</title>
+<title>Arctic Monkeys - AM Tour</title>
 <link><link>https://youtu.be/R-srhsBhE-0</link>
 <thumbnail>https://s6.favim.com/orig/141104/am-arctic-monkeys-best-music-Favim.com-2208906.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Arctic Monkeys - Live at Glastonbury[/COLOR]</title>
+<title>Arctic Monkeys - Live at Glastonbury</title>
 <link><link>https://youtu.be/BoHkfAhQ8Fc</link>
 <thumbnail>https://s6.favim.com/orig/141104/am-arctic-monkeys-best-music-Favim.com-2208906.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Arctic Monkeys - Reading and Leeds Festival[/COLOR]</title>
+<title>Arctic Monkeys - Reading and Leeds Festival</title>
 <link><link>https://youtu.be/HwINhUczIlY</link>
 <thumbnail>https://s6.favim.com/orig/141104/am-arctic-monkeys-best-music-Favim.com-2208906.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Ariana Grande - Live At iHeartRadio Music Festival[/COLOR]</title>
+<title>Ariana Grande - Live At iHeartRadio Music Festival</title>
 <link><link>https://youtu.be/HOXEwdi6LEU</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/255eb85b134ad27052af07c76133d67a/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Ariana Grande - One Love Manchester[/COLOR]</title>
+<title>Ariana Grande - One Love Manchester</title>
 <link><link>https://youtu.be/W_QWv895SRM</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/255eb85b134ad27052af07c76133d67a/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Armin van Buuren - Live at Tomorrowland[/COLOR]</title>
+<title>Armin van Buuren - Live at Tomorrowland</title>
 <link><link>https://youtu.be/9vQ6X_xFSYw</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000117338662-7rw4kl-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Armin van Buuren - The Armin Only Intense World Tour[/COLOR]</title>
+<title>Armin van Buuren - The Armin Only Intense World Tour</title>
 <link><link>https://youtu.be/F-7OFftB43w</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000117338662-7rw4kl-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Avril Lavigne - Live at Roxy Theatre[/COLOR]</title>
+<title>Avril Lavigne - Live at Roxy Theatre</title>
 <link><link>https://youtu.be/ln4xlpATUTc</link>
 <thumbnail>https://www.celebdetail.com/wp-content/uploads/2013/11/Avril-Lavigne-Bra-Size-Wiki-Hot-Images.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]BBC Radio 1 - Benji B Live at Café Mambo[/COLOR]</title>
+<title>BBC Radio 1 - Benji B Live at Café Mambo</title>
 <link><link>https://youtu.be/Gkpq90mkaNw</link>
 <thumbnail>https://www.spiff-radio.org/wordpress/wp-content/uploads/2014/07/bbc-radio-11.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]BBC Radio 1 - Disclosure B2B Annie Mac Live at Café Mambo[/COLOR]</title>
+<title>BBC Radio 1 - Disclosure B2B Annie Mac Live at Café Mambo</title>
 <link><link>https://youtu.be/YjQ2-ZuFAI4</link>
 <thumbnail>https://www.spiff-radio.org/wordpress/wp-content/uploads/2014/07/bbc-radio-11.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]BBC Radio 1 - Fatboy Slim Live at Café Mambo[/COLOR]</title>
+<title>BBC Radio 1 - Fatboy Slim Live at Café Mambo</title>
 <link><link>https://youtu.be/wWnP5D3uuYA</link>
 <thumbnail>https://www.spiff-radio.org/wordpress/wp-content/uploads/2014/07/bbc-radio-11.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]BBC Radio 1 - Ibiza Highlights[/COLOR]</title>
+<title>BBC Radio 1 - Ibiza Highlights</title>
 <link><link>https://youtu.be/L00OTY716cU</link>
 <thumbnail>https://www.spiff-radio.org/wordpress/wp-content/uploads/2014/07/bbc-radio-11.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]BBC Radio 1 - Ibiza Prom[/COLOR]</title>
+<title>BBC Radio 1 - Ibiza Prom</title>
 <link><link>https://youtu.be/xs3BXVTF7mw</link>
 <thumbnail>https://www.spiff-radio.org/wordpress/wp-content/uploads/2014/07/bbc-radio-11.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bad Manners - Don't Knock The Bald Heads[/COLOR]</title>
+<title>Bad Manners - Don't Knock The Bald Heads</title>
 <link><link>https://youtu.be/AcWIup_XKLw</link>
 <thumbnail>http://www.crashrecords.co.uk/wp-content/uploads/2017/06/bad-manners.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Beatles - Live in Australia[/COLOR]</title>
+<title>Beatles - Live in Australia</title>
 <link><link>https://youtu.be/e6r523MsuUk</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/cf/ef/24/cfef247e7e9d61216d12e86d2b2d729e--les-beatles-rock-bands.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]BeeGees - One For Australia[/COLOR]</title>
+<title>BeeGees - One For Australia</title>
 <link><link>https://youtu.be/p_SOJauGVeI</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000179456427-upowxo-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Beyonce - Live at Glastonbury[/COLOR]</title>
+<title>Beyonce - Live at Glastonbury</title>
 <link><link>https://youtu.be/AJPew8bOMyQ</link>
 <thumbnail>http://2dopeboyz.com/wp-content/uploads/2013/03/20130321-BEYONCE.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Beyonce - Live at Global Citizen Festival[/COLOR]</title>
+<title>Beyonce - Live at Global Citizen Festival</title>
 <link><link>https://youtu.be/x18Yoh6so4o</link>
 <thumbnail>http://2dopeboyz.com/wp-content/uploads/2013/03/20130321-BEYONCE.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Billy Joel - Live at Bonnaroo[/COLOR]</title>
+<title>Billy Joel - Live at Bonnaroo</title>
 <link><link>https://youtu.be/oerZ1cYE-Qk</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51UJa6rlSAL._SS500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Billy Joel - Live in Tokyo[/COLOR]</title>
+<title>Billy Joel - Live in Tokyo</title>
 <link><link>https://youtu.be/Y9QIEBubIPc</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51UJa6rlSAL._SS500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Black Sabbath - Live in Paris[/COLOR]</title>
+<title>Black Sabbath - Live in Paris</title>
 <link><link>https://youtu.be/6yZA4TC_pt4</link>
 <thumbnail>https://68.media.tumblr.com/f25970e06e83349ae0796332df7e05ca/tumblr_naajdbJn2y1s3zziro1_500.gif</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Black Sabbath - Never Say Die[/COLOR]</title>
+<title>Black Sabbath - Never Say Die</title>
 <link><link>https://youtu.be/ZGdtehZ1BZ0</link>
 <thumbnail>https://68.media.tumblr.com/f25970e06e83349ae0796332df7e05ca/tumblr_naajdbJn2y1s3zziro1_500.gif</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Blur - Live at Hyde Park[/COLOR]</title>
+<title>Blur - Live at Hyde Park</title>
 <link><link>https://youtu.be/_ll4r3bC-dk</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000035044044-i50pqm-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Blur - Live at Köln Music Hall[/COLOR]</title>
+<title>Blur - Live at Köln Music Hall</title>
 <link><link>https://youtu.be/FhJshj22pnM</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000035044044-i50pqm-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Blur - Live in Chile [/COLOR]</title>
+<title>Blur - Live in Chile </title>
 <link><link>https://youtu.be/ebRfvAsrwxY</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000035044044-i50pqm-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Blur - Live in Hong Kong[/COLOR]</title>
+<title>Blur - Live in Hong Kong</title>
 <link><link>https://youtu.be/f1EcExZcOQE</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000035044044-i50pqm-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bob Dylan - Oakland Coliseum Arena[/COLOR]</title>
+<title>Bob Dylan - Oakland Coliseum Arena</title>
 <link><link>https://youtu.be/AIjzSrq0UgE</link>
 <thumbnail>http://www.jmeshel.com/wp-content/uploads/2017/03/11e499000e1ae934ee0afb385d9863ca.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bob Marley & the Wailers - Harvard Stadium Boston[/COLOR]</title>
+<title>Bob Marley & the Wailers - Harvard Stadium Boston</title>
 <link><link>https://youtu.be/3-5yg7C5o4Q</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1846300072/BOBMARLEY.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bob Marley & the Wailers - Live In Rockpalast[/COLOR]</title>
+<title>Bob Marley & the Wailers - Live In Rockpalast</title>
 <link><link>https://youtu.be/XspU6g9m2Fs</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1846300072/BOBMARLEY.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bob Marley & the Wailers - Live at Oakland Auditorium[/COLOR]</title>
+<title>Bob Marley & the Wailers - Live at Oakland Auditorium</title>
 <link><link>https://youtu.be/r55iXZ6btJ8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1846300072/BOBMARLEY.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bon Jovi - Live at Cleveland[/COLOR]</title>
+<title>Bon Jovi - Live at Cleveland</title>
 <link><link>https://youtu.be/O1x-nXUL0hE</link>
 <thumbnail>http://www.music-news.com/images/news/BonJovi.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bon Jovi - Live at Wembley Stadium[/COLOR]</title>
+<title>Bon Jovi - Live at Wembley Stadium</title>
 <link><link>https://youtu.be/52BozfS0wCY</link>
 <thumbnail>http://www.music-news.com/images/news/BonJovi.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bon Jovi - Live in Times Square[/COLOR]</title>
+<title>Bon Jovi - Live in Times Square</title>
 <link><link>https://youtu.be/XoYVFBKY6_A</link>
 <thumbnail>http://www.music-news.com/images/news/BonJovi.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bruce Springsteen - Live in Lisbon[/COLOR]</title>
+<title>Bruce Springsteen - Live in Lisbon</title>
 <link><link>https://youtu.be/B_FOn2nUy5Q</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/36/34/18/3634181db77da0a2e4d747184b6097a6.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bruce Springsteen - Madison Square Garden[/COLOR]</title>
+<title>Bruce Springsteen - Madison Square Garden</title>
 <link><link>https://youtu.be/Nv36RaPrOrc</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/36/34/18/3634181db77da0a2e4d747184b6097a6.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bruno Mars - Radio 1 Weekender[/COLOR]</title>
+<title>Bruno Mars - Radio 1 Weekender</title>
 <link><link>https://youtu.be/fV8OTEGjgk4</link>
 <thumbnail>https://pbs.twimg.com/profile_images/786296148663365632/MHYpX42L.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Bryan Adams - Front and Centre[/COLOR]</title>
+<title>Bryan Adams - Front and Centre</title>
 <link><link>https://youtu.be/w3UYTH8-i6U</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/b52571c814d48a1648c8b1df8ef67450/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Candy Dulfer - Baloise Session[/COLOR]</title>
+<title>Candy Dulfer - Baloise Session</title>
 <link><link>https://youtu.be/S3kKiot7u5Q</link>
 <thumbnail>http://thejazzinmee.com/wp-content/uploads/2013/08/Candy_Dulfer_resize-500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Carl Cox - Boiler Room Ibiza Villa Takeovers[/COLOR]</title>
+<title>Carl Cox - Boiler Room Ibiza Villa Takeovers</title>
 <link><link>https://youtu.be/vy-k0FopsmY</link>
 <thumbnail>https://images.music-worx.com/topdjs/Carl-Cox.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Carl Cox - Live at Radio 1 Ibiza[/COLOR]</title>
+<title>Carl Cox - Live at Radio 1 Ibiza</title>
 <link><link>https://youtu.be/NnK6n0T-B4M</link>
 <thumbnail>https://images.music-worx.com/topdjs/Carl-Cox.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Carpenters -  Live at the The Talk of the Town[/COLOR]</title>
+<title>Carpenters -  Live at the The Talk of the Town</title>
 <link><link>https://youtu.be/Lthl3386XGI</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/31HVpvjgLPL.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Carpenters - Live at the New London Theatre[/COLOR]</title>
+<title>Carpenters - Live at the New London Theatre</title>
 <link><link>https://youtu.be/1MCarkGd4Xk</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/31HVpvjgLPL.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Cher - Live in Vegas[/COLOR]</title>
+<title>Cher - Live in Vegas</title>
 <link><link>https://youtu.be/O8aH7iLegP0</link>
 <thumbnail>http://photos.seriouslyomg.com/i.ashx?&mid=101853662&mt=Photo&standardsize=500x500</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Chicago - Live Greek Theatre Concert[/COLOR]</title>
+<title>Chicago - Live Greek Theatre Concert</title>
 <link><link>https://youtu.be/N8FcJ6f3xJ4</link>
 <thumbnail>https://image-ticketfly.imgix.net/00/01/98/29/51-og.jpg?w=500&h=500</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Chicago featuring The Doobie Brothers  - Live in Chicago[/COLOR]</title>
+<title>Chicago featuring The Doobie Brothers  - Live in Chicago</title>
 <link><link>https://youtu.be/XGZXlbTlyFo</link>
 <thumbnail>https://image-ticketfly.imgix.net/00/01/98/29/51-og.jpg?w=500&h=500</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Christy Moore - Late Late Show Tribute[/COLOR]</title>
+<title>Christy Moore - Late Late Show Tribute</title>
 <link><link>https://youtu.be/8zG3eLOc8E4</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/3e1f911241b06f8bd24f6b85d1f7be48/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Christy Moore - Sound Check Live At The Point[/COLOR]</title>
+<title>Christy Moore - Sound Check Live At The Point</title>
 <link><link>https://youtu.be/WycCdpwJGE0</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/3e1f911241b06f8bd24f6b85d1f7be48/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Coldplay - Live at Glastonbury 2016[/COLOR]</title>
+<title>Coldplay - Live at Glastonbury 2016</title>
 <link><link>https://youtu.be/xfrbu3cLdUg</link>
 <thumbnail>https://c.saavncdn.com/artists/Coldplay.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Coldplay - Live at Global Citizen[/COLOR]</title>
+<title>Coldplay - Live at Global Citizen</title>
 <link><link>https://youtu.be/3r62Gt7-hVs</link>
 <thumbnail>https://c.saavncdn.com/artists/Coldplay.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Coldplay - Live at the Stade De France[/COLOR]</title>
+<title>Coldplay - Live at the Stade De France</title>
 <link><link>https://youtu.be/1pUk-QT4Mwo</link>
 <thumbnail>https://c.saavncdn.com/artists/Coldplay.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Coldplay - Live in Madrid[/COLOR]</title>
+<title>Coldplay - Live in Madrid</title>
 <link><link>https://youtu.be/xfUl2SSQRIY</link>
 <thumbnail>https://c.saavncdn.com/artists/Coldplay.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Coldplay - Radio 1 Live Lounge[/COLOR]</title>
+<title>Coldplay - Radio 1 Live Lounge</title>
 <link><link>https://youtu.be/A2p-5-5kc3M</link>
 <thumbnail>https://c.saavncdn.com/artists/Coldplay.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Coldplay - Rock in RIO[/COLOR]</title>
+<title>Coldplay - Rock in RIO</title>
 <link><link>https://youtu.be/znzXyDKsoYc</link>
 <thumbnail>https://c.saavncdn.com/artists/Coldplay.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Coldplay - T in the Park[/COLOR]</title>
+<title>Coldplay - T in the Park</title>
 <link><link>https://youtu.be/kKJnzKiB1-o</link>
 <thumbnail>https://c.saavncdn.com/artists/Coldplay.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Cream - The Reunion[/COLOR]</title>
+<title>Cream - The Reunion</title>
 <link><link>https://youtu.be/UJefbp-s9LA</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/61%2BAYIE3TcL._SL500_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Dash Berlin - Live at Ultra Music Festival[/COLOR]</title>
+<title>Dash Berlin - Live at Ultra Music Festival</title>
 <link><link>https://youtu.be/xil1jOjAXr4</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000149476919-h97oxa-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]David Bowie - Live By Request[/COLOR]</title>
+<title>David Bowie - Live By Request</title>
 <link><link>https://youtu.be/eQq4FH81jd0</link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2017/01/2Aladdin-Sane-Eyes-Open-Photo-Duffy-%C2%A9-Duffy-Archive-The-David-Bowie-Archive-%E2%84%A2-500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]David Bowie - Live at the BBC Radio Theatre[/COLOR]</title>
+<title>David Bowie - Live at the BBC Radio Theatre</title>
 <link><link>https://youtu.be/AFNSEgR0pU</link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2017/01/2Aladdin-Sane-Eyes-Open-Photo-Duffy-%C2%A9-Duffy-Archive-The-David-Bowie-Archive-%E2%84%A2-500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]David Guetta - Live at Tomorrowland[/COLOR]</title>
+<title>David Guetta - Live at Tomorrowland</title>
 <link><link>https://youtu.be/sq0GW1nRsYo</link>
 <thumbnail>http://media.new.mensxp.com/media/content/2017/Jan/2-1484397672.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]David Guetta - Live at Ultra Music Festival[/COLOR]</title>
+<title>David Guetta - Live at Ultra Music Festival</title>
 <link><link>https://youtu.be/P2x3-b6JEj8</link>
 <thumbnail>http://media.new.mensxp.com/media/content/2017/Jan/2-1484397672.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Dead Kennedys - Live in San Francisco[/COLOR]</title>
+<title>Dead Kennedys - Live in San Francisco</title>
 <link><link>https://youtu.be/FYfSt0xcQIk</link>
 <thumbnail>http://68.media.tumblr.com/tumblr_n6ltywdss61tapftu_og.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Def Leppard - Viva! Hysteria[/COLOR]</title>
+<title>Def Leppard - Viva! Hysteria</title>
 <link><link>https://youtu.be/yiNIvRWhBHg</link>
 <thumbnail>http://cps-static.rovicorp.com/3/JPG_500/MI0003/962/MI0003962673.jpg?partner=allrovi.com</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Dennis DeYoung and the Music of Styx - Live in Los Angeles[/COLOR]</title>
+<title>Dennis DeYoung and the Music of Styx - Live in Los Angeles</title>
 <link><link>https://youtu.be/pZThG_d4lyc</link>
 <thumbnail>https://www.grande-rock.com/sites/default/files/imagecache/large/imagesnews/dennisdeyoungandthemusicofstyx-liveinlosangeles-cover2014.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Doobie Brothers - Live in Chicago[/COLOR]</title>
+<title>Doobie Brothers - Live in Chicago</title>
 <link><link>https://youtu.be/jiHHCvmMD64</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/1ed734ae42f8b6618ba7a76ca8f32986/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Doobie Brothers - Live in Santa Barbara[/COLOR]</title>
+<title>Doobie Brothers - Live in Santa Barbara</title>
 <link><link>https://youtu.be/3LCB_RdfdXc</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/1ed734ae42f8b6618ba7a76ca8f32986/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Duke Dumont - Live at Radio Ibiza[/COLOR]</title>
+<title>Duke Dumont - Live at Radio Ibiza</title>
 <link><link>https://youtu.be/lIdJZXknVM0</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/4118024e71bd7fe8346e41042b624491/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Eagles - Live at the Capital Centre[/COLOR]</title>
+<title>Eagles - Live at the Capital Centre</title>
 <link><link>https://youtu.be/6ejTaoyVctg</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/414173bc159959b21e4003587b931081/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Earth Wind and Fire - By Request[/COLOR]</title>
+<title>Earth Wind and Fire - By Request</title>
 <link><link>https://youtu.be/0mTLd9dpzas</link>
 <thumbnail>https://i1.sndcdn.com/avatars-000041876276-nlov80-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Ed Sheeran - Live at iTunes Festival [/COLOR]</title>
+<title>Ed Sheeran - Live at iTunes Festival </title>
 <link><link>https://youtu.be/8zqgB2SCPLo</link>
 <thumbnail>https://c.saavncdn.com/artists/Ed_Sheeran.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Ed Sheeran - Multiply[/COLOR]</title>
+<title>Ed Sheeran - Multiply</title>
 <link><link>https://youtu.be/lR3vIjAZDnM</link>
 <thumbnail>https://c.saavncdn.com/artists/Ed_Sheeran.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Ed Sheeran - Radio 1 Live Lounge[/COLOR]</title>
+<title>Ed Sheeran - Radio 1 Live Lounge</title>
 <link><link>https://youtu.be/rIcxd7kisxo</link>
 <thumbnail>https://c.saavncdn.com/artists/Ed_Sheeran.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Ed Sheeran- Rock In Rio[/COLOR]</title>
+<title>Ed Sheeran- Rock In Rio</title>
 <link><link>https://youtu.be/4xtEn2eOUNg</link>
 <thumbnail>https://c.saavncdn.com/artists/Ed_Sheeran.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elbow - Live at Glastonbury[/COLOR]</title>
+<title>Elbow - Live at Glastonbury</title>
 <link><link>https://youtu.be/9NM1exj4HEA</link>
 <thumbnail>http://www.femalefirst.co.uk/image-library/partners/bang/square/500/1/1282578494-11.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elbow - Live at Hurricane[/COLOR]</title>
+<title>Elbow - Live at Hurricane</title>
 <link><link>https://youtu.be/RViPW64eL0g</link>
 <thumbnail>http://www.femalefirst.co.uk/image-library/partners/bang/square/500/1/1282578494-11.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elbow - Live at Manchester Apollo[/COLOR]</title>
+<title>Elbow - Live at Manchester Apollo</title>
 <link><link>https://youtu.be/HvIJL06DSV8</link>
 <thumbnail>http://www.femalefirst.co.uk/image-library/partners/bang/square/500/1/1282578494-11.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elton John - Live At Madison Square Garden[/COLOR]</title>
+<title>Elton John - Live At Madison Square Garden</title>
 <link><link>https://youtu.be/teYZM0Aft0A</link>
 <thumbnail>http://www.maxfm.com.tr/files/artists/elton-john/images/elton1007.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elton John - Live at Outside Lands[/COLOR]</title>
+<title>Elton John - Live at Outside Lands</title>
 <link><link>https://youtu.be/0JQQPErc-BA</link>
 <thumbnail>http://www.maxfm.com.tr/files/artists/elton-john/images/elton1007.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elton John - Live at The Royal Opera House[/COLOR]</title>
+<title>Elton John - Live at The Royal Opera House</title>
 <link><link>https://youtu.be/vschhZ7TxIM</link>
 <thumbnail>http://www.maxfm.com.tr/files/artists/elton-john/images/elton1007.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elton John Live in Basel[/COLOR]</title>
+<title>Elton John Live in Basel</title>
 <link><link>https://youtu.be/lNag96i3zkM</link>
 <thumbnail>http://www.maxfm.com.tr/files/artists/elton-john/images/elton1007.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elvis - Final Concert[/COLOR]</title>
+<title>Elvis - Final Concert</title>
 <link><link>https://youtu.be/Xh53niIqMtk</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1769232864/adufgash.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Elvis Presley - Charlotte, GA Macon Coliseum[/COLOR]</title>
+<title>Elvis Presley - Charlotte, GA Macon Coliseum</title>
 <link><link>https://youtu.be/PYf3tHuuQt4</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1769232864/adufgash.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Eminem & Rihanna - The Monster Tour[/COLOR]</title>
+<title>Eminem & Rihanna - The Monster Tour</title>
 <link>http://www.missinfo.tv/wp-content/uploads/2014/02/eminem-rihanna.jpg.jpg</link>
 <thumbnail>http://assets7.gcstatic.com/u/apps/asset_manager/uploaded/2013/46/eminem-and-rihanna-1385024560-custom-0.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Eminem - Live at Wembley Stadium[/COLOR]</title>
+<title>Eminem - Live at Wembley Stadium</title>
 <link><link>https://youtu.be/BSWlV85-MYI</link>
 <thumbnail>http://www.radiovps.com/wp-content/uploads/2016/10/Eminem.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Eminem - Live in New York City (4k video)[/COLOR]</title>
+<title>Eminem - Live in New York City (4k video)[/COLOR]</title>
 <link><link>https://youtu.be/ldWvm-ZqKaY</link>
 <thumbnail>http://www.radiovps.com/wp-content/uploads/2016/10/Eminem.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Eric Clapton - Live at Budokan[/COLOR]</title>
+<title>Eric Clapton - Live at Budokan</title>
 <link><link>https://youtu.be/3FE70D5mRp0</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/ef/8b/da/ef8bda5420df6730de62c878ff35d20d--eric-clapton-film-music-books.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Europe - Live at Shepherd's Bush[/COLOR]</title>
+<title>Europe - Live at Shepherd's Bush</title>
 <link><link>https://youtu.be/mT9PVCsxx-M</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1376692189/Europe.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Europe - Live at Wacken Open Air[/COLOR]</title>
+<title>Europe - Live at Wacken Open Air</title>
 <link><link>https://youtu.be/voyrL1Jm0ew</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1376692189/Europe.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Evanescence - Rock in RIO[/COLOR]</title>
+<title>Evanescence - Rock in RIO</title>
 <link><link>https://youtu.be/5NGB-jdkM2c</link>
 <thumbnail>https://i1.sndcdn.com/avatars-000006337692-g8r9s3-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Faithless - Live at Radio 1 Ibiza[/COLOR]</title>
+<title>Faithless - Live at Radio 1 Ibiza</title>
 <link><link>https://youtu.be/Q7mYLLnHqeM</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/lyricwiki/images/a/a6/Faithless.jpg/revision/latest?cb=20130828080132</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Fall Out Boy - Leeds and Reading Festival[/COLOR]</title>
+<title>Fall Out Boy - Leeds and Reading Festival</title>
 <link><link>https://youtu.be/N_tTy5Qe41w</link>
 <thumbnail>https://dx72k0ec4onep.cloudfront.net/Curated+Brand+Images/fall-out-boy.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Fall Out Boy - Live at March Madness Music Festival[/COLOR]</title>
+<title>Fall Out Boy - Live at March Madness Music Festival</title>
 <link><link>https://youtu.be/GTXkK5ANY1E</link>
 <thumbnail>https://dx72k0ec4onep.cloudfront.net/Curated+Brand+Images/fall-out-boy.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Fall Out Boy - Radio 1's Teen Awards [/COLOR]</title>
+<title>Fall Out Boy - Radio 1's Teen Awards </title>
 <link>https://www.youtube.com/watch?v=-3LfOi2EfHE</link>
 <thumbnail>https://dx72k0ec4onep.cloudfront.net/Curated+Brand+Images/fall-out-boy.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Foo Fighters - Leeds and Reading Festival[/COLOR]</title>
+<title>Foo Fighters - Leeds and Reading Festival</title>
 <link><link>https://youtu.be/qf4wywF3PSk</link>
 <thumbnail>http://s1.evcdn.com/images/edpborder500/I0-001/000/679/080-3.png_/foo-fighters-80.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Foo Fighters - Live in Hyde Park[/COLOR]</title>
+<title>Foo Fighters - Live in Hyde Park</title>
 <link><link>https://youtu.be/P8fA4RRYmUQ</link>
 <thumbnail>http://s1.evcdn.com/images/edpborder500/I0-001/000/679/080-3.png_/foo-fighters-80.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Foo Fighters - Live in RIO[/COLOR]</title>
+<title>Foo Fighters - Live in RIO</title>
 <link><link>https://youtu.be/SDiEv1cb_Zs</link>
 <thumbnail>http://s1.evcdn.com/images/edpborder500/I0-001/000/679/080-3.png_/foo-fighters-80.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Foo Fighters - Rock AM[/COLOR]</title>
+<title>Foo Fighters - Rock AM</title>
 <link><link>https://youtu.be/pnrx1UV6mdQ</link>
 <thumbnail>http://s1.evcdn.com/images/edpborder500/I0-001/000/679/080-3.png_/foo-fighters-80.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Foo Fighters Live at Cheese and Grain[/COLOR]</title>
+<title>Foo Fighters Live at Cheese and Grain</title>
 <link><link>https://youtu.be/K9szlGyqEM8</link>
 <thumbnail>http://s1.evcdn.com/images/edpborder500/I0-001/000/679/080-3.png_/foo-fighters-80.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Foreigner - Live at Deer Creek[/COLOR]</title>
+<title>Foreigner - Live at Deer Creek</title>
 <link><link>https://youtu.be/0CnRbhB38O0</link>
 <thumbnail>http://www.rocktopia.co.uk/media/reviews/photos/original/11/c4/0b/Foreigner-Live-2016-37-1476985813.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Foreigner - Live in Dortmund[/COLOR]</title>
+<title>Foreigner - Live in Dortmund</title>
 <link><link>https://youtu.be/yTkHV3hD010</link>
 <thumbnail>http://www.rocktopia.co.uk/media/reviews/photos/original/11/c4/0b/Foreigner-Live-2016-37-1476985813.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Foreigner - Unplugged[/COLOR]</title>
+<title>Foreigner - Unplugged</title>
 <link><link>https://youtu.be/mPnjyrQIn6E</link>
 <thumbnail>http://www.rocktopia.co.uk/media/reviews/photos/original/11/c4/0b/Foreigner-Live-2016-37-1476985813.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Genesis - Live in Dusseldorf[/COLOR]</title>
+<title>Genesis - Live in Dusseldorf</title>
 <link><link>https://youtu.be/I1oJ-Ib8D4E</link>
 <thumbnail>https://pbs.twimg.com/profile_images/529678439633010688/_loXqEmj.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Goo Goo Dolls - Live at Breckenridge[/COLOR]</title>
+<title>Goo Goo Dolls - Live at Breckenridge</title>
 <link><link>https://youtu.be/d9vR2U3msjA</link>
 <thumbnail>https://s3.amazonaws.com/images.sheetmusicdirect.com/Contributor/e2c00c56-8365-4160-9f40-a64682917633/large.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Goo Goo Dolls - Live at Darien Lake[/COLOR]</title>
+<title>Goo Goo Dolls - Live at Darien Lake</title>
 <link><link>https://youtu.be/vr_y-48LP70</link>
 <thumbnail>https://s3.amazonaws.com/images.sheetmusicdirect.com/Contributor/e2c00c56-8365-4160-9f40-a64682917633/large.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Goo Goo Dolls - Live at Red Rocks[/COLOR]</title>
+<title>Goo Goo Dolls - Live at Red Rocks</title>
 <link><link>https://youtu.be/z8eCnyqFrxw</link>
 <thumbnail>https://s3.amazonaws.com/images.sheetmusicdirect.com/Contributor/e2c00c56-8365-4160-9f40-a64682917633/large.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Gorillaz - Live atDemon Dayz Festival[/COLOR]</title>
+<title>Gorillaz - Live atDemon Dayz Festival</title>
 <link><link>https://youtu.be/GuEC_GD6iT0</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51OfzG2H7aL._SS500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Gorillaz Live - Live at Glastonbury[/COLOR]</title>
+<title>Gorillaz Live - Live at Glastonbury</title>
 <link><link>https://youtu.be/ETDRlowsigw</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51OfzG2H7aL._SS500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Green Day - Rock Am Ring[/COLOR]</title>
+<title>Green Day - Rock Am Ring</title>
 <link><link>https://youtu.be/Q93wKRpmZU0</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2239621767/image.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Guns N' Roses - Live at The Ritz[/COLOR]</title>
+<title>Guns N' Roses - Live at The Ritz</title>
 <link><link>https://youtu.be/9zKPjJgfIss</link>
 <thumbnail>http://sleazeroxx.com/wp-content/uploads/GNR-photo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Guns N' Roses - Live in Chicago [/COLOR]</title>
+<title>Guns N' Roses - Live in Chicago </title>
 <link><link>https://youtu.be/6SlKqVJT9tI</link>
 <thumbnail>http://sleazeroxx.com/wp-content/uploads/GNR-photo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Guns N' Roses - Live in Tokyo[/COLOR]</title>
+<title>Guns N' Roses - Live in Tokyo</title>
 <link><link>https://youtu.be/oKw4HWNFN2Y</link>
 <thumbnail>http://sleazeroxx.com/wp-content/uploads/GNR-photo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Hardwell - Live at Ultra Europe[/COLOR]</title>
+<title>Hardwell - Live at Ultra Europe</title>
 <link><link>https://youtu.be/zCLQHbTK_84</link>
 <thumbnail>http://www.edmselector.com/wp-content/uploads/2017/03/hardwell-n.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Iron Maiden - Live  at Wacken[/COLOR]</title>
+<title>Iron Maiden - Live  at Wacken</title>
 <link><link>https://youtu.be/_qy4s3F9P6I</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/99/7a/8d/997a8da40fe968f43639ba83dfcf69c0.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]James - T in the Park[/COLOR]</title>
+<title>James - T in the Park</title>
 <link><link>https://youtu.be/jBxFfTHj8_I</link>
 <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41bbCJ3PAQL._SS500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]James Taylor - Live at Cultura 24[/COLOR]</title>
+<title>James Taylor - Live at Cultura 24</title>
 <link><link>https://youtu.be/EPm3zcvkiw4</link>
 <thumbnail>http://mediamass.net/jdd/public/documents/celebrities/1269.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]James Taylor - Live in New York City[/COLOR]</title>
+<title>James Taylor - Live in New York City</title>
 <link><link>https://youtu.be/V96EwqN9xEM</link>
 <thumbnail>http://mediamass.net/jdd/public/documents/celebrities/1269.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Jamiroquai - Live at Paleo Festival[/COLOR]</title>
+<title>Jamiroquai - Live at Paleo Festival</title>
 <link><link>https://youtu.be/edYM--suJP8</link>
 <thumbnail>http://static.tvtropes.org/pmwiki/pub/images/jamiroquai-300x3001_436.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Jamiroquai - Live at Woodstock 99[/COLOR]</title>
+<title>Jamiroquai - Live at Woodstock 99</title>
 <link><link>https://youtu.be/6cszCm5FrSM</link>
 <thumbnail>http://static.tvtropes.org/pmwiki/pub/images/jamiroquai-300x3001_436.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Jason Mraz - Backyard Concert[/COLOR]</title>
+<title>Jason Mraz - Backyard Concert</title>
 <link><link>https://youtu.be/WBIGmjQhpGY</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/bd20c6bf9a5a2019bab8406f3c19b588/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Jason Mraz - EBS[/COLOR]</title>
+<title>Jason Mraz - EBS</title>
 <link><link>https://youtu.be/zIqbmZBM1ao</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/bd20c6bf9a5a2019bab8406f3c19b588/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Jason Mraz - Live at Bonnaroo Manchester[/COLOR]</title>
+<title>Jason Mraz - Live at Bonnaroo Manchester</title>
 <link><link>https://youtu.be/kpyGv4ujiAY</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/bd20c6bf9a5a2019bab8406f3c19b588/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Jason Mraz - Live in Hong Kong[/COLOR]</title>
+<title>Jason Mraz - Live in Hong Kong</title>
 <link><link>https://youtu.be/PsmagyzZtlA</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/bd20c6bf9a5a2019bab8406f3c19b588/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Jay Z - Live at Coachella Festival[/COLOR]</title>
+<title>Jay Z - Live at Coachella Festival</title>
 <link><link>https://youtu.be/AokgW5ifmgQ</link>
 <thumbnail>https://a3-images.myspacecdn.com/images03/35/a03b92e0338b4b229ae5e3cb379a2907/300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Jay Z - Live at Rock AM Ring[/COLOR]</title>
+<title>Jay Z - Live at Rock AM Ring</title>
 <link><link>https://youtu.be/MkV5MaXK68U</link>
 <thumbnail>https://a3-images.myspacecdn.com/images03/35/a03b92e0338b4b229ae5e3cb379a2907/300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]John Lennon & Plastic Ono Band - Live in Toronto[/COLOR]</title>
+<title>John Lennon & Plastic Ono Band - Live in Toronto</title>
 <link><link>https://youtu.be/uEqnT6Pr3iY</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61RwQubXgYL.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Justin Bieber - In Concert[/COLOR]</title>
+<title>Justin Bieber - In Concert</title>
 <link><link>https://youtu.be/lVpbp9s8Jyk</link>
 <thumbnail>https://pbs.twimg.com/profile_images/853824576559734784/9DmDKwmV.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kanye West - 808's and Heartbreak[/COLOR]</title>
+<title>Kanye West - 808's and Heartbreak</title>
 <link><link>https://youtu.be/7T4SgKzsvYg</link>
 <thumbnail>http://images.sk-static.com/images/media/profile_images/artists/552177/huge_avatar</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kanye West - Live at Coachella Festival[/COLOR]</title>
+<title>Kanye West - Live at Coachella Festival</title>
 <link><link>https://youtu.be/AokgW5ifmgQ</link>
 <thumbnail>http://images.sk-static.com/images/media/profile_images/artists/552177/huge_avatar</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kasabian - Live Reading and Leeds Festival[/COLOR]</title>
+<title>Kasabian - Live Reading and Leeds Festival</title>
 <link><link>https://youtu.be/wpIrz_n2YHw</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/143fd19a34116f3ad09c9f88522c2cbf/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kasabian - Live T in the Park[/COLOR]</title>
+<title>Kasabian - Live T in the Park</title>
 <link><link>https://youtu.be/c3RURoMtQUw</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/143fd19a34116f3ad09c9f88522c2cbf/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kasabian - Live at The Forum[/COLOR]</title>
+<title>Kasabian - Live at The Forum</title>
 <link><link>https://youtu.be/ZkWXubsY5gs</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/143fd19a34116f3ad09c9f88522c2cbf/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kings of Leon - Live at Glastonbury[/COLOR]</title>
+<title>Kings of Leon - Live at Glastonbury</title>
 <link><link>https://youtu.be/1QLeKo9GGoM</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/016/989/422-6.jpeg_/kings-of-leon-22.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kings of Leon - Live at Lollapalooza[/COLOR]</title>
+<title>Kings of Leon - Live at Lollapalooza</title>
 <link><link>https://youtu.be/YmSMkJ9rg0k</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/016/989/422-6.jpeg_/kings-of-leon-22.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kings of Leon - Live at Radio 1 Ibiza[/COLOR]</title>
+<title>Kings of Leon - Live at Radio 1 Ibiza</title>
 <link><link>https://youtu.be/UcnVKMiHUUY</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/016/989/422-6.jpeg_/kings-of-leon-22.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kiss - Animalize Live Uncensored[/COLOR]</title>
+<title>Kiss - Animalize Live Uncensored</title>
 <link><link>https://youtu.be/9tPgi0KzjP0</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/001/664/665-3.jpeg_/kiss-65.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kiss - Live at Cobo Hall[/COLOR]</title>
+<title>Kiss - Live at Cobo Hall</title>
 <link><link>https://youtu.be/Hd770ioHhHg</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/001/664/665-3.jpeg_/kiss-65.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kiss - Live in Houston[/COLOR]</title>
+<title>Kiss - Live in Houston</title>
 <link><link>https://youtu.be/5bLUUOhffsk</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/001/664/665-3.jpeg_/kiss-65.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kiss - Live in Toledo[/COLOR]</title>
+<title>Kiss - Live in Toledo</title>
 <link><link>https://youtu.be/vjlMfxLJ6QY</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/001/664/665-3.jpeg_/kiss-65.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kiss - MTV Unplugged[/COLOR]</title>
+<title>Kiss - MTV Unplugged</title>
 <link><link>https://youtu.be/nOgmoNRqN6Q</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/001/664/665-3.jpeg_/kiss-65.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kiss - Monster Tour[/COLOR]</title>
+<title>Kiss - Monster Tour</title>
 <link><link>https://youtu.be/znVYOV76oBA</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/001/664/665-3.jpeg_/kiss-65.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Kiss - Symphony[/COLOR]</title>
+<title>Kiss - Symphony</title>
 <link><link>https://youtu.be/fJaq0YP85kU</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/001/664/665-3.jpeg_/kiss-65.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Lady Gaga - Live at Glastonbury[/COLOR]</title>
+<title>Lady Gaga - Live at Glastonbury</title>
 <link><link>https://youtu.be/d1GPP8RPDu8</link>
 <thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2016/02/lady-gaga-golden-globes-instagram-1452504598-custom-0.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Lady Gaga - Live at artRave[/COLOR]</title>
+<title>Lady Gaga - Live at artRave</title>
 <link><link>https://youtu.be/hAbogzTZUIU</link>
 <thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2016/02/lady-gaga-golden-globes-instagram-1452504598-custom-0.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Led Zeppelin - Celebration Day[/COLOR]</title>
+<title>Led Zeppelin - Celebration Day</title>
 <link><link>https://youtu.be/vyqU6aTvCsE</link>
 <thumbnail>https://assets-production-webvanta-com.s3-us-west-2.amazonaws.com/000000/35/90/medium/portfolios/Collector%20Portfolios/Led%20Zeppelin/HG_Zepplin-002.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Linkin Park & Friends - Celebrate Life in Honor of Chester Bennington[/COLOR]</title>
+<title>Linkin Park & Friends - Celebrate Life in Honor of Chester Bennington</title>
 <link><link>https://youtu.be/9VoLHdADma8</link>
 <thumbnail>http://scdb.abradio.cz/uploads/interprets/l/linkin-park-11.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Linkin Park - Live Southside Festival[/COLOR]</title>
+<title>Linkin Park - Live Southside Festival</title>
 <link><link>https://youtu.be/wXPeSYHZlFA</link>
 <thumbnail>http://scdb.abradio.cz/uploads/interprets/l/linkin-park-11.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Linkin Park - Live at I-Days Milano Festival[/COLOR]</title>
+<title>Linkin Park - Live at I-Days Milano Festival</title>
 <link><link>https://youtu.be/ixV3l5A-wmo</link>
 <thumbnail>http://scdb.abradio.cz/uploads/interprets/l/linkin-park-11.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Linkin Park - Road to Revolution[/COLOR]</title>
+<title>Linkin Park - Road to Revolution</title>
 <link><link>https://youtu.be/Z0qOMyUyW_U</link>
 <thumbnail>http://scdb.abradio.cz/uploads/interprets/l/linkin-park-11.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Lionel Richie - Live at Viña[/COLOR]</title>
+<title>Lionel Richie - Live at Viña</title>
 <link><link>https://youtu.be/Az_r567qB8Y</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/lyricwiki/images/1/1a/Lionel_Richie.jpg/revision/latest?cb=20110518212945</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Lionel Richie and Friends in Concert[/COLOR]</title>
+<title>Lionel Richie and Friends in Concert</title>
 <link><link>https://youtu.be/IJIl8zO0v98</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/lyricwiki/images/1/1a/Lionel_Richie.jpg/revision/latest?cb=20110518212945</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Little Mix  - Salute Live Stream[/COLOR]</title>
+<title>Little Mix  - Salute Live Stream</title>
 <link><link>https://youtu.be/m8jTUWVyP4A</link>
 <thumbnail>http://www.eventim.co.uk/obj/media/UK-eventim/galery/kuenstler/l/little-mix-hammersmith-apollo-3.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Little Mix - Live at Radio 1's Big Weekend[/COLOR]</title>
+<title>Little Mix - Live at Radio 1's Big Weekend</title>
 <link><link>https://youtu.be/GbCXV7LvL-Q</link>
 <thumbnail>http://www.eventim.co.uk/obj/media/UK-eventim/galery/kuenstler/l/little-mix-hammersmith-apollo-3.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Little Mix - Live at V Festival[/COLOR]</title>
+<title>Little Mix - Live at V Festival</title>
 <link><link>https://youtu.be/Qw3Ne3dRNA4</link>
 <thumbnail>http://www.eventim.co.uk/obj/media/UK-eventim/galery/kuenstler/l/little-mix-hammersmith-apollo-3.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Lynyrd Skynyrd - Live in Chicago[/COLOR]</title>
+<title>Lynyrd Skynyrd - Live in Chicago</title>
 <link><link>https://youtu.be/WI7lR7wkm1U</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/038/424/747-0.jpeg_/lynyrd-skynyrd-47.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Madness - At MadStock[/COLOR]</title>
+<title>Madness - At MadStock</title>
 <link><link>https://youtu.be/vLxhn5Q4-eM</link>
 <thumbnail>http://www.femalefirst.co.uk/image-library/square/500/m/madness.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Madonna - Sticky & Sweet[/COLOR]</title>
+<title>Madonna - Sticky & Sweet</title>
 <link><link>https://youtu.be/aiuB_e2QYb8</link>
 <thumbnail>http://static.wixstatic.com/media/79c029_87b9b3e1e57e476a8e8a72bceb3ae34f~mv2.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Manic Street Preachers - Live at Cardiff Castle[/COLOR]</title>
+<title>Manic Street Preachers - Live at Cardiff Castle</title>
 <link><link>https://youtu.be/xqkG3xsq8_g</link>
 <thumbnail>http://cdn-images.deezer.com/images/artist/741886878e2fb4a8151c25be0e979f1a/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Manic Street Preachers - T in the Park[/COLOR]</title>
+<title>Manic Street Preachers - T in the Park</title>
 <link><link>https://youtu.be/ZsJFM7SSwVg</link>
 <thumbnail>http://cdn-images.deezer.com/images/artist/741886878e2fb4a8151c25be0e979f1a/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Mark Knopfler - A Night In London[/COLOR]</title>
+<title>Mark Knopfler - A Night In London</title>
 <link><link>https://youtu.be/X5hGElxySFw</link>
 <thumbnail>http://www.music-news.com/images/news/Mark-Knopfler.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Mark Knopfler - An Evening With[/COLOR]</title>
+<title>Mark Knopfler - An Evening With</title>
 <link><link>https://youtu.be/vSU2EkTR6vI</link>
 <thumbnail>http://www.music-news.com/images/news/Mark-Knopfler.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Mark Knopfler - Live In Berlin[/COLOR]</title>
+<title>Mark Knopfler - Live In Berlin</title>
 <link><link>https://youtu.be/XIDudix1RDc</link>
 <thumbnail>http://www.music-news.com/images/news/Mark-Knopfler.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Mark Knopfler - Live In The Atrium[/COLOR]</title>
+<title>Mark Knopfler - Live In The Atrium</title>
 <link><link>https://youtu.be/B8KB81eSke4</link>
 <thumbnail>http://www.music-news.com/images/news/Mark-Knopfler.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Meat Loaf - History[/COLOR]</title>
+<title>Meat Loaf - History</title>
 <link><link>https://youtu.be/stJDZ4XrKLQ</link>
 <thumbnail>http://17rg073sukbm1lmjk9jrehb643.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/ml2.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Meat Loaf - Live in London[/COLOR]</title>
+<title>Meat Loaf - Live in London</title>
 <link><link>https://youtu.be/_-aavkTiXIc</link>
 <thumbnail>http://17rg073sukbm1lmjk9jrehb643.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/ml2.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Meat Loaf - Neighbourhood[/COLOR]</title>
+<title>Meat Loaf - Neighbourhood</title>
 <link><link>https://youtu.be/M9JkyfS_XlY</link>
 <thumbnail>http://17rg073sukbm1lmjk9jrehb643.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/ml2.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Metallica - Live at Berkeley Community Theater[/COLOR]</title>
+<title>Metallica - Live at Berkeley Community Theater</title>
 <link><link>https://youtu.be/PblCqNxincU</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/000/195/606-0.jpg_/metallica-06.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Metallica - Live in Minneapolis[/COLOR]</title>
+<title>Metallica - Live in Minneapolis</title>
 <link><link>https://youtu.be/sn2YnyoXIqI</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/000/195/606-0.jpg_/metallica-06.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Michael Buble - Home for Christmas[/COLOR]</title>
+<title>Michael Buble - Home for Christmas</title>
 <link><link>https://youtu.be/TGTTvvIWbgU</link>
 <thumbnail>https://lh5.googleusercontent.com/-84eYNVd2gtk/AAAAAAAAAAI/AAAAAAAAATU/wOVgmBRSte0/photo.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Michael Buble - The Best Songs[/COLOR]</title>
+<title>Michael Buble - The Best Songs</title>
 <link><link>https://youtu.be/T1pijyA4WZs</link>
 <thumbnail>https://lh5.googleusercontent.com/-84eYNVd2gtk/AAAAAAAAAAI/AAAAAAAAATU/wOVgmBRSte0/photo.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Michael Jackson - Bad Tour[/COLOR]</title>
+<title>Michael Jackson - Bad Tour</title>
 <link><link>https://youtu.be/0sJs0_uXs0U</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000000771764/4f993b65a207eb1d9165eabc6532d7f6.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Michael Jackson - Dangerous Tour[/COLOR]</title>
+<title>Michael Jackson - Dangerous Tour</title>
 <link><link>https://youtu.be/0ymSnL5HmOQ</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000000771764/4f993b65a207eb1d9165eabc6532d7f6.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Michael Jackson - History Tour[/COLOR]</title>
+<title>Michael Jackson - History Tour</title>
 <link><link>https://youtu.be/Y0JcJbzTjjw</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000000771764/4f993b65a207eb1d9165eabc6532d7f6.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Michael Jackson - Live in New York City [/COLOR]</title>
+<title>Michael Jackson - Live in New York City </title>
 <link><link>https://youtu.be/eRn0DDIkIq0</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000000771764/4f993b65a207eb1d9165eabc6532d7f6.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Motorhead - Live At Wacken Open[/COLOR]</title>
+<title>Motorhead - Live At Wacken Open</title>
 <link><link>https://youtu.be/jk886pOS4Mo</link>
 <thumbnail>http://www.music-news.com/images/news/Motorhead.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Motorhead - Live at Rock AM[/COLOR]</title>
+<title>Motorhead - Live at Rock AM</title>
 <link><link>https://youtu.be/x9r7lZ-rsw4</link>
 <thumbnail>http://www.music-news.com/images/news/Motorhead.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Motorhead - Stage Fright [/COLOR]</title>
+<title>Motorhead - Stage Fright </title>
 <link><link>https://youtu.be/b8V7ph6JR84</link>
 <thumbnail>http://www.music-news.com/images/news/Motorhead.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Muse - Live At Firefly Music Festival[/COLOR]</title>
+<title>Muse - Live At Firefly Music Festival</title>
 <link><link>https://youtu.be/bKyX3KNPH6s</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/000/273/446-5.jpg_/muse-46.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Muse - Live at Austin 360[/COLOR]</title>
+<title>Muse - Live at Austin 360</title>
 <link><link>https://youtu.be/lpaoRDxzns0</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/000/273/446-5.jpg_/muse-46.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Muse - Live at Glastonbury[/COLOR]</title>
+<title>Muse - Live at Glastonbury</title>
 <link><link>https://youtu.be/htKrPX0Lwqw</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/000/273/446-5.jpg_/muse-46.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Muse - Radio 1's Live Lounge[/COLOR]</title>
+<title>Muse - Radio 1's Live Lounge</title>
 <link><link>https://youtu.be/hpjciAuKBT0</link>
 <thumbnail>http://s3.evcdn.com/images/edpborder500/I0-001/000/273/446-5.jpg_/muse-46.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Mötley Crüe - Carnival of Sins[/COLOR]</title>
+<title>Mötley Crüe - Carnival of Sins</title>
 <link><link>https://youtu.be/EnZKhKSLqRk</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/000/925/647-0.png_/motley-crue-47.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Neil Diamond - Greatest Hits[/COLOR]</title>
+<title>Neil Diamond - Greatest Hits</title>
 <link><link>https://youtu.be/iVRXOWAHs9w</link>
 <thumbnail>http://static0.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/05/Neil+Diamond+2011+Billboard+Music+Awards+Show+XA_U3zAENEsl_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Nirvana - MTV Live And Loud[/COLOR]</title>
+<title>Nirvana - MTV Live And Loud</title>
 <link><link>https://youtu.be/i0g8toTz-ek</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/1e/f5/0f/1ef50f6c0daf1def02cb5afa856c9e44--nirvana-kurt-cobain-alternative-rock.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Noel Gallagher - Live for Radio 2[/COLOR]</title>
+<title>Noel Gallagher - Live for Radio 2</title>
 <link><link>https://youtu.be/9QOjLITQ8P0</link>
 <thumbnail>http://static3.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/s3/2013/07/noel_0131_qpmdr_300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Noel Gallagher - Sitting Here in Silence[/COLOR]</title>
+<title>Noel Gallagher - Sitting Here in Silence</title>
 <link><link>https://youtu.be/ZkxJCXvqOFk</link>
 <thumbnail>http://static3.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/s3/2013/07/noel_0131_qpmdr_300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Oasis - Familiar to Millions[/COLOR]</title>
+<title>Oasis - Familiar to Millions</title>
 <link><link>https://youtu.be/4hP8mmtH4Xg</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/72/1c/b5/721cb5ee5c6fffe9b22586c7d7ea1b7e--oasis-band-beady-eye.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Oasis - Live at Mainroad[/COLOR]</title>
+<title>Oasis - Live at Mainroad</title>
 <link><link>https://youtu.be/LNIRNnri2Ms</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/72/1c/b5/721cb5ee5c6fffe9b22586c7d7ea1b7e--oasis-band-beady-eye.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Oasis - Live in Manchester[/COLOR]</title>
+<title>Oasis - Live in Manchester</title>
 <link><link>https://youtu.be/UWH3vFQhC1o&t=430s</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/72/1c/b5/721cb5ee5c6fffe9b22586c7d7ea1b7e--oasis-band-beady-eye.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Oasis - Live in Manchester[/COLOR]</title>
+<title>Oasis - Live in Manchester</title>
 <link><link>https://youtu.be/UWH3vFQhC1o</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/72/1c/b5/721cb5ee5c6fffe9b22586c7d7ea1b7e--oasis-band-beady-eye.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Ocean Colour Scene - Live at Stirling Castle [/COLOR]</title>
+<title>Ocean Colour Scene - Live at Stirling Castle </title>
 <link><link>https://youtu.be/CuHaEuqwNWw</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000079245710-16g58v-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Ocean Colour Scene - Live at the Town Hall[/COLOR]</title>
+<title>Ocean Colour Scene - Live at the Town Hall</title>
 <link><link>https://youtu.be/N4UP-m3KuaA</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000079245710-16g58v-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul McCartney & Wings - Band On The Run[/COLOR]</title>
+<title>Paul McCartney & Wings - Band On The Run</title>
 <link><link>https://youtu.be/t8dQwP80uNQ</link>
 <thumbnail>http://seecolombia.travel/blog/wp-content/uploads/2012/03/Paul-McCartney-12.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul McCartney & Wings - Rockshow[/COLOR]</title>
+<title>Paul McCartney & Wings - Rockshow</title>
 <link><link>https://youtu.be/p1UafXtokdE</link>
 <thumbnail>http://seecolombia.travel/blog/wp-content/uploads/2012/03/Paul-McCartney-12.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul McCartney - Get Back[/COLOR]</title>
+<title>Paul McCartney - Get Back</title>
 <link><link>https://youtu.be/3Z3Ek1gL_JU</link>
 <thumbnail>http://seecolombia.travel/blog/wp-content/uploads/2012/03/Paul-McCartney-12.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul McCartney - Live In Rio[/COLOR]</title>
+<title>Paul McCartney - Live In Rio</title>
 <link><link>https://youtu.be/_0C_yRKR3Rc</link>
 <thumbnail>http://seecolombia.travel/blog/wp-content/uploads/2012/03/Paul-McCartney-12.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul McCartney - in Concert[/COLOR]</title>
+<title>Paul McCartney - in Concert</title>
 <link><link>https://youtu.be/7S2JJpSmqZo</link>
 <thumbnail>http://seecolombia.travel/blog/wp-content/uploads/2012/03/Paul-McCartney-12.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul Van Dyk - Live at Alfa Future People Festival[/COLOR]</title>
+<title>Paul Van Dyk - Live at Alfa Future People Festival</title>
 <link><link>https://youtu.be/nCxjwnk06zo</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000092846976-f66iat-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul Van Dyk - Live at Creamfields[/COLOR]</title>
+<title>Paul Van Dyk - Live at Creamfields</title>
 <link><link>https://youtu.be/RizV_9uXWf4</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000092846976-f66iat-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul Weller - Days of Speed Acoustic[/COLOR]</title>
+<title>Paul Weller - Days of Speed Acoustic</title>
 <link><link>https://youtu.be/OzNJGGULLMI</link>
 <thumbnail>http://paulweller.com/wp-content/uploads/2015/04/Paul-Weller-4-300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul Weller - Live In Hyde Park[/COLOR]</title>
+<title>Paul Weller - Live In Hyde Park</title>
 <link><link>https://youtu.be/kOP86HN30L8</link>
 <thumbnail>http://paulweller.com/wp-content/uploads/2015/04/Paul-Weller-4-300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Paul Weller - Live at Studio 150[/COLOR]</title>
+<title>Paul Weller - Live at Studio 150</title>
 <link><link>https://youtu.be/rQriGkMiFmE</link>
 <thumbnail>http://paulweller.com/wp-content/uploads/2015/04/Paul-Weller-4-300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Pearl Jam - Detroit Mi[/COLOR]</title>
+<title>Pearl Jam - Detroit Mi</title>
 <link><link>https://youtu.be/UKOpnK5fC4k</link>
 <thumbnail>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1442884644i/16288431.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Pete Tong & Hot Since 82 - Live at Radio 1 Ibiza[/COLOR]</title>
+<title>Pete Tong & Hot Since 82 - Live at Radio 1 Ibiza</title>
 <link><link>https://youtu.be/Q7mYLLnHqeM</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000095779036-oe3wi8-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Phil Collins - Finally... The First Farewell Tour[/COLOR]</title>
+<title>Phil Collins - Finally... The First Farewell Tour</title>
 <link><link>https://youtu.be/KweMFoeFeHQ</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Phil Collins - Live at Perkins Palace[/COLOR]</title>
+<title>Phil Collins - Live at Perkins Palace</title>
 <link><link>https://youtu.be/3JBQW3ZlVwk</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Phil Collins - Live in Japan[/COLOR]</title>
+<title>Phil Collins - Live in Japan</title>
 <link><link>https://youtu.be/0awgTiauTtQ</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Phil Collins - Live in New York[/COLOR]</title>
+<title>Phil Collins - Live in New York</title>
 <link><link>https://youtu.be/77JOJFljv1w</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Phil Collins - No Ticket Required[/COLOR]</title>
+<title>Phil Collins - No Ticket Required</title>
 <link><link>https://youtu.be/pWa-PS2cRg4</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Phil Collins - Seriously Live in Berlin[/COLOR]</title>
+<title>Phil Collins - Seriously Live in Berlin</title>
 <link><link>https://youtu.be/WYLMN8m5Qss</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Phil Collins - Storyteller[/COLOR]</title>
+<title>Phil Collins - Storyteller</title>
 <link><link>https://youtu.be/o_wvTjGH_9Y</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Phil Collins - The Best Ballads[/COLOR]</title>
+<title>Phil Collins - The Best Ballads</title>
 <link><link>https://youtu.be/MCLGQctJkoU</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Pink Floyd - Live in London 2005[/COLOR]</title>
+<title>Pink Floyd - Live in London 2005</title>
 <link><link>https://youtu.be/ljaU7YcrKAU</link>
 <thumbnail>http://static8.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/10/pc_thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Poison - Live Raw and Uncut[/COLOR]</title>
+<title>Poison - Live Raw and Uncut</title>
 <link><link>https://youtu.be/CFNlFgstXb4</link>
 <thumbnail>http://www.casinodelsol.com/wp-content/uploads/poison-300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Powderfinger - Live at Take 40[/COLOR]</title>
+<title>Powderfinger - Live at Take 40</title>
 <link><link>https://youtu.be/YVTE6lHA2N4</link>
 <thumbnail>https://a4-images.myspacecdn.com/images03/2/74e1bf5039e34d4da9182e32b4e8087b/300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Powderfinger - Live at the Powerhouse[/COLOR]</title>
+<title>Powderfinger - Live at the Powerhouse</title>
 <link><link>https://youtu.be/JSVGZw1xsl4</link>
 <thumbnail>https://a4-images.myspacecdn.com/images03/2/74e1bf5039e34d4da9182e32b4e8087b/300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Powderfinger - Monday Night Live Acoustic Set[/COLOR]</title>
+<title>Powderfinger - Monday Night Live Acoustic Set</title>
 <link><link>https://youtu.be/nykff3Zr8Dg</link>
 <thumbnail>https://a4-images.myspacecdn.com/images03/2/74e1bf5039e34d4da9182e32b4e8087b/300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Powderfinger - Monday Night Live Electric Set[/COLOR]</title>
+<title>Powderfinger - Monday Night Live Electric Set</title>
 <link><link>https://youtu.be/Zcr-puySIwk</link>
 <thumbnail>https://a4-images.myspacecdn.com/images03/2/74e1bf5039e34d4da9182e32b4e8087b/300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Queen - Hungarian Rhapsody[/COLOR]</title>
+<title>Queen - Hungarian Rhapsody</title>
 <link><link>https://youtu.be/_tp6j8_t-e8</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/08/82/5f/08825f99c9a3b01d980a5950a2c229fb--queen-freddie-mercury-rock-band.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Queen - Live Aid[/COLOR]</title>
+<title>Queen - Live Aid</title>
 <link><link>https://youtu.be/A22oy8dFjqc</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/08/82/5f/08825f99c9a3b01d980a5950a2c229fb--queen-freddie-mercury-rock-band.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Queen - Live At Wembley Stadium[/COLOR]</title>
+<title>Queen - Live At Wembley Stadium</title>
 <link><link>https://youtu.be/Uas3USgSEvM</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/08/82/5f/08825f99c9a3b01d980a5950a2c229fb--queen-freddie-mercury-rock-band.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Queens of the Stone Age - Live at Rock in RIO[/COLOR]</title>
+<title>Queens of the Stone Age - Live at Rock in RIO</title>
 <link><link>https://youtu.be/CSI3jWB6468</link>
 <thumbnail>https://a2-images.myspacecdn.com/images03/4/aba193974db741a28756950920ed32ce/300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]REM - Live at Austin City Limits Studio[/COLOR]</title>
+<title>REM - Live at Austin City Limits Studio</title>
 <link><link>https://youtu.be/2uywFsHDwyQ</link>
 <thumbnail>http://2.bp.blogspot.com/-z-N91TgXwtM/TnsguDGSs3I/AAAAAAAAFm8/rlcx3NLqS_Q/s1600/005REM_timeline.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]REM - Live at Rock in RIO[/COLOR]</title>
+<title>REM - Live at Rock in RIO</title>
 <link><link>https://youtu.be/FwlvsgLNd-U</link>
 <thumbnail>http://2.bp.blogspot.com/-z-N91TgXwtM/TnsguDGSs3I/AAAAAAAAFm8/rlcx3NLqS_Q/s1600/005REM_timeline.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]REM - Live at the Raleigh Underground[/COLOR]</title>
+<title>REM - Live at the Raleigh Underground</title>
 <link><link>https://youtu.be/9sBVX9kRmBE</link>
 <thumbnail>http://2.bp.blogspot.com/-z-N91TgXwtM/TnsguDGSs3I/AAAAAAAAFm8/rlcx3NLqS_Q/s1600/005REM_timeline.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]REM - Live in Athens[/COLOR]</title>
+<title>REM - Live in Athens</title>
 <link><link>https://youtu.be/XzV7m2E1Nog</link>
 <thumbnail>http://2.bp.blogspot.com/-z-N91TgXwtM/TnsguDGSs3I/AAAAAAAAFm8/rlcx3NLqS_Q/s1600/005REM_timeline.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]REM - Shoreline Amphitheatre[/COLOR]</title>
+<title>REM - Shoreline Amphitheatre</title>
 <link><link>https://youtu.be/aPm-_oYzo5k</link>
 <thumbnail>http://2.bp.blogspot.com/-z-N91TgXwtM/TnsguDGSs3I/AAAAAAAAFm8/rlcx3NLqS_Q/s1600/005REM_timeline.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Rage Against the Machine - Woodstock 99 [/COLOR]</title>
+<title>Rage Against the Machine - Woodstock 99 </title>
 <link><link>https://youtu.be/F9S-JVKw0mE</link>
 <thumbnail>http://cdn-images.deezer.com/images/artist/01dc7ba471ffdfcb1d257476ee94e410/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Rainbow - Between the Eyes[/COLOR]</title>
+<title>Rainbow - Between the Eyes</title>
 <link><link>https://youtu.be/fx2B8ii_Yf4</link>
 <thumbnail>http://www.davidrosenthal.com/images/discography/albums/rainbow.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Rainbow - Live in Japan [/COLOR]</title>
+<title>Rainbow - Live in Japan </title>
 <link>https://www.youtube.com/watch?v=-buED-MpVg8</link>
 <thumbnail>http://www.davidrosenthal.com/images/discography/albums/rainbow.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Rainbow - Live in Toronto[/COLOR]</title>
+<title>Rainbow - Live in Toronto</title>
 <link><link>https://youtu.be/8-h6XENwvLk</link>
 <thumbnail>http://www.davidrosenthal.com/images/discography/albums/rainbow.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Rick Astley - Live at Viña[/COLOR]</title>
+<title>Rick Astley - Live at Viña</title>
 <link><link>https://youtu.be/yHEoUdm6tpg</link>
 <thumbnail>https://ukutabs.com/artistimg/Rick%20Astley.jpg?x74537</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Robbie Williams - LIVE at The Royal Albert Hall[/COLOR]</title>
+<title>Robbie Williams - LIVE at The Royal Albert Hall</title>
 <link><link>https://youtu.be/1dV7mnWDf6c</link>
 <thumbnail>https://pbs.twimg.com/profile_images/780003679302803456/RkXE1rue.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Robbie Williams - Live for Radio 2[/COLOR]</title>
+<title>Robbie Williams - Live for Radio 2</title>
 <link><link>https://youtu.be/v7A4thPAUPE</link>
 <thumbnail>https://pbs.twimg.com/profile_images/780003679302803456/RkXE1rue.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Robbie Williams - Live in Tallinn[/COLOR]</title>
+<title>Robbie Williams - Live in Tallinn</title>
 <link>https://www.youtube.com/watch?v=-ufC30kqw18</link>
 <thumbnail>https://pbs.twimg.com/profile_images/780003679302803456/RkXE1rue.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Rocky Horror Show - Live Stage Show[/COLOR]</title>
+<title>Rocky Horror Show - Live Stage Show</title>
 <link><link>https://youtu.be/VIPckPtYmXk</link>
 <thumbnail>http://direct.rhapsody.com/imageserver/images/Alb.115805524/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Rod Stewart - Live at AVO Sessions Basel[/COLOR]</title>
+<title>Rod Stewart - Live at AVO Sessions Basel</title>
 <link><link>https://youtu.be/eudNu08hD3o</link>
 <thumbnail>http://static7.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/s3/2013/07/rod_stewart202_dvmmd_300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Rod Stewart - One Night Only[/COLOR]</title>
+<title>Rod Stewart - One Night Only</title>
 <link><link>https://youtu.be/aVnfZMTUB7Q</link>
 <thumbnail>http://static7.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/s3/2013/07/rod_stewart202_dvmmd_300x300.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Sam Smith - Rock in RIO[/COLOR]</title>
+<title>Sam Smith - Rock in RIO</title>
 <link><link>https://youtu.be/gHsDPI6Tog0</link>
 <thumbnail>http://cdn-images.deezer.com/images/artist/4685e4553664df4c7825716dc3afbe7f/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Scorpions -  Acoustica[/COLOR]</title>
+<title>Scorpions -  Acoustica</title>
 <link><link>https://youtu.be/xrctJZJRN3Y</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/038/702/847-8.jpeg_/scorpions-47.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Scorpions - Live at Hellfest[/COLOR]</title>
+<title>Scorpions - Live at Hellfest</title>
 <link><link>https://youtu.be/aNtIo1i0ABM</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/038/702/847-8.jpeg_/scorpions-47.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Scorpions - Live at Saarbrücken[/COLOR]</title>
+<title>Scorpions - Live at Saarbrücken</title>
 <link><link>https://youtu.be/wtx5jiDEvJc</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/038/702/847-8.jpeg_/scorpions-47.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Sex Pistols - There'll Always be an England[/COLOR]</title>
+<title>Sex Pistols - There'll Always be an England</title>
 <link><link>https://youtu.be/o_SQI9kgqIc</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/e8/6c/de/e86cde189f85dbd5343ca737f3cd7b30--johnny-rotten-music-.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Shania Twain - Up[/COLOR]</title>
+<title>Shania Twain - Up</title>
 <link><link>https://youtu.be/cgFLdewM1ys</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/dd9f6adb73484035e87e8afcc33cbf18/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Skrillex - Live at Ultra Music Festival[/COLOR]</title>
+<title>Skrillex - Live at Ultra Music Festival</title>
 <link><link>https://youtu.be/V2VmcuOEqEg</link>
 <thumbnail>https://68.media.tumblr.com/tumblr_m7kphudkj51qh2y13o1_cover.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Slade - Alive in German Democratic Republic[/COLOR]</title>
+<title>Slade - Alive in German Democratic Republic</title>
 <link><link>https://youtu.be/XsAVuIji6sI</link>
 <thumbnail>https://www.santaradio.co.uk/assets/img/artists/slade.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Slade - Winterland[/COLOR]</title>
+<title>Slade - Winterland</title>
 <link><link>https://youtu.be/aqcpx2K2SVA</link>
 <thumbnail>https://www.santaradio.co.uk/assets/img/artists/slade.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Spice Girls - Live at Wembley[/COLOR]</title>
+<title>Spice Girls - Live at Wembley</title>
 <link><link>https://youtu.be/bj1RSsbg3No</link>
 <thumbnail>http://dlisted.com/wp-content/uploads/2016/06/spicegirlssportposh-500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Stevie Wonder - A Wonder Summer's Night[/COLOR]</title>
+<title>Stevie Wonder - A Wonder Summer's Night</title>
 <link><link>https://youtu.be/9dB9ZyXtXlQ</link>
 <thumbnail>http://www.heliotricity.com/images/stevie_wonder/Stevie+Wonder%20500x500.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Stiff Little Fingers - At The Edge[/COLOR]</title>
+<title>Stiff Little Fingers - At The Edge</title>
 <link><link>https://youtu.be/AwJLoUINqSM</link>
 <thumbnail>http://www.festivalsforall.com/cache/6/e/7/1/c/6e71c4abac4e7ba158774327c3b4fddcdea42006-stiff-little-fingers.png</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Stone Sour - Live In Brighton[/COLOR]</title>
+<title>Stone Sour - Live In Brighton</title>
 <link>https://www.youtube.com/watch?v=-HvsO0lu25w</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/4f/c5/7d/4fc57d5f32ca3709ceecfc9e7c6fc418--stone-sour-corey-taylor.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Stone Sour - Live at Club Nokia[/COLOR]</title>
+<title>Stone Sour - Live at Club Nokia</title>
 <link><link>https://youtu.be/IiwFubjiGxs</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/a5/98/1e/a5981eecfa0be158c6b3e87c8831182c--taylor-swift-concert-taylor-swift-.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Stone Sour - Live at Rock in RIO[/COLOR]</title>
+<title>Stone Sour - Live at Rock in RIO</title>
 <link><link>https://youtu.be/bnOpew1-N2g</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/4f/c5/7d/4fc57d5f32ca3709ceecfc9e7c6fc418--stone-sour-corey-taylor.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Styx - Return To Paradise[/COLOR]</title>
+<title>Styx - Return To Paradise</title>
 <link><link>https://youtu.be/Sg6ccWZJo4I</link>
 <thumbnail>http://images.sk-static.com/images/media/profile_images/artists/540471/huge_avatar</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]System of a Down - Live at Rock Am Ring[/COLOR]</title>
+<title>System of a Down - Live at Rock Am Ring</title>
 <link><link>https://youtu.be/Dqb2KY6F4iw</link>
 <thumbnail>http://www.femalefirst.co.uk/image-library/partners/bang/square/500/s/system-of-a-down-75ef454ce4bae811a0e5a6901eb0ea4d3b49003a.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]System of a Down - Rock In Rio[/COLOR]</title>
+<title>System of a Down - Rock In Rio</title>
 <link><link>https://youtu.be/o3r1sn-t3is</link>
 <thumbnail>http://www.femalefirst.co.uk/image-library/partners/bang/square/500/s/system-of-a-down-75ef454ce4bae811a0e5a6901eb0ea4d3b49003a.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Take That - The Circus[/COLOR]</title>
+<title>Take That - The Circus</title>
 <link><link>https://youtu.be/N5j2TlOiZlY</link>
 <thumbnail>http://assets9.capitalfm.com/2015/41/take-that-press-2015-1444993262-list-tablet-0.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Take That - The Ultimate Tour[/COLOR]</title>
+<title>Take That - The Ultimate Tour</title>
 <link><link>https://youtu.be/XA9e_x6tZaQ</link>
 <thumbnail>http://assets9.capitalfm.com/2015/41/take-that-press-2015-1444993262-list-tablet-0.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Beatles - Live Empire Pool[/COLOR]</title>
+<title>The Beatles - Live Empire Pool</title>
 <link><link>https://youtu.be/tAlZlzIPuPY</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/c1/46/cb/c146cb11a98be6074f535f7b698dbf3e--ringo-starr-george-harrison.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Boomtown Rats - Victor Street Dublin[/COLOR]</title>
+<title>The Boomtown Rats - Victor Street Dublin</title>
 <link><link>https://youtu.be/87f0k8H7Arw</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000024083271-9i7oa5-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Bootleg Beatles - Live at Crocus City Hall[/COLOR]</title>
+<title>The Bootleg Beatles - Live at Crocus City Hall</title>
 <link><link>https://youtu.be/ydn2-V0rWXU</link>
 <thumbnail>http://www.corkoperahouse.ie/wp-content/uploads/2015/02/contentBootlegBeatles2-500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Chainsmokers - Live at Ultra Music Festival[/COLOR]</title>
+<title>The Chainsmokers - Live at Ultra Music Festival</title>
 <link><link>https://youtu.be/_F2KOULJJtk</link>
 <thumbnail>https://i0.wp.com/www.wolfinasuit.com/wp-content/uploads/2016/10/the-chainsmokers-41.jpeg?w=1166&h=1166&crop=1&ssl=1</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Corrs - Live at Lansdowne Road[/COLOR]</title>
+<title>The Corrs - Live at Lansdowne Road</title>
 <link><link>https://youtu.be/FVacENMIn18</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/93/89/29/938929aa936af25b0ece90684b1fd102--music-channel-lights-tour.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Corrs - Unplugged[/COLOR]</title>
+<title>The Corrs - Unplugged</title>
 <link><link>https://youtu.be/9StPG6cZW8I</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/93/89/29/938929aa936af25b0ece90684b1fd102--music-channel-lights-tour.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Doors - Hollywood Bowl[/COLOR]</title>
+<title>The Doors - Hollywood Bowl</title>
 <link><link>https://youtu.be/2787znyO8eI</link>
 <thumbnail>https://www.musicdirect.com/Portals/0/Hotcakes/Data/products/e66e7268-1b73-4f84-8c9e-b73c2caab68d/medium/LAP74007.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Fab Four - Beatles Tribute[/COLOR]</title>
+<title>The Fab Four - Beatles Tribute</title>
 <link><link>https://youtu.be/4rHiDArtjuM</link>
 <thumbnail>http://s1.evcdn.com/images/blackborder500/I0-001/015/051/840-3.jpeg_/fab-four-40.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Jam - Bingley Hall[/COLOR]</title>
+<title>The Jam - Bingley Hall</title>
 <link><link>https://youtu.be/1H1uos6v9zM</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/4a/39/b5/4a39b54cd85d727186bf9e2271065c10--paul-weller-the-jam.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Killers - Live From Royal Albert Hall[/COLOR]</title>
+<title>The Killers - Live From Royal Albert Hall</title>
 <link><link>https://youtu.be/Gu1WxpQUmH8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2616952059/kt4lab0exbs1cosgrj5t.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Killers - T in the park[/COLOR]</title>
+<title>The Killers - T in the park</title>
 <link><link>https://youtu.be/jSB_wxXa3AI</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2616952059/kt4lab0exbs1cosgrj5t.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Kooks - Live at Glastonbury[/COLOR]</title>
+<title>The Kooks - Live at Glastonbury</title>
 <link><link>https://youtu.be/28xhS-SQGJU</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/004/267/503-4.jpeg_/the-kooks-03.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Kooks - Live at Hurricane[/COLOR]</title>
+<title>The Kooks - Live at Hurricane</title>
 <link><link>https://youtu.be/kcgqq1iiY2g</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/004/267/503-4.jpeg_/the-kooks-03.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Kooks - Live at Lollapalooza[/COLOR]</title>
+<title>The Kooks - Live at Lollapalooza</title>
 <link><link>https://youtu.be/VLqw-XFvno8</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/004/267/503-4.jpeg_/the-kooks-03.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Kooks - Live in Argentina[/COLOR]</title>
+<title>The Kooks - Live in Argentina</title>
 <link><link>https://youtu.be/698D8pbrojw</link>
 <thumbnail>http://s4.evcdn.com/images/edpborder500/I0-001/004/267/503-4.jpeg_/the-kooks-03.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Rolling Stones - Live at Glastonbury[/COLOR]</title>
+<title>The Rolling Stones - Live at Glastonbury</title>
 <link><link>https://youtu.be/V9NaxP7VCCc</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/c2/7c/75/c27c750bfff7999198ec865132aec7e1--bill-wyman-s-music.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Rolling Stones - Stones in the Park[/COLOR]</title>
+<title>The Rolling Stones - Stones in the Park</title>
 <link><link>https://youtu.be/n21hzTi_zPw</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/c2/7c/75/c27c750bfff7999198ec865132aec7e1--bill-wyman-s-music.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Script - Live at Dominion[/COLOR]</title>
+<title>The Script - Live at Dominion</title>
 <link><link>https://youtu.be/AnyA1drf1ck</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/004/191/973-7.jpeg_/the-script-73.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Script - Live at Pinkpop[/COLOR]</title>
+<title>The Script - Live at Pinkpop</title>
 <link><link>https://youtu.be/LPIfOa0fMTc</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/004/191/973-7.jpeg_/the-script-73.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Selecter - Live From London[/COLOR]</title>
+<title>The Selecter - Live From London</title>
 <link><link>https://youtu.be/WeCNje7mgs4</link>
 <thumbnail>http://www.foldedwing.co.uk/images/general/artworks-000021989595-jkdtep-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Specials - 30th Anniversary Tour[/COLOR]</title>
+<title>The Specials - 30th Anniversary Tour</title>
 <link><link>https://youtu.be/u9GnGMQz22A</link>
 <thumbnail>https://static1.squarespace.com/static/575f24fad210b8af8e3313c1/t/5770776903596eccad136aea/1466988715087/?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Specials - Live At Glastonbury[/COLOR]</title>
+<title>The Specials - Live At Glastonbury</title>
 <link><link>https://youtu.be/1xbea_0pY0g</link>
 <thumbnail>https://static1.squarespace.com/static/575f24fad210b8af8e3313c1/t/5770776903596eccad136aea/1466988715087/?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Stone Roses - Live in Blackpool [/COLOR]</title>
+<title>The Stone Roses - Live in Blackpool </title>
 <link><link>https://youtu.be/pNfHoPIxhXM</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/f92de0418f32039cd9b1a618394dbb33/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Stranglers - Hamburg Markthalle[/COLOR]</title>
+<title>The Stranglers - Hamburg Markthalle</title>
 <link><link>https://youtu.be/HyPQYaXvC5g</link>
 <thumbnail>https://studiosol-a.akamaihd.net/letras/500x500/fotos/d/7/9/a/d79a4da25400b41ab0cbd10745184c7c.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Tragically Hip - Live in Toronto[/COLOR]</title>
+<title>The Tragically Hip - Live in Toronto</title>
 <link>https://www.youtube.com/watch?v=</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/50/b2/d6/50b2d65b792a2be0824009bced82471a--read-on-emo.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Who - Live in Los Angeles[/COLOR]</title>
+<title>The Who - Live in Los Angeles</title>
 <link><link>https://youtu.be/yhU-ADBYGCc</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/82/b2/75/82b275e31b65f0cea447d214c5ed3f15--s-music-music-pictures.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Who - Quadrophenia[/COLOR]</title>
+<title>The Who - Quadrophenia</title>
 <link><link>https://youtu.be/cQlXlkGRW7k</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/82/b2/75/82b275e31b65f0cea447d214c5ed3f15--s-music-music-pictures.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]The Wings - Live in Melbourne[/COLOR]</title>
+<title>The Wings - Live in Melbourne</title>
 <link><link>https://youtu.be/M4T4biiXqvs</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/08/54/0c/08540c022c030bfdcdd96d5ebe38e2b4.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Tina Turner - Live in Amsterdam[/COLOR]</title>
+<title>Tina Turner - Live in Amsterdam</title>
 <link><link>https://youtu.be/r_6579-XgCg</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/9d6b247c019f513b4e8944a7745fa218/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Tina Turner - One Last Time Live In Concert [/COLOR]</title>
+<title>Tina Turner - One Last Time Live In Concert </title>
 <link><link>https://youtu.be/5rQ4gXu_B6c</link>
 <thumbnail>http://e-cdn-images.deezer.com/images/artist/9d6b247c019f513b4e8944a7745fa218/500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Tiësto - Live at Tomorrowland[/COLOR]</title>
+<title>Tiësto - Live at Tomorrowland</title>
 <link><link>https://youtu.be/4PN9EYyiY58</link>
 <thumbnail>https://i1.sndcdn.com/avatars-000287328814-c5bncu-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Tiësto - Live at Ultra Music Festival[/COLOR]</title>
+<title>Tiësto - Live at Ultra Music Festival</title>
 <link><link>https://youtu.be/2X6bc-7DsVU</link>
 <thumbnail>https://i1.sndcdn.com/avatars-000287328814-c5bncu-t500x500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Train - Live at Fillmore Auditorium[/COLOR]</title>
+<title>Train - Live at Fillmore Auditorium</title>
 <link><link>https://youtu.be/zRfetWiCqHk</link>
 <thumbnail>http://s2.evcdn.com/images/edpborder500/I0-001/003/442/801-5.jpeg_/train-01.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]U2 - Elevation tour[/COLOR]</title>
+<title>U2 - Elevation tour</title>
 <link><link>https://youtu.be/BYOu7N8e9PU</link>
 <thumbnail>http://cdn.u2.com/non_secure/images/20170105/new_profile_crop1483638184/large.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]U2 - Live at Glastonbury[/COLOR]</title>
+<title>U2 - Live at Glastonbury</title>
 <link><link>https://youtu.be/7Nt5hycaqoU</link>
 <thumbnail>http://cdn.u2.com/non_secure/images/20170105/new_profile_crop1483638184/large.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]U2 - U22 The Show Never Done[/COLOR]</title>
+<title>U2 - U22 The Show Never Done</title>
 <link><link>https://youtu.be/TBuK2rgqYUk</link>
 <thumbnail>http://cdn.u2.com/non_secure/images/20170105/new_profile_crop1483638184/large.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]UB40 - Homegrown in Holland[/COLOR]</title>
+<title>UB40 - Homegrown in Holland</title>
 <link><link>https://youtu.be/J2GrFNHSZCg</link>
 <thumbnail>https://s3.amazonaws.com/system.ravinia.org/shows/1365/5569_Show_Page.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]UB40 - Live at Montreux[/COLOR]</title>
+<title>UB40 - Live at Montreux</title>
 <link><link>https://youtu.be/Pxsu5ZKhnRQ</link>
 <thumbnail>https://s3.amazonaws.com/system.ravinia.org/shows/1365/5569_Show_Page.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLORlime]Yes - Union Tour - Concert in the Round[/COLOR]</title>
+<title>Yes - Union Tour - Concert in the Round</title>
 <link><link>https://youtu.be/QO49gHC3tf</link>
 <thumbnail>https://img.discogs.com/5iibSKpbCdeJnx-wtjaHlODecd4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6439360-1444508838-7144.jpeg.jpg</thumbnail>
 </item>
