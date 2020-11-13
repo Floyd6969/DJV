@@ -41,36 +41,43 @@
 </item>
 
 <item>
-<title>Test 10</title>
+<title>Fox Sports 1</title>
 <link>http://p2p.nflsport.xyz/live/fs1/chunks.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Test 11</title>
-<link>http://digitalxpress2.gcdn.co/live1/foxsports1/index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Test 12</title>
+<title>American Sports Channel</title>
 <link>https://ch.iptvmate.net/5e936c1e0cfc86041e085ac9.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Test 14</title>
-<link>http://45.134.21.230/hls/T1.m3u8</link>
+<title>Test 16</title>
+<link>https://hls.myvideocontent.ru/hls2/kandratiev1/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Test 15</title>
-<link>http://w2ed.mywire.org:8081/hls/k1/playlist.m3u8</link>
+<title>Test 17</title>
+<link>http://213.152.161.254:8080/upl5_2.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV 1</title>
+<link>http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test 18</title>
+<link>https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
