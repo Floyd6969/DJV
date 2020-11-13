@@ -699,6 +699,13 @@
 </item>
 
 <item>
+<title>An Audience with Alf Garnett</title>
+<link>https://youtu.be/bp8aTvVqE7I</link>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Peter Kays Car Share Unscripted[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=AZN7vxa36o8</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
@@ -716,6 +723,20 @@
 <title>Peter Kay's Car Share Series 2 FULL Outtakes</title>
 <link>https://www.youtube.com/watch?v=VSBfQ4uhBZk</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dave Allen - Religious Jokes</title>
+<link>https://youtu.be/mYXenjpefNU</link>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bernard Manning - The Comedians Series 1</title>
+<link>https://youtu.be/5p0jE-1lcQg</link>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
