@@ -55,14 +55,7 @@
 </item>
 
 <item>
-<title>Test 16</title>
-<link>https://hls.myvideocontent.ru/hls2/kandratiev1/index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Test 17</title>
+<title>ESPN</title>
 <link>http://213.152.161.254:8080/upl5_2.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -76,7 +69,7 @@
 </item>
 
 <item>
-<title>Test 18</title>
+<title>TFX</title>
 <link>https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
