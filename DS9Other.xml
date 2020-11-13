@@ -271,6 +271,27 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>22:00 UFC Fight Night: Prelims</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>00:00 UFC Fight Night: Felder vs Dos Anjos</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>00:00 UFC Fight Night: Felder vs Dos Anjos</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 item>
 <title>09.30 Formula Renault Eurocup at Paul Ricard:Race 2</title>
 <link>https://youtu.be/Loj6SpRIXVw</link>
