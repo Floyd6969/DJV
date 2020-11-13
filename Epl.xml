@@ -105,33 +105,12 @@ item>
 </item>
  
 <item>
-<title>Bein Sports</title>
-<link>https://cdn2.dailysport.pw/epl4/4.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Bein Sports 1</title>
-<link>https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Bein Sports 1</title>
 <link>https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  
-<item>
-<title>Bein Sports 2</title>
-<link>https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 <title>Bein Sports 2</title>
 <link>https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8</link>
@@ -149,6 +128,13 @@ item>
 <item>
 <title>Fox Sports 2</title>
 <link>https://gma2.blab.email/fs2.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test</title>
+<link>https://www.livedoomovies.com/02_epl3_720p_UK/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
