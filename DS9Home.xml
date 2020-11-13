@@ -3,9 +3,16 @@
 <channels>
  
 <channel>
-<name>[COLORgold][B][I]Live Daily Sports[/I][/B][/COLOR]</name>
+<name>[COLORgold][B][I]Live Football[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DS9MainList.xml</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLORgold][B][I]Live Daily Sports[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DS9Other.xml</externallink>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </channel>
  
