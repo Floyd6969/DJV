@@ -1,0 +1,61 @@
+<layouttype>thumbnail</layouttype>
+ 
+<channels>
+ 
+<channel>
+<name>[COLORgold][B][I]Live Daily Sports[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://pastebin.com/raw/Ykf5pMXF</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLORgold][B][I]EPL Live[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Epl.xml</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLORgold][B][I]WWE/AEW/UFC Replays[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/WWE.xml</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLORgold][B][I]Sports Replays HD (RD Only)[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Sports.xml</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLORgold][B][I]Classic Sports Replays[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ClassicReplays.xml</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLORgold][B][I]World Sports Channels[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ExtraLinksDJV.xml</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLORgold][B][I]World Sports Channels Extra[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/sport.m3u</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[COLORgold][B][I]Backup Links[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TestLinks.xml</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+</channels>
