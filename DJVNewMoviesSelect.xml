@@ -1,13 +1,13 @@
 <channels>
 
 <channel>
-<name>[COLOR gold][B]Latest Movies One Click (1080p) (Free)[/B][/COLOR]</name>
+<name>[COLOR gold][B]Latest Movies One Click (Free)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewReleases.xml</externallink>
 <fanart></fanart>
 </channel>
  
-<channel>
+channel>
 <name>[COLOR gold][B]Latest Movies One Click (720p) (Free)[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewRels720.xml</externallink>
