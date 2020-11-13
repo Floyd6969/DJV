@@ -1,34 +1,69 @@
 <item>
 <title>Test 1</title>
-<link>http://1-281529971.us-east-2.elb.amazonaws.com/show/mma/chunks.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Test 2</title>
-<link>https://x.cantholdus.xyz/kaynakstreamradarco/fox/strmrdr.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Test 3</title>
 <link>https://bozztv.com/teleyupp/teleup-foxnet-wpmt/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Test 4</title>
+<title>Test 2</title>
 <link>http://digitalxpress2.gcdn.co/live1/fox/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
+<title>Test 3</title>
+<link>https://gma2.blab.email/fox.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test 4</title>
+<link>https://paramount-network.akamaized.net/hls/live/599582/bellator-prelims/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Test 5</title>
-<link>http://vip.nflstream.buzz/live/Colts/chunks.m3u8</link>
+<link>http://1-281529971.us-east-2.elb.amazonaws.com/show/mma/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test 6</title>
+<link>https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test 7</title>
+<link>http://digitalxpress2.gcdn.co/live1/tsn44/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test 8</title>
+<link>http://digitalxpress2.gcdn.co/live1/tsn55/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test 9</title>
+<link>https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test 10</title>
+<link>http://w2ed.mywire.org:8081/hls/k2/chunks.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
