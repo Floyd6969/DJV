@@ -74,6 +74,13 @@ item>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>19:45 Portugal v France (EN)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/portugal-vs-france/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>19:45 Portugal v France</title>
@@ -105,6 +112,13 @@ item>
 
 <item>
 <title>19:45 Sweden v Croatia</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/sweden-vs-croatia/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:45 Sweden v Croatia</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -120,6 +134,13 @@ item>
 <item>
 <title>19:45 Germany v Ukraine</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:45 Germany v Ukraine</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/germany-vs-ukraine/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -148,6 +169,13 @@ item>
 <item>
 <title>19:45 Switzerland v Spain</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:45 Switzerland v Spain</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/switzerland-vs-spain/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
