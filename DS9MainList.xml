@@ -39,6 +39,13 @@ item>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>17:00 Cyprus v Luxembourg</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>17:00 Cyprus v Luxembourg</title>
@@ -88,6 +95,13 @@ item>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>19:45 Portugal v France</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>19:45 Portugal v France</title>
@@ -102,6 +116,13 @@ item>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>19:45 Sweden v Croatia</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>19:45 Sweden v Croatia</title>
@@ -113,6 +134,13 @@ item>
 <item>
 <title>19:45 Germany v Ukraine</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:45 Germany v Ukraine</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -134,6 +162,13 @@ item>
 <item>
 <title>19:45 Switzerland v Spain</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:45 Switzerland v Spain</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
