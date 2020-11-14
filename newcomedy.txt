@@ -706,6 +706,13 @@
 </item>
 
 <item>
+<title>The Very Best of Steptoe and Son (1993 UK VHS)</title>
+<link>https://youtu.be/vix1U36hLSE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhpwjPICU1wcUegTFvRCCF9UpKA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Peter Kays Car Share Unscripted[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=AZN7vxa36o8</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
