@@ -713,6 +713,27 @@
 </item>
 
 <item>
+<title>The Comic Strip Presents: Five Go Mad in Dorset</title>
+<link>https://youtu.be/3PdKP5Y6-5U</link>
+<thumbnail>https://i.imgur.com/74d8gbP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Comic Strip Presents: Five Go Mad on Mescalin</title>
+<link>https://youtu.be/o9jTPHo_73g</link>
+<thumbnail>https://i.imgur.com/74d8gbP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Comic Strip Presents: Five Go To Rehab</title>
+<link>https://youtu.be/OIE9N2FBA5w</link>
+<thumbnail>https://i.imgur.com/74d8gbP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Peter Kays Car Share Unscripted[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=AZN7vxa36o8</link>
 <thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
