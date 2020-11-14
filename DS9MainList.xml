@@ -27,27 +27,6 @@ item>
 </item>
 
 <item>
-<title>14:00 San Marino v Gibraltar (EN)</title>
-<link>http://45.134.21.230:8081/hls/S-1/chunks.m3u8?nimblesessionid=13353</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>14:00 San Marino v Gibraltar</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv3.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>14:00 Malta v Andorra</title>
-<link>http://45.134.21.230:8081/hls/S-2/chunks.m3u8?nimblesessionid=12440</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
 <title>14:00 Malta v Andorra</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php</link>
 <thumbnail></thumbnail>
