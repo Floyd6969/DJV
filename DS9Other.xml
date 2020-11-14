@@ -55,13 +55,6 @@
 </item>
 
 <item>
-<title>09:00 MotoGP: GP Of Valencia FP3 (EN)</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>11:00 Turkish GP: Qualifying (EN)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
 <thumbnail></thumbnail>
@@ -74,10 +67,24 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>11:45 MotoGP: Valencia Qualifying (EN)</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>11:45 MotoGP: Valencia Qualifying (EN)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>11:45 MotoGP: Valencia Qualifying (EN)*</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/motorcycle-3-gp-valencia/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
