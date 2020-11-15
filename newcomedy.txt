@@ -140,21 +140,21 @@
 
 <item>
 <title>Fawlty Towers S01 E01</title>
-<link>https://streamtape.com/v/e00K8lPRjaFYW1R/Fawlty_Towers_-_S01E01.mp4</link>
+<link>https://dood.to/d/ed8d4cgtsn2b</link>
 <thumbnail>https://i.imgur.com/YJ5DwqC.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Fawlty Towers S01 E02</title>
-<link>https://streamtape.com/v/KAJA2grg3AU0QX7/Fawlty_Towers_-_S01E02.mp4</link>
+<link>https://dood.to/d/5u51w49wobg2</link>
 <thumbnail>https://i.imgur.com/YJ5DwqC.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Fawlty Towers S01 E03</title>
-<link>https://streamtape.com/v/9qRWymye9qTaarR/Fawlty_Towers_-_S01E03.mp4</link>
+<link>https://dood.to/d/dvyxaruyjxvz</link>
 <thumbnail>https://i.imgur.com/YJ5DwqC.jpg</thumbnail>
 <fanart></fanart>
 </item>
