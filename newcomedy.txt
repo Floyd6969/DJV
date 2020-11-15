@@ -560,14 +560,14 @@
 
 <item>
 <title>The Inbetweeners Movie (2011)</title>
-<link>https://streamtape.com/v/w7Wvkr8kMpCJvYO/The.Inbetweeners.Movie.2011.EXTENDED.720p.BrRip.x264.YIFY.mp4</link>
+<link>https://dood.to/d/zatixcqrnmze</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbRA6Qq5Fy3DM4VPRKD76a7IJyT.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
+ 
 <item>
 <title>The Inbetweeners 2 (2014)</title>
-<link>https://streamtape.com/v/gPPMWKP133UqM9R/The.Inbetweeners.2.2014.1080p.BluRay.x264.YIFY.mp4</link>
+<link>https://dood.to/d/2w318wquddzq</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaffQzehpiUaGrpdi3tbYlmLbgo.jpg</thumbnail>
 <fanart></fanart>
 </item>
