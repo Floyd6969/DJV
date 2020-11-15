@@ -272,6 +272,13 @@ channel>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Conners.xml</externallink>
 <fanart></fanart>
 </channel>
+
+<channel>
+<name>The Crown S04</name>
+<thumbnail>https://i.imgur.com/1EhIxKl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Crown.xml</externallink>
+<fanart></fanart>
+</channel>
  
 <channel>
 <name>The Expecting S01</name>
