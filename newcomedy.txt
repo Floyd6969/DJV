@@ -350,21 +350,21 @@
 
 <item>
 <title>The Young Ones S01 E01</title>
-<link>https://streamtape.com/v/k3LoQw993yUOkMX/The_Young_Ones_S1e1.mp4</link>
+<link>https://dood.to/d/gdbqfri75shp</link>
 <thumbnail>https://i.imgur.com/qJ2rsvN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Young Ones S01 E02</title>
-<link>https://streamtape.com/v/QAKPeK7B7Wi0MQQ/The_Young_Ones_S1e2.mp4</link>
+<link>https://dood.to/d/rjibsr9fhglw</link>
 <thumbnail>https://i.imgur.com/qJ2rsvN.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Young Ones S01 E03</title>
-<link>https://streamtape.com/v/39qZqxJ037Cdelw/The_Young_Ones_S1e3.mp4</link>
+<link>https://dood.to/d/02uzm5gqbj16</link>
 <thumbnail>https://i.imgur.com/qJ2rsvN.jpg</thumbnail>
 <fanart></fanart>
 </item>
