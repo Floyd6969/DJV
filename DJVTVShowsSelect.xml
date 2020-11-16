@@ -1,0 +1,20 @@
+<channel>
+<name>[COLOR gold][B]One Click TV Shows (Free)[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TwoWeeks.xml</externallink>
+<fanart>https://i.imgur.com/QIO4Sds.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR gold][B]New TV Shows (Debrid)[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/London.xml</externallink>
+<fanart>https://i.imgur.com/QIO4Sds.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR gold][B]Classic TV Shows (Debrid)[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ClassicTV.xml</externallink>
+<fanart>https://i.imgur.com/QIO4Sds.jpg</fanart>
+</channel>
