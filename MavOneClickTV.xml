@@ -1,0 +1,20 @@
+<dir>
+<title>[COLORlime][B]New TV Shows (No Debrid)[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/MavFreeShows.xml</link>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+ 
+<dir>
+<name>[COLORlime][B]New TV Shows (Debrid)[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/London.xml</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+ 
+<dir>
+<name>[COLORlime][B]Classic TV Shows (Debrid)[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/ClassicTV.xml</link>
+<thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
