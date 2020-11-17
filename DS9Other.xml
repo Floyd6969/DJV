@@ -46,4 +46,32 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+item>
+<title>[COLORblue][B]****** Tomorrows Sport *****[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12:00 Ladies European Tour Golf</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15:00 Grand Slam of Darts D3</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>01:00 WWE: NXT</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
