@@ -741,6 +741,13 @@
 </item>
 
 <item>
+<title>Carry On at Your Convenience (1971) (SD)</title>
+<link>https://youtu.be/AZPyT7sY9MQ</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUQInapMaVBIfxAaVY2LTwlpqQI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Carry On Abroad (1972) (SD)</title>
 <link>https://youtu.be/ktoPfv5maeQ</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOUHW1NrIH5nA8Y06EZBFdULXs.jpg</thumbnail>
