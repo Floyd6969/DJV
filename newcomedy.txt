@@ -860,6 +860,13 @@
 </item>
 
 <item>
+<title>Dave Allen Live: On Life (COMPLETE)</title>
+<link>https://youtu.be/3Y861-ODp4U</link>
+<thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bernard Manning - The Comedians Series 1</title>
 <link>https://youtu.be/5p0jE-1lcQg</link>
 <thumbnail>https://i.imgur.com/LAOmwvt.jpg</thumbnail>
