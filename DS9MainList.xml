@@ -5,205 +5,65 @@
 <fanart></fanart>
 </item>
  
-item>
-<title>[COLORblue][B]****** Tomorrows Sport *****[/B][/COLOR]</title>
+<tem>
+<title>[COLORblue][B]****** Fridays Games ******LOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>19:30 Portugal U21 v Netherlands U21</title>
+<title>18:00 Rennes v Bordeaux</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>18:00 Rennes v Bordeaux</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd4.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>19:45 Coventry City v Birmingham City</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>19:30 Portugal U21 v Netherlands U21</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/portugal-u21-vs-netherlands-u21/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Hungary v Turkey</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Hungary v Turkey</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/hungary-vs-turkey/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Poland v Netherlands</title>
-<link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Poland v Netherlands</title>
-<link>http://34.98.112.232/live/abr_ch2/live/news2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMCA3OjEyOjQyIFBNJmhhc2hfdmFsdWU9VC92dFBjU3NhNkxSWVc0bFFFQjNTZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTA0LjM3LjMxLjIzNSZzdHJtX2xlbj01</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Poland v Netherlands</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Poland v Netherlands</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/poland-vs-netherlands/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Poland v Netherlands</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv3.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Belgium v Denmark</title>
-<link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Belgium v Denmark</title>
-<link>http://34.98.112.232/live/abr_ch2/live/news2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMCA3OjEyOjQyIFBNJmhhc2hfdmFsdWU9VC92dFBjU3NhNkxSWVc0bFFFQjNTZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTA0LjM3LjMxLjIzNSZzdHJtX2xlbj01</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Belgium v Denmark</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd8.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Belgium v Denmark</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/belgium-vs-denmark/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>19:45 Belgium v Denmark</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 England v Iceland</title>
-<link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 England v Iceland</title>
-<link>http://45.134.21.251/live/abr_ch1/live/news1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMCA3OjExOjM1IFBNJmhhc2hfdmFsdWU9eTJjdFYrWUgyQ3d2VG5FanFoVkhXdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTA0LjM3LjMxLjIzNSZzdHJtX2xlbj01</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 England v Iceland</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/england-vs-iceland/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 England v Iceland</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Bosnia v Italy</title>
-<link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Bosnia v Italy</title>
-<link>http://34.98.112.232/live/abr_ch3/live/news3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMCA3OjE0OjM2IFBNJmhhc2hfdmFsdWU9eVVIaGdReFgvL29mcWRxbGdUQzRMUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTA0LjM3LjMxLjIzNSZzdHJtX2xlbj01</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Bosnia v Italy</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd7.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Bosnia v Italy</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/bosnia-and-herzegovina-vs-italy/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Bosnia v Italy</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Israel v Scotland</title>
-<link>http://64.227.88.31/hls/k1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Israel v Scotland</title>
+<title>20:00 Monaco v PSG</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>19:45 Israel v Scotland</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/israel-vs-scotland/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:45 Wales v Finland</title>
+<title>20:00 Monaco v PSG</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd4.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>19:45 Wales v Finland</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/wales-vs-finland/</link>
+<title>20:00 Osasuna v Huesca</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>00:30 Banfield v River Plate</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:00 Georgia v Estonia</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
