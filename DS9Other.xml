@@ -41,58 +41,93 @@
 </item>
 
 <item>
-<title>Ladies European Tour Golf</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>07:00 European Tour: Joburg Open - 1st Day</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>13.00 European Tour: Joburg Open - 1st Day</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>18:00 PGA Tour Golf</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:30 LPGA: Pelican Women Championship - 1st Day</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>19:30 S/Lge: Wigan v Hull FC</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>22:00 Grand Slam of Darts D4</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>00:30 NFL: Cardinals @ Seahawks</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<title>09:00 MotoGP: GP Of Portugal FP1</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  
+<item>
+<title>09:00 MotoGP: GP Of Portugal FP1</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>10:00 European Tour: Joburg Open - 2nd Day</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>10:00 European Tour: Joburg Open - 2nd Day</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12:45 MotoGP: GP Of Portugal FP2</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>12:45 MotoGP: GP Of Portugal FP2</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:00 Super Rugby: Bulls v Pumas</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:30 S/Lge: St Helens v Catalans</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:30 LPGA: Pelican Women Championship - 2nd Day</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.ph</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:45 Euro League Basketball: Milan v Zalgiris Kaunas</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>22:00 Grand Slam Of Darts D5</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>01:00 WWE: Friday Night Smackdown</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>01:00 WWE: Friday Night Smackdown</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
