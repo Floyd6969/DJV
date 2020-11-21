@@ -14,6 +14,13 @@
 
 <item>
 <title>14:00 ATP World Finals: Semi Final</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>14:00 ATP World Finals: Semi Final</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -21,21 +28,7 @@
 
 <item>
 <title>15:00 Autumn Nations Cup: England v Ireland</title>
-<link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>15:00 Autumn Nations Cup: England v Ireland</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:15 Autumn Nations Cup: Wales v Georgia</title>
-<link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
