@@ -1,5 +1,26 @@
 
 <item>
+<title>Fox Sports 1 USA</title>
+<link>http://tv.vnoo.net/direct_tv/huypham/hPh_m/foxsports1usa.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fox Sports 2 USA</title>
+<link>http://tv.vnoo.net/direct_tv/huypham/hPh_m/foxsports2usa.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>http://tv.vnoo.net/direct_tv/huypham/hPh_m/skysportsf1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bundesliga</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/21.html</link>
 <thumbnail></thumbnail>
