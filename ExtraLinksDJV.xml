@@ -1,18 +1,4 @@
 <item>
-<title>WWE Network</title>
-<link>http://cdnak22.cast4u.info/channels/2/10802.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>WWE Network</title>
-<link>http://cdnak21.cast4u.info/channels/2/10802.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Bein Sports News</title>
 <link>https://youtu.be/6TY-6GSca1A</link>
 <thumbnail></thumbnail>
@@ -50,6 +36,13 @@
 <item>
 <title>Bein Sports 4</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/4.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bein Sports 5</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/5.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
