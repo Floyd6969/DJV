@@ -5,8 +5,8 @@
 <fanart></fanart>
 </item>
  
-item>
-<title>[COLORblue][B]****** Fridays Games ******[/B][/COLOR]</title>
+<item>
+<title>[COLORblue][B]*Direct Links[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
 <fanart></fanart>
@@ -41,7 +41,7 @@ item>
 </item>
 
 <item>
-<title>15:00 Aston Villa v Brighton & Hove Albion</title>
+<title>15:00 Aston Villa v Brighton & Hove Albion*</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -62,14 +62,14 @@ item>
 </item>
 
 <item>
-<title>15:00 Aston Villa v Brighton & Hove Albion</title>
+<title>15:00 Aston Villa v Brighton & Hove Albion*</title>
 <link>https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>15:00 Aston Villa v Brighton & Hove Albion</title>
+<title>15:00 Aston Villa v Brighton & Hove Albion*</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -113,6 +113,13 @@ item>
 <item>
 <title>15:00 St. Johnstone FC v Motherwell FC</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/st-johnstone-vs-motherwell/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15:15 Villarreal v Real Madrid*</title>
+<link>https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -209,14 +216,14 @@ item>
 </item>
 
 <item>
-<title>17:30 Tottenham Hotspur v Manchester City</title>
+<title>17:30 Tottenham Hotspur v Manchester City*</title>
 <link>https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>17:30 Tottenham Hotspur v Manchester City</title>
+<title>17:30 Tottenham Hotspur v Manchester City*</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -300,14 +307,14 @@ item>
 </item>
 
 <item>
-<title>20:00 Manchester United v West Bromwich Albion</title>
+<title>20:00 Manchester United v West Bromwich Albion*</title>
 <link>https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>20:00 Manchester United v West Bromwich Albion</title>
+<title>20:00 Manchester United v West Bromwich Albion*</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
