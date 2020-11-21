@@ -48,6 +48,20 @@
 </item>
 
 <item>
+<title>Bein Sports 4</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/4.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bein Sports 11</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/11.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sport TV 1</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
 <thumbnail></thumbnail>
