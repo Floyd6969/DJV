@@ -48,6 +48,13 @@
 </item>
 
 <item>
+<title>Bein Sports 6</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/6.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bein Sports 11</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/11.html</link>
 <thumbnail></thumbnail>
@@ -151,7 +158,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
- 
+
 <item>
 <title>Sports Link 7</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd7.php</link>
