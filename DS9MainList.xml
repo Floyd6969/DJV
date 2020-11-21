@@ -6,118 +6,6 @@
 </item>
  
 <item>
-<title>16:00 Besiktas v Basaksehir</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:00 Spezia v Atalanta</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd7.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:00 Spezia v Atalanta</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv3.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:00 Orlando City SC v New York City</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd4.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:00 Orlando City SC v New York City</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:20 Wealdstone v Sutton United</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:20 Wealdstone v Sutton United</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Sevilla v Celta de Vigo</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Sevilla v Celta de Vigo</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Eintracht Frankfurt v RB Leipzig</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Tottenham Hotspur v Manchester City*</title>
-<link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Tottenham Hotspur v Manchester City</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Tottenham Hotspur v Manchester City*</title>
-<link>https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Tottenham Hotspur v Manchester City*</title>
-<link>https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Tottenham Hotspur v Manchester City</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Tottenham Hotspur v Manchester City</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=ttps://sportzonline.co/channels/bra/br2.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>19:30 Hertha BSC v Borussia Dortmund</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd8.php</link>
 <thumbnail></thumbnail>
@@ -169,6 +57,20 @@
 <item>
 <title>20:00 Manchester United v West Bromwich Albion*</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Manchester United v West Bromwich Albion*</title>
+<link>https://bananasports.xyz/AMBARyCIOSO/5.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Manchester United v West Bromwich Albion*</title>
+<link>http://64.227.88.31/hls/k4.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
