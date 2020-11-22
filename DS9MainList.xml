@@ -6,69 +6,6 @@
 </item>
  
 <item>
-<title>15:15 Cadiz v Real Sociedad</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:30 Leeds United v Arsenal*</title>
-<link>http://45.148.26.176:8081/abr/abr-K-1/hls/K-1/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:30 Leeds United v Arsenal*</title>
-<link>https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/422779c1c37349e5b920e5d7d290d596/index2_1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:30 Leeds United v Arsenal*</title>
-<link>http://64.227.88.31/hls/k2.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:30 Leeds United v Arsenal*</title>
-<link>https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/4a0ef9419bb14dccbdb3ac80785c09fd/index1_1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:30 Leeds United v Arsenal*</title>
-<link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:30 Leeds United v Arsenal*</title>
-<link>https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:30 Leeds United v Arsenal</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:30 Leeds United v Arsenal</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>17:30 Granada v Real Valladolid</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
 <thumbnail></thumbnail>
@@ -76,8 +13,57 @@
 </item>
 
 <item>
+<title>19:15 Liverpool v Leicester City*</title>
+<link>https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/4a0ef9419bb14dccbdb3ac80785c09fd/index1_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:15 Liverpool v Leicester City*</title>
+<link>https://daily-live.s3.eu-west-3.amazonaws.com/epl1a/1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:15 Liverpool v Leicester City*</title>
+<link>http://45.134.21.251/live/abr_hnrfyt1/live/news1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMCA2OjQzOjE4IFBNJmhhc2hfdmFsdWU9WE1YWXBjWVZZN3FSTTdxSHFiY0tmZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTU0LjcwLjUwLjI0MCZzdHJtX2xlbj01</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:15 Liverpool v Leicester City*</title>
+<link>http://192.166.246.122/hls/ovo51.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:15 Liverpool v Leicester City*</title>
+<link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>19:15 Liverpool v Leicester City</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:15 Liverpool v Leicester City*</title>
+<link>https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:15 Liverpool v Leicester City</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
