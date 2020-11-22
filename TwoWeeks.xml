@@ -293,6 +293,13 @@ channel>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ExpectingTV.xml</externallink>
 <fanart></fanart>
 </channel>
+
+<channel>
+<name>The Flight Attendant S01</name>
+<thumbnail>https://i.imgur.com/2AsXzci.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Flight.xml</externallink>
+<fanart></fanart>
+</channel>
  
 <channel>
 <name>The Haunting of Bly Manor S01</name>
