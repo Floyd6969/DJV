@@ -32,6 +32,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>12:00 Fulham v Everton</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/fulham-vs-everton/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
 <title>12:00 Fulham v Everton</title>
@@ -63,7 +70,14 @@
 
 <item>
 <title>14:00 Sheffield United v West Ham United (2nd Half)</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php </link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://papahd.cc/sheffield-united-vs-west-ham-united/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>14:00 Sheffield United v West Ham United (2nd Half)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
