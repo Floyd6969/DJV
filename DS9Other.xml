@@ -1,69 +1,71 @@
-<item>
-<title>10:00 European Tour: Joburg Open - 3rd Day</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
-<title>14:00 ATP World Finals: Semi Final</title>
-<link>https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>14:00 ATP World Finals: Semi Final</title>
-<link>https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>14:00 ATP World Finals: Semi Final</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>15:00 Autumn Nations Cup: England v Ireland</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Live Now: Benn v Formella</title>
-<link>http://solomon.azureedge.net/show/dazn/chunks.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:15 Autumn Nations Cup: Wales v Georgia</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>01:00 UFC 255: Prelims</title>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>01:00 UFC 255: Prelims</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
+<link>https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
+<link>http://ricardo.azureedge.net/show/cfu/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
+<link>http://64.227.88.31/hls/ufcpass.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
+<link>https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/4a0ef9419bb14dccbdb3ac80785c09fd/index1_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
+<link>http://139.59.13.191/hd/ufcpass/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
+<link>https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_gwqRPRlQ/wixmp-3dbd5cb16bb136182e099f78_gwqRPRlQ_res720p/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
+<link>http://cdnak7.cast4u.info/channels/3/10803.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
+<link>http://ww7.freestream.info/channels/109/1080109.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC 255: Deiveson Figueiredo vs Alex Perez</title>
+<link>https://z.cantholdus.xyz/kaynakstreamradarco/espnplus1/naxi/caxi.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
