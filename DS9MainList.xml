@@ -56,7 +56,14 @@
 
 <item>
 <title>20:00 Wolverhampton Wanderers v Southampton</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php </link>
+<link>https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Wolverhampton Wanderers v Southampton</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
