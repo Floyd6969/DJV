@@ -6,8 +6,36 @@
 </item>
 
 <item>
-<title>10:00 European Tour: Alfred Dunhill Championship - 1st Day</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
+<title>17:00 NFL: Houston Texans @ Detroit Lions</title>
+<link>http://saradenton.azureedge.net/hls/nflnw/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:00 NFL: Houston Texans @ Detroit Lions</title>
+<link>http://vip.nflstream.buzz/live/Texans/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:00 NFL: Houston Texans @ Detroit Lions</title>
+<link>http://185.39.10.59/hls/L1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:00 NFL: Houston Texans @ Detroit Lions</title>
+<link>http://23.237.79.20:8081/hls1/y1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:00 NFL: Houston Texans @ Detroit Lions</title>
+<link>https://z.cantholdus.xyz/kaynakstreamradarco/cbsdenver/naxi/caxi.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
