@@ -27,6 +27,13 @@
 </item>
 
 <item>
+<title>17:55 Molde v Arsenal*</title>
+<link>https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/5f064eb964a74bcd80e64b0e88c803ec/index5_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>17:55 Molde v Arsenal</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
 <thumbnail></thumbnail>
@@ -43,6 +50,27 @@
 <item>
 <title>17:55 Molde v Arsenal</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/bra/br2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Lille v Milan*</title>
+<link>http://13e.gleeze.com/hls/k4.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Lille v Milan*</title>
+<link>http://b8f3k2g4.stackpathcdn.com/hls/ovo2.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Lille v Milan*</title>
+<link>https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/308bad9a13f6408d85cf906742b64496/index1_1.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -71,6 +99,34 @@
 <item>
 <title>17:55 Sparta Praha v Celtic</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Sporting Braga v Leicester City*</title>
+<link>http://45.134.21.230/hls/T1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Sporting Braga v Leicester City*</title>
+<link>http://45.134.21.230/hls/T1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Sporting Braga v Leicester City*</title>
+<link>https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/f840bcb7d819481b9f52bbc4ee8d5f33/index2_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Sporting Braga v Leicester City*</title>
+<link>http://192.166.246.122/hls/ovo3.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
