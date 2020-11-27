@@ -15,6 +15,13 @@
 </channel>
  
 <channel>
+<name>A Wild Year On Earth S01</name>
+<thumbnail>https://i.imgur.com/q9nSDCU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/WildTV.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Bobs Burgers S11</name>
 <thumbnail>https://i.imgur.com/3fMeT47.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/BobsBurgersTV.xml</externallink>
