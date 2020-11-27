@@ -307,6 +307,13 @@ channel>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Flight.xml</externallink>
 <fanart></fanart>
 </channel>
+
+<channel>
+<name>The Great Barrier Reef S01</name>
+<thumbnail>https://i.imgur.com/q9nSDCU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/BarrierTV.xml</externallink>
+<fanart></fanart>
+</channel>
  
 <channel>
 <name>The Haunting of Bly Manor S01</name>
