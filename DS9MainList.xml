@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>12:00 Reading v Bristol City</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/1.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>12:00 Karlsruher SC v Paderborn</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php</link>
 <thumbnail></thumbnail>
@@ -64,6 +71,13 @@
 <item>
 <title>12:30 Brighton v Liverpool</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12:30 Brighton v Liverpool</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/2pt.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
