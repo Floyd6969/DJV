@@ -28,13 +28,6 @@
 
 <item>
 <title>15:00 Manchester City v Burnley*</title>
-<link>https://storage.googleapis.com/dailyspace/epl1/1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>15:00 Manchester City v Burnley*</title>
 <link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -50,6 +43,13 @@
 <item>
 <title>15:00 Manchester City v Burnley*</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15:00 Manchester City v Burnley</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/5.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
