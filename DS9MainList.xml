@@ -1,17 +1,4 @@
-<item>
-<title>13:00 Elche v Cadiz</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>13:00 Istanbul Basaksehir v Denizlispor</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv3.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
 <item>
 <title>14:30 Borussia Dortmund v Koln</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php</link>
@@ -29,6 +16,27 @@
 <item>
 <title>15:00 Manchester City v Burnley*</title>
 <link>https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/5f064eb964a74bcd80e64b0e88c803ec/index5_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15:00 Manchester City v Burnley*</title>
+<link>https://cdn1.dailysportlist.xyz/epl1/1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15:00 Manchester City v Burnley*</title>
+<link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15:00 Manchester City v Burnley*</title>
+<link>http://64.227.88.31/hls/1k.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
