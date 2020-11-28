@@ -119,6 +119,13 @@
 
 <item>
 <title>15:00 Manchester City v Burnley*</title>
+<link>https://storage.googleapis.com/dailyspace/epl1/1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15:00 Manchester City v Burnley*</title>
 <link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -197,6 +204,13 @@
 <item>
 <title>17:00 Benevento v Juventus</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv3.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:00 Everton v Leeds United*</title>
+<link>https://storage.googleapis.com/dailyspace/epl1/1.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -316,6 +330,13 @@
 <item>
 <title>20:00 PSG v Bordeaux</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd4.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 West Brom v Sheffield United*</title>
+<link>https://storage.googleapis.com/dailyspace/epl1/1.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
