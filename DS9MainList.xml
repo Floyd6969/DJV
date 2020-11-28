@@ -133,6 +133,13 @@
 
 <item>
 <title>15:00 Manchester City v Burnley</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona25.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15:00 Manchester City v Burnley</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -204,6 +211,13 @@
 <item>
 <title>17:00 Everton v Leeds United*</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:00 Everton v Leeds United</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona25.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -316,6 +330,13 @@
 <item>
 <title>20:00 West Brom v Sheffield United*</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 West Brom v Sheffield United</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona25.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
