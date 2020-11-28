@@ -24,6 +24,13 @@
 </channel>
  
 <channel>
+<name>[COLORgold][B][I]EFL I-Follow (Test)[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Ifollow.xml</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
+ 
+<channel>
 <name>[COLORgold][B][I]WWE/AEW/UFC Replays[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/WWE.xml</externallink>
