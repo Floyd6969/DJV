@@ -62,36 +62,6 @@
 </item>
 
 <item>
-<title>Astro Supersport 1</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona11.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Astro Supersport 2</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona10.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Astro Supersport 3</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona9.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Astro Supersport 4</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona8.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
 <title>Sport 1</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/hd1.html</link>
 <thumbnail></thumbnail>
@@ -204,13 +174,6 @@
 </item>
 
 <item>
-<title>BT Sport 1</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/bt-sport-1.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>BT Sport 2</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/bt-sport-2hd.html</link>
 <thumbnail></thumbnail>
@@ -234,34 +197,6 @@
 <item>
 <title>Sky Serie A</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/sky-sport-serie-a.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Super Sport 1</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.vipsportslive.eu/p/super-sport-1live.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Super Sport 2</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.vipsportslive.eu/p/super-sport-2live.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Super Sport 3</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.vipsportslive.eu/p/super-sport-3live.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Super Sport 4</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.vipsportslive.eu/p/super-sport-4live.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
