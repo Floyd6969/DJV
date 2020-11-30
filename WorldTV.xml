@@ -62,5 +62,12 @@
 <externallink>https://github.com/Floyd6969/DJV/raw/master/index.country.m3u</externallink>
 <fanart></fanart>
 </channel>
+  
+<channel>
+<name>[COLOR gold][B]English Language Channels (Test List)[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://github.com/Floyd6969/DJV/blob/master/biglist.m3u</externallink>
+<fanart></fanart>
+</channel>
 
 </channels>
