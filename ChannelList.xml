@@ -1,5 +1,5 @@
 <item>
-<title>FiveUSA.uk</title>
+<title>Five USA UK</title>
 <link>http://92.246.85.106:8000/play/a051/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -62,6 +62,13 @@
 </item>
 
 <item>
+<title>Tiny Pop</title>
+<link>http://92.246.85.106:8000/play/a04n/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Paramount</title>
 <link>http://92.246.85.106:8000/play/a054/index.m3u8</link>
 <thumbnail></thumbnail>
@@ -71,6 +78,41 @@
 <item>
 <title>QUEST</title>
 <link>http://92.246.85.106:8000/play/a04x/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>QUEST RED</title>
+<link>http://92.246.85.106:8000/play/a04y/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sony Channel</title>
+<link>http://92.246.85.106:8000/play/a04q/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sony Classic</title>
+<link>http://92.246.85.106:8000/play/a04m/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sony Movies</title>
+<link>http://92.246.85.106:8000/play/a04l/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CNN</title>
+<link>http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
