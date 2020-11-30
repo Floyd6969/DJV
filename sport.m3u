@@ -33,7 +33,30 @@ https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="SPORT",True Sport HD3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="SPORT",True Sport HD4
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 1
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 4
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", ntv sports
+http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", setanta sport 1
+http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28649?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",all sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",TENNIS HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",GOLF HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",SPORT T
+https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", j sport 
+http://193.42.99.130:23455/3660/playlist.m3u8
 #EXTINF:-1 tvg-id="ADSports1.net" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="Sport",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 1
