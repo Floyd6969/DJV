@@ -70,4 +70,11 @@
 <fanart></fanart>
 </channel>
   
+<channel>
+<name>[COLOR gold][B]24/7 Test[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7Test.m3u</externallink>
+<fanart></fanart>
+</channel>
+  
 </channels>
