@@ -20,6 +20,34 @@
 </item>
 
 <item>
+<title>ITV</title>
+<link>http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV 2</title>
+<link>http://51.52.156.22:8888/http/005</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV 3</title>
+<link>http://51.52.156.22:8888/http/006</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV 4</title>
+<link>http://51.52.156.22:8888/http/007</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Channel 5</title>
 <link>http://92.246.85.106:8000/play/a050/index.m3u8</link>
 <thumbnail></thumbnail>
