@@ -63,4 +63,11 @@
 <fanart></fanart>
 </channel>
   
+<channel>
+<name>[COLOR gold][B]New Channel List (WIP)[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ChannelList.xml</externallink>
+<fanart></fanart>
+</channel>
+  
 </channels>
