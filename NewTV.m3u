@@ -10,8 +10,6 @@ http://92.246.85.106:8000/play/a05g/index.m3u8
 http://92.246.85.106:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="MOVIE",171.Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1, tvg-logo="New Logo" tvg-name="Pop"  group-title="DAVE",Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/DMAX.png" tvg-name="DMAX" group-title="",DMAX
 http://92.246.85.106:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Food Network
@@ -56,7 +54,11 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://136.243.177.164/HBO2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="MOVIE",HBO3
 http://136.243.177.164/HBO3/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="DAVE",Zee Cafe HD
+#EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="DAVE",Zee Cafe
+#EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22867/humor-mill/logo_20200819_235207_68.png" group-title="DistroTV",Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22751/idg/logo_20191217_230247.png" group-title="DistroTV",IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
