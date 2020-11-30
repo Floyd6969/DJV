@@ -129,58 +129,35 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",451 Stingray naturescape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title ="SPORT",True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title ="SPORT",True Sport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="SPORT",True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="SPORT",True Sport HD4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg" group-title="SPORT",TRUE SPORT 5
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg" group-title="SPORT",TRUE SPORT 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg" group-title="SPORT",TRUE SPORT 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="SPORT",Fox Sport1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="SPORT",Fox Sport2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="SPORT",Fox Sport3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORT", Adjarasport 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORT", Adjarasport 2
-https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="SPORT", Arena Sport 1
-http://43.255.241.173/arena1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="SPORT", Arena Sport 2 
-http://43.255.241.173/arena2/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="SPORT", Arena Sport 3 
-http://43.255.241.173/arena3/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="SPORT", Arena Sport 4 
-http://43.255.241.173/arena4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="SPORT",Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="SPORT",PremierHD1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="SPORT",PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="SPORT",PremierHD3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="SPORT",PremierHD4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="SPORT",PremierHD5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Family Channel
+http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Flashback
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Frontier
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS High Tops
+https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Hollywood History
+http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Main Street
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Tavern
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Turbo
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS TV Network
+http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Western Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Women Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
