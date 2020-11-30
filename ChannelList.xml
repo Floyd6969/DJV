@@ -172,3 +172,59 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Zee Cafe HD</title>
+<link>https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zee Cafe SD</title>
+<link>https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fox HD Asia</title>
+<link>https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blue Ant</title>
+<link>https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blue Ant Extreme</title>
+<link>https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fox Movies</title>
+<link>https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Prive HD</title>
+<link>https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Movie Kingdom</title>
+<link>https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
