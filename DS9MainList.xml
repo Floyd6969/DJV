@@ -28,6 +28,27 @@
 </item>
 
 <item>
+<title>20:00 Porto v Manchester City*</title>
+<link>http://ovamarie.azureedge.net/hls/mancity/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Porto v Manchester City*</title>
+<link>https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/422779c1c37349e5b920e5d7d290d596/index2_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Porto v Manchester City*</title>
+<link>http://23.237.79.20:8081/hls1/k2.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>20:00 Porto v Manchester City</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php</link>
 <thumbnail></thumbnail>
