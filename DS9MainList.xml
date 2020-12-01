@@ -7,20 +7,6 @@
 </item>
 
 <item>
-<title>17:55 Shakhtar Donetsk v Real Madrid*</title>
-<link>http://cdn102.thatisme.xyz/hls/ch72/index.m3u8?st=F-6tLhoSeI9VzVDnYfwOeQ&e=1606853831</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Shakhtar Donetsk v Real Madrid*</title>
-<link>http://cdn102.thatisme.xyz/hls/ch4/index.m3u8?st=277-ITa66R85gTwN0bdmrw&e=1606853883</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>17:55 Shakhtar Donetsk v Real Madrid</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
 <thumbnail></thumbnail>
@@ -30,6 +16,20 @@
 <item>
 <title>17:55 Shakhtar Donetsk v Real Madrid</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Shakhtar Donetsk v Real Madrid</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/2.html</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Shakhtar Donetsk v Real Madrid</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/6.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
