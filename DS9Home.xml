@@ -38,9 +38,9 @@
 </channel>
  
 <channel>
-<name>[COLORgold][B][I]WWE/AEW/UFC Replays[/I][/B][/COLOR]</name>
+<name>[COLORgold][B][I]Replays Section[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/WWE.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ReplaysSelect.xml</externallink>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </channel>
  
