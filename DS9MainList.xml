@@ -56,6 +56,13 @@
 </item>
 
 <item>
+<title>20:00 Manchester United v PSG*</title>
+<link>https://cdnx.dailysportlist.xyz/epl1/1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>20:00 Manchester United v PSG</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php</link>
 <thumbnail></thumbnail>
@@ -65,6 +72,13 @@
 <item>
 <title>20:00 Manchester United v PSG</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd4.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Ferencvaros v Barcelona*</title>
+<link>https://cdnx.dailysportlist.xyz/epl3/3.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -84,6 +98,13 @@
 </item>
 
 <item>
+<title>20:00 Sevilla v Chelsea*</title>
+<link>https://cdnx.dailysportlist.xyz/epl2/2.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>20:00 Sevilla v Chelsea</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
 <thumbnail></thumbnail>
@@ -91,8 +112,22 @@
 </item>
 
 <item>
+<title>20:00 Borussia Dortmund v Lazio*</title>
+<link>https://cdnx.dailysportlist.xyz/epl5/5.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>20:00 Borussia Dortmund v Lazio</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Juventus v Dynamo Kyiv*</title>
+<link>https://cdnx.dailysportlist.xyz/epl4/4.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
