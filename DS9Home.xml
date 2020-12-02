@@ -45,20 +45,6 @@
 </channel>
  
 <channel>
-<name>[COLORgold][B][I]Sports Replays HD (RD Only)[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Sports.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]Classic Sports Replays[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ClassicReplays.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
 <name>[COLORgold][B][I]Permanent Links[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TestLinks.xml</externallink>
