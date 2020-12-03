@@ -33,6 +33,8 @@ https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="SPORT",True Sport HD3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="SPORT",True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 1
 http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 2
@@ -70,14 +72,6 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="Sport",All Sports
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-country="BR" tvg-url="" group-title="Sport",ALL Sports
