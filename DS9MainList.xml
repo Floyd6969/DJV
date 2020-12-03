@@ -7,6 +7,13 @@
 
 <item>
 <title>17:55 Zorya v Leicester City*</title>
+<link>http://192.166.246.122/hls/ovo2.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Zorya v Leicester City*</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -85,6 +92,20 @@
 <item>
 <title>17:55 Milan v Celtic*</title>
 <link>http://185.180.12.42/mylive/k22/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Milan v Celtic*</title>
+<link>http://live.catchystream.com:1935/edge/bt3/chunklist_w75786281.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:55 Milan v Celtic*</title>
+<link>http://192.166.246.122/hls/ovostreamss12.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
