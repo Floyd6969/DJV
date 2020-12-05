@@ -35,6 +35,12 @@ https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="SPORT",True Sport HD4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,PREMIER LEAGUE ru1
+https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,PREMIER LEAGUE ru2
+https://95-213-224-183.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,PREMIER LEAGUE ru3
+https://95-213-224-183.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 1
 http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 2
