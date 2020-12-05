@@ -6,7 +6,14 @@
 </item>
 
 <item>
-<title>08:00 WRC: Italy Rally - Super Special</title>
+<title>08:00 WRC: Rally Monza</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>08:00 WRC: Rally Monza</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -34,8 +41,22 @@
 </item>
 
 <item>
+<title>12:15 WRC: Rally Monza</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>12:40 ATP Challenger Tour: Maia Open</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12:15 WRC: Rally Monza</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -70,7 +91,21 @@
 
 <item>
 <title>01:00 UFC Fight Night: Prelims</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>01:00 UFC Fight Night: Prelims</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03:00 UFC Fight Night: Hermansson v Vettori</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
