@@ -1,11 +1,4 @@
 <item>
-<title>16:00 Rennes v Lens</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd4.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>17:00 Juventus v Torino</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
 <thumbnail></thumbnail>
@@ -161,6 +154,20 @@
 
 <item>
 <title>20:00 Chelsea v Leeds United*</title>
+<link>https://bucketdaily0.s3.amazonaws.com/epl1/1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Chelsea v Leeds United*</title>
+<link>http://koreysteele.azureedge.net/hls/optus/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Chelsea v Leeds United*</title>
 <link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -169,6 +176,13 @@
 <item>
 <title>20:00 Chelsea v Leeds United</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Chelsea v Leeds United</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-38.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
