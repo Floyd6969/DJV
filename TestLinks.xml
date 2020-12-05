@@ -76,6 +76,13 @@
 </item>
 
 <item>
+<title>BT Sport 3 HD</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-33.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>BT Sport ESPN</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-34.php</link>
 <thumbnail></thumbnail>
@@ -197,27 +204,6 @@
 <item>
 <title>Fox Sports 1 Malaysia</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://totalsport.me/zona12.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BT Sport 3 HD</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BT Sport ESPN</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/bt-sport-espn.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Sky Serie A</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.gloriochannel.ml/p/sky-sport-serie-a.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
