@@ -63,12 +63,19 @@
 <fanart></fanart>
 </channel>
   
-channel>
-<name>[COLOR gold][B]New Channel List (WIP)[/B][/COLOR]</name>
+<channel>
+<name>[COLOR gold][B]Spanish Channels[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewTV.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/es.m3u</externallink>
 <fanart></fanart>
 </channel>
+  
+<channel>
+<name>[COLOR gold][B]German Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/de.m3u</externallink>
+<fanart></fanart>
+</channel>  
   
 <channel>
 <name>[COLOR gold][B]24/7 Test[/B][/COLOR]</name>
