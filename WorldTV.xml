@@ -75,6 +75,13 @@
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/de.m3u</externallink>
 <fanart></fanart>
+</channel> 
+  
+<channel>
+<name>[COLOR gold][B]French Channels[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/fr.m3u</externallink>
+<fanart></fanart>
 </channel>  
   
 <channel>
