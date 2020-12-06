@@ -23,7 +23,7 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </channel>
  
-<channel>
+channel>
 <name>[COLORgold][B][I]Champions League (Test)[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Champ.xml</externallink>
@@ -31,7 +31,7 @@
 </channel>
  
 <channel>
-<name>[COLORgold][B][I]World Footy Channels (Test)[/I][/B][/COLOR]</name>
+<name>[COLORgold][B][I]Mixed Sports Channels[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Ifollow.xml</externallink>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
