@@ -69,8 +69,50 @@
 </item>
 
 <item>
+<title>Sky Main Event HD</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Mix</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sky NFL</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-37.php</link>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_NFL_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Golf</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Cricket</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Football</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Football_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky News</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_News_HD-uk/index.m3u8?token=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
