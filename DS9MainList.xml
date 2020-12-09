@@ -1,95 +1,4 @@
 <item>
-<title>17:55 Midtjylland v Liverpool*</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Midtjylland v Liverpool*</title>
-<link>https://cdn.dailysport.cloud/epl1/1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Midtjylland v Liverpool*</title>
-<link>http://koreysteele.azureedge.net/hls/liverpool/chunks.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Midtjylland v Liverpool*</title>
-<link>https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/1a15399bdb804446bf08f8b8ad0ba3a5/index3.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Midtjylland v Liverpool</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Midtjylland v Liverpool</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/bra/br1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Ajax v Atalanta*</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Ajax v Atalanta*</title>
-<link>https://cdn.dailysport.cloud/epl3/3.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Ajax v Atalanta</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Ajax v Atalanta</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd7.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Ajax v Atalanta</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/bra/br2.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Paris vs Basaksehir*</title>
-<link>https://cdn.dailysport.cloud/epl2/2.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:55 Paris vs Basaksehir</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-34.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>19:45 Bristol City v Blackburn Rovers</title>
 <link>http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=</link>
 <thumbnail></thumbnail>
@@ -118,6 +27,27 @@
 </item>
 
 <item>
+<title>20:00 Manchester City v Olympique Marseille*</title>
+<link>https://cdn.dailysport.cloud/epl1/1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Manchester City v Olympique Marseille*</title>
+<link>http://koreysteele.azureedge.net/hls/mancity/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Manchester City v Olympique Marseille*</title>
+<link>http://live.catchystream.com:1935/edge/bt2/chunklist_w887577057.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>20:00 Manchester City v Olympique Marseille</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php</link>
 <thumbnail></thumbnail>
@@ -134,6 +64,27 @@
 <item>
 <title>20:00 Manchester City v Olympique Marseille</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/bra/br1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Bayern Munchen v Lokomotiv Moskva*</title>
+<link>http://koreysteele.azureedge.net/hls/bayern/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Bayern Munchen v Lokomotiv Moskva*</title>
+<link>http://64.227.88.31/hls/k6.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Bayern Munchen v Lokomotiv Moskva*</title>
+<link>https://storage.googleapis.com/dailycl4/epl4/4.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
