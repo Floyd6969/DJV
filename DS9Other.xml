@@ -1,71 +1,28 @@
 <item>
-<title>10:00 LPL: Kandy v Jaffna</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=</link>
+<title>07:00 European Tour: DP World Tour Championship - 1st Day</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/pt/sporttv4.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>10:00 LPL: Kandy v Jaffna</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>10:00 LPL: Kandy v Jaffna</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>14:00 Juventus Women v Olympique Lyonnais Women</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd7.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>14:25 LPL: Galle v Dambulla</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>14:25 LPL: Galle v Dambulla</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>14:25 LPL: Galle v Dambulla</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>01:00 WWE: NXT</title>
+<title>08:00 BBL: Hobart v Sidney Sixers</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>01:00 WWE: NXT</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd2.php</link>
+<title>15:30 US Open: US Women's Open - 1st Day</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/pt/sporttv4.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>01:00 WWE: NXT</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/pt/sporttv5.php</link>
+<title>00:30 NFL: Patriots @ Rams</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
 
