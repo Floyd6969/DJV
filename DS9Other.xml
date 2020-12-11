@@ -1,5 +1,12 @@
 <item>
 <title>07:00 European Tour: DP World Tour Championship - 2nd Day</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>07:00 European Tour: DP World Tour Championship - 2nd Day</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -35,6 +42,13 @@
 
 <item>
 <title>09:00 Abu Dhabi F1 GP: Practice 1</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>09:00 Abu Dhabi F1 GP: Practice 1</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd5.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -49,6 +63,13 @@
 
 <item>
 <title>12:45 Abu Dhabi F1 GP: Practice 2</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12:45 Abu Dhabi F1 GP: Practice 2</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd5.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -57,6 +78,13 @@
 <item>
 <title>12:45 Abu Dhabi F1 GP: Practice 2</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/bra/br1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>14:25 LPL: Dambulla Viiking v Colombo Kings</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -71,6 +99,13 @@
 <item>
 <title>17:30 Rugby: Northampton v Bordeaux Begles</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/pt/sporttv2.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>18:00 US Women's Open</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
