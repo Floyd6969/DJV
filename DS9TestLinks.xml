@@ -272,3 +272,17 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Test5</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://macron.xyz/feed/stream/11.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test6</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://macron.xyz/feed/stream/12.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
