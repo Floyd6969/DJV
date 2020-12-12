@@ -1,67 +1,4 @@
 <item>
-<title>07:00 European Tour: DP World Tour Championship - 3rd Day</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>07:00 European Tour: DP World Tour Championship - 3rd Day</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>07:00 European Tour: DP World Tour Championship - 3rd Day</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>07:00 European Tour: DP World Tour Championship - 3rd Day</title>
-<link>https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>08:40 Super Rugby: Northampton v Bordeaux Begles</title>
-<link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>09:00 Abu Dhabi F1 GP: Practice 3</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd5.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>12:00 Abu Dhabi F1 GP: Qualifying 1,2 & 3</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>12:00 Abu Dhabi F1 GP: Qualifying</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd5.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>13:00 Super Rugby: Bristol Bears v Clermont Auvergne</title>
-<link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>16:00 US Women's Open</title>
 <link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=</link>
 <thumbnail></thumbnail>
@@ -85,6 +22,41 @@
 <item>
 <title>18:00 Fight Night: Undercard</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd8.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
+<link>https://z.cantholdus.xyz/kaynakstreamradarco/espnplus1/naxi/caxi.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
+<link>http://ongbak.azureedge.net/hls/boxing/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
+<link>http://live.catchystream.com:1935/edge/espn/chunklist_w2039074308.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
+<link>http://josephramirez.azureedge.net/show/dazn/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
+<link>http://35.227.216.185/live/abr_vgdfresd4/live/sportnews4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMCA2OjI5OjEwIFBNJmhhc2hfdmFsdWU9UkUwaUNvSDJLTmZSdlVwdStiNEtQZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTA0LjEzMS4xNjkuMTU0JnN0cm1fbGVuPTU=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
