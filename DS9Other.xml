@@ -1,81 +1,4 @@
 <item>
-<title>16:00 US Women's Open</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>16:00 US Women's Open</title>
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>17:30 Super Rugby: Montpellier v Leinster</title>
-<link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>18:00 Fight Night: Undercard</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd8.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
-<link>https://z.cantholdus.xyz/kaynakstreamradarco/espnplus1/naxi/caxi.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
-<link>http://live.catchystream.com:1935/edge/espn/chunklist_w2039074308.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
-<link>http://josephramirez.azureedge.net/show/dazn/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
-<link>https://65c30e1a8f106ed6.mediapackage.sa-east-1.amazonaws.com/out/v1/4798bea113884aa0842f3edaaede3a25/index_1.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>22:30 Fight Night: Anthony Joshua vs Kubrat Pulev</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd8.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>01:00 UFC 256: Prelims</title>
-<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>01:00 UFC 256: Prelims</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd2.php</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>03:00 UFC 256: Deiveson Figueiredo vs Brandon Moreno</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
@@ -95,4 +18,97 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>06:15 Hong Kong Racing</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>07:00 European Tour: DP World Tour Championship - 4th Day</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>07:00 European Tour: DP World Tour Championship - 4th Day</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>07:00 European Tour: DP World Tour Championship - 4th Day</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>07:00 European Tour: DP World Tour Championship - 4th</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>11:30 Grand Prix Sunday: Abu Dhabi</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>11:30 Grand Prix Sunday: Abu Dhabi</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd5.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>13:00 Super Rugby: Lyon x Gloucester Rugby</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>13:00 Super Rugby: Lyon x Gloucester Rugby</title>
+<link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>16:00 US Women's Open</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Live NFL Redzone</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>21:30 NFL: Colts @ Raiders</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>01:10 NFL: Steelers @ Bills</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v3.sportzonline.to/channels/hd/hd1.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 
