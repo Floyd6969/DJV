@@ -62,6 +62,13 @@
 </item>
 
 <item>
+<title>Sky Main Event HD*</title>
+<link>http://54.36.165.216:85/SkySport1HD/tracks-v1a1/mono.m3u8?token=test&token=test</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sky Premier League HD</title>
 <link>http://54.36.165.216:85/SkySport5HD/tracks-v1a1/mono.m3u8?token=test&token=test</link>
 <thumbnail></thumbnail>
@@ -78,6 +85,13 @@
 <item>
 <title>Sky NFL</title>
 <link>http://156.146.43.241:2200/EX/Sky_Sports_NFL_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky NFL*</title>
+<link>http://54.36.165.216:85/SkySport3HD/tracks-v1a1/mono.m3u8?token=test&token=test</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -113,6 +127,13 @@
 <item>
 <title>Sky Cricket</title>
 <link>http://156.146.43.241:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Cricket*</title>
+<link>http://54.36.165.216:85/SkySport2HD/tracks-v1a1/mono.m3u8?token=test&token=test</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
