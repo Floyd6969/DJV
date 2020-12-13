@@ -21,6 +21,13 @@
 
 <item>
 <title>11:30 Grand Prix Sunday: Abu Dhabi</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>11:30 Grand Prix Sunday: Abu Dhabi</title>
 <link>https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -64,6 +71,13 @@
 <item>
 <title>17:15 Rugby: Munster v Harlequins</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>18:00 NFL: Red Zone</title>
+<link>http://156.146.43.241:2200/EX/Sky_Sports_NFL_HD-uk/index.m3u8?token=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
