@@ -21,13 +21,6 @@
 
 <item>
 <title>11:30 Grand Prix Sunday: Abu Dhabi</title>
-<link>https://storage.googleapis.com/dailycl4/epl6/6.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>11:30 Grand Prix Sunday: Abu Dhabi</title>
 <link>https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -48,14 +41,28 @@
 </item>
 
 <item>
-<title>13:00 Super Rugby: Lyon x Gloucester Rugby</title>
+<title>13:00 Rugby: Lyon v Gloucester Rugby</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>13:00 Rugby: Lyon v Gloucester Rugby</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>13:00 Super Rugby: Lyon x Gloucester Rugby</title>
+<title>17:15 Rugby: Munster v Harlequins</title>
+<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17:15 Rugby: Munster v Harlequins</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
