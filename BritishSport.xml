@@ -69,6 +69,13 @@
 </item>
 
 <item>
+<title>Sky Main Event HD**</title>
+<link>http://54.36.165.216:85/SkySport1HD/tracks-v1a1/mono.m3u8?token=test</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sky Premier League HD</title>
 <link>http://54.36.165.216:85/SkySport5HD/tracks-v1a1/mono.m3u8?token=test&token=test</link>
 <thumbnail></thumbnail>
