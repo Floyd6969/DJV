@@ -83,6 +83,13 @@
 </item>
 
 <item>
+<title>Sky Premier League HD</title>
+<link>http://54.36.165.216:85/SkySport5HD/tracks-v1a1/mono.m3u8?token=test</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sky Mix</title>
 <link>http://156.146.43.241:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=</link>
 <thumbnail></thumbnail>
