@@ -372,6 +372,13 @@ channel>
 </channel>
 
 <channel>
+<name>Tin Star S03</name>
+<thumbnail>https://i.imgur.com/1HP44WH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TinStar.xml</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
 <name>Trinkets S02</name>
 <thumbnail>https://i.imgur.com/HthFP5R.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Trinkets.xml</externallink>
