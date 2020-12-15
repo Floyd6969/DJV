@@ -245,8 +245,15 @@
 </item>
 
 <item>
-<title>Wolves v Chelsea</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/wolves-vs-chelsea.php</link>
+<title>Test</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://wigistream.to/live/rr2rlcnitq</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Test</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://wigistream.to/embed/rr2rlcnitq</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
