@@ -21,6 +21,13 @@
 </item>
 
 <item>
+<title>17:30 Juvenus v Atalanta</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/juventus-vs-atalanta.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>18:00 Arsenal v Southampton</title>
 <link>https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
@@ -100,6 +107,13 @@
 <item>
 <title>18:00 Leeds v Newcastle</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/leeds-vs-newcastle.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19:30 Bayern Munchen v Wolfsburg</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/bayern-vs-wolfsburg.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -205,6 +219,13 @@
 <item>
 <title>20:00 Fulham v Brighton</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/fulham-vs-brighton.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Barcelona v Real Sociedad</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/barcelona-vs-real-sociedad.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
