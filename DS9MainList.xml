@@ -29,6 +29,13 @@
 
 <item>
 <title>18:00 Arsenal v Southampton</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/arsenal-vs-southampton.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>18:00 Arsenal v Southampton</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -37,6 +44,20 @@
 <item>
 <title>18:00 Leicester City v Everton</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>18:00 Leicester City v Everton</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/leicester-vs-everton.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>18:00 Leeds v Newcastle</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/leeds-vs-newcastle.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -71,6 +92,13 @@
 
 <item>
 <title>20:00 West Ham United v Crystal Palace</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/west-ham-vs-cry-palace.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 West Ham United v Crystal Palace</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -92,6 +120,13 @@
 
 <item>
 <title>20:00 Liverpool v Tottenham Hotspur</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/liverpool-vs-tottenham.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Liverpool v Tottenham Hotspur</title>
 <link>https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -100,6 +135,13 @@
 <item>
 <title>20:00 Liverpool v Tottenham Hotspur</title>
 <link>https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20:00 Fulham v Brighton</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.ovostreams.com/fulham-vs-brighton.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
