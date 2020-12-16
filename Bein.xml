@@ -55,6 +55,13 @@
 </item>
 
 <item>
+<title>Bein Sports 4 (AR)</title>
+<link>http://194.32.79.172/bein4/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bein Sports 4 Max</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/8.html</link>
 <thumbnail></thumbnail>
