@@ -3,72 +3,9 @@
 <channels>
  
 <channel>
-<name>[COLORgold][B][I]Live Football[/I][/B][/COLOR]</name>
+<name>[COLORred][B][I]Offline[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DS9MainList.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]Live Daily Sports[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DS9Other.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]EPL Live[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Epl.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]UK Sports Channels[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/BritishSport.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]Bein Sports[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Bein.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]Mixed Sports Channels[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Ifollow.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]Replays Section[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ReplaysSelect.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]Permanent Links[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/TestLinks.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]World Sports Channels[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/WSExtraSelect.xml</externallink>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</channel>
- 
-<channel>
-<name>[COLORgold][B][I]Test Links[/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/DS9TestLinks.xml</externallink>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </channel>
  
