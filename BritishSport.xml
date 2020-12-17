@@ -7,7 +7,7 @@
 
 <item>
 <title>BT Sport 1 HD</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-31.php</link>
+<link>http://156.146.43.241:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -21,14 +21,14 @@
 
 <item>
 <title>BT Sport 2 HD</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-32.php</link>
+<link>http://156.146.43.241:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>BT Sport 3 HD</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-33.php</link>
+<link>http://156.146.43.241:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
