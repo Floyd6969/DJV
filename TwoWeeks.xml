@@ -8,16 +8,16 @@ channel>
 </channel>
 
 <channel>
-<name>Away S01*</name>
+<name>Away S01</name>
 <thumbnail>https://i.imgur.com/sFcCi4n.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Shows/Away.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Away.xml</externallink>
 <fanart></fanart>
 </channel>
  
 <channel>
 <name>A Wild Year On Earth S01</name>
 <thumbnail>https://i.imgur.com/q9nSDCU.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Shows/WildTV.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WildTV.xml</externallink>
 <fanart></fanart>
 </channel>
  
