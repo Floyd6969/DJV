@@ -1,196 +1,168 @@
 <dir>
-<name>Agents of Chaos S01</name>
-<thumbnail>https://i.imgur.com/XbvnXqi.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Chaos.xml</link>
-<fanart></fanart>
-</dir>
-
-<dir>
 <name>Away S01</name>
 <thumbnail>https://i.imgur.com/sFcCi4n.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/AwayTV.xml</link>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>A Wild Year On Earth S01</name>
-<thumbnail>https://i.imgur.com/q9nSDCU.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/WildTV.xml</link>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>Bobs Burgers S11</name>
-<thumbnail>https://i.imgur.com/3fMeT47.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/BobsBurgersTV.xml</link>
-<fanart></fanart>
-</dir>
-
-dir>
-<name>Brassic S01 & S02</name>
-<thumbnail>https://i.imgur.com/pI4pNhE.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/BrassicTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Away.xml</link>
 <fanart></fanart>
 </dir>
  
-dir>
-<name>Challenger: The Final Flight S01</name>
-<thumbnail>https://i.imgur.com/9eDJ4i3.jpg</thumbnail>
-<link>https://i.imgur.com/9eDJ4i3.jpg</link>
+<dir>
+<name>A Wild Year On Earth S01</name>
+<thumbnail>https://i.imgur.com/q9nSDCU.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WildTV.xml</link>
+<fanart></fanart>
+</dir>
+ 
+<dir>
+<name>Bobs Burgers S11</name>
+<thumbnail>https://i.imgur.com/3fMeT47.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/BobsBurgersTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Cobra Kai S01 & S02</name>
 <thumbnail>https://i.imgur.com/EsZXZOZ.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/CobrakaiTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/CobrakaiTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Criminal: UK S01 & S02</name>
 <thumbnail>https://i.imgur.com/QNv1rPa.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/CriminalTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/CriminalTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Dark S01, S02 & S03</name>
 <thumbnail>https://i.imgur.com/W3To4g5.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/DarkTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/DarkTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Derry Girls S01 & S02</name>
 <thumbnail>https://i.imgur.com/sOWA9pO.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/DerryTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/DerryTV.xml</link>
 <fanart></fanart>
 </dir>
  
 <dir>
 <name>Des S01</name>
 <thumbnail>https://i.imgur.com/fcPwA8B.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/DesTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/DesTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Doom Patrol S02</name>
 <thumbnail>https://i.imgur.com/yhuPmkU.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/DoomTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/DoomTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Emily in Paris S01</name>
 <thumbnail>https://i.imgur.com/aAJ11nu.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/EmilyTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/EmilyTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Family Guy S19</name>
 <thumbnail>https://i.imgur.com/JMw1TCI.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/FamilyGuyTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/FamilyGuyTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Fargo S04</name>
 <thumbnail>https://i.imgur.com/ckEhCGu.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/FargoTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/FargoTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Fast & Furious Spy Racers S01 & S02</name>
 <thumbnail>https://i.imgur.com/3lMTcZ1.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/FastTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/FastTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Fear the Walking Dead S06</name>
 <thumbnail>https://i.imgur.com/ZkICJn0.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/FearTWD.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/FearTWD.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Gangs of London S01</name>
 <thumbnail>https://i.imgur.com/QP3K8kG.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/GangsOfLondon.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/GangsOfLondon.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Ghosts S02</name>
 <thumbnail>https://i.imgur.com/4vIlWGJ.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Ghosts.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Ghosts.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Harley Quinn S01 & S02</name>
 <thumbnail>https://i.imgur.com/YnxkoY3.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/HatleyQuinnTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/HatleyQuinnTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Helstrom S01</name>
 <thumbnail>https://i.imgur.com/h1rCiUS.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/HelstromTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/HelstromTV.xml</link>
 <fanart></fanart>
 </dir>
  
 <dir>
 <name>Helter Skelter: An American Myth S01</name>
 <thumbnail>https://i.imgur.com/nsGjNjt.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/HelterSkelterTV.xml</link>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>His Dark Materials S02</name>
-<thumbnail>https://i.imgur.com/X2GyzCn.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Materials.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/HelterSkelterTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Jurassic World: Camp Cretaceous S01</name>
 <thumbnail>https://i.imgur.com/0boQZPi.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/JurassicWorldTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/JurassicWorldTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Madagascar: A Little Wild S01</name>
 <thumbnail>https://i.imgur.com/nklC3HJ.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Madagascar.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Madagascar.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Monsterland S01</name>
 <thumbnail>https://i.imgur.com/8NYJXFn.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/MonsterlandTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/MonsterlandTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Next S01</name>
 <thumbnail>https://i.imgur.com/skRmz7W.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/NextTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/NextTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Pandora S02</name>
 <thumbnail>https://i.imgur.com/8tIiOWH.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Pandora.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Pandora.xml</link>
 <fanart></fanart>
 </dir>
 
@@ -204,133 +176,119 @@ dir>
 <dir>
 <name>Power Book II: Ghost S01</name>
 <thumbnail>https://i.imgur.com/CkfQGhk.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/PowerBookTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/PowerBookTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Raised by Wolves S01</name>
 <thumbnail>https://i.imgur.com/EqB20rq.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/WolvesTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WolvesTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Ratched S01</name>
 <thumbnail>https://i.imgur.com/DoSQ2T1.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RatchedTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/RatchedTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Roadkill S01</name>
 <thumbnail>https://i.imgur.com/3QKg82o.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RoadKTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/RoadKTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Social Distance S01</name>
 <thumbnail>https://i.imgur.com/hOVCH29.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/SocialTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/SocialTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Spitting Image S01</name>
 <thumbnail>https://i.imgur.com/DHC0gQX.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Image.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Image.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Star Trek: Discovery S03</name>
 <thumbnail>https://i.imgur.com/36l2gL0.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Discovery.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Discovery.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Star Trek: Lower Decks S01</name>
 <thumbnail>https://i.imgur.com/VfEPWOu.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/StarTrekTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/StarTrekTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Star Trek: Picard S01</name>
 <thumbnail>https://i.imgur.com/zGVW6Zq.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/PicardTV.xml</link>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>The Blacklist S08</name>
-<thumbnail>https://i.imgur.com/XDira0R.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/BlacklistTV.xml</externallink>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/PicardTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>The Boys S02</name>
 <thumbnail>https://i.imgur.com/LGXXgSF.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TheBoysTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TheBoysTV.xml</link>
 <fanart></fanart>
 </dir>
-
-<dir>
-<name>The Comey Rule S01</name>
-<thumbnail>https://i.imgur.com/THS3ayr.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/ComeyRuleTV.xml</link>
-<fanart></fanart>
-</dir>
-
+ 
 <dir>
 <name>The Conners S03</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRyVIe1eLaBr3mfQSduvkNJ4Aoi.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Conners.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Conners.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>The Crown S04</name>
 <thumbnail>https://i.imgur.com/1EhIxKl.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Crown.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Crown.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>The Expecting S01</name>
 <thumbnail>https://i.imgur.com/8cFhLE7.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/ExpectingTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/ExpectingTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>The Flight Attendant S01</name>
 <thumbnail>https://i.imgur.com/2AsXzci.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Flight.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Flight.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>The Great Barrier Reef S01</name>
 <thumbnail>https://i.imgur.com/uLfK74o.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/BarrierTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Barrier.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>The Haunting of Bly Manor S01</name>
 <thumbnail>https://i.imgur.com/v21rVnh.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/BlyManor.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/BlyManor.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>The Mandalorian S02</name>
 <thumbnail>https://i.imgur.com/AFj20Db.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TheMand.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TheMand.xml</link>
 <fanart></fanart>
 </dir>
 
@@ -344,126 +302,125 @@ dir>
 <dir>
 <name>The Queen's Gambit S01</name>
 <thumbnail>https://i.imgur.com/mDdcyRt.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Gambit.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Gambit.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>The Right Stuff S01</name>
 <thumbnail>https://i.imgur.com/3xTdsto.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RightStuff.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/RightStuff.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>The Simpsons S32</name>
 <thumbnail>https://i.imgur.com/NqvKlxv.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/SimpsonsTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/SimpsonsTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>The Umbrella Academy S02</name>
 <thumbnail>https://i.imgur.com/RDOaCgs.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/UmbrellaTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/UmbrellaTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>The Undoing S01</name>
 <thumbnail>https://i.imgur.com/RYInPfA.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Undoing.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Undoing.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>The Walking Dead: World Beyond S01</name>
 <thumbnail>https://i.imgur.com/WxTlAnr.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TWD.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TWD.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Tin Star S03</name>
 <thumbnail>https://i.imgur.com/1HP44WH.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TinStar.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TinStar.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Trinkets S02</name>
 <thumbnail>https://i.imgur.com/HthFP5R.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Trinkets.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Trinkets.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Truth Seekers S01</name>
 <thumbnail>https://i.imgur.com/ZCJA73Y.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TruthSeekers.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TruthSeekers.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Two Weeks to Live S01</name>
 <thumbnail>https://i.imgur.com/lX1Kl69.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/TwoWeeksTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TwoWeeksTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Us S01</name>
 <thumbnail>https://i.imgur.com/uHONrc8.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Us.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Us.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Utopia S01</name>
 <thumbnail>https://i.imgur.com/SkaqzAH.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/UtopiaTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/UtopiaTV.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Warrior S02</name>
 <thumbnail>https://i.imgur.com/LMp73h6.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/WarriorTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WarriorTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Wentworth S08</name>
 <thumbnail>https://i.imgur.com/rXUAOhm.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Wentworth.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Wentworth.xml</link>
 <fanart></fanart>
 </dir>
-
+ 
 <dir>
 <name>Wireless S01</name>
 <thumbnail>https://i.imgur.com/542RZ6Z.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/WirelessTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WirelessTV.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Yellowstone S03</name>
 <thumbnail>https://i.imgur.com/R9kcY23.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Yellowstone.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Yellowstone.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Young Sheldon S04</name>
 <thumbnail>https://i.imgur.com/r1YhSsm.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Sheldon.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Sheldon.xml</link>
 <fanart></fanart>
 </dir>
 
 <dir>
 <name>Young Wallander S01</name>
 <thumbnail>https://i.imgur.com/cyQ5IIU.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/WallanderTV.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WallanderTV.xml</link>
 <fanart></fanart>
 </dir>
-
