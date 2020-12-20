@@ -245,13 +245,6 @@ channel>
 <fanart></fanart>
 </channel>
 
-channel>
-<name>The Blacklist S08</name>
-<thumbnail>https://i.imgur.com/XDira0R.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/BlacklistTV.xml</externallink>
-<fanart></fanart>
-</channel>
-
 <channel>
 <name>The Boys S02</name>
 <thumbnail>https://i.imgur.com/LGXXgSF.jpg</thumbnail>
@@ -259,13 +252,6 @@ channel>
 <fanart></fanart>
 </channel>
  
-<channel>
-<name>The Comey Rule S01</name>
-<thumbnail>https://i.imgur.com/THS3ayr.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/ComeyRuleTV.xml</externallink>
-<fanart></fanart>
-</channel>
-
 <channel>
 <name>The Conners S03</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRyVIe1eLaBr3mfQSduvkNJ4Aoi.jpg</thumbnail>
