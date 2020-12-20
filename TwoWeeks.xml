@@ -1,9 +1,9 @@
 <channels>
  
-<channel>
+channel>
 <name>Agents of Chaos S01</name>
 <thumbnail>https://i.imgur.com/XbvnXqi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Chaos.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Chaos.xml</externallink>
 <fanart></fanart>
 </channel>
 
@@ -17,7 +17,7 @@
 <channel>
 <name>A Wild Year On Earth S01</name>
 <thumbnail>https://i.imgur.com/q9nSDCU.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/WildTV.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WildTV.xml</externallink>
 <fanart></fanart>
 </channel>
  
