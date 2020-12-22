@@ -139,6 +139,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/HelterSkelterTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Hilda S02</name>
+<thumbnail>https://i.imgur.com/MvOqQDF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Hilda.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Jurassic World: Camp Cretaceous S01</name>
