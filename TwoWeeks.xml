@@ -335,6 +335,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/SimpsonsTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>The Stand S01</name>
+<thumbnail>https://i.imgur.com/xNduYUw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TheStand.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>The Umbrella Academy S02</name>
