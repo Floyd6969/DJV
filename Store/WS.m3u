@@ -35,20 +35,6 @@ https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="SPORT",True Sport HD4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1,PREMIER LEAGUE ru1
-https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1,PREMIER LEAGUE ru2
-https://95-213-224-183.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1,PREMIER LEAGUE ru3
-https://95-213-224-183.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 1
-http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 2
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 3
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 4
-http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", ntv sports
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", setanta sport 1
@@ -216,33 +202,3 @@ http://163.172.138.186/hls/stream.m3u8
 https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" tvg-country="DE" tvg-url="" group-title="Sport",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.ktrk.kg/images/channels/nav/sport.png" tvg-country="KG" tvg-url="" group-title="Sport",КТРК Спорт
-http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Матч!
-http://176.114.16.54:80/match/index.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Матч!
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/sila-tv.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Сила
-http://gcore.silatv.ru/streams/3431_1488/480n/index.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/sila-tv.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Сила
-https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/sila-tv.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Сила
-https://gcore.silatv.ru/streams/3431_1488/720n/index.m3u8
-#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
-https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
-https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
-https://strm.yandex.ru/kal/start/start0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
-https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" tvg-country="TW" tvg-url="" group-title="Sport",博斯魅力
-https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-country="TW" tvg-url="" group-title="Sport",緯來體育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
