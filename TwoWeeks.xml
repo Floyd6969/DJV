@@ -153,6 +153,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/JurassicWorldTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Letterkenny S09</name>
+<thumbnail>https://i.imgur.com/qyZ5yIv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Letterkenny.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Madagascar: A Little Wild S01</name>
