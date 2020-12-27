@@ -454,5 +454,12 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WallanderTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Your Honor S01</name>
+<thumbnail>https://i.imgur.com/WY0LGMl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Honour.xml</externallink>
+<fanart></fanart>
+</channel>
 
 </channels>
