@@ -13,12 +13,12 @@
 </plugin>
 
 <plugin>
-<title>[COLOR blue][B]You Tube Music[/B][/COLOR]</title>
-<link>plugin://plugin.video.spotitube/</link>
-<thumbnail>https://i.imgur.com/Vahqypo.png</thumbnail>
+<title>[COLOR blue][B]Smokin' Old School[/B][/COLOR]</title>
+<link>https://www.youtube.com/playlist?list=PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR</link>
+<thumbnail>https://i.imgur.com/AenT7WC.jpg</thumbnail>
 <fanart></fanart>
 </plugin>
- 
+
 <plugin>
 <title>[COLOR blue][B]The Official 80's Videos Music Channel[/B][/COLOR]</title>
 <link>Plugin://plugin.video.youtube/playlist/PLjB-wurbnZxUY8WEq6iu-A45Bt_EjXvDX/</link>
