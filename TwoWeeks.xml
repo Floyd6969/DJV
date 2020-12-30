@@ -421,6 +421,13 @@
 </channel>
  
 <channel>
+<name>Vikings S06</name>
+<thumbnail>https://i.imgur.com/W6iM40l.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Vikings.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Warrior S02</name>
 <thumbnail>https://i.imgur.com/LMp73h6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WarriorTV.xml</externallink>
