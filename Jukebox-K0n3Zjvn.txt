@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]Smokin' Old School[/B][/COLOR]</title>
+<title>[COLOR red][B]Smokin' Old School[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/AenT7WC.jpg</thumbnail>
