@@ -34,5 +34,12 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/US.m3u</externallink>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </channel>
+ 
+<channel>
+<name>[COLORgold][B][I]Test[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Redhb11/Iptv-sports.m3u/main/sports</externallink>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</channel>
 
 </Channels>
