@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR blue][B]Smokin' Old School[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist?list=PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/AenT7WC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR blue][B]The Official 80's Videos Music Channel[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLjB-wurbnZxUY8WEq6iu-A45Bt_EjXvDX/?page=0</jsonrpc>
