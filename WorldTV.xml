@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[COLOR gold][B]World Sports[/B][/COLOR]</name>
+<name>[COLOR gold][B]World TV[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/sport.m3u</externallink>
 <fanart></fanart>
@@ -84,7 +84,7 @@
 <fanart></fanart>
 </channel>  
   
-<channel>
+channel>
 <name>[COLOR gold][B]24/7 Test[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/24-7Test.m3u</externallink>
