@@ -27,6 +27,13 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/BobsBurgersTV.xml</externallink>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>Chilling Adventures of Sabrina S04</name>
+<thumbnail>https://i.imgur.com/PoO2lEH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Sabrina.xml</externallink>
+<fanart></fanart>
+</channel>
 
 <channel>
 <name>Cobra Kai S01 & S02</name>
