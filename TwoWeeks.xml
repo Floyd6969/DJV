@@ -246,6 +246,13 @@
 </channel>
  
 <channel>
+<name>Soul City S01</name>
+<thumbnail>https://i.imgur.com/Dy6DLyn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Soul.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Spitting Image S01</name>
 <thumbnail>https://i.imgur.com/DHC0gQX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Image.xml</externallink>
