@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,  >>> Comedy
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/comedy.m3u8
+#EXTINF:0,  >>> General
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/general.m3u8
+#EXTINF:0,  >>> Kids
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/kids.m3u8
+#EXTINF:0,  >>> Music
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/music.m3u8
+#EXTINF:0,  >>> Podcasts
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/podcasts.m3u8
+#EXTINF:0,  >>> Anime
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/anime.m3u8
