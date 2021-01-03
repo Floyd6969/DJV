@@ -358,6 +358,13 @@
 </channel>
  
 <channel>
+<name>The Serpent S01</name>
+<thumbnail>https://i.imgur.com/vNIV8WB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Serpent.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>The Simpsons S32</name>
 <thumbnail>https://i.imgur.com/NqvKlxv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/SimpsonsTV.xml</externallink>
