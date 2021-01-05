@@ -1,5 +1,12 @@
 <channels>
  
+channel>
+<name>A Perfect Planet S01</name>
+<thumbnail>https://i.imgur.com/4GThWuR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Perfect.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
 <channel>
 <name>Agents of Chaos S01</name>
 <thumbnail>https://i.imgur.com/XbvnXqi.jpg</thumbnail>
