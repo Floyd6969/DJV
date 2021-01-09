@@ -1,6 +1,13 @@
 <channels>
  
 <channel>
+<name>A Discovery of Witches S02</name>
+<thumbnail>https://i.imgur.com/pczLUdj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Witches.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>A Perfect Planet S01</name>
 <thumbnail>https://i.imgur.com/4GThWuR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Perfect.xml</externallink>
