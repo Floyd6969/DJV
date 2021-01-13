@@ -20,5 +20,12 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/Plex.m3u</externallink>
 <fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
 </channel>
-
+  
+<channel>
+<name>[COLOR red][B]24/7 Movies[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/247movies.m3u</externallink>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</channel>
+  
 </channels>
