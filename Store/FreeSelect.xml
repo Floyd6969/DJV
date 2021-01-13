@@ -1,0 +1,24 @@
+<channels>
+
+<channel>
+<name>[COLOR red][B]Free To Air TV UK[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/FreeLegalUK.m3u</externallink>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR red][B]Free To Air TV US[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/FTAUS.m3u</externallink>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR red][B]Free Plex TV[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/Plex.m3u</externallink>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</channel>
+
+</channels>
