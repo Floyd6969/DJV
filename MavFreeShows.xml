@@ -41,13 +41,6 @@
 </dir>
 
 <dir>
-<name>Call Me Kat S01</name>
-<thumbnail>https://i.imgur.com/E7hPmpH.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Kat.xml</link>
-<fanart></fanart>
-</dir>
-
-<dir>
 <name>Chilling Adventures of Sabrina S04</name>
 <thumbnail>https://i.imgur.com/PoO2lEH.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Sabrina.xml</link>
@@ -457,6 +450,13 @@
 <name>Vikings S06</name>
 <thumbnail>https://i.imgur.com/W6iM40l.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Vikings.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>WandaVision S01</name>
+<thumbnail>https://i.imgur.com/nhumGuE.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Wanda.xml</link>
 <fanart></fanart>
 </dir>
  
