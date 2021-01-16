@@ -253,6 +253,13 @@
 </channel>
  
 <channel>
+<name>Servant S02</name>
+<thumbnail>https://i.imgur.com/sXWskTe.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Servant.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Social Distance S01</name>
 <thumbnail>https://i.imgur.com/hOVCH29.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/SocialTV.xml</externallink>
@@ -293,7 +300,7 @@
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/PicardTV.xml</externallink>
 <fanart></fanart>
 </channel>
-
+ 
 <channel>
 <name>The Boys S02</name>
 <thumbnail>https://i.imgur.com/LGXXgSF.jpg</thumbnail>
