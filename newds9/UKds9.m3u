@@ -1,83 +1,81 @@
 #EXTM3U
 #EXTINF:-1,BT Sport 1 HD
-<link>https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT Sport 1 HD
-<link>http://156.146.43.241:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://156.146.43.241:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,BT Sport 1 HD
-<link>http://89.187.169.203:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,BT Sport 2 HD
-<link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1,BT Sport 2 HD
-<link>http://156.146.43.241:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://156.146.43.241:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,BT Sport 2 HD
-<link>http://89.187.169.203:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,BT Sport 3 HD
-<link>http://156.146.43.241:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://156.146.43.241:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,BT Sport 3 HD
-<link>http://89.187.169.203:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,BT Sport ESPN
-<link>http://89.187.169.203:2200/EX/BT_Sport_ESPN_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/BT_Sport_ESPN_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky Main Event HD
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
+http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
 #EXTINF:-1,Sky Main Event HD
-<link>http://89.187.169.203:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky Main Event HD
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1589
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1589
 #EXTINF:-1,Sky Premier League HD
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1612
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1612
 #EXTINF:-1,Sky Mix
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=
+http://156.146.43.241:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=
 #EXTINF:-1,Sky Mix
-<link>http://89.187.169.203:2200/EX/Sky_Sports_Mix_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/Sky_Sports_Mix_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky NFL
-<link>http://156.146.43.241:2200/EX/Sky_Sports_NFL_HD-uk/index.m3u8?token=
+http://156.146.43.241:2200/EX/Sky_Sports_NFL_HD-uk/index.m3u8?token=
 #EXTINF:-1,Sky NFL
-<link>http://89.187.169.203:2200/EX/Sky_Sports_NFL_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/Sky_Sports_NFL_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky NFL
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-37.php
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-37.php
 #EXTINF:-1,Sky Golf
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=
+http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=
 #EXTINF:-1,Sky Golf
-<link>http://89.187.169.203:2200/EX/Sky_Sports_Golf_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/Sky_Sports_Golf_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky Golf
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1606
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1606
 #EXTINF:-1,Sky Cricket
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=
+http://156.146.43.241:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=
 #EXTINF:-1,Sky Cricket
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1592
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1592
 #EXTINF:-1,Sky Cricket
-<link>http://89.187.169.203:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky Football
-<link>http://156.146.43.241:2200/EX/Sky_Sports_Football_HD-uk/index.m3u8?token=
+http://156.146.43.241:2200/EX/Sky_Sports_Football_HD-uk/index.m3u8?token=
 #EXTINF:-1,Sky Football
-<link>http://89.187.169.203:2200/EX/Sky_Sports_Football_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/Sky_Sports_Football_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky F1
-<link>http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=
+http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=
 #EXTINF:-1,Sky F1
-<link>http://89.187.169.203:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky F1
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1608
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1608
 #EXTINF:-1,Sky Sports News
-<link>http://156.146.43.241:2200/EX/Sky_Sports_News_HD-uk/index.m3u8?token=
+http://156.146.43.241:2200/EX/Sky_Sports_News_HD-uk/index.m3u8?token=
 #EXTINF:-1,Sky Sports News
-<link>http://89.187.169.203:2200/EX/Sky_Sports_News_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.203:2200/EX/Sky_Sports_News_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky Racing
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1603
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1603
 #EXTINF:-1,Sky Arena
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/117907
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/117907
 #EXTINF:-1,Eir Sport 1
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/11702
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/11702
 #EXTINF:-1,Eir Sport 2
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/138348
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/138348
 #EXTINF:-1,Freesports
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/118884
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/118884
 #EXTINF:-1,Premier Sports 2
-<link>https://cdn.sha-256.org/777446287/Bs8ivk5ihq/118882
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/118882
 #EXTINF:-1,Eurosport 1
-<link>https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1,Eurosport 2
-<link>https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:-1,MUTV
-<link>https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
-
-
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
