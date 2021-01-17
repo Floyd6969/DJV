@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1,NBCSN HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+#EXTINF:-1,BT Sport 1 HD
+http://156.146.43.241:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,BT Sport 1 HD
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://89.187.169.203:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,BT Sport 2 HD
+http://156.146.43.241:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,BT Sport 2 HD
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://89.187.169.203:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,Sky Main Event HD
+http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
+#EXTINF:-1,Sky Main Event HD
+http://89.187.169.203:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,Sky Premier League HD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1612
+#EXTINF:-1,Premier Sports HD 1 UK
+http://156.146.43.241:2200/EX/Premier1_HD-uk/index.m3u8?token=
+#EXTINF:-1,Premier Sports HD 1 UK
+http://89.187.169.203:2200/EX/Premier1_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,S Premier League
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220170
+#EXTINF:-1,True Premier HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premier HD 2 (English)
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premier HD 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,True Premier HD 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,True Premier HD 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,Bein Sports 1 (AR)
+https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1,Bein Sports 2 (AR)
+https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1,Bein Sports 11 (English)
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://footyhunter1.xyz/papahd/stream-61.php
+#EXTINF:-1,Match Time Only
+https://dailyb0.s3.amazonaws.com/e1/1.m3u8
+#EXTINF:-1,Match Time Only
+http://a2.aliez.me:8080/hls/streama141886/index.m3u8
+#EXTINF:-1,Match Time Only
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8
+#EXTINF:-1,Match Time Only
+http://192.166.246.122/hls/ovostreamss1.m3u8
+#EXTINF:-1,Match Time Only
+http://192.166.246.122/hls/ovo2.m3u8
+
+
+
