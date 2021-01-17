@@ -1009,9 +1009,9 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>Test</title>
+<dir>
+<name>Test*</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/MMA.m3u</link>
 <thumbnail>https://i.imgur.com/M9reerb.jpg</thumbnail>
 <fanart></fanart>
-</item>
+</dir>
