@@ -1010,7 +1010,7 @@
 </item>
 
 <dir>
-<name>Test</name>
+<name>Test**</name>
 <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/MMA.m3u&mode=1</link>
 <thumbnail>https://i.imgur.com/M9reerb.jpg</thumbnail>
 <fanart></fanart>
