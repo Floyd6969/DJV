@@ -25,3 +25,10 @@
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
+
+<dir>
+<name>[COLORlime][B]Backup List[/B][/COLOR]</name>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/Livedo.m3u&mode=1</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
