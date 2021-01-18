@@ -1,4 +1,620 @@
 <item>
+<title>Reversal (2020) [COLORblue]7.3-Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/BH2TFLBMESVNS</link>
+<thumbnail>https://i.imgur.com/sJFocVF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sylvie (2020) [COLORblue]6.8-Drama/Music/Romance[/COLOR]</title>
+<link>https://real-debrid.com/d/6EF26TW4LPSL6</link>
+<thumbnail>https://i.imgur.com/2CDhMNh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Empty Man (2020) [COLORblue]6.8-Crime/Drama/Horror/Mystery/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/STAA2YBVMZNOC</link>
+<thumbnail>https://i.imgur.com/noYD316.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shortcut (2020) [COLORblue]5.6-Adventure/Fantasy/Horror[/COLOR]</title>
+<link>https://real-debrid.com/d/HHSX3Q64HHDZC</link>
+<thumbnail>https://i.imgur.com/RObGn7x.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Penitent Thief (2020) [COLORblue]Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/PFYKU3MF3NOJW</link>
+<thumbnail>https://i.imgur.com/GWZBONl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Love, Repeat (2020) [COLORblue]Comedy/Drama/Family/Romance[/COLOR]</title>
+<link>https://real-debrid.com/d/QLTIFWPUYYWHI</link>
+<thumbnail>https://i.imgur.com/l4YGale.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>GetAWAY (2020) [COLORblue]8.2-Horror[/COLOR]</title>
+<link>https://real-debrid.com/d/CHNXCQHB4JIS6</link>
+<thumbnail>https://i.imgur.com/X473Ot0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Boys vs. Girls (2019) [COLORblue]8.1-Comedy[/COLOR]</title>
+<link>https://real-debrid.com/d/FDWZN64L6FRR4</link>
+<thumbnail>https://i.imgur.com/YrLF0M7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Loves Spell (2020) [COLORblue]Romance[/COLOR]</title>
+<link>https://real-debrid.com/d/NOF632DMP2HV6</link>
+<thumbnail>https://i.imgur.com/ypH6r5B.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Yellow Rose (2019) [COLORblue]6.4-Drama/Music[/COLOR]</title>
+<link>https://real-debrid.com/d/SI5FELH57JZXM</link>
+<thumbnail>https://i.imgur.com/JTQ1ZJd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Beneath a Sea of Lights (2020) [COLORblue]6.9-Crime/Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/ZLNDGZ3IDBS4S</link>
+<thumbnail>https://i.imgur.com/IjgWezr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ariana Grande: Excuse Me, I Love You (2020) [COLORblue]7.5-Music/Docu.[/COLOR]</title>
+<link>https://real-debrid.com/d/PYBA6LSY2EQUK</link>
+<thumbnail>https://i.imgur.com/Izn9Tfr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Enhanced (2019) [COLORblue]4.6-Action/Sci-Fi[/COLOR]</title>
+<link>https://real-debrid.com/d/MNGX7FFVIBPQS</link>
+<thumbnail>https://i.imgur.com/jo4HIb4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Darling Nikki (2019) [COLORblue]9.5-Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/3ONY7OUQTYH72</link>
+<thumbnail>https://i.imgur.com/BkN9h70.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>True to the Game 2 (2020) [COLORblue]8.2-Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/NBNCBS7HOXVXC</link>
+<thumbnail>https://i.imgur.com/XJyCDSq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Simulation Theory Film [COLORblue]7.0-Music/Sci-Fi[/COLOR]</title>
+<link>https://real-debrid.com/d/4YZPRITVCHN6C</link>
+<thumbnail>https://i.imgur.com/15TDJP3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lost Heart (2020) [COLORblue]7.0-Comedy/Drama/Mystery[/COLOR]</title>
+<link>https://real-debrid.com/d/774IGQ3ZENA5M</link>
+<thumbnail>https://i.imgur.com/I8zuoUW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ma Rainey's Black Bottom (2020) [COLORblue]7.2-Drama/Music[/COLOR]</title>
+<link>https://real-debrid.com/d/OWDA3VJFFRWJM</link>
+<thumbnail>https://i.imgur.com/rHpBrBx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Angie: Lost Girls (2020) [COLORblue]Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/WPC3GNZK5MJ66</link>
+<thumbnail>https://i.imgur.com/xgJkZNb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bad Impulse (2019) [COLORblue]Drama/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/HBGQVXWMG4KXQ</link>
+<thumbnail>https://i.imgur.com/lWf4CAH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Modern Persuasion (2020) [COLORblue]Romance[/COLOR]</title>
+<link>https://real-debrid.com/d/6ZZFUPXQMFJAY</link>
+<thumbnail>https://i.imgur.com/n8PQyr9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sister of the Groom (2020) [COLORblue]Comedy/Drama/Romance[/COLOR]</title>
+<link>https://real-debrid.com/d/UFLEIE5Z6VL2W</link>
+<thumbnail>https://i.imgur.com/QrKTTxX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hunter Hunter (2020) [COLORblue]Horror/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/QTAO4OBYQ6RCI</link>
+<thumbnail>https://i.imgur.com/msfap2B.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Max Cloud (2020) [COLORblue]Action/Comedy/Sci-Fi[/COLOR]</title>
+<link>https://real-debrid.com/d/BN2SUW63DZO3Q</link>
+<thumbnail>https://i.imgur.com/vkPCTIV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Skylines (2020) [COLORblue]5.5-Action/Adventure/Sci-Fi[/COLOR]</title>
+<link>https://real-debrid.com/d/PK77WNSJZURN2</link>
+<thumbnail>https://i.imgur.com/k2910po.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Breach (2020) [COLORblue]Action/Sci-Fi[/COLOR]</title>
+<link>https://real-debrid.com/d/72GJII2Z5BCGG</link>
+<thumbnail>https://i.imgur.com/iuX9Icb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Going 4 Broke (2020) [COLORblue]Comedy[/COLOR]</title>
+<link>https://real-debrid.com/d/4LXCN4IBFH4UU</link>
+<thumbnail>https://i.imgur.com/CjhbWd0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Unbreakable Kimmy Schmidt: Kimmy vs the Reverend (2020) [COLORblue]7.2-Comedy[/COLOR]</title>
+<link>https://real-debrid.com/d/3ZA5VMC3GADYW</link>
+<thumbnail>https://i.imgur.com/XbOD230.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Croods A New Age 2 (2020) [COLORblue]7.5-Adventure/Comedy/Family/Fantasy[/COLOR]</title>
+<link>https://real-debrid.com/d/SEQXHQHRTKTUG</link>
+<thumbnail>https://i.imgur.com/Zy9LNpg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Radium Girls (2018) [COLORblue]7.2-Drama/History[/COLOR]</title>
+<link>https://real-debrid.com/d/5ODL2LI3TBYYE</link>
+<thumbnail>https://i.imgur.com/mibiyyF.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Rodeo Thief (2021) [COLORblue]Western[/COLOR]</title>
+<link>https://real-debrid.com/d/EGWJTHPVUMLEU</link>
+<thumbnail>https://i.imgur.com/qEYpFJ4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Curious George: Go West, Go Wild (2020) [COLORblue]5.5-Animation[/COLOR]</title>
+<link>https://real-debrid.com/d/654NXJE5RROY6</link>
+<thumbnail>https://i.imgur.com/8ArJsmo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Paint (2020) [COLORblue]8.4-Comedy[/COLOR]</title>
+<link>https://real-debrid.com/d/A2I4FNPQPQBQW</link>
+<thumbnail>https://i.imgur.com/28WkvUD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Heks (2020) [COLORblue]Drama/Horror[/COLOR]</title>
+<link>https://real-debrid.com/d/H5LPJ5Q3YSWM6</link>
+<thumbnail>https://i.imgur.com/AuePjNH.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Kid Detective (2020) [COLORblue]8.0-Comedy/Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/HOHZWUR5CIWPY</link>
+<thumbnail>https://i.imgur.com/r5Z9tIN.jpg/thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spiral (2019) [COLORblue]6.3-Horror/Mystery/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/LR6DI2JQKCMPE</link>
+<thumbnail>https://i.imgur.com/5hsigMw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Reversion (2020) [COLORblue]Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/GGKOL4SKF4EUC</link>
+<thumbnail>https://i.imgur.com/RmufKXd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Phobic (2020) [COLORblue]Mystery/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/A7FUDSXHUUTF6</link>
+<thumbnail>https://i.imgur.com/REFVcxs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Here On Out (2019) [COLORblue]Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/LCGULNU4REHK2</link>
+<thumbnail>https://i.imgur.com/KroLvs6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Army of One (2020) [COLORblue]Crime[/COLOR]</title>
+<link>https://real-debrid.com/d/DPSB746LQYZD4</link>
+<thumbnail>https://i.imgur.com/B3I8wam.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Passenger (2019) [COLORblue]Drama/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/AFUSRMCTA4GT2</link>
+<thumbnail>https://i.imgur.com/JmmF8R7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Siberia (2020) [COLORblue]5.3-Drama/Fantasy/Horror[/COLOR]</title>
+<link>https://real-debrid.com/d/HGL2HXN57MLMW</link>
+<thumbnail>https://i.imgur.com/BRezexK.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Bee Gees: How Can You Mend a Broken Heart (2020) [COLORblue]8.3-Docu.[/COLOR]</title>
+<link>https://real-debrid.com/d/UVZVJ7FUNOT2K</link>
+<thumbnail>https://i.imgur.com/xkFtvft.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Call to Spy (2019) [COLORblue]7.6-Biography/Drama/Thriller/War[/COLOR]</title>
+<link>https://real-debrid.com/d/X725WBZQUDTSW</link>
+<thumbnail>https://imgmak.com/images/2020/12/11/tmpposter27196.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Wheels of Fortune (2020) [COLORblue]5.5-Comedy[/COLOR]</title>
+<link>https://real-debrid.com/d/LDULUKXWBJHLY</link>
+<thumbnail>https://imgmak.com/images/2020/12/11/tmpposter18499.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>High School Musical: The Musical: The Holiday Special (2020) [COLORblue]Comedy/Drama/Musical[/COLOR]</title>
+<link>https://real-debrid.com/d/YR4TROXX6RAPA</link>
+<thumbnail>https://i.postimg.cc/7P98KXqQ/poster-opt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>WolfWalkers (2020) [COLORblue]8.3-Animation/Adventure/Family/Fantasy[/COLOR]</title>
+<link>https://real-debrid.com/d/TOQAQWLD6J2V6</link>
+<thumbnail>https://i.postimg.cc/wjtzrJv8/tmpposter2913.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Safety (2020) [COLORblue]Biography/Drama/Sport[/COLOR]</title>
+<link>https://real-debrid.com/d/2W326DGGE6ET4</link>
+<thumbnail>https://i.postimg.cc/QdVNrwfz/tmpposter10231.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Finding Jack Charlton (2020) [COLORblue]8.8-Docu.[/COLOR]</title>
+<link>https://real-debrid.com/d/6ET26I7F4SJZC</link>
+<thumbnail>https://i.postimg.cc/fyjyJddg/poster-opt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Prom (2020) [COLORblue]5.1-Comedy/Drama/Musical[/COLOR]</title>
+<link>https://real-debrid.com/d/BTR73KKQ5XNBU</link>
+<thumbnail>https://i.postimg.cc/DzGXNMJ3/poster-opt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Farewell Amor (2020) [COLORblue]7.0-Drama/Music/Romance[/COLOR]</title>
+<link>https://real-debrid.com/d/G4D4UWO7NYZSS</link>
+<thumbnail>https://i.postimg.cc/qqjHFgwh/tmpposter8417.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Don't Click (2020) [COLORblue]4.1-Horror[/COLOR]</title>
+<link>https://real-debrid.com/d/O6ULRMU47V4AC</link>
+<thumbnail>https://i.postimg.cc/1RkJwyKs/tmpposter20441.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>We Still Say Grace (2020) [COLORblue]Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/NW3VPMZC24WLE</link>
+<thumbnail>https://i.postimg.cc/5NCGwdmw/tmpposter16657.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Wander Darkly (2020) [COLORblue]6.1-Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/HJHRKCFBD45IK</link>
+<thumbnail>https://i.postimg.cc/Yqwm8QHh/tmpposter3550.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Archenemy (2020) [COLORblue]5.7-Action/Adventure[/COLOR]</title>
+<link>https://real-debrid.com/d/4QZO3XNNQIPDG</link>
+<thumbnail>https://i.postimg.cc/G2pyFKPD/tmpposter27024.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Stand In (2020) [COLORblue]Comedy[/COLOR]</title>
+<link>https://real-debrid.com/d/MYN4LKL62BPRW/link>
+<thumbnail>https://i.postimg.cc/Jhfy98j1/tmpposter11121.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+item>
+<title>Battle of the Bulge: Winter War (2020) [COLORblue]4.0-War[/COLOR]</title>
+<link>https://mixdrop.co/f/ql1kz04qhn709z</link>
+<thumbnail>https://i.postimg.cc/qvfWy6rJ/tmpposter23437.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>I'm Your Woman (2020) [COLORblue]6.0-Crime/Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/M3LHZB6MUTH5A</link>
+<thumbnail>https://i.postimg.cc/9Mfykzcs/tmpposter20056.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Songbird (2020) [COLORblue]Comedy/Drama/Romance/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/MJBKG57T5HUTU</link>
+<thumbnail>https://i.postimg.cc/J4CGDt9m/tmpposter27795.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Let Them All Talk (2020) [COLORblue]Comedy/Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/3BAWBZL2YZRF4</link>
+<thumbnail>https://i.postimg.cc/mDtk1Q35/tmpposter12182.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Wild Mountain Thyme (2020) [COLORblue]Drama/Romance[/COLOR]</title>
+<link>https://real-debrid.com/d/BJEZAZQ3AHD4E</link>
+<thumbnail>https://i.postimg.cc/g2ZxNyfF/tmpposter15443.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Faith Under Fire (2020) [COLORblue]Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/X7JWSF34JR5WG</link>
+<thumbnail>https://i.postimg.cc/J4QTHBq1/tmpposter24173.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bobbleheads: The Movie (2020) [COLORblue]Animation/Family[/COLOR]</title>
+<link>https://real-debrid.com/d/G3VCXZ5SYAJSU</link>
+<thumbnail>https://i.postimg.cc/QtVmqS3k/tmpposter13985.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Last Champion (2019) [COLORblue]Drama/Family/Sport[/COLOR]</title>
+<link>https://real-debrid.com/d/6GFPIX6FCMPXQ</link>
+<thumbnail>https://i.postimg.cc/BZPFzT2v/y4m9ho-Zo-U8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Rizen: Possession (2019) [COLORblue]4.9-Action/Horror/Sci-Fi[/COLOR]</title>
+<link>https://real-debrid.com/d/VJPW4NEVWGNWS</link>
+<thumbnail>https://i.postimg.cc/pdBhDkN0/tmpposter22700.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sexual Animals (2019) [COLORblue]Comedy[/COLOR]</title>
+<link>https://real-debrid.com/d/IILFZACBCWJPU</link>
+<thumbnail>https://i.postimg.cc/1XvfLzRD/l8ox-ZBWys1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Shedding (2019) [COLORblue]8.1-Drama/Fantasy[/COLOR]</title>
+<link>https://real-debrid.com/d/BSGQUUXU4ROVG</link>
+<thumbnail>https://i.postimg.cc/2Sz0QcMJ/444z-Nij-IWO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Monsters of Man (2020) [COLORblue]Sci-Fi[/COLOR]</title>
+<link>https://real-debrid.com/d/TV7HFSRTJHSBC</link>
+<thumbnail>https://i.postimg.cc/85CFwD49/tmpposter30816.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Planters (2019) [COLORblue]7.3-Comedy[/COLOR]</title>
+<link>https://real-debrid.com/d/47JDFWQDKXOWI</link>
+<thumbnail>https://i.postimg.cc/8z3nTPJB/tmpposter13243.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sarah Q (2018) [COLORblue]6.5-Comedy/Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/N7VYN3NJIV3LE</link>
+<thumbnail>https://i.postimg.cc/4yYQ1K1Y/tmpposter5104.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HUMANUS (2020)</title>
+<link>https://real-debrid.com/d/KUUBUVTO7RATE</link>
+<thumbnail>https://i.postimg.cc/pX9sfS0s/m2-Zup-NNz-TK.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Knuckledust (2020) [COLORblue]Action/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/SUDN56VSP2JQK</link>
+<thumbnail>https://i.postimg.cc/65G6FV5Y/tmpposter8183.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Black Pumpkin (2018) [COLORblue]6.0-Horror[/COLOR]</title>
+<link>https://real-debrid.com/d/6TVIF3S2EGKG2</link>
+<thumbnail>https://i.postimg.cc/qq4cWB2G/w-Oy-YZN4sek.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Love Dave (2020) [COLORblue]6.1-Drama/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/WYKQA6B2RGQAY</link>
+<thumbnail>https://i.postimg.cc/tC5bsMDV/tmpposter14773.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>My Day (2019) [COLORblue]Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/SRGLP664FZX6K</link>
+<thumbnail>https://i.postimg.cc/855NGBLr/Tx0ek7t-JLp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Magic Arch (2020) [COLORblue]6.0-Animation/Family[/COLOR]</title>
+<link>https://real-debrid.com/d/7TFVCDHC435B2</link>
+<thumbnail>https://i.postimg.cc/4dTVFycM/tmpposter3778.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Fairy Princess and the Unicorn (2020) [COLORblue]5.4-Animation/Adventure/Family/Fantasy[/COLOR]</title>
+<link>https://real-debrid.com/d/65FW54UREEY5G</link>
+<thumbnail>https://i.postimg.cc/9fkN4Gv9/tmpposter28407.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spare Parts (2020) [COLORblue]5.4-Horror[/COLOR]</title>
+<link>https://real-debrid.com/d/PP3HDKSCD5EQA</link>
+<thumbnail>https://i.postimg.cc/vTgqLcwK/tmpposter2849.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tenet (2020) 4K UHD</title>
+<link>https://real-debrid.com/d/BTEJTCIG3ZXVC</link>
+<thumbnail>https://i.imgur.com/ggz0mNl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hoax (2019) [COLORblue]3.9-Horror[/COLOR]</title>
+<link>https://real-debrid.com/d/3MG2K6W6A7TAC</link>
+<thumbnail>https://dyncdn.me/mimages/341767/poster_opt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>High Ground (2020) [COLORblue]6.2-Action/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/LZT5VPQ6P7URS</link>
+<thumbnail>https://dyncdn.me/mimages/354087/poster_opt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Honest Thief (2020) [COLORblue]6.5-Action/Crime/Drama/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/NUUL7FVLC43RY</link>
+<thumbnail>https://imgmak.com/images/2020/12/05/tmpposter22498.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zombie Bro (2019) [COLORblue]Comedy/Family/Fantasy[/COLOR]</title>
+<link>https://real-debrid.com/d/UXBN7RRWXT53Q</link>
+<thumbnail>https://imgmak.com/images/2020/12/04/tmpposter4949.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>No Place (2020) [COLORblue]Crime-80 mins[/COLOR]</title>
+<link>https://real-debrid.com/d/LLRP6AWST3JJ6</link>
+<thumbnail>https://img.picturegalaxy.org/data/cover/imdb/V/a/Va42hlhGWK.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Survival Skills (2020) [COLORblue]6.7-Comedy/Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/NCH3ZDD7MMTUY</link>
+<thumbnail>https://dyncdn.me/mimages/354078/poster_opt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>What Lies Below (2020) [COLORblue]Mystery/Thriller[/COLOR]</title>
+<link>https://real-debrid.com/d/34FCZNKNV3YDO</link>
+<thumbnail>https://imgmak.com/images/2020/12/04/tmpposter21259.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Black Bear (2020) [COLORblue]7.1-Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/WGRZZINHO3UC6</link>
+<thumbnail>https://imgmak.com/images/2020/12/04/tmpposter6114.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mank (2020) [COLORblue]7.9-Biography/Comedy/Drama[/COLOR]</title>
+<link>https://real-debrid.com/d/K7NRDMPYC2DQK</link>
+<thumbnail>https://imgmak.com/images/2020/12/04/tmpposter32378.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Wander (2020) [COLORblue]7.7-Thriller[/COLOR]</title>
 <link>https://real-debrid.com/d/F4F643CCOE44G</link>
 <thumbnail>https://imgmak.com/images/2020/12/04/tmpposter22698.jpg</thumbnail>
