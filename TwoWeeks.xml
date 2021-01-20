@@ -43,6 +43,13 @@
 </channel>
  
 <channel>
+<name>Bulletproof S03</name>
+<thumbnail>https://i.imgur.com/kkWTbki.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Bulletproof.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>Chilling Adventures of Sabrina S04</name>
 <thumbnail>https://i.imgur.com/PoO2lEH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Sabrina.xml</externallink>
