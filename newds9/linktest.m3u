@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Stadium 
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8 
+#EXTINF:-1,ESPN 2 
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1,ESPN U 
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1,ESPN News 
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1,ESPN News 
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1,ESPN ACCN
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1,ESPN FS2
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1,Sky One Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1,Sky Two Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1,Capital OTB Betting
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:-1,Throughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1,MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,La Liga 1
+https://dailysportbucket9.s3.eu-west-2.amazonaws.com/1/1.m3u8
+#EXTINF:-1,La Liga 2
+https://dailysportbucket9.s3.eu-west-2.amazonaws.com/11/11.m3u8
