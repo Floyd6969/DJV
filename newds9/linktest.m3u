@@ -29,3 +29,13 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com/1/1.m3u8
 #EXTINF:-1,La Liga 2
 https://dailysportbucket9.s3.eu-west-2.amazonaws.com/11/11.m3u8
+#EXTINF:-1,Eleven Sport 01
+http://77.54.145.209:81/play/a00a 
+#EXTINF:-1,Eleven Sport 02
+http://77.54.145.209:81/play/a03d 
+#EXTINF:-1,UFC 01
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1,UFC 02
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,UFC 03
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
