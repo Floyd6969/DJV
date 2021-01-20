@@ -4,6 +4,8 @@ https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1603
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1,Sky Two Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,Racing TV
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/117918
 #EXTINF:-1,Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1,Capital OTB Betting
