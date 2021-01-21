@@ -7,14 +7,14 @@
  
 <dir>
 <name>[COLORlime][B]EPL Live[/B][/COLOR]</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/9M5Ki3U6&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/epl.m3u&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]UK Sports[/B][/COLOR]</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/nk4qWHmx&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/UKds9.m3u&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
