@@ -19,6 +19,8 @@ http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
 http://89.187.169.203:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Sky Premier League HD
 https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1612
+#EXTINF:-1,Sky Premier League HD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/1599
 #EXTINF:-1,Premier Sports HD 1 UK
 http://156.146.43.241:2200/EX/Premier1_HD-uk/index.m3u8?token=
 #EXTINF:-1,Premier Sports HD 1 UK
