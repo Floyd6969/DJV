@@ -1,39 +1,23 @@
 #EXTM3U
-#EXTINF:-1,beIN Sports News FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676904
-#EXTINF:-1,beIN Sports 1 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682932
-#EXTINF:-1,beIN Sports 1 HD VIP AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678748
-#EXTINF:-1,beIN Sports 2 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682933
-#EXTINF:-1,beIN Sports 2 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5481
-#EXTINF:-1,beIN Sports 3 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682934
-#EXTINF:-1,beIN Sports 3 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5480
-#EXTINF:-1,beIN Sports 4 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5479
-#EXTINF:-1,beIN Sports 5 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682935
-#EXTINF:-1,beIN Sports 5 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5478
-#EXTINF:-1,beIN Sports 6 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54777
-#EXTINF:-1,beIN Sports 7 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683135
-#EXTINF:-1,beIN Sports 7 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5476
-#EXTINF:-1,beIN Sports 8 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53432
-#EXTINF:-1,beIN Sports 9 FHD VIP AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682936
-#EXTINF:-1,beIN Sports 9 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5474
-#EXTINF:-1,beIN Sports 10 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5473
-#EXTINF:-1,beIN Sports 11 HD English
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667466
-#EXTINF:-1,beIN Sports 12 HD English
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54715
+#EXTINF:-1,AR beIN Sports 1 FHD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666385
+#EXTINF:-1,TR beIN Sports 1 FHD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220083
+#EXTINF:-1,AR beIN Sports 2 FHD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666394
+#EXTINF:-1,TR beIN Sports 2 FHD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220089
+#EXTINF:-1,AR beIN Sports 3 FHD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666396
+#EXTINF:-1,TR beIN Sports 3 FHD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220081
+#EXTINF:-1,AR beIN Sports 4 FHD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666398
+#EXTINF:-1,AR beIN Sports 5 HD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220036
+#EXTINF:-1,AR beIN Sports 11 FHD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666389
+#EXTINF:-1,AR beIN Sports 11 HD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666390
+#EXTINF:-1,AR beIN Sports 12 HD
+https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666391
