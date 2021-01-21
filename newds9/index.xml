@@ -34,6 +34,13 @@
 </dir>
 
 <dir>
+<name>[COLORlime][B]Horse Racing[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/races.m3u&mode=1</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
 <name>[COLORlime][B]World Sports Lists[/B][/COLOR]</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/ds9select.xml</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
