@@ -309,6 +309,13 @@
 </channel>
  
 <channel>
+<name>The Bay S02</name>
+<thumbnail>https://i.imgur.com/AF5Be0S.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TheBay.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>The Boys S02</name>
 <thumbnail>https://i.imgur.com/LGXXgSF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TheBoysTV.xml</externallink>
