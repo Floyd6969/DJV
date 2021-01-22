@@ -470,6 +470,13 @@
 </channel>
  
 <channel>
+<name>Walker S01</name>
+<thumbnail>https://i.imgur.com/2Ly2KaG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Walker.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>WandaVision S01</name>
 <thumbnail>https://i.imgur.com/nhumGuE.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Wanda.xml</externallink>
