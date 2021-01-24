@@ -1,9 +1,9 @@
 <Channels>
  
-channel>
-<name>[COLORgold][B][I]Racing Channels[/I][/B][/COLOR]</name>
+<channel>
+<name>[COLORgold][B][I]Mixed Sports Channels[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/races.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/Mixed.xml</externallink>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </channel>
  
