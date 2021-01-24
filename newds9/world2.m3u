@@ -99,5 +99,7 @@ http://45.148.26.176:8081/abr/abr-K-2/hls/K-2_720p/playlist.m3u8
 http://45.148.26.176:8081/abr/abr-K-3/hls/K-3_720p/playlist.m3u8
 #EXTINF:-1,Multi Feed CH
 http://45.148.26.176:8081/abr/abr-K-4/hls/K-4_720p/playlist.m3u8
+#EXTINF:-1,Test
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/9vcwbs7y.m3u8?s=lHTapozQsNRvdf5uaI3j4Q&e=1611520362
 
 
