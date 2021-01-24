@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,HBO 1 HITS
+http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136428
+#EXTINF:-1,Jean-Claude van Damme
+http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136427
+#EXTINF:-1,Arnold Schwarzenegger
+http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136426
+#EXTINF:-1,Sylvester Stallone
+http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136425
+#EXTINF:-1,Will Smith
+http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136424
+#EXTINF:-1,Vin Disel
+http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136423
+#EXTINF:-1,Jason Statham
+http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136422
+#EXTINF:-1,Kung Fu Movies
+http://driptvs.com:8080/FovIptv/fhlBNjoL2076FG/136421
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 #EXTINF:- tvg-name="Filmrise Classics" 1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" group-title="USA",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
