@@ -162,4 +162,26 @@ https://doofootball.livestream-cdn.com/iptv/epl-3.stream/playlist.m3u8
 https://doomovielive.b-cdn.net/epl-x3_720/index.m3u8|Referer=https://doomovie.com
 #EXTINF:-1,EPL 3
 https://doofootball.livestream-cdn.com/iptv/epl-3.stream/chunks.m3u8
+#EXTINF:-1,EPL 4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1,EPL 4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1,EPL 4
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+#EXTINF:-1,EPL 4
+https://doomovielive.b-cdn.net/epl-x4_720/index.m3u8|Referer=https://doomovie.com
+#EXTINF:-1,EPL 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,EPL 4
+http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
+#EXTINF:-1,EPL 4
+https://doomovielive.b-cdn.net/epl-x4_720/index.m3u8|Referer=https://doomovie.com
+#EXTINF:-1,EPL 4
+https://doofootball.livestream-cdn.com/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1,EPL 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,EPL 4
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-premier-football-hd-3/
+#EXTINF:-1,=============================================================================================================================
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-premier-football-hd-3/
 
