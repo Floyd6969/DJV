@@ -118,6 +118,7 @@ https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl1_480p/playlist.
 http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1,EPL 1
 https://we-play.tv/watching/tv/true-premier-football-hd-1
+# =============================================================================================================================
 #EXTINF:-1,EPL 2
 http://196.52.105.132:5555/live/stream/sports/2.m3u8
 #EXTINF:-1,EPL 2
@@ -148,4 +149,19 @@ http://stream1.dootvgun.com:5555/live/stream/sports/2.m3u8
 http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8
 #EXTINF:-1,EPL 2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+# =============================================================================================================================
+#EXTINF:-1,EPL 3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1,EPL 3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1,EPL 3
+https://doofootball.livestream-cdn.com/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1,EPL 3
+https://doomovielive.b-cdn.net/epl-x3_720/index.m3u8|Referer=https://doomovie.com
+#EXTINF:-1,EPL 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,EPL 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,EPL 3
+https://doofootball.livestream-cdn.com/iptv/epl-3.stream/chunks.m3u8
 
