@@ -113,10 +113,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.prem
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13602.m3u8
 #EXTINF:-1,AR | BEIN SPORTS 11 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
 #EXTINF:-1,AR | BEIN SPORTS 12 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 13 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
 #EXTINF:-1,4K | BEIN SPORTS  1 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78375.m3u8
 #EXTINF:-1,4K | BEIN SPORTS 2
