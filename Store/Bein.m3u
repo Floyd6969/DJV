@@ -1,23 +1,27 @@
 #EXTM3U
-#EXTINF:-1,AR beIN Sports 1 FHD
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666385
-#EXTINF:-1,TR beIN Sports 1 FHD
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220083
-#EXTINF:-1,AR beIN Sports 2 FHD
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666394
-#EXTINF:-1,TR beIN Sports 2 FHD
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220089
-#EXTINF:-1,AR beIN Sports 3 FHD
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666396
-#EXTINF:-1,TR beIN Sports 3 FHD
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220081
-#EXTINF:-1,AR beIN Sports 4 FHD
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666398
-#EXTINF:-1,AR beIN Sports 5 HD
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666220036
-#EXTINF:-1,AR beIN Sports 11 FHD (English)
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666389
-#EXTINF:-1,AR beIN Sports 11 HD (English)
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666390
-#EXTINF:-1,AR beIN Sports 12 HD (English)
-https://cdn.sha-256.org/777446287/Bs8ivk5ihq/666391
+#EXTINF:1,BeIN Sports 1
+http://sky4.ddns.net:8000/zaltv/zaltv/631
+#EXTINF:1,BeIN Sports 2
+http://sky4.ddns.net:8000/zaltv/zaltv/7244
+#EXTINF:1,BeIN Sports 3
+http://sky4.ddns.net:8000/zaltv/zaltv/7245
+#EXTINF:1,BeIN Sports 4
+http://sky4.ddns.net:8000/zaltv/zaltv/7246
+#EXTINF:1,BeIN Sports 5
+http://sky4.ddns.net:8000/zaltv/zaltv/7247
+#EXTINF:1,BeIN Sports 6
+http://sky4.ddns.net:8000/zaltv/zaltv/7248
+#EXTINF:1,BeIN Sports 7
+http://sky4.ddns.net:8000/zaltv/zaltv/7249
+#EXTINF:1,BeIN Sports 8
+http://sky4.ddns.net:8000/zaltv/zaltv/7250
+#EXTINF:1,BeIN Sports 9
+http://sky4.ddns.net:8000/zaltv/zaltv/7251
+#EXTINF:1,BeIN Sports 10
+http://sky4.ddns.net:8000/zaltv/zaltv/7252
+#EXTINF:1,BeIN Sports 11
+http://sky4.ddns.net:8000/zaltv/zaltv/7253
+#EXTINF:1,BeIN Sports 12
+http://sky4.ddns.net:8000/zaltv/zaltv/7254
+#EXTINF:1,BeIN Sports 13
+http://sky4.ddns.net:8000/zaltv/zaltv/7255
