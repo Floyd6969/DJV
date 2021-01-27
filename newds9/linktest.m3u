@@ -39,44 +39,109 @@ http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1,UFC 03
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,Sports Max 1
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/1.html
-#EXTINF:-1,Sports Max 2
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/2.html
-#EXTINF:-1,Sports Max 3
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/3.html
-#EXTINF:-1,Sports Max 4
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/4.html
-#EXTINF:-1,Sports Max 5
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/5.html
-#EXTINF:-1,Sports Max 6
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/6.html
-#EXTINF:-1,Sports Max 7
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/7.html
-#EXTINF:-1,Sports Max 8
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/8.html
-#EXTINF:-1,Sports Max 9
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/9.html
-#EXTINF:-1,Sports Max 10
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/10.html
-#EXTINF:-1,Sports Max 11
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/11.html
-#EXTINF:-1,Sports Max 12
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/12.html
-#EXTINF:-1,Sports Max 16
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/16.html
-#EXTINF:-1,Sports Max 17
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/17.html
-#EXTINF:-1,Sports Max 18
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/18.html
-#EXTINF:-1,Sports Max 19
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/19.html
-#EXTINF:-1,Sports Max 20
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/20.html
-#EXTINF:-1,Sports Max 24
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/24.html
-#EXTINF:-1,Sports Max 41
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/41.html
-#EXTINF:-1,Sports Max 42
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportmax.xyz/42.html
-
+#EXTINF:-1, L2...DE | DAZN 1 BAR HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/40868.m3u8
+#EXTINF:-1, L2...DE | DAZN 2 BAR HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/37228.m3u8
+#EXTINF:-1, L2...|UK| BT SPORTS 1 FHD 50FPS
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66132.m3u8
+#EXTINF:-1, L2...|UK| BT SPORTS 2 FHD 50FPS
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66133.m3u8
+#EXTINF:-1, L2...|UK| BT SPORTS 3 FHD 50FPS
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66134.m3u8
+#EXTINF:-1, L2...|UK| SKY SPORTS PREMIER LEAGUE FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66104.m3u8
+#EXTINF:-1, L2...|UK| SKY SPORTS ACTION FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66109.m3u8
+#EXTINF:-1, L2...|UK| SKY SPORTS MAIN EVENT FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89439.m3u8
+#EXTINF:-1, L2...DE | SKY SPORT 1 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23705.m3u8
+#EXTINF:-1, L2...DE | SKY SPORT 1
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89645.m3u8
+#EXTINF:-1, L2...DE | SKY SPORT 2HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23704.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 3 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42494.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 4 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42495.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 5  HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42496.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 6 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42497.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 4 |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87358.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 5 |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87359.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 6 |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87360.m3u8
+#EXTINF:-1, L2...NL | ZIGGO SPORT SELECT HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42469.m3u8
+#EXTINF:-1, L2...NL | ZIGGO SPORT SELECT |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87353.m3u8
+#EXTINF:-1, L2...|NL| ZIGGO SPORT VOETBAL
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42470.m3u8
+#EXTINF:-1, L2...NL | ZIGGO SPORT VOETBAL 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42545.m3u8
+#EXTINF:-1, L2...NL | ZIGGO SPORT VOETBAL |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87354.m3u8
+#EXTINF:-1, L2...FR | BEIN SPORTS 1 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14160.m3u8
+#EXTINF:-1, L2...FR | BEIN SPORTS 2 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14153.m3u8
+#EXTINF:-1, L2...FR | BEIN SPORTS 3 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14152.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 1 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13611.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 2 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13610.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 3 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13609.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 4 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13608.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 5 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13607.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 6 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13606.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 7 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13605.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 8 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13604.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 9 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13603.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 10 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13602.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 11 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 13 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 12 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS  1 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78375.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78376.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 3
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78377.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 4
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78378.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 5
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78379.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 6
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89342.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 7
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78381.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 8
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78382.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 9
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78383.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 10
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78384.m3u8
+#EXTINF:-1, L2...IT | SUPER TENNIS HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23574.m3u8
+#EXTINF:-1, L2...|USA| TENNIS CHANNEL HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24095.m3u8
+#EXTINF:-1, L2...ES | M LIGA DE CAMPEONES
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/45416.m3u8
+#EXTINF:-1, L2...ES | LIGA DE CAMPEONES HEVC
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85643.m3u8
