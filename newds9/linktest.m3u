@@ -39,9 +39,9 @@ http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1,UFC 03
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1, L2...DE | DAZN 1 BAR HD
+#EXTINF:-1,DAZN 1 BAR HD*
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/40868.m3u8
-#EXTINF:-1, L2...DE | DAZN 2 BAR HD
+#EXTINF:-1,DAZN 2 BAR HD
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/37228.m3u8
 #EXTINF:-1, L2...|UK| BT SPORTS 1 FHD 50FPS
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66132.m3u8
