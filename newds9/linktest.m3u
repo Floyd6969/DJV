@@ -56,156 +56,156 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.prem
 #EXTINF:-1,SKY SPORTS MAIN EVENT*
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89439.m3u8
 #EXTINF:-1, L2...DE | SKY SPORT 1 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23705.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23705.m3u8
 #EXTINF:-1, L2...DE | SKY SPORT 1
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89645.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89645.m3u8
 #EXTINF:-1, L2...DE | SKY SPORT 2HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23704.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23704.m3u8
 #EXTINF:-1, L2...NL | FOX SPORTS 3 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42494.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42494.m3u8
 #EXTINF:-1, L2...NL | FOX SPORTS 4 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42495.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42495.m3u8
 #EXTINF:-1, L2...NL | FOX SPORTS 5  HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42496.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42496.m3u8
 #EXTINF:-1, L2...NL | FOX SPORTS 6 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42497.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42497.m3u8
 #EXTINF:-1, L2...NL | FOX SPORTS 4 |HEVC| 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87358.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87358.m3u8
 #EXTINF:-1, L2...NL | FOX SPORTS 5 |HEVC| 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87359.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87359.m3u8
 #EXTINF:-1, L2...NL | FOX SPORTS 6 |HEVC| 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87360.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87360.m3u8
 #EXTINF:-1, L2...NL | ZIGGO SPORT SELECT HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42469.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42469.m3u8
 #EXTINF:-1, L2...NL | ZIGGO SPORT SELECT |HEVC| 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87353.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87353.m3u8
 #EXTINF:-1, L2...|NL| ZIGGO SPORT VOETBAL
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42470.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42470.m3u8
 #EXTINF:-1, L2...NL | ZIGGO SPORT VOETBAL 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42545.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42545.m3u8
 #EXTINF:-1, L2...NL | ZIGGO SPORT VOETBAL |HEVC| 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87354.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87354.m3u8
 #EXTINF:-1, L2...FR | BEIN SPORTS 1 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14160.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14160.m3u8
 #EXTINF:-1, L2...FR | BEIN SPORTS 2 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14153.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14153.m3u8
 #EXTINF:-1, L2...FR | BEIN SPORTS 3 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14152.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14152.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 1 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13611.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13611.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 2 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13610.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13610.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 3 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13609.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13609.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 4 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13608.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13608.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 5 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13607.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13607.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 6 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13606.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13606.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 7 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13605.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13605.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 8 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13604.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13604.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 9 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13603.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13603.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 10 FHD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13602.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13602.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 11 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 13 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
 #EXTINF:-1, L2...AR | BEIN SPORTS 12 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS  1 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78375.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78375.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 2
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78376.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78376.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 3
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78377.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78377.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 4
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78378.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78378.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 5
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78379.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78379.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 6
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89342.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89342.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 7
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78381.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78381.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 8
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78382.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78382.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 9
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78383.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78383.m3u8
 #EXTINF:-1, L2...4K | BEIN SPORTS 10
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78384.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78384.m3u8
 #EXTINF:-1, L2...IT | SUPER TENNIS HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23574.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23574.m3u8
 #EXTINF:-1, L2...|USA| TENNIS CHANNEL HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24095.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24095.m3u8
 #EXTINF:-1, L2...ES | M LIGA DE CAMPEONES
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/45416.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/45416.m3u8
 #EXTINF:-1, L2...ES | LIGA DE CAMPEONES HEVC
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85643.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85643.m3u8
 #EXTINF:-1,(HR) ARENA SPORT 1 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/404.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/404.m3u8
 #EXTINF:-1,(HR) ARENA SPORT 2 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/218.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/218.m3u8
 #EXTINF:-1,(HR) ARENA SPORT 3 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/405.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/405.m3u8
 #EXTINF:-1,(HR) ARENA SPORT 4 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/406.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/406.m3u8
 #EXTINF:-1,(HR) ARENA SPORT 5 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/787.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/787.m3u8
 #EXTINF:-1,(RS) ARENA SPORT 1 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/534.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/534.m3u8
 #EXTINF:-1,(RS) ARENA SPORT 2 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/535.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/535.m3u8
 #EXTINF:-1,(RS) ARENA SPORT 3 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/536.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/536.m3u8
 #EXTINF:-1,(RS) ARENA SPORT 4 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/537.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/537.m3u8
 #EXTINF:-1,(RS) ARENA SPORT 5
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/401.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/401.m3u8
 #EXTINF:-1,(DE) DAZN 1 BAR 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/37069.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/37069.m3u8
 #EXTINF:-1,(DE) DAZN 2 BAR 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/37070.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/37070.m3u8
 #EXTINF:-1,(UK) BT SPORT 1 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11484.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11484.m3u8
 #EXTINF:-1,(UK) BT SPORT 2 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11485.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11485.m3u8
 #EXTINF:-1,(UK) BT SPORT ESPN 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/316.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/316.m3u8
 #EXTINF:-1,(UK) BT SPORT 3 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11486.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11486.m3u8
 #EXTINF:-1,(DE) SKY SPORT 1 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/28546.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/28546.m3u8
 #EXTINF:-1,(DE) SKY SPORT 2 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/15943.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/15943.m3u8
 #EXTINF:-1,(DE) SKY SPORT 1 HD+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/182.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/182.m3u8
 #EXTINF:-1,(DE) SKY SPORT 2 HD+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/183.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/183.m3u8
 #EXTINF:-1,(DE) SKY SPORT BUNDESLIGA 1 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/15944.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/15944.m3u8
 #EXTINF:-1,(UK) SKY SPORTS ACTION 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11400.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11400.m3u8
 #EXTINF:-1,(UK) SKY SPORTS MAIN EVENT 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/7641.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/7641.m3u8
 #EXTINF:-1,(UK) SKY SPORTS PREMIER LEAGUE 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/213.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/213.m3u8
 #EXTINF:-1,(NL) ZIGGO SPORT SELECT 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/9683.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/9683.m3u8
 #EXTINF:-1,(NL) ZIGGO SPORT SELECT HD+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/2343.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/2343.m3u8
 #EXTINF:-1,(NL) ZIGGO SPORT VOETBAL 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/9681.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/9681.m3u8
 #EXTINF:-1,(NL) ZIGGO SPORT VOETBAL HD+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/23.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/23.m3u8
 #EXTINF:-1,(IT) SUPERTENNIS HD+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/4299.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/4299.m3u8
 #EXTINF:-1,(ES) MOVISTAR DEPORTES 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/560.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/560.m3u8
 #EXTINF:-1,(ES) TELEDEPORTE
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/13155.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/13155.m3u8
 #EXTINF:-1,(ES) MOVISTAR LIGA DE CAMPEONES 4K+
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/16512.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/16512.m3u8
