@@ -44,17 +44,17 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.prem
 #EXTINF:-1,DAZN 2 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/37228.m3u8
 #EXTINF:-1,BT SPORTS 1 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66132.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66132.m3u8
 #EXTINF:-1,BT SPORTS 2 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66133.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66133.m3u8
 #EXTINF:-1,BT SPORTS 3 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66134.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66134.m3u8
 #EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66104.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66104.m3u8
 #EXTINF:-1,SKY SPORTS ACTION 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66109.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89439.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66109.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89439.m3u8
 #EXTINF:-1, L2...DE | SKY SPORT 1 HD
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23705.m3u8
 #EXTINF:-1, L2...DE | SKY SPORT 1
