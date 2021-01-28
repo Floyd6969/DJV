@@ -21,65 +21,7 @@ http://sky4.ddns.net:8000/zaltv/zaltv/7251
 http://sky4.ddns.net:8000/zaltv/zaltv/7252
 #EXTINF:1,BeIN Sports 11 (English)
 http://sky4.ddns.net:8000/zaltv/zaltv/7253
-#EXTINF:1,BeIN Sports 11 (English)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
 #EXTINF:1,BeIN Sports 12 (English)
 http://sky4.ddns.net:8000/zaltv/zaltv/7254
-#EXTINF:1,BeIN Sports 12 (English)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
 #EXTINF:1,BeIN Sports 13 (English)
 http://sky4.ddns.net:8000/zaltv/zaltv/7255
-#EXTINF:1,BeIN Sports 13 (English)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14160.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14153.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14152.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13611.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13610.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13609.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13608.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13607.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13606.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13605.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13604.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 9 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13603.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13602.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 11 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 12 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
-#EXTINF:-1,BEIN SPORTS  1 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78375.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78376.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78377.m3u8
-#EXTINF:-1,BEIN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78378.m3u8
-#EXTINF:-1,BEIN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78379.m3u8
-#EXTINF:-1,BEIN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89342.m3u8
-#EXTINF:-1,BEIN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78381.m3u8
-#EXTINF:-1,BEIN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78382.m3u8
-#EXTINF:-1,BEIN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78383.m3u8
-#EXTINF:-1,BEIN SPORTS 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78384.m3u8
