@@ -145,3 +145,5 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.prem
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/45416.m3u8
 #EXTINF:-1,ES | LIGA DE CAMPEONES HEVC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85643.m3u8
+#EXTINF:-1,ES | TEST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6145/index.m3u8
