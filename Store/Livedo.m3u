@@ -80,6 +80,8 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="Sports",FOX Sport 3 
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,EPL LIVE1 1080P
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_3.m3u8
 #EXTINF:-1,Match! Football 1HD
 http://spacetv.in/stream/DIPK8H19CP8/130.m3u8
 #EXTINF:-1,Match! Football 2HD
