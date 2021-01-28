@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:1,BeIN Sports 1
 http://sky4.ddns.net:8000/zaltv/zaltv/631
+#EXTINF:1,BeIN Sports 1
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6123/index.m3u8
 #EXTINF:1,BeIN Sports 2
 http://sky4.ddns.net:8000/zaltv/zaltv/7244
+#EXTINF:1,BeIN Sports 3
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8
 #EXTINF:1,BeIN Sports 3
 http://sky4.ddns.net:8000/zaltv/zaltv/7245
 #EXTINF:1,BeIN Sports 4
 http://sky4.ddns.net:8000/zaltv/zaltv/7246
+#EXTINF:1,BeIN Sports 4
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6125/index.m3u8
 #EXTINF:1,BeIN Sports 5
 http://sky4.ddns.net:8000/zaltv/zaltv/7247
 #EXTINF:1,BeIN Sports 6
