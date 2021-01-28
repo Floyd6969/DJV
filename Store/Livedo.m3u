@@ -86,6 +86,24 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1,Eleven Sport2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1,Cosmote Sport1
+http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
+#EXTINF:-1,Cosmote Sport2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
+#EXTINF:-1,Cosmote Sport3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
+#EXTINF:-1,Cosmote Sport4
+http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8
+#EXTINF:-1,Cosmote Sport5
+http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8
+#EXTINF:-1,Cosmote Sport6
+http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8
+#EXTINF:-1,Cosmote Sport7
+http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8
+#EXTINF:-1,Cosmote Sport8
+http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8
+#EXTINF:-1,Cosmote Sport9
+http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8
 #EXTINF:-1,SANTANA SPORT 1HD
 http://spacetv.in/stream/DIPK8H19CP8/234.m3u8
 #EXTINF:-1,SANTANA SPORT 2HD
