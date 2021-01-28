@@ -86,6 +86,12 @@ http://spacetv.in/stream/DIPK8H19CP8/130.m3u8
 http://spacetv.in/stream/DIPK8H19CP8/142.m3u8
 #EXTINF:-1,Match! Football 3HD
 http://spacetv.in/stream/DIPK8H19CP8/185.m3u8
+#EXTINF:-1,Match! TV
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/535/index.m3u8
+#EXTINF:-1,Match! Game
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/529/index.m3u8
+#EXTINF:-1,Match! Arena
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/528/index.m3u8
 #EXTINF:-1,RUSSIA 1
 https://95-213-224-179.livesports24.online/khlhdru.m3u8
 #EXTINF:-1,RUSSIA 2
