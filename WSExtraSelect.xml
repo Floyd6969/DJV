@@ -56,4 +56,11 @@ channel>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
+<channel>
+<name>[COLORgold][B][I]Menu Test[/I][/B][/COLOR]</name>
+<externallink>https://bitbucket.org/Mad-Eric/textfiles/raw/master/live.xml</externallink>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
 </Channels>
