@@ -136,3 +136,19 @@ https://95-213-224-179.livesports24.online/migra.m3u8
 https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
 #EXTINF:-1,RUSSIA 8
 https://95-213-224-179.livesports24.online/footballrus.m3u8
+#EXTINF:-1,Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+#EXTINF:-1,Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,Dubai Sports1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1,Dubai Sports2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+#EXTINF:-1,Dubai Sports3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
+#EXTINF:-1,Dubai Sports4
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports4
