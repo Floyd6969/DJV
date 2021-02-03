@@ -40,12 +40,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1,UFC 03
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,EPL 2
-http://196.52.105.132:5555/live/stream/sports/2.m3u8
-#EXTINF:-1,EPL 2
-http://196.52.105.132:5555/live/stream/sports/2.m3u8
-#EXTINF:-1,EPL 2
-http://stream1.dootvgun.com:5555/live/stream/sports/2.m3u8
-#EXTINF:-1,EPL 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,EPL 2
 http://cloudlive-bl6.ddns.net:1936/transcoder_F1/premierhd2_fwiptv.stream/chunklist_w1598388238.m3u8
