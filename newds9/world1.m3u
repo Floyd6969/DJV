@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Motor Vision
-http://27.254.142.14/motorvision.m3u8
-#EXTINF:-1,Ten Sports 1
-http://156.146.43.241:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
-#EXTINF:-1,Ten Sports 2
-http://156.146.43.241:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
-#EXTINF:-1,Ten Sports 3
-http://156.146.43.241:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 #EXTINF:-1,True Sports HD 1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1,True Sports HD 2
