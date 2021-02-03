@@ -54,3 +54,71 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,EPL 2
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1,UK: BT SPORT 1 FHD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58961.m3u8
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58962.m3u8
+#EXTINF:-1,UK: BT SPORT 2 FHD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58963.m3u8
+#EXTINF:-1,UK: BT SPORT 3 FHD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58965.m3u8
+#EXTINF:-1,UK: BT SPORT 2 HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58964.m3u8
+#EXTINF:-1,UK: BT SPORT 3 HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58966.m3u8
+#EXTINF:-1,UK: BT SPORT ESPN HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58967.m3u8
+#EXTINF:-1,DE SKY SPORT 2
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/634.m3u8
+#EXTINF:-1,DE SKY SPORT 1
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/635.m3u8
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58946.m3u8
+#EXTINF:-1,UK: SKY SPORTS ACTION FHD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58950.m3u8
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT FHD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58942.m3u8
+#EXTINF:-1,FR: RMC SPORT 1
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/7539.m3u8
+#EXTINF:-1,FR: RMC SPORT 2
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/7538.m3u8
+#EXTINF:-1,FR: RMC SPORT 3
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/7537.m3u8
+#EXTINF:-1,BEIN SPORT 1
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33992.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33971.m3u8
+#EXTINF:-1,BEIN SPORT 3
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33974.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33976.m3u8
+#EXTINF:-1,BEIN SPORT 5
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33978.m3u8
+#EXTINF:-1,BEIN SPORT 6
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33980.m3u8
+#EXTINF:-1,BEIN SPORT 7
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33982.m3u8
+#EXTINF:-1,BEIN SPORT 8
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33984.m3u8
+#EXTINF:-1,BEIN SPORT 9
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33986.m3u8
+#EXTINF:-1,BEIN SPORTS 10
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33988.m3u8
+#EXTINF:-1,BEIN SPORTS 11
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33989.m3u8
+#EXTINF:-1,BEIN SPORTS 12
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/4385.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1 HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/7632.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2 HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/7631.m3u8
+#EXTINF:-1,FR: BEIN SPORT 3 HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/7630.m3u8
+#EXTINF:-1,USA: BEIN SPORTS (L)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59272.m3u8
+#EXTINF:-1,UK: THE TENNIS CHANNEL HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58905.m3u8
+#EXTINF:-1,USA: TENNIS CHANNEL (L)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59412.m3u8
+#EXTINF:-1,USA: TENNIS HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59413.m3u8
