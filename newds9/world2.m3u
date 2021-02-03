@@ -87,19 +87,3 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1,Fox Sports Test
 https://gma2.blab.email/fox.m3u8
-#EXTINF:-1,Multi Feed CH
-http://213.152.161.254:8080/upl8_2.m3u8
-#EXTINF:-1,Multi Feed CH
-https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1,Multi Feed CH
-http://45.148.26.176:8081/abr/abr-K-1/hls/K-1_720p/playlist.m3u8
-#EXTINF:-1,Multi Feed CH
-http://45.148.26.176:8081/abr/abr-K-2/hls/K-2_720p/playlist.m3u8
-#EXTINF:-1,Multi Feed CH
-http://45.148.26.176:8081/abr/abr-K-3/hls/K-3_720p/playlist.m3u8
-#EXTINF:-1,Multi Feed CH
-http://45.148.26.176:8081/abr/abr-K-4/hls/K-4_720p/playlist.m3u8
-#EXTINF:-1,Test 1
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/9vcwbs7y.m3u8?s=lHTapozQsNRvdf5uaI3j4Q&e=1611520362
-
-
