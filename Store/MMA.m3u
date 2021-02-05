@@ -5,6 +5,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
 #EXTINF:-1,FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,WWE Network
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/854
 #EXTINF:-1,BELLATOR MMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1,Combat World
@@ -23,6 +25,8 @@ http://210.210.155.35:80/uq2663/h/h05/01.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1,Fite TV
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:1,UFC FIGHT Pass HD
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/856
 #EXTINF:-1,UFC (Foreign Commentary)
 http://46.174.189.50:8082/matchboec/tracks-v1a1/mono.m3u8
 #EXTINF:1,UFC FIGHT Pass HD
