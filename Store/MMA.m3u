@@ -27,11 +27,11 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF:1,UFC FIGHT Pass HD
 http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/856
-#EXTINF:-1,UFC (Foreign Commentary)
-http://46.174.189.50:8082/matchboec/tracks-v1a1/mono.m3u8
 #EXTINF:1,UFC FIGHT Pass HD
 http://192.166.246.234/hls/X1.m3u8
 #EXTINF:1,UFC FIGHT Pass HD
 http://192.166.246.234:80/hls/X1.m3u8
+#EXTINF:-1,UFC (Foreign Commentary)
+http://46.174.189.50:8082/matchboec/tracks-v1a1/mono.m3u8
 
 
