@@ -154,3 +154,41 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
 #EXTINF:-1,Dubai Sports4
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports4
+#EXTINF:-1,Nile Sport
+http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
+#EXTINF:-1,espn 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1,espnu
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1,espn accn
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1,espn sec
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1,espn fs2
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1,cna
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,ufc 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,BAYERN MUNICH TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
+#EXTINF:1,SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,FIGHT SPORTS
+http://210.210.155.35:80/uq2663/h/h05/01.m3u8
+#EXTINF:-1,FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,ARHAT SPORT TV
+http://arhat.tv/public/360p/index.m3u8
+#EXTINF:-1,SBS SPORTS
+http://211.245.55.198:1024/m2u/239.192.67.130:49220
+#EXTINF:-1,RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:-1,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+
