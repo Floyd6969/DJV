@@ -82,6 +82,8 @@ https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1,EPL LIVE1 1080P
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_3.m3u8
+#EXTINF:-1,EPL LIVE1 1080P
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/86bff4b41be142eba9b67aaae85e041d/index3_2.m3u8
 #EXTINF:-1,Eleven Sport1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1,Eleven Sport2
