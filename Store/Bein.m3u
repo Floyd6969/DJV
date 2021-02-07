@@ -1,24 +1,28 @@
 #EXTM3U
-#EXTINF:1,BeIN Sports 11 (English)
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6132/index.m3u8
-#EXTINF:1,BeIN Sports 12 (English)
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6133/index.m3u8
-#EXTINF:1,BeIN Sports 1
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6123/index.m3u8
-#EXTINF:1,BeIN Sports 3
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8
-#EXTINF:1,BeIN Sports 4
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6125/index.m3u87
-#EXTINF:1,BeIN Sports 5
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6126/index.m3u8
-#EXTINF:1,BeIN Sports 6
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6127/index.m3u8
-#EXTINF:1,BeIN Sports 7
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6128/index.m3u8
-#EXTINF:1,BeIN Sports 8
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6129/index.m3u8
-#EXTINF:1,BeIN Sports 9
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6130/index.m3u8
-#EXTINF:1,BeIN Sports Olympic Channel
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6131/index.m3u8
+#EXTINF:-1,UK: Bein Sports 11
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/786
+#EXTINF:-1,UK: Bein Sports 12
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/787
+#EXTINF:-1,Bein Sports News
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/789
+#EXTINF:-1,BEIN Sports 1
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/776
+#EXTINF:-1,BEIN Sports 2
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/777
+#EXTINF:-1,BEIN Sports 3
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/778
+#EXTINF:-1,BEIN Sports 4
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/779
+#EXTINF:-1,BEIN Sports 5
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/780
+#EXTINF:-1,BEIN Sports 6
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/781
+#EXTINF:-1,BEIN Sports 7
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/782
+#EXTINF:-1,BEIN Sports 8
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/783
+#EXTINF:-1,BEIN Sports 9
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/784
+#EXTINF:-1,BEIN Sports 10
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/785
 
