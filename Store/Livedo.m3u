@@ -196,15 +196,4 @@ http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1,BT SPORT 3
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-#EXTINF:-1,SKY SPORTS NFL
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8
-#EXTINF:-1,SKY SPORTS F1
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:-1,SKY SPORTS ARENA
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8
+
