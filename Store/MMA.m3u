@@ -29,5 +29,9 @@ http://192.166.246.234/hls/X1.m3u8
 http://192.166.246.234:80/hls/X1.m3u8
 #EXTINF:-1,UFC (Foreign Commentary)
 http://46.174.189.50:8082/matchboec/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1,Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
 
 
