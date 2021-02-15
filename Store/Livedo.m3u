@@ -196,4 +196,10 @@ http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1,BT SPORT 3
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1,BT SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/67062.m3u8
+#EXTINF:-1,BT SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/67063.m3u8
+#EXTINF:-1,BT SPORTS 3
+http://mags.vip:2086/live/miriam/miriam123/67075.m3u8
 
