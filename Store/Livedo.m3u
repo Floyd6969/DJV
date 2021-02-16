@@ -206,4 +206,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mags.vip:208
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mags.vip:2086/live/miriam/miriam123/66782.m3u8
 #EXTINF:-1,BEIN SPORTS 12
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mags.vip:2086/live/miriam/miriam123/66783.m3u8
+#EXTINF:-1,Test
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/67076.ts
 
