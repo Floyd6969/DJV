@@ -347,6 +347,13 @@
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TheBoysTV.xml</link>
 <fanart></fanart>
 </dir>
+
+<dir>
+<name>The Crew S01</name>
+<thumbnail>https://i.imgur.com/S1kpYyD.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Crew.xml</link>
+<fanart></fanart>
+</dir>
  
 <dir>
 <name>The Crown S04</name>
@@ -457,13 +464,6 @@
 <name>Tin Star S03</name>
 <thumbnail>https://i.imgur.com/1HP44WH.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TinStar.xml</link>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>Trinkets S02</name>
-<thumbnail>https://i.imgur.com/HthFP5R.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Trinkets.xml</link>
 <fanart></fanart>
 </dir>
 
