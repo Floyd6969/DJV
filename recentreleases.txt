@@ -6893,4 +6893,19 @@ item>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajOov0Nr23fMfhsLJX1TOzy4srX.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<dir>
+<title>[COLOR lime]>>> New Releases Next Page If You're Using Maverick / Mercury>>>[/COLOR]</title>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RecentDebrid2.xml</link>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</dir>
+ 
+<item>
+<title>[COLOR gold]>>> New Releases Next Page If You're Using DejaVu >>>[/COLOR]</title>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RecentDebrid2.xml</link>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/RecentDebrid2.xml</externallink>
+<thumbnail>https://i.imgur.com/r6nMlcQ.png</thumbnail>
+<fanart></fanart>
+</item>
  
