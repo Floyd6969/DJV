@@ -351,6 +351,13 @@
 </channel>
  
 <channel>
+<name>The Crew S01</name>
+<thumbnail>https://i.imgur.com/S1kpYyD.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Crew.xml</externallink>
+<fanart></fanart>
+</channel>
+ 
+<channel>
 <name>The Crown S04</name>
 <thumbnail>https://i.imgur.com/1EhIxKl.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Crown.xml</externallink>
@@ -459,13 +466,6 @@
 <name>Tin Star S03</name>
 <thumbnail>https://i.imgur.com/1HP44WH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TinStar.xml</externallink>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Trinkets S02</name>
-<thumbnail>https://i.imgur.com/HthFP5R.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Trinkets.xml</externallink>
 <fanart></fanart>
 </channel>
 
