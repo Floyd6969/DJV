@@ -63,35 +63,35 @@
 
 <item>
 <title>Bottom S02 E02</title>
-<link>https://dood.to/d/hy5364iy6mq7</link>
+<link>https://streamtape.com/v/jVxzqzAY8PuzpWe/Bottom.S02e02.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S02 E03</title>
-<link>https://dood.to/d/l5sdljnh499o</link>
+<link>https://streamtape.com/v/DaemWj34Y8Sklp1/Bottom.S02e03.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S02 E04</title>
-<link>https://dood.to/d/828d3el30wg4</link>
+<link>https://streamtape.com/v/V7vVlpaePLTK6L0/Bottom.S02e04.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S02 E05</title>
-<link>https://dood.to/d/k71z1rzss6vb</link>
+<link>https://streamtape.com/v/AAXX7Q2lgztXLV0/Bottom.S02e05.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S02 E06</title>
-<link>https://dood.to/d/nxkwmhpygc1g</link>
+<link>https://streamtape.com/v/8XLZdK234ksogG3/Bottom.S02e06.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -112,28 +112,28 @@
 
 <item>
 <title>Bottom S03 E03</title>
-<link>https://dood.to/d/n5r0pf75bzqy</link>
+<link>https://streamtape.com/v/Qad0Y4m0V3H069e/Bottom.S03e03.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S03 E04</title>
-<link>https://dood.to/d/wx8pzov2ib5l</link>
+<link>https://streamtape.com/v/M7RVp3Y3aWtmgQA/Bottom.S03e04.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S03 E05</title>
-<link>https://dood.to/d/s07w2nxvyvwd</link>
+<link>https://streamtape.com/v/Or29XBQgA3iZJqg/Bottom.S03e05.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S03 E06</title>
-<link>https://dood.to/d/zbnlxkkf79po</link>
+<link>https://streamtape.com/v/6jk3x3OXJRU4oX/Bottom.S03e06.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
