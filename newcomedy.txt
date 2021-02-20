@@ -224,35 +224,35 @@
 
 <item>
 <title>Phoenix Nights S01 E01</title>
-<link>https://dood.to/d/w3wqo8fuqubz</link>
+<link>https://streamtape.com/v/jPvr7eDYG8Fzw7Y/Phoenix_Nights_S01E01.mp4</link>
 <thumbnail>https://i.imgur.com/HltNeaU.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Phoenix Nights S01 E02</title>
-<link>https://dood.to/d/ud10cuza3mfa</link>
+<link>https://streamtape.com/v/vl9XwPXzXrT4rPl/Phoenix_Nights_S01E02.mp4</link>
 <thumbnail>https://i.imgur.com/HltNeaU.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Phoenix Nights S01 E03</title>
-<link>https://dood.to/d/3eyjzomaf20v</link>
+<link>https://streamtape.com/v/xm7eQ21B4kCk2lx/Phoenix_Nights_S01E03.mp4</link>
 <thumbnail>https://i.imgur.com/HltNeaU.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Phoenix Nights S01 E04</title>
-<link>https://dood.to/d/5h5xehvwndf2</link>
+<link>https://streamtape.com/v/6aVQ06WBPaU9rjl/Phoenix_Nights_S01E04.mp4</link>
 <thumbnail>https://i.imgur.com/HltNeaU.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Phoenix Nights S01 E05</title>
-<link>https://dood.to/d/7g16sfkzxu2i</link>
+<link>https://streamtape.com/v/AJDK6QvMjrTX0eb/Phoenix_Nights_S01E05.mp4</link>
 <thumbnail>https://i.imgur.com/HltNeaU.jpg</thumbnail>
 <fanart></fanart>
 </item>
