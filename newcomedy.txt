@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>[COLOR gold]***Links Updated***[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/5voO1Y0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Bottom S01 E01</title>
 <link>https://streamtape.com/v/jA98DZJag6czpJR/Bottom.S01e01.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
@@ -434,42 +441,42 @@
 
 <item>
 <title>The Inbetweeners S01 E01</title>
-<link>https://dood.to/d/duogcnx1pb44</link>
+<link>https://streamtape.com/v/QwWG4aRjBMC0672/S01e01.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S01 E02</title>
-<link>https://dood.to/d/92kxbpcfderb</link>
+<link>https://streamtape.com/v/zDkRR8Vyv6uYVDR/S01e02.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S01 E03</title>
-<link>https://dood.to/d/26vke6ig1hw1</link>
+<link>https://streamtape.com/v/41APdvYbyJuKDkp/S01e03.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S01 E04</title>
-<link>https://dood.to/d/cdognqwfdij2</link>
+<link>https://streamtape.com/v/Wqdpm9Ylo2tbPPa/S01e04.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S01 E05</title>
-<link>https://dood.to/d/os90ssvxzhf5</link>
+<link>https://streamtape.com/v/wV2zoqzXQyIJzXm/S01e05.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S01 E06</title>
-<link>https://dood.to/d/oxsasjulzjad</link>
+<link>https://streamtape.com/v/9RGgLblR8aIad9b/S01e06.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
