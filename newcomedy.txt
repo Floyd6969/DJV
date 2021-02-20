@@ -559,7 +559,7 @@
 </item>
 
 <item>
-<title>The Inbetweeners 03 E06</title>
+<title>The Inbetweeners S03 E06</title>
 <link>https://streamtape.com/v/MjW6amR8XVimKPJ/S03e06.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
