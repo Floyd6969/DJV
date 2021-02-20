@@ -483,28 +483,28 @@
 
 <item>
 <title>The Inbetweeners S02 E01</title>
-<link>https://dood.to/d/hfqhvk1brtbf</link>
+<link>https://streamtape.com/v/y08gPw9QLlT18b0/The.Inbetweeners.S02e01.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S02 E02</title>
-<link>https://dood.to/d/qui2pl8f4do1</link>
+<link>https://streamtape.com/v/VaKX3Z0jXZHKKWx/The.Inbetweeners.S02e02.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S02 E03</title>
-<link>https://dood.to/d/7e9gf0fvmj40</link>
+<link>https://streamtape.com/v/W30WQDv4MASRa4/The.Inbetweeners.S02e03.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S02 E04</title>
-<link>https://dood.to/d/a94djdle6ki9</link>
+<link>https://streamtape.com/v/YyM7L8rbJ8ivAxR/The.Inbetweeners.S02e04.Ws.Pdtv.Xvid-River.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -518,7 +518,7 @@
 
 <item>
 <title>The Inbetweeners S02 E06</title>
-<link>https://dood.to/d/0oj5i8vididy</link>
+<link>https://streamtape.com/v/1BoZPrP9RwUePQL/The_Inbetweeners.2X06.Exam_Times.Ws_Pdtv_Xvid-Fov.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
