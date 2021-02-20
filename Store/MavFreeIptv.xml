@@ -1,0 +1,34 @@
+<dir>
+<name>[COLOR red][B]Free To Air TV UK[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/FreeLegalUK.m3u&mode=1</link>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR red][B]Free To Air TV US[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/FTAUS.m3u&mode=1</link>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR red][B]Free Plex TV US[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/Plex.m3u&mode=1</link>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</dir>
+  
+<dir>
+<name>[COLOR red][B]Free Pluto TV US[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/Pluto.m3u&mode=1</link>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</dir>
+  
+channel>
+<name>[COLOR red][B]Free 24/7 Movies[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/247movies.m3u&mode=1</link>
+<fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
+</dir>
