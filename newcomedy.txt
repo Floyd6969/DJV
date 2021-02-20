@@ -525,56 +525,56 @@
 
 <item>
 <title>The Inbetweeners S03 E01</title>
-<link>https://dood.to/d/waftksxvzmuo</link>
+<link>https://streamtape.com/v/q8rw8o0jZgIzxoq/S03e01.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S03 E02</title>
-<link>https://dood.to/d/zn4ftab5grpb</link>
+<link>https://streamtape.com/v/8Wo9g2J949hoa70/S03e02.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S03 E03</title>
-<link>https://dood.to/d/81mblqybe6v1</link>
+<link>https://streamtape.com/v/OVLXd0wPpGuZrqD/S03e03.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S03 E04</title>
-<link>https://dood.to/d/ip1l0apdhuq8</link>
+<link>https://streamtape.com/v/DZwDJdp7YDckv27/S03e04.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S03 E05</title>
-<link>https://dood.to/d/vom7b2znbmth</link>
+<link>https://streamtape.com/v/0Ba3mGkDvmubGBq/S03e05.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners 03 E06</title>
-<link>https://dood.to/d/zuqvcc40ybgx</link>
+<link>https://streamtape.com/v/MjW6amR8XVimKPJ/S03e06.mp4</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners Movie (2011)</title>
-<link>https://dood.to/d/zatixcqrnmze</link>
+<link>https://aparat.cam/x1ivptkkqb11/The.Inbetweeners.Movie.2011.EXTENDED.720p.BrRip.x264.YIFY.mp4.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbRA6Qq5Fy3DM4VPRKD76a7IJyT.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>The Inbetweeners 2 (2014)</title>
-<link>https://dood.to/d/2w318wquddzq</link>
+<link>https://aparat.cam/1q9v1eg5hp01/The.Inbetweeners.2.2014.720p.BluRay.x264.YIFY.mp4.html</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaffQzehpiUaGrpdi3tbYlmLbgo.jpg</thumbnail>
 <fanart></fanart>
 </item>
