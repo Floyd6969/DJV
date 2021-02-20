@@ -49,14 +49,14 @@
 
 <item>
 <title>Bottom S01 E06</title>
-<link>https://dood.to/d/2h8cqf1na1ym</link>
+<link>https://streamtape.com/v/DzXggMkQ69ikzWv/Bottom.S01e06.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S02 E01</title>
-<link>https://dood.to/d/hv7s8mh6h7iz</link>
+<link>https://streamtape.com/v/KPadOkbXzDcw41/Bottom.S02e01.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -98,14 +98,14 @@
 
 <item>
 <title>Bottom S03 E01</title>
-<link>https://dood.to/d/qrazz2ro8gv9</link>
+<link>https://streamtape.com/v/39Ye79kDpVcdBMQ/Bottom.S03e01.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S03 E02</title>
-<link>https://dood.to/d/whk9w1awdr3v</link>
+<link>https://streamtape.com/v/LezJPP1rYpfR1w4/Bottom.S03e02.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
