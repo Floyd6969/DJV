@@ -14,35 +14,35 @@
 
 <item>
 <title>Bottom S01 E01</title>
-<link>https://dood.to/d/bfr9xlgb67to</link>
+<link>https://streamtape.com/v/jA98DZJag6czpJR/Bottom.S01e01.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S01 E02</title>
-<link>https://dood.to/d/qwkab4e94wjc</link>
+<link>https://streamtape.com/v/YGJBmm97PlcOvV/Bottom.S01e02.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S01 E03</title>
-<link>https://dood.to/d/aphfizo6hrxq</link>
+<link>https://streamtape.com/v/wYpkK0y4e7CoMk/Bottom.S01e03.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S01 E04</title>
-<link>https://dood.to/d/gvewlwfonzrr</link>
+<link>https://streamtape.com/v/wYq0263kr6tJbGB/Bottom.S01e04.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bottom S01 E05</title>
-<link>https://dood.to/d/wde3lklufzcb</link>
+<link>https://streamtape.com/v/vBPMdkDZg1sLOM/Bottom.S01e05.mp4</link>
 <thumbnail>https://i.imgur.com/0vLLuDI.jpg</thumbnail>
 <fanart></fanart>
 </item>
