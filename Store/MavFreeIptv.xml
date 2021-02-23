@@ -26,7 +26,7 @@
 <fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
 </dir>
   
-dir>
+<dir>
 <name>[COLOR red][B]Test Channels[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
 <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/ustest.m3u&mode=1</link>
