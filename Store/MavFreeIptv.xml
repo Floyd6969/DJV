@@ -26,9 +26,9 @@
 <fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
 </dir>
   
-channel>
-<name>[COLOR red][B]Free 24/7 Movies[/B][/COLOR]</name>
+<channel>
+<name>[COLOR red][B]Test Channels[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/LuNWIUk.png</thumbnail>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/247movies.m3u&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/ustest.m3u&mode=1</link>
 <fanart>https://i.imgur.com/JXWpWyx.jpg</fanart>
 </dir>
