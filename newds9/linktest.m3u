@@ -364,5 +364,104 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-exte
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
 #EXTINF:-1,NBA-30
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
-#EXTINF:-1,WWE Network UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/22185
+#EXTINF:-1,USA-ACC Network (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59954
+#EXTINF:-1,USA-AFN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59957
+#EXTINF:-1,USA-ATT SportsNet Southwest (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59961
+#EXTINF:-1,USA-BOX Nation (tr)(1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/60376
+#EXTINF:-1,USA-beIN Sports (tr)(1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59976
+#EXTINF:-1,USA-beIN Sports (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59978
+#EXTINF:-1,USA-beIN Sports LaLiga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59979
+#EXTINF:-1,USA-beIN Sports USA (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59980
+#EXTINF:-1,USA-Bein USA HD (M)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1604
+#EXTINF:-1,USA-beIN Sports U (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59977
+#EXTINF:-1,USA-beIN Sports 4 (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59970
+#EXTINF:-1,USA-beIN Sports 5 (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59971
+#EXTINF:-1,USA-beIN Sports 6 (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59972
+#EXTINF:-1,USA-beIN Sports 7 (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59973
+#EXTINF:-1,USA-beIN Sports 8 (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59974
+#EXTINF:-1,USA-beIN Sports 9 (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/59975
+#EXTINF:-1,USA-CBS Sports (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/60004
+#EXTINF:-1,USA-CBS Sports HQ (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/60005
+#EXTINF:-1,USA-CBS Sports Network (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/60006
+#EXTINF:-1,USA-CBS Sports Network (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53818
+#EXTINF:-1,USA-CBSN (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/60007
+#EXTINF:-1,USA-Eleven Sports Network (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53831
+#EXTINF:-1,USA-Espn plus (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/69571
+#EXTINF:-1,USA-Espn (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53832
+#EXTINF:-1,USA-Espn 2 (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53833
+#EXTINF:-1,USA-Espn Bases Loaded (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53834
+#EXTINF:-1,USA-Espn Deportes (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53835
+#EXTINF:-1,USA-ESPN Longhorn Network (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/60023
+#EXTINF:-1,USA-Espn News (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53836
+#EXTINF:-1,USA-Espn U (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53837
+#EXTINF:-1,USA-Fox Collage Sports Atlantic (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53845
+#EXTINF:-1,USA-Fox Collage Sports Central (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53846
+#EXTINF:-1,USA-Fox Collage Sports Pacific (TV)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53847
+#EXTINF:-1,USA-Fox Soccer (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58079
+#EXTINF:-1,USA-Fox Soccer Plus (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35821
+#EXTINF:-1,USA-Fox Soccer(M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1595
+#EXTINF:-1,USA-Fox Sports 1 (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58080
+#EXTINF:-1,USA-Fox Sports 1(M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1594
+#EXTINF:-1,USA-Fox Sports 2 (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58081
+#EXTINF:-1,USA-Fox Sports Detroit (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58085
+#EXTINF:-1,USA-Fox Sports FS2 (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58087
+#EXTINF:-1,USA-Fox Sports Indiana (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58089
+#EXTINF:-1,USA-Fox Sports Kansas (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58090
+#EXTINF:-1,USA-Fox Sports Tampa (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58096
+#EXTINF:-1,USA-Fox Sports Tenness (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58083
+#EXTINF:-1,USA-Fox Sports West Plus(M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1593
+#EXTINF:-1,USA-Ginx eSports (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35818
+#EXTINF:-1,USA-GOL TV USA (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35575
+#EXTINF:-1,USA-Golf Channel (tr)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35857
+#EXTINF:-1,USA-MLB Network (M)(720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35803
+#EXTINF:-1,USA-My 24 (TV)(720)
