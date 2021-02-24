@@ -23,6 +23,9 @@
 		<page>http://hhdstreams.club/page/ch2.php</page>
 		<referer>http://hhdstreams.club/page/ch2.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
@@ -35,6 +38,9 @@
 		<page>http://hhdstreams.club/page/ch3.php</page>
 		<referer>http://hhdstreams.club/page/ch3.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
@@ -62,6 +68,9 @@
 		<page>http://hhdstreams.club/page/ch5.php</page>
 		<referer>http://hhdstreams.club/page/ch5.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
@@ -74,6 +83,9 @@
 		<page>http://hhdstreams.club/page/ch6.php</page>
 		<referer>http://hhdstreams.club/page/ch6.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
@@ -86,6 +98,9 @@
 		<page>http://hhdstreams.club/page/ch7.php</page>
 		<referer>http://hhdstreams.club/page/ch7.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
@@ -98,6 +113,9 @@
 		<page>http://hhdstreams.club/page/ch8.php</page>
 		<referer>http://hhdstreams.club/page/ch8.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
@@ -110,6 +128,9 @@
 		<page>http://hhdstreams.club/page/ch9.php</page>
 		<referer>http://hhdstreams.club/page/ch9.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
@@ -137,4 +158,7 @@
 		<page>http://hhdstreams.club/page/ch11.php</page>
 		<referer>http://hhdstreams.club/page/ch11.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
