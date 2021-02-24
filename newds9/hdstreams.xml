@@ -8,6 +8,9 @@
 		<page>http://hhdstreams.club/page/ch1.php</page>
 		<referer>http://hhdstreams.club/page/ch1.php</referer>
 	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
