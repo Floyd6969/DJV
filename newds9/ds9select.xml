@@ -6,6 +6,13 @@ dir>
 </dir>
 
 <dir>
+<name>[COLORlime][B]HD Streams[/B][/COLOR]</name>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/hdstreams.xml&mode=1</link>
+<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
 <name>[COLORlime][B]BeIN Sports[/B][/COLOR]</name>
 <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/Bein.m3u&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
