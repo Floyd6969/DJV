@@ -162,3 +162,63 @@
 	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
         <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
+
+<item>
+	<title>HD Streams 12</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch12.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch12.php</page>
+		<referer>http://hhdstreams.club/page/ch12.php</referer>
+	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+	<title>HD Streams 13</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch13.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch13.php</page>
+		<referer>http://hhdstreams.club/page/ch13.php</referer>
+	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+	<title>HD Streams 14</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch14.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch14.php</page>
+		<referer>http://hhdstreams.club/page/ch14.php</referer>
+	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+	<title>HD Streams 15</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch15.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch15.php</page>
+		<referer>http://hhdstreams.club/page/ch15.php</referer>
+	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
