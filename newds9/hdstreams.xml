@@ -1,0 +1,131 @@
+<item>
+	<title>HD Streams 1</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch1.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch1.php</page>
+		<referer>http://hhdstreams.club/page/ch1.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 2</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch2.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch2.php</page>
+		<referer>http://hhdstreams.club/page/ch2.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 3</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch3.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch3.php</page>
+		<referer>http://hhdstreams.club/page/ch3.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 4</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch4.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch4.php</page>
+		<referer>http://hhdstreams.club/page/ch4.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 5</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch5.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch5.php</page>
+		<referer>http://hhdstreams.club/page/ch5.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 6</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch6.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch6.php</page>
+		<referer>http://hhdstreams.club/page/ch6.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 7</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch7.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch7.php</page>
+		<referer>http://hhdstreams.club/page/ch7.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 8</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch8.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch8.php</page>
+		<referer>http://hhdstreams.club/page/ch8.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 9</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch9.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch9.php</page>
+		<referer>http://hhdstreams.club/page/ch9.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 10</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch10.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch10.php</page>
+		<referer>http://hhdstreams.club/page/ch10.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>HD Streams 11</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch11.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch11.php</page>
+		<referer>http://hhdstreams.club/page/ch11.php</referer>
+	</regex>
+</item>
