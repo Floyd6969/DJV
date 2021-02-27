@@ -364,7 +364,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-exte
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
 #EXTINF:-1,NBA-30
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
-
 #EXTINF:-Test
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://34.120.169.242/live/dDDFDF/l_31_89400_22.ts
 #EXTINF:-Test
