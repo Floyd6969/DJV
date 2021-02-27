@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Stadium 
+EXTINF:-1,Stadium 
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8 
 #EXTINF:-1,ESPN 2 
 https://gma2.blab.email/espn2.m3u8
