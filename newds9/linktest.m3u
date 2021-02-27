@@ -365,6 +365,4 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-exte
 #EXTINF:-1,NBA-30
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
 #EXTINF:-1,Test
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://34.120.169.242/live/dDDFDF/l_31_89400_22.ts
-#EXTINF:-1,Test
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://34.120.169.242/live/dDDFDF/chunks.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
