@@ -1,27 +1,27 @@
 <dir>
 <name>[COLORlime][B]Live Footy[/B][/COLOR]</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://bitbucket.org/Mad-Eric/textfiles/raw/master/live.xml&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://floyd6969.github.io/live.xml&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>[COLORlime][B]Live Sports[/B][/COLOR]</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://bitbucket.org/Mad-Eric/textfiles/raw/master/events.xml&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://floyd6969.github.io/events.xml&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]EPL Live[/B][/COLOR]</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://bitbucket.org/Mad-Eric/textfiles/raw/master/Epl.xml&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://floyd6969.github.io/epl.xml&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
  
 <dir>
 <name>[COLORlime][B]UK Sports[/B][/COLOR]</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://bitbucket.org/Mad-Eric/textfiles/raw/master/UK.xml&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://floyd6969.github.io/UK.xml&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
