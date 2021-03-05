@@ -28,14 +28,14 @@
  
 <dir>
 <name>[COLORlime][B]US Sports[/B][/COLOR]</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/US.m3u&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://floyd6969.github.io/Us.xml&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>[COLORlime][B]Fight Sports[/B][/COLOR]</name>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/MMA.m3u&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://floyd6969.github.io/mma.xml&mode=1</link>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
@@ -43,7 +43,7 @@
 <dir>
 <name>[COLORlime][B]Horse Racing[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/races.m3u&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://floyd6969.github.io/racing.xml&mode=1</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
