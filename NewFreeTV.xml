@@ -697,3 +697,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Cold Case Files</title>
+<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=373&deviceId=5c37d6712de254456f7ec340&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Comedy Central Animation</title>
+<link>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=467&deviceId=5f99e24636d67d0007a94e6d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
