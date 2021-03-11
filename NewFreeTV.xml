@@ -13,14 +13,14 @@
 </item>
 
 <item>
-<title>BBC AME HD (ENG)</title>
+<title>BBC AME HD</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Bravo (ENG)</title>
+<title>Bravo</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -62,7 +62,7 @@
 </item>
 
 <item>
-<title>CNBC HD (ENG)</title>
+<title>CNBC HD</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -83,7 +83,7 @@
 </item>
 
 <item>
-<title>FOXBUSINESS (ENG)</title>
+<title>FOXBUSINESS</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/541</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -97,21 +97,21 @@
 </item>
 
 <item>
-<title>HGTV (ENG)</title>
+<title>HGTV</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>History HD (ENG)</title>
+<title>History HD</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Lifetime HD (ENG)</title>
+<title>Lifetime HD</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -141,13 +141,6 @@
 <item>
 <title>TNT</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TOONCAST</title>
-<link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -195,7 +188,7 @@
 </item>
 
 <item>
-<title>DISCOVERY FAMILY (ENG)</title>
+<title>DISCOVERY FAMILY</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -204,6 +197,27 @@
 <item>
 <title>VELOCITY</title>
 <link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY</title>
+<link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY JR</title>
+<link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY XD</title>
+<link>http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
