@@ -165,3 +165,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>TMA</title>
+<link>http://hls.tmacaraibes.com/live/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
