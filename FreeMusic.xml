@@ -1,4 +1,74 @@
 <item>
+<title>Rock TV</title>
+<link>http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>One Music HD</title>
+<link>http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Radiom 20</title>
+<link>https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Music Top</title>
+<link>http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Top Latino</title>
+<link>https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>KPop TV</title>
+<link>https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>O Music</title>
+<link>https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Planet Music</title>
+<link>https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Radio 10</title>
+<link>http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Radio 105</title>
+<link>https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ec)/index.m3u8ist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>1 Music Channel</title>
 <link>https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8</link>
 <thumbnail></thumbnail>
