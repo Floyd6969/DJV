@@ -1,0 +1,34 @@
+<item>
+<title>1 Music Channel</title>
+<link>https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>30A Music</title>
+<link>https://30a-tv.com/music.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>4FUN TV</title>
+<link>https://stream.4fun.tv:8888/hls/4f_high/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ACB TV</title>
+<link>http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Afrobeats</title>
+<link>https://stream.ecable.tv/afrobeats/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
