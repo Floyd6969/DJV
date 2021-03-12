@@ -61,3 +61,44 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Kral Pop</title>
+<link>https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kronehit HD</title>
+<link>https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kuriakos Music</title>
+<link>http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>La Mega Mundial</title>
+<link>https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Leeeko TV</title>
+<link>http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LiveTV HD</title>
+<link>rtmp://live.livetvhd.cf/live/livetvhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
