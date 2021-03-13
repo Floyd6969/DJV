@@ -1,31 +1,14 @@
 
 <item>
-<title>99.8FM 2BR - Pop, A.C</title>
-<link>http://str1.sad.ukrd.com/2br.mp3</link>
-<thumbnail>https://pbs.twimg.com/profile_images/1148046215/2BR_Logo_2009.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
- 
-<item>
 <title>Absolute Classic Rock -  Rock </title>
-<link>http://mp3-ac-128.timlradio.co.uk/.mp3</link>
+<link>http://edge-bauerabsolute-14-gos1.sharp-stream.com/absoluteclassicrock.mp3</link>
 <thumbnail>http://a248.e.akamai.net/pix.crutchfield.com/community/blog/Ken/ACRlogo.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
- 
-<item>
-<title>Absolute Radio DAB -  Contemporary Rock </title>
-<link>http://aacplus-ar-64.timlradio.co.uk/.mp3 </link>
-<thumbnail>http://absoluteradio.co.uk/_img/pages/11908.1/ar-logo-article.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
- 
-<item>
+ <item>
 <title>Absolute Radio 60s -  60s Music </title>
-<link>http://mp3-a6-128.timlradio.co.uk/.mp3</link>
+<link>http://edge-bauerabsolute-14-gos1.sharp-stream.com/absolute60s.mp3</link>
 <thumbnail>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/10/17/1318869376740/Absolute-Radio-60s-logo-007.jpg</thumbnail>
 <fanart></fanart>
 </item>
