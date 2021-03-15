@@ -300,6 +300,13 @@ dir>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/RoadKTV.xml</link>
 <fanart></fanart>
 </dir>
+
+<dir>
+<name>Secrets of Sulphur Springs S01</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/30MqitTOgIfeOhvwdMHkrM9p5mD.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Sulphur.xml</link>
+<fanart></fanart>
+</dir>
  
 <dir>
 <name>Servant S01 & S02</name>
@@ -365,12 +372,12 @@ dir>
 </dir>
 
 <dir>
-<name>Secrets of Sulphur Springs S01</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/30MqitTOgIfeOhvwdMHkrM9p5mD.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Sulphur.xml</link>
+<name>Stranger Things S01</name>
+<thumbnail>https://i.imgur.com/3tVsztD.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Stranger.xml</link>
 <fanart></fanart>
 </dir>
- 
+
 <dir>
 <name>Superman and Lois S01</name>
 <thumbnail>https://i.imgur.com/9EKNeQY.jpg</thumbnail>
