@@ -91,7 +91,7 @@ dir>
 <fanart></fanart>
 </dir>
 
-dir>
+<dir>
 <name>Debris S01</name>
 <thumbnail>https://i.imgur.com/JoEkAWV.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Debris.xml</link>
@@ -379,7 +379,7 @@ dir>
 </dir>
 
 <dir>
-<name>Stranger Things S01</name>
+<name>Stranger Things S01 & S02</name>
 <thumbnail>https://i.imgur.com/3tVsztD.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Stranger.xml</link>
 <fanart></fanart>
