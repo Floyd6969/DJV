@@ -813,5 +813,18 @@
 <fanart></fanart>
 </item>
 
-
+<item>
+	<title>HD Streams 1</title>
+	<link>$doregex[get_sxstream]|Referer=http://hhdstreams.club/page/ch1.php</link>
+	<info>Programme dispo sur : http://hhdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hhdstreams.club/page/ch1.php</page>
+		<referer>http://hhdstreams.club/page/ch1.php</referer>
+	</regex>
+	
+	<thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+        <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
 
