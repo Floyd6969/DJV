@@ -1,6 +1,6 @@
 <item>
 <title>Queen - Live AID 1985</title>
-<link>https://youtu.be/1SgXcMStODI</link>
+<link>https://youtu.be/5cEKx95FSus</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
