@@ -4,3 +4,17 @@
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RadioStations-6emgxmiv.txt</link>
 <fanart></fanart>
 </dir>
+
+<dir>
+<name>Music Channels</name>
+<thumbnail>https://i.imgur.com/4GThWuR.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/FreeMusic.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Really Old Movies</name>
+<thumbnail>https://i.imgur.com/4GThWuR.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/OldMovies.xml</link>
+<fanart></fanart>
+</dir>
