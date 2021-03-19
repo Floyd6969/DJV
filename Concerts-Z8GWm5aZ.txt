@@ -140,14 +140,7 @@
  
 <item>
 <title>The Selecter - Live From London</title>
-<link>https://youtu.be/WeCNje7mgs4</link>
-<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Bad Manners - Don't Knock The Bald Heads</title>
-<link>https://youtu.be/AcWIup_XKLw</link>
+<link>https://youtu.be/bLix6dP2Ys0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -168,7 +161,7 @@
  
 <item>
 <title>UB40 live at Montreux 2002</title>
-<link>https://youtu.be/Pxsu5ZKhnRQ</link>
+<link>https://youtu.be/idckeen9_UM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -181,8 +174,8 @@
 </item>
  
 <item>
-<title>Stiff Little Fingers - At The Edge 2004 (full concert)[/COLOR]</title>
-<link>https://youtu.be/AwJLoUINqSM</link>
+<title>Stiff Little Fingers</title>
+<link>https://youtu.be/n_Io2GfKSIY</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -195,7 +188,7 @@
 </item>
  
 <item>
-<title>There'll Always be an England(Sex Pistols Live at Brixton Academy 2007)[/COLOR]</title>
+<title>There'll Always be an England(Sex Pistols Live at Brixton Academy 2007)</title>
 <link>https://youtu.be/o_SQI9kgqIc</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
@@ -203,35 +196,21 @@
  
 <item>
 <title>Black Sabbath - The End (Full Concert) 2016-06-15 at Hallenstadion, Zurich, Switzerland</title>
-<link>https://youtu.be/bZ66kVyCwz4</link>
+<link>https://youtu.be/WZk2v7AGEsk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>Iron Maiden- Live Wacken 2016 (Full Concert)- HD</title>
-<link>https://youtu.be/bHM2mwMQUDo</link>
+<title>Iron Maiden</title>
+<link>https://youtu.be/qVcKRF5y7s0</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>Guns N' Roses: Tokyo 1992 FULL CONCERT (HD)[/COLOR]</title>
-<link>https://youtu.be/oKw4HWNFN2Y</link>
-<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Guns N' Roses live at The Ritz 1988 - Full concert</title>
-<link>https://youtu.be/9zKPjJgfIss</link>
-<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Guns N' Roses - Live in Chicago 1992 [Full Concert][/COLOR]</title>
-<link>https://youtu.be/6SlKqVJT9tI</link>
+<title>Guns N' Roses: Tokyo 1992 FULL CONCERT (HD)</title>
+<link>https://youtu.be/E6pYj1tIBDM</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
