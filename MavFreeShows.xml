@@ -1,30 +1,8 @@
 
- 
-dir>
-<name>A Discovery of Witches S02</name>
-<thumbnail>https://i.imgur.com/pczLUdj.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Witches.xml</link>
-<fanart></fanart>
-</dir>
- 
 <dir>
 <name>A Perfect Planet S01</name>
 <thumbnail>https://i.imgur.com/4GThWuR.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Perfect.xml</link>
-<fanart></fanart>
-</dir>
- 
-dir>
-<name>Agents of Chaos S01</name>
-<thumbnail>https://i.imgur.com/XbvnXqi.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Chaos.xml</link>
-<fanart></fanart>
-</dir>
-
-dir>
-<name>Away S01</name>
-<thumbnail>https://i.imgur.com/sFcCi4n.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Away.xml</link>
 <fanart></fanart>
 </dir>
  
@@ -77,20 +55,6 @@ dir>
 <fanart></fanart>
 </dir>
 
-dir>
-<name>Criminal: UK S01 & S02</name>
-<thumbnail>https://i.imgur.com/QNv1rPa.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/CriminalTV.xml</link>
-<fanart></fanart>
-</dir>
- 
-dir>
-<name>Dark S01, S02 & S03</name>
-<thumbnail>https://i.imgur.com/W3To4g5.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/DarkTV.xml</link>
-<fanart></fanart>
-</dir>
-
 <dir>
 <name>Debris S01</name>
 <thumbnail>https://i.imgur.com/JoEkAWV.jpg</thumbnail>
@@ -109,13 +73,6 @@ dir>
 <name>Des S01</name>
 <thumbnail>https://i.imgur.com/fcPwA8B.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/DesTV.xml</link>
-<fanart></fanart>
-</dir>
- 
-dir>
-<name>Doom Patrol S02</name>
-<thumbnail>https://i.imgur.com/yhuPmkU.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/DoomTV.xml</link>
 <fanart></fanart>
 </dir>
  
@@ -140,20 +97,6 @@ dir>
 <fanart></fanart>
 </dir>
  
-dir>
-<name>Fast & Furious Spy Racers S01, S02 & S03</name>
-<thumbnail>https://i.imgur.com/3lMTcZ1.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/FastTV.xml</link>
-<fanart></fanart>
-</dir>
- 
-dir>
-<name>Fear the Walking Dead S06</name>
-<thumbnail>https://i.imgur.com/ZkICJn0.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/FearTWD.xml</link>
-<fanart></fanart>
-</dir>
-
 <dir>
 <name>Game Of Thrones (Complete)</name>
 <thumbnail>https://i.imgur.com/OLE0OT8.jpg</thumbnail>
@@ -165,13 +108,6 @@ dir>
 <name>Gangs of London S01</name>
 <thumbnail>https://i.imgur.com/QP3K8kG.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/GangsOfLondon.xml</link>
-<fanart></fanart>
-</dir>
-
-dir>
-<name>Ghosts S02</name>
-<thumbnail>https://i.imgur.com/4vIlWGJ.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Ghosts.xml</link>
 <fanart></fanart>
 </dir>
 
@@ -217,38 +153,10 @@ dir>
 <fanart></fanart>
 </dir>
 
-dir>
-<name>Jurassic World: Camp Cretaceous S01</name>
-<thumbnail>https://i.imgur.com/0boQZPi.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/JurassicWorldTV.xml</link>
-<fanart></fanart>
-</dir>
- 
-dir>
-<name>Letterkenny S09</name>
-<thumbnail>https://i.imgur.com/qyZ5yIv.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Letterkenny.xml</link>
-<fanart></fanart>
-</dir>
-
-dir>
-<name>Madagascar: A Little Wild S01</name>
-<thumbnail>https://i.imgur.com/nklC3HJ.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Madagascar.xml</link>
-<fanart></fanart>
-</dir>
-
 <dir>
 <name>Mayans M.C. S03</name>
 <thumbnail>https://i.imgur.com/5iSdKky.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Mayans.xml</link>
-<fanart></fanart>
-</dir>
- 
-dir>
-<name>Monsterland S01</name>
-<thumbnail>https://i.imgur.com/8NYJXFn.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/MonsterlandTV.xml</link>
 <fanart></fanart>
 </dir>
  
@@ -336,20 +244,6 @@ dir>
 <fanart></fanart>
 </dir>
  
-dir>
-<name>Social Distance S01</name>
-<thumbnail>https://i.imgur.com/hOVCH29.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/SocialTV.xml</link>
-<fanart></fanart>
-</dir>
- 
-dir>
-<name>Soul City S01</name>
-<thumbnail>https://i.imgur.com/Dy6DLyn.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Soul.xml</link>
-<fanart></fanart>
-</dir>
-
 <dir>
 <name>South Park S24</name>
 <thumbnail>https://i.imgur.com/cafgJKz.jpg</thumbnail>
@@ -371,13 +265,6 @@ dir>
 <fanart></fanart>
 </dir>
 
-dir>
-<name>Star Trek: Lower Decks S01</name>
-<thumbnail>https://i.imgur.com/VfEPWOu.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/StarTrekTV.xml</link>
-<fanart></fanart>
-</dir>
- 
 <dir>
 <name>Star Trek: Picard S01</name>
 <thumbnail>https://i.imgur.com/zGVW6Zq.jpg</thumbnail>
@@ -483,13 +370,6 @@ dir>
 <fanart></fanart>
 </dir>
  
-dir>
-<name>The Right Stuff S01</name>
-<thumbnail>https://i.imgur.com/3xTdsto.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/RightStuff.xml</link>
-<fanart></fanart>
-</dir>
- 
 <dir>
 <name>The Serpent S01</name>
 <thumbnail>https://i.imgur.com/vNIV8WB.jpg</thumbnail>
@@ -525,13 +405,6 @@ dir>
 <fanart></fanart>
 </dir>
  
-dir>
-<name>The Walking Dead: World Beyond S01</name>
-<thumbnail>https://i.imgur.com/WxTlAnr.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/TWD.xml</link>
-<fanart></fanart>
-</dir>
-
 <dir>
 <name>Tin Star S03</name>
 <thumbnail>https://i.imgur.com/1HP44WH.jpg</thumbnail>
@@ -553,20 +426,6 @@ dir>
 <fanart></fanart>
 </dir>
 
-dir>
-<name>Us S01</name>
-<thumbnail>https://i.imgur.com/uHONrc8.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Us.xml</link>
-<fanart></fanart>
-</dir>
- 
-dir>
-<name>Utopia S01</name>
-<thumbnail>https://i.imgur.com/SkaqzAH.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/UtopiaTV.xml</link>
-<fanart></fanart>
-</dir>
- 
 dir>
 <name>Vikings S06</name>
 <thumbnail>https://i.imgur.com/W6iM40l.jpg</thumbnail>
