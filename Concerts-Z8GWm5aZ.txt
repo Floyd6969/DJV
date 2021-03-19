@@ -7,7 +7,7 @@
 
 <item>
 <title>QUEEN - LIVE IN WEMBLEY 1986</title>
-<link>https://youtu.be/GBNEr5VPWfc</link>
+<link>https://youtu.be/0-6lLZbm0jg</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -21,7 +21,7 @@
 
 <item>
 <title>The Beatles - Live at the Shea Stadium HD</title>
-<link>https://youtu.be/gu27IQPsqdU</link>
+<link>https://youtu.be/OFt0UMUI7y4</link>
 <thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -42,49 +42,42 @@
 
 <item>
 <title>Adele live at The Tabernacle</title>
-<link>https://youtu.be/wL8xvTAhlmE</link>
+<link>https://youtu.be/xUkFF5l_uvU</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>Adele Live in New York City 2015</title>
-<link>https://youtu.be/sVheh0DSMs4</link>
+<link>https://youtu.be/ylWFEZ4JnYk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>Bruno Mars great live BBC Radio best hits 2015 full concert</title>
-<link>https://youtu.be/fV8OTEGjgk4</link>
+<link>https://youtu.be/BoTCjLf2FDE</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>Pink Floyd Live At Live 8 London 2005</title>
-<link>https://youtu.be/ljaU7YcrKAU</link>
-<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>Stevie Wonder - Live At Last: A Wonder Summer's Night - Full Concert (HD)[/COLOR]</title>
-<link>https://youtu.be/9dB9ZyXtXlQ</link>
+<title>Stevie Wonder - Live In Paris[/COLOR]</title>
+<link>https://youtu.be/zjRGw8Tkjss</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>Phil Collins The Last Farewell Tour</title>
-<link>https://youtu.be/39LAJeXudiM</link>
+<link>https://youtu.be/cPzrZ-1g-7U</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)[/COLOR]</title>
-<link>https://youtu.be/oerZ1cYE-Qk</link>
+<link>https://youtu.be/XpEuFm_2b70</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
