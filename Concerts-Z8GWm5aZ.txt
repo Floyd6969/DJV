@@ -62,7 +62,7 @@
 </item>
  
 <item>
-<title>Stevie Wonder - Live In Paris[/COLOR]</title>
+<title>Stevie Wonder - Live In Paris</title>
 <link>https://youtu.be/zjRGw8Tkjss</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
@@ -76,7 +76,7 @@
 </item>
  
 <item>
-<title>Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)[/COLOR]</title>
+<title>Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)</title>
 <link>https://youtu.be/XpEuFm_2b70</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
@@ -84,14 +84,14 @@
  
 <item>
 <title>Bon JovI Live At Cleveland 2013 Full Concert</title>
-<link>https://youtu.be/O1x-nXUL0hE</link>
+<link>https://youtu.be/7C6HsQyG7YA</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>Neil Diamond - 1988 Greatest Hits Live Concert</title>
-<link>https://youtu.be/iVRXOWAHs9w</link>
+<link>https://youtu.be/iVRXOWAHs9w/link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -104,22 +104,15 @@
 </item>
  
 <item>
-<title>Michael Jackson History Tour Live Munich Germany (Full)[/COLOR]</title>
-<link>https://youtu.be/Y0JcJbzTjjw</link>
-<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
 <title>DAVID BOWIE - (Full Concert) - Live at the BBC Radio Theatre, London, 2000</title>
-<link>https://youtu.be/OIK35u0Nx2k</link>
+<link>https://youtu.be/8oPsIzIHrDk</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>David Bowie - Live By Request (2002)[/COLOR]</title>
-<link>https://youtu.be/eQq4FH81jd0</link>
+<link>https://youtu.be/CL3T8xxLJZw</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -134,13 +127,6 @@
 <item>
 <title>Madness - At MadStock</title>
 <link>https://youtu.be/vLxhn5Q4-eM</link>
-<thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>The Specials - Live At Glastonbury</title>
-<link>https://youtu.be/1xbea_0pY0g</link>
 <thumbnail>http://mavericktv.net/data/alpha.jpg</thumbnail>
 <fanart></fanart>
 </item>
