@@ -2788,3 +2788,10 @@
 <thumbnail>https://img.discogs.com/5iibSKpbCdeJnx-wtjaHlODecd4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6439360-1444508838-7144.jpeg.jpg</thumbnail>
 </item>
 
+<item>
+<title>Test</title>
+<link>https://www.youtube.com/watch?v=tQ0yjYUFKAE</link>
+<thumbnail>https://i.imgur.com/Tt7Jkbg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
