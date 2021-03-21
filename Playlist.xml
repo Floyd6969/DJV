@@ -13,6 +13,13 @@
 </dir>
 
 <dir>
+<name>Internet Radio Channels</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/InternetRadio.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>Music Channels</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/FreeMusic.xml</link>
 <thumbnail></thumbnail>
