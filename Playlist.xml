@@ -33,9 +33,4 @@
 <fanart></fanart>
 </dir>
 
-<dir>
-<name>Test*</name>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Store/test.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+
