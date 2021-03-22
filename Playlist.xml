@@ -13,7 +13,7 @@
 </dir>
 
 <dir>
-<name>Internet Radio Channels</name>
+<name>Radio Genres</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/InternetRadio.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -33,11 +33,6 @@
 <fanart></fanart>
 </dir>
 
-<dir>
-<name>Test*</name>
-<link>https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u&mode=1</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+
 
 
