@@ -34,6 +34,14 @@ dir>
 </item>
 
 <item>
+<title>HBO</title>
+<link>http://157.230.224.200/androidtv/web/app.php/video/playvideo/97931/12?f=.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Action Movies</title>
 <link>https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8</link>
 <thumbnail></thumbnail>
