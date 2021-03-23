@@ -27,6 +27,13 @@
 </dir>
 
 <dir>
+<name>News Channels</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/News.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>Really Old Movies</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/OldMovies.xml</link>
 <thumbnail></thumbnail>
