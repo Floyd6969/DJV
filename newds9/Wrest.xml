@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>WWE Smackdown/Raw/NXT</title>
+<link>http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>Stadium</title>
 <link>https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
