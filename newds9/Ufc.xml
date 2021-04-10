@@ -21,6 +21,13 @@
 
 <item>
 <title>UFC Prelims And Main (FTO)</title>
+<link>http://77.247.109.92/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDIxIDc6MDAKOjE1CiBQTSZoYXNoX3ZhbHVlPUNjOC9QWlJYV0w3MmxHVHdEeHFGTHc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTQ1LjU2LjE0MC4xMjQmc3RybV9sZW49NA==</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>UFC Prelims And Main (FTO)</title>
 <link>http://77.247.109.116/hls/liveovo1.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
@@ -54,21 +61,21 @@ item>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>UFC Prelims And Main</title>
 <link>https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>UFC Prelims And Main</title>
 <link>http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>UFC Prelims And Main</title>
 <link>http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
