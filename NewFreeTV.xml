@@ -238,8 +238,29 @@
 </item>
 
 <item>
-<title>Toon Goggles</title>
-<link>https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8</link>
+<title>Discovery History</title>
+<link>http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Discovery Science</title>
+<link>http://stream.tvtap.live:8081/live/us-discoveryscience.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nat Geo People</title>
+<link>http://stream.tvtap.live:8081/live/it-natgeopeople.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BBC America</title>
+<link>http://stream.tvtap.live:8081/live/us-bbc-america.stream/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
