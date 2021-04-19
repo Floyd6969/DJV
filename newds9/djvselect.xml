@@ -1,18 +1,18 @@
-<dir>
+dir>
 <name>Live Footy/Soccer</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>https://floyd6969.github.io/live.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>Live EPL</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>https://floyd6969.github.io/epl.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>Live Events</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>https://floyd6969.github.io/UK.xml</link>
@@ -40,7 +40,7 @@ dir>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>World Channels</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>https://floyd6969.github.io/world.xml</link>
@@ -48,13 +48,13 @@ dir>
 </dir>
 
 <dir>
-<name>[COLORred]A VPN Is Recommended But Not Necesssary[/COLOR]</name>
+<name>[COLORred]****Offline****[/COLOR]</name>
 <link>https://</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>[COLORred]Some Channels May Be ISP Or Geo Blocked[/COLOR]</name>
 <link>https://</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
