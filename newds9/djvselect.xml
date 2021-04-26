@@ -5,6 +5,13 @@ dir>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
+<dir>
+<title>[COLORgold]Cloud 9 Sports[/COLOR]</title>
+<link>plugin://plugin.video.Cloud9/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 dir>
 <name>Live EPL</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
