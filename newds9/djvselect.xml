@@ -48,6 +48,13 @@ dir>
 </dir>
 
 <dir>
+<name>Skynet Sports</name>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Skynet.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
 <name>World Channels</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>https://floyd6969.github.io/world.xml</link>
