@@ -27,23 +27,23 @@ dir>
 </dir>
 
 dir>
-<name>US Sports Channels (Temp. Offline)</name>
+<name>Live UFC/MMA</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://floyd6969.github.io/Us.xm</link>
+<link>http://ezzer-mac.com/x/Mav/ufc.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 dir>
-<name>Fight Sports</name>
+<name>Live UEFA Champions League</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://floyd6969.github.io/mma.xm</link>
+<link>http://ezzer-mac.com/x/Mav/champs.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 dir>
-<name>Racing Channels</name>
+<name>Live UEFA Europa League</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://floyd6969.github.io/racing.xm</link>
+<link>http://ezzer-mac.com/x/Mav/europa.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
