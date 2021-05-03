@@ -6,16 +6,16 @@
 </dir>
 
 dir>
-<title>[COLORgold]Cloud 9 Sports[/COLOR]</title>
-<link>plugin://plugin.video.Cloud9/</link>
+<title>[COLORgold]English Channels[/COLOR]</title>
+<link>https://floyd6969.github.io/EnglishS.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
-dir>
-<name>Live EPL</name>
+<dir>
+<name>UK Channels</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://floyd6969.github.io/epl.xm</link>
+<link>https://floyd6969.github.io/EnglishS.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
