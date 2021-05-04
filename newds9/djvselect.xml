@@ -5,13 +5,6 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-dir>
-<title>[COLORgold]English Channels[/COLOR]</title>
-<link>https://floyd6969.github.io/EnglishS.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
 <dir>
 <name>UK Channels</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -33,7 +26,7 @@ dir>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-dir>
+<dir>
 <name>Live UEFA Champions League</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/champs.xml</link>
