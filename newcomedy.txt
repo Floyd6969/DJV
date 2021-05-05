@@ -462,21 +462,21 @@
 
 <item>
 <title>The Inbetweeners S01 E04</title>
-<link>https://streamtape.com/v/Wqdpm9Ylo2tbPPa/S01e04.mp4</link>
+<link>https://dood.so/d/5sz4x2nlo8di</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S01 E05</title>
-<link>https://streamtape.com/v/wV2zoqzXQyIJzXm/S01e05.mp4</link>
+<link>https://dood.so/d/3wc21ben2chj</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>The Inbetweeners S01 E06</title>
-<link>https://streamtape.com/v/9RGgLblR8aIad9b/S01e06.mp4</link>
+<link>https://dood.so/d/wnk9jsn0nk7b</link>
 <thumbnail>https://i.imgur.com/Dsg6W6X.jpg</thumbnail>
 <fanart></fanart>
 </item>
