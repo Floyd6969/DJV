@@ -19,10 +19,17 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>Live UFC/MMA</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/ufc.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+dir>
+<name>Live Boxing</name>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/boxing.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
