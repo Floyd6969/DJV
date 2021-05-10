@@ -1,0 +1,83 @@
+<dir>
+<title>Live Footy/Soccer</title>
+<link>https://floyd6969.github.io/prem.xml</link>
+<thumbnail>>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<title>UK Channels</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>https://floyd6969.github.io/EnglishS.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<title>Live Events</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/events.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+dir>
+<title>Live UFC/MMA</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/ufc.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+dir>
+<title>Live Boxing</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/boxing.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+dir>
+<title>Live UEFA Champions League</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/champs.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+dir>
+<title>Live UEFA Europa League</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>http://ezzer-mac.com/x/Mav/europa.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<title>Skynet Sports</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Skynet.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<title>Sport TV</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Sporttv.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<title>True Sports</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/True.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<title>Bein Sports</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Bein.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
+<dir>
+<title>World Channels</title>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<link>https://floyd6969.github.io/world.xml</link>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
