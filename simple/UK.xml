@@ -105,7 +105,7 @@
 
 <item>
 <title>SS Premier League</title>
-<link>http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8</link>
+<link>http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/14655</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -160,8 +160,22 @@
 </item>
 
 <item>
+<title>SS Golf</title>
+<link>http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/14744</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>SS Football</title>
-<link>http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8</link>
+<link>http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/20024</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>SS Action</title>
+<link>http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/14747</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -169,6 +183,13 @@
 <item>
 <title>CBSSN</title>
 <link>http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/10347</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>NBC Golf</title>
+<link>http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13687</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
