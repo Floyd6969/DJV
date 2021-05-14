@@ -132,8 +132,22 @@
 </item>
 
 <item>
+<title>Sky 1 Racing</title>
+<link>https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>Sky 2 Racing</title>
+<link>https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>Racing.Com</title>
-<link>https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby</link>
+<link>https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
