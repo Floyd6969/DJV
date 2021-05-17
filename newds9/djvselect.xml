@@ -19,7 +19,7 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>Live UFC/MMA</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/ufc.xml</link>
@@ -50,35 +50,35 @@ dir>
 <dir>
 <name>Skynet Sports</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Skynet.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/Skynet.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>Sport TV</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Sporttv.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/SportTV.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>True Sports</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/True.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/True.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>Bein Sports</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/Bein.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/Bein.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>World Channels</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://floyd6969.github.io/world.xml</link>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/World.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
