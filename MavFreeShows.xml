@@ -103,6 +103,13 @@ dir>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/FargoTV.xml</link>
 <fanart></fanart>
 </dir>
+
+<dir>
+<name>Fear the Walking Dead S06</name>
+<thumbnail>https://i.imgur.com/YY4I2qV.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/FTWD.xml</link>
+<fanart></fanart>
+</dir>
  
 <dir>
 <name>Game Of Thrones (Complete)</name>
