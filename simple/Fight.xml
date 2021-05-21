@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>WWE Network</title>
+<link>http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>Fight Box</title>
 <link>https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
