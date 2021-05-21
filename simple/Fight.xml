@@ -34,6 +34,13 @@
 </item>
 
 <item>
+<title>Stadium</title>
+<link>https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>Fight Sports 1</title>
 <link>http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -47,9 +54,3 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
-<title>Fight Sports 3</title>
-<link>http://210.210.155.35/uq2663/h/h05/index.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
