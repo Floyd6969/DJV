@@ -1,10 +1,3 @@
-<plugin>
-<title>Fluxus IPTV</title>
-<link>plugin://plugin.video.fluxus/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
 <dir>
 <name>Live In Concert</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Concerts-Z8GWm5aZ.txt</link>
