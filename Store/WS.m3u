@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="UK",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="UK",Action Movies
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="All Drama" tvg-logo="https://i.imgur.com/E1prxi9.png" group-title="UK",All Drama
 https://endemol-alldrama-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Arise News" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/BlNMp0k.png",Arise News
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-id="BBC Scotland" tvg-name="BBC Scotland" tvg-logo="https://i.imgur.com/rtZxGzr.png" group-title="UK",BBC Scotland
-http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-id="" tvg-name="Big Name" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="UK",Big Name
 https://alchimie-big-names-2-gb.samsung.wurl.com/manifest/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/AMGo8sU.png" group-title="UK",Bloomberg
@@ -23,8 +17,6 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-name="Calm Piano Music" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/KC8FleL.jpg",Calm Piano Music
 plugin://plugin.video.youtube/play/?video_id=XULUBg_ZcAU
-#EXTINF:-1 tvg-id="Cbeebies (UK)" tvg-name="CBeebies" tvg-logo="https://i.imgur.com/q6ipFCf.png" group-title="UK",CBeebies
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-name="CGTN" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/6rlt5Ph.png",CGTN 
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Channel" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK",Comedy Channel
