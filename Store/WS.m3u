@@ -1168,4 +1168,12 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KPop TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",KPop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Music" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",O Music
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Radio 10
+http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
 
