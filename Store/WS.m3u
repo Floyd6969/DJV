@@ -1160,3 +1160,6 @@ http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Women Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music",Rock TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+
