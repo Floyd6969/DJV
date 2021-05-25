@@ -93,7 +93,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Masters of Food" tvg-logo="https://i.imgur.com/WJbjD6m.png" group-title="UK",Masters of Food
 https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="FREE SPORT",MMA TV
+#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="Free Sport",MMA TV
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="UK",Movies Central
 https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -127,9 +127,9 @@ http://tv.sheffieldlive.org/hls/main.m3u8
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 tvg-id="" tvg-name="Sangat Television"  tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="UK",Sangat Television
 https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
-#EXTINF:-1 tvg-name="Sky 1 Racing" tvg-id="" group-title="FREE SPORT" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1 Racing
+#EXTINF:-1 tvg-name="Sky 1 Racing" tvg-id="" group-title="Free Sport" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 tvg-name="Sky 2" tvg-id="" group-title="FREE SPORT" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
+#EXTINF:-1 tvg-name="Sky 2" tvg-id="" group-title="Free Sport" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="UK" tvg-logo="https://i.imgur.com/vfqWSHv.png",Sky News
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
@@ -139,11 +139,11 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sonlife UK" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/p6og1yz.png",Sonlife UK
 https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports Channel Network" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="FREE SPORT",Sports Channel Network
+#EXTINF:-1 tvg-id="" tvg-name="Sports Channel Network" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="Free Sport",Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="UK",Spotlight
 https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="FREE SPORT" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight
+#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="Free Sport" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 tvg-name="Spotlight TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/FIuR49I.png",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
@@ -286,7 +286,7 @@ https://cloudflare.tv/hls/live.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-name="Court TV (Pluto)" tvg-id="Court TV" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV (Pluto)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAkIuW1.png" group-title="FREE SPORT",Cycle World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAkIuW1.png" group-title="Free Sport",Cycle World
 http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 #EXTINF:-1 tvg-name="Ditty TV" tvg-id="DIY USm" group-title="USA" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
@@ -308,7 +308,7 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wljet7U.png" group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NO7y3tt.png" group-title="FREE SPORT",HBCU Game Day
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NO7y3tt.png" group-title="Free Sport",HBCU Game Day
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden TV" tvg-logo="https://i.imgur.com/71wy2NY.png" group-title="USA",Golden TV
 https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
@@ -342,11 +342,11 @@ https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 https://d33i9o1z3iws9l.cloudfront.net/v1/master/dfe581e0a446a1e548014078b2d81b62b917979d/kronon_4i3ls75cavqa71rt7alu/fae00157cfe748478a224b26e3a30db5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="USA",Law & Crime Network
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lax Sports Network TV" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="FREE SPORT",Lax Sports Network TV
+#EXTINF:-1 tvg-id="" tvg-name="Lax Sports Network TV" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Free Sport",Lax Sports Network TV
 http://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6osyvwh.png" group-title="USA",Maggelan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="FREE SPORT",MMA Junkie (Distro TV)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="Free Sport",MMA Junkie (Distro TV)
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lwzdz8U.png" group-title="USA",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
@@ -362,7 +362,7 @@ http://30a-tv.com/NothingScripted.m3u8
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
 #EXTINF:-1 tvg-name="NRB TV" tvg-id="NRB" group-title="USA" tvg-logo="https://i.imgur.com/FUUFhoW.jpg",NRB TV
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Olympic Channel" tvg-id="Olympic Channel" tvg-logo="https://i.imgur.com/DDwsaHh.png" group-title="FREE SPORT",Olympic Channel
+#EXTINF:-1 tvg-name="Olympic Channel" tvg-id="Olympic Channel" tvg-logo="https://i.imgur.com/DDwsaHh.png" group-title="Free Sport",Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-name="Orange Media Network" tvg-id="Orange Media Network" group-title="USA" tvg-logo="https://i.imgur.com/C8vBURi.png",Orange Media Network
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
@@ -384,7 +384,7 @@ http://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTL TV Network" tvg-logo="https://i.imgur.com/EhISpCd.png" group-title="USA",PTL TV Network
 http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/TvmeXdZ.png" group-title="FREE SPORT",Red Bull TV
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/TvmeXdZ.png" group-title="Free Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Revelation TV" tvg-logo="https://i.imgur.com/sOVdYJZ.png" group-title="USA",Revelation TV
 http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
@@ -392,7 +392,7 @@ http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
 https://edge1.dashmedia.tv/onestudio/rightnowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3o9cG76.png" group-title="USA",Rooster Teeth TV
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qdEbn9i.png" group-title="FREE SPORT",Rope 2 Rope
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdEbn9i.png" group-title="Free Sport",Rope 2 Rope
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
 #EXTINF:-1 tvg-name="SafeTV4U" tvg-id="SafeTV4U" tvg-logo="https://i.imgur.com/sDGZCpL.png" group-title="USA",SafeTV4U
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
@@ -404,9 +404,9 @@ https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
 http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-name="Smart Lifestyle TV" tvg-id="Smart Lifestyle TV" group-title="USA" tvg-logo="https://i.imgur.com/UyIkHU3.png",Smart Lifestyle TV
 https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1 tvg-name="Stadium (Stirr)" tvg-id="Stadium" group-title="FREE SPORT" tvg-logo="https://i.imgur.com/n38w3FD.png",Stadium  (Stirr)
+#EXTINF:-1 tvg-name="Stadium (Stirr)" tvg-id="Stadium" group-title="Free Sport" tvg-logo="https://i.imgur.com/n38w3FD.png",Stadium  (Stirr)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Tennis" tvg-logo="https://i.imgur.com/bOERQjA.jpg" group-title="FREE SPORT",Super Tennis
+#EXTINF:-1 tvg-id="" tvg-name="Super Tennis" tvg-logo="https://i.imgur.com/bOERQjA.jpg" group-title="Free Sport",Super Tennis
 https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 tvg-name="Tastemade" tvg-id="Tastemade" group-title="USA" tvg-logo="https://i.imgur.com/e7EDq02.png",Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
@@ -418,7 +418,7 @@ https://bcovlive-a.akamaihd.net/r8ceb94e3229b4c0bb2dd461dacb3ab07/us-east-1/6057
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-name="Temple TV" tvg-id="Temple TV" group-title="USA" tvg-logo="https://i.imgur.com/YchkfWy.png",Temple TV
 https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BFa0l.png" group-title="FREE SPORT",Tennis Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BFa0l.png" group-title="Free Sport",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-name="The Asylum (Stirr)" tvg-id="The Asylum" group-title="USA" tvg-logo="https://i.imgur.com/1pxXEtP.png",The Asylum (Stirr)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
@@ -491,9 +491,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6608c80560007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=194&deviceId=5595e43c66ace1652e63c6a2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="Pluto TV",Baywatch
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="FREE SPORT",beIN SPORTS XTRA
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Free Sport",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="FREE SPORT",Bellator MMA
+#EXTINF:-1 tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Free Sport",Bellator MMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="BET Her" tvg-logo="https://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png" group-title="Pluto TV",BET Her
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=175&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -541,7 +541,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1030&deviceId=5eb1b05ea168cc000767ba67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="CBSN Pittsburgh" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="Pluto TV",CBSN Pittsburgh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1031&deviceId=5eb1b17aa5277e00083f6521&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="FREE SPORT",CBS Sports HQ
+#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Free Sport",CBS Sports HQ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Chassy" tvg-logo="https://images.pluto.tv/channels/5b6b285823ecb93393cbf766/colorLogoPNG.png" group-title="Pluto TV",Chassy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=687&deviceId=5b6b285823ecb93393cbf766&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -573,7 +573,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=466&deviceId=5ca675d6593a5d78f0e85c2e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Court TV" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="Pluto TV",Court TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Combate World" tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="FREE SPORT",Combate World
+#EXTINF:-1 tvg-name="Combate World" tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Free Sport",Combate World
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Complex Networks" tvg-logo="https://images.pluto.tv/channels/5bb1b439ea5c9e53afd21325/colorLogoPNG.png" group-title="Pluto TV",Complex Networks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=197&deviceId=5bb1b439ea5c9e53afd21325&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -633,7 +633,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=370&deviceId=5bb1af6a268cae539bcedb0a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Forensic Files en ESP" tvg-logo="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" group-title="Pluto TV",Forensic Files en ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=933&deviceId=5e94cd036cc69d0007e8a1ba&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="FREE SPORT",FOX Sports
+#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Free Sport",FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="FrontDoor" tvg-logo="https://images.pluto.tv/channels/5938888cd045ffce74cf9048/colorLogoPNG.png" group-title="Pluto TV",FrontDoor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=612&deviceId=5938888cd045ffce74cf9048&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -649,7 +649,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f27bbe4779de70007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51dd5d369acdb278dfb05d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=816&deviceId=5d51dd5d369acdb278dfb05d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="GameSpot" tvg-logo="https://images.pluto.tv/channels/5f186626dcd00d0007936443/colorLogoPNG.png" group-title="Pluto TV",GameSpot
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f186626dcd00d0007936443/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=806&deviceId=5f186626dcd00d0007936443&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="GLORY Kickboxing" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="FREE SPORT",GLORY Kickboxing
+#EXTINF:-1 tvg-name="GLORY Kickboxing" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Free Sport",GLORY Kickboxing
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Gordon Ramsay's Kitchen" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="Pluto TV",Gordon Ramsay's Kitchen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=294&deviceId=5b4e99f4423e067bd6df6903&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -663,7 +663,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7f8698ec435a00078
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8a02476b72230007e62b7d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=625&deviceId=5f8a02476b72230007e62b7d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="IGN" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="Pluto TV",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=805&deviceId=561c5f613286e48904fb2677&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="IMPACT Wrestling" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="FREE SPORT",IMPACT Wrestling
+#EXTINF:-1 tvg-name="IMPACT Wrestling" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Free Sport",IMPACT Wrestling
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Inspector Gadget" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="Pluto TV",Inspector Gadget
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=5d765786aad587cf4d0e2bf6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -699,7 +699,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77977bd924d80007e
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=385&deviceId=5cbf6a868a1bce4a3d52a5e9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="MinecrafTV" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="Pluto TV",MinecrafTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=815&deviceId=5812b821249444e05d09cc4c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="MLS" tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="FREE SPORT",MLS
+#EXTINF:-1 tvg-name="MLS" tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="Free Sport",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="MST3K" tvg-logo="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="Pluto TV",MST3K
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=488&deviceId=545943f1c9f133a519bbac92&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -731,7 +731,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=213&deviceId=5df97894467dfa00091c873c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="NewsmaxTV" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="Pluto TV",NewsmaxTV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/pluto.m3u8
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="FREE SPORT",NFL Channel
+#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Free Sport",NFL Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Nick Jr. Latino" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Pluto TV",Nick Jr. Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -765,7 +765,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54169f4b9b25000994a303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=340&deviceId=5e54169f4b9b25000994a303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="PeopleTV" tvg-logo="https://images.pluto.tv/channels/59c2c3ae40e64939daad8b76/colorLogoPNG.png" group-title="Pluto TV",PeopleTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=192&deviceId=59c2c3ae40e64939daad8b76&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="FREE SPORT,PGA TOUR
+#EXTINF:-1 tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Free Sport",PGA TOUR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -845,7 +845,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c70
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Science" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Science
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=672&deviceId=563a970aa1a1f7fe7c9daad7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="FREE SPORT",Pluto TV Sports
+#EXTINF:-1 tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Free Sport",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Spotlight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1146,7 +1146,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Free Sport",TVS Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Tavern
 https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
@@ -1156,7 +1156,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Western Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Women Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Free Sport",TVS Women Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Rock TV
