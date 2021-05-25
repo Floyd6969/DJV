@@ -35,7 +35,7 @@ https://endemol-restore-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="UK",Dust
 https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="FREE SPORT",Edge Sport
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="Free Sport",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/sBPVCYy.jpg" group-title="UK",Euronews
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -47,13 +47,13 @@ https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Filmzie" tvg-logo="https://i.imgur.com/jUWffic.png" group-title="UK",Filmzie
 https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FTF For the fans" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="FREE SPORT",FTF For the fans
+#EXTINF:-1 tvg-id="" tvg-name="FTF For the fans" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="Free Sport",FTF For the fans
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Go USA" tvg-logo="https://i.imgur.com/KhdR4wa.jpg" group-title="UK",Go USA
 https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GustoTV" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="UK",GustoTV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Horse and Country" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="FREE SPORT",Horse and Country
+#EXTINF:-1 tvg-id="" tvg-name="Horse and Country" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="Free Sport",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Humanity" tvg-logo="https://i.imgur.com/XZSCpl2.jpg" group-title="UK",Humanity
 https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8
