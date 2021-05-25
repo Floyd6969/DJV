@@ -19,18 +19,25 @@
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/WildTV.xml</link>
 <fanart></fanart>
 </dir>
+
+<dir>
+<name>Bobs Burgers S11</name>
+<thumbnail>https://i.imgur.com/3fMeT47.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/BobsBurgersTV.xml</link>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Borat's American Lockdown S01</name>
+<thumbnail>https://i.imgur.com/5BtgIZq.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Borat.xml</link>
+<fanart></fanart>
+</dir>
  
 <dir>
 <name>Bridgerton S01</name>
 <thumbnail>https://i.imgur.com/MQnIy58.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/Bridge.xml</link>
-<fanart></fanart>
-</dir>
- 
-<dir>
-<name>Bobs Burgers S11</name>
-<thumbnail>https://i.imgur.com/3fMeT47.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Shows/BobsBurgersTV.xml</link>
 <fanart></fanart>
 </dir>
  
