@@ -1200,5 +1200,74 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",51 Radio TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Plex",Chopper Town
+https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/67d41d7e-f2c4-4005-abab-22174f1f8b43/0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Plex",Design
+https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Plex",ESRevolution
+https://69603b0bf51d4c7fa9335a84ee752b10.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ESRevolution/d98e1a54-0b10-4779-85dc-d910b00f5f43/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Exhibition Awesome
+https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Fail Army
+https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Film Stream
+https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Filmstream/29d2a5e9-0e59-4a8b-b906-0f82d8fa81b8/5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Game Show
+https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Glewed TV
+https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/d1a011d0-5758-439c-9939-ef96c8e13323/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Gravitas Movies
+https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/b465c16f-0c23-4bf0-9a52-e1d87cb0f5ee/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Hollywood Classics
+https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/5e48be49-66f7-4712-9fff-347b1ae7afbd/5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Plex",IGN TV
+https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",KiDoodle TV
+https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/1d045896-8061-414f-b467-2b5afadb837e/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Latido Music
+https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Law and Crime
+https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/3764ff82-e9c3-4cd8-a6d7-fd42b777ed75/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",M Now
+https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/94d277d1-8703-4f03-a2d8-69e91ff314fb/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Maverick Black Cinema
+https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/fd0e4439-3d12-4d07-99b6-7f79ceeb94c2/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",MIH TV
+https://810196ba95e649839da0b32235393623.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MadeInHollywood/72b302d2-2303-4e58-bf44-c9e7ae33495e/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Monster Kids
+https://d8f9c7ca60f84037aad1ff1030ecfa2f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MonsterKids/c3ab9586-35f3-4813-8021-e9262efd4616/5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Plex",Pet Collection
+https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Popstar! TV
+https://bd0c70d8954d416d819afb3e1c940ee6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-10-POPSTAR-PLEX/ce9964d8-eef9-428d-8338-15b74adefde2/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Reuters
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Revry
+https://80b6878a343a4c37ae7c81c26e367b59.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-PLEX/aa5b463a-e354-4b03-ab59-020c6cd3713e/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Revry 2
+https://0bef58ceebc44ecbba8ed46a4b17de0c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-PLEX/09eef831-6e1a-4f60-a138-77c0a1da8e06/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Revry News
+https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-PLEX/384b6047-c4ba-41fa-93da-86bb345ec805/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",So...Real
+https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/78ee14fe-d1d9-4189-8b1f-e2b57a314963/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Sports Grid
+https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Surf Now TV
+https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Tankee
+https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/282d947f-8e33-4bcb-8d98-3c7d9254f6f5/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",The Boat Show
+https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/820e6d4e-cebb-4533-adf7-d0193f320ac9/4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",The Film Detective
+https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605674085f0040ddc7a3/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/1280x720_3256000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Unidentivied
+https://studio1091-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605374085f0040ddc764/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex",Weather Spy
+https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
+
 
 
