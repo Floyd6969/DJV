@@ -1161,6 +1161,8 @@ https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Rock TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFM TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",FPM TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV US" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",MTV US
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="One Music HD" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",One Music HD
@@ -1177,4 +1179,26 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Radio 10
 http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 24" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Radio 24
+http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canale 636" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Canale 636
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Italia TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Radio Monte Carlo
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Number One" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Radio Number One
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pros" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Radio Number Pros
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCKO Gold" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",OCKO Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spanish Music Channel" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",Spanish Music Channel
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="R 101" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",R 101
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",51 Radio TV
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+
+
 
