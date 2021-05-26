@@ -1199,3 +1199,8 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-logo="https://i.imgur.com/s3VFR9j.jpg" group-title="Music TV",51 Radio TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Best Of A&E" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Entertainment",Best Of A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E Crime 360" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Entertainment",A&E Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
