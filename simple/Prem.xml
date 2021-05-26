@@ -1,13 +1,13 @@
 <item>
 <title>BT Sport 1 HD</title>
-<link>http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8</link>
+<link>http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
 <title>BT Sport 2 HD</title>
-<link>http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8</link>
+<link>http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
@@ -56,36 +56,35 @@
 
 <item>
 <title>Sport TV 1</title>
-<link>http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8</link>
+<link>http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
 <title>Sport TV 2</title>
-<link>http://stream.tvtap.live:8081/live/pt-sporttv2.stream/playlist.m3u8</link>
+<link>http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
 <title>Sport TV 3</title>
-<link>http://stream.tvtap.live:8081/live/pt-sporttv3.stream/playlist.m3u8</link>
+<link>http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
 <title>Sport TV 4</title>
-<link>http://stream.tvtap.live:8081/live/pt-sporttv4.stream/playlist.m3u8</link>
+<link>http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
 <item>
 <title>Sport TV 5</title>
-<link>http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8</link>
+<link>http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
-
