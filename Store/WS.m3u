@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="UK",Action Movies
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Action Movies
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="All Drama" tvg-logo="https://i.imgur.com/E1prxi9.png" group-title="UK",All Drama
 https://endemol-alldrama-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -21,7 +21,7 @@ plugin://plugin.video.youtube/play/?video_id=XULUBg_ZcAU
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Channel" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="UK",Comedy Movies
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="Movies",Comedy Movies
 https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Crime TV" tvg-logo="https://i.imgur.com/Ut0EOQn.jpg" group-title="UK",Crime TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=470&deviceId=5d2c571faeb3e2738ae27933&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -43,9 +43,9 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-name="Filmon 360" tvg-logo="https://i.imgur.com/Jh3Ccrn.png" group-title="UK",Filmon 360
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/aoaV9ek.jpg" group-title="UK",Filmstream
+#EXTINF:-1 tvg-id="" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/aoaV9ek.jpg" group-title="Movies",Filmstream
 https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmzie" tvg-logo="https://i.imgur.com/jUWffic.png" group-title="UK",Filmzie
+#EXTINF:-1 tvg-id="" tvg-name="Filmzie" tvg-logo="https://i.imgur.com/jUWffic.png" group-title="Movies",Filmzie
 https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FTF For the fans" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="Free Sport",FTF For the fans
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
@@ -95,7 +95,7 @@ https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="Free Sport",MMA TV
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="UK",Movies Central
+#EXTINF:-1 tvg-id="" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="Movies",Movies Central
 https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My5 Documentaries" tvg-logo="https://i.imgur.com/xhIXQGK.png" group-title="UK",My5 Documentaries
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=475&deviceId=5ddf901280e3550009139c86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -234,7 +234,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA",American Horrors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="Movies",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="American Kennel Club TV" tvg-id="AKCTV" group-title="USA" tvg-logo="https://i.imgur.com/5Rz2LDg.png",American Kennel Club
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
@@ -278,7 +278,7 @@ https://live.chdrstatic.com/cbn/primary/1.m3u8
 http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-name="Classic Arts Showcase" tvg-id="ClassicArtsShowcase" group-title="USA" tvg-logo="https://i.imgur.com/2LJzdu6.png",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Classic Cinema" tvg-logo="https://i.imgur.com/gi2LOKf.png" group-title="USA",Classic Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Classic Cinema" tvg-logo="https://i.imgur.com/gi2LOKf.png" group-title="Movies",Classic Cinema
 https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cloudflare TV" tvg-logo="https://i.imgur.com/DU6kO3S.png" group-title="USA",Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
@@ -456,16 +456,16 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-name="Z Living" tvg-id="Z Living" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="USA",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PuRTXAj.png" group-title="USA",ZEE CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PuRTXAj.png" group-title="Movies",ZEE CINEMA
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ibXkhex.jpg" group-title="USA",ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Pluto TV",70s Cinema
+#EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Movies",70s Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="80s Rewind" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Pluto TV",80s Rewind
+#EXTINF:-1 tvg-name="80s Rewind" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Movies",80s Rewind
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Pluto TV",90s Throwback
+#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Movies",90s Throwback
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Adventure TV" tvg-logo="https://images.pluto.tv/channels/5938876b78d8d9c074c3c657/colorLogoPNG.png" group-title="Pluto TV",Adventure TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=675&deviceId=5938876b78d8d9c074c3c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1212,6 +1212,8 @@ https://c.mjh.nz/101002210222/
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",Little Rock (STIRR)
+https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Movies",Action Hollywood Movies
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
