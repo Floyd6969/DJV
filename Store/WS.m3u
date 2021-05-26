@@ -1206,5 +1206,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E Lively Place" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Entertainment",A&E Lively Place
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Entertainment",ABC TV Plus / ABC Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",ABC TV Plus / ABC Kids
 https://c.mjh.nz/101002210222/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",ACC Network
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
