@@ -1210,6 +1210,8 @@ http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",ACC Network
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Movies",Action Hollywood Movies
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
