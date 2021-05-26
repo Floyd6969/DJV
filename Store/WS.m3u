@@ -1230,9 +1230,9 @@ https://vs-hls-push-uk-live.akamaized.net/content/x=3/v=pv14/b=5070016/t=3840/i=
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Sports",Bek Sports East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Free Sport",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Sports",Bek Sports West
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Free Sport",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 
 
