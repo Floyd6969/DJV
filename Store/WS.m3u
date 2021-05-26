@@ -1210,9 +1210,9 @@ http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",ACC Network
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",Action Hollywood Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Movies",Action Hollywood Movies
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",&Flix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Entertainment",&privé HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/35VY49b.png" group-title="Movies",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
