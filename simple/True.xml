@@ -41,6 +41,27 @@
 </item>
 
 <item>
+<title>True Fox Sports 1</title>
+<link>http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>True Fox Sports 2</title>
+<link>http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>True Fox Sports 3</title>
+<link>http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
 <title>True Sports HD 1</title>
 <link>http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -103,23 +124,4 @@
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </item>
 
-<item>
-<title>True FS 1</title>
-<link>http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
 
-<item>
-<title>True FS 2</title>
-<link>http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
-
-<item>
-<title>True FS 3</title>
-<link>http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
-</item>
