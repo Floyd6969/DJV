@@ -27,7 +27,14 @@
 </item>
 
 <item>
-<title>True Premier 2 HD</title>
+<title>True Premier HD 1 (Foreign)</title>
+<link>http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</item>
+
+<item>
+<title>True Premier 2 HD (English)</title>
 <link>http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8</link>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
