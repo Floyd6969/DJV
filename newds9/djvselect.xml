@@ -19,7 +19,7 @@ dir>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>Live UFC/MMA</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/ufc.xml</link>
@@ -33,7 +33,7 @@ dir>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <name>Live UEFA Champions League</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/champs.xml</link>
