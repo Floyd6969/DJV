@@ -47,7 +47,7 @@
 <fanart></fanart>
 </dir>
 
-<dir>
+dir>
 <title>Test 1</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:RitaPazuk</link>
 <thumbnail>http://</thumbnail>
