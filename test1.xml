@@ -7,8 +7,16 @@
 </dir>
 
 <plugin>
-<title>Docs 1</title>
+<title>Documentaries 1</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x71r9j</link>
+<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
+<summary></summary>
+</plugin>
+
+<plugin>
+<title>Documentaries 2</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x3nuhg</link>
 <thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
 <fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
 <summary></summary>
@@ -61,6 +69,8 @@
 <fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
 <summary></summary>
 </plugin>
+
+
 
 
 
