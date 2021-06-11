@@ -14,5 +14,13 @@
 <summary></summary>
 </plugin>
 
+<plugin>
+<title>TV Shows</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x71rly</link>
+<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
+<summary></summary>
+</plugin>
+
 
 
