@@ -11,3 +11,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
+
+<dir>
+<title>Daily Motion</title>
+<link>plugin://plugin.video.dailymotion_com</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
