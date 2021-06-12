@@ -32,3 +32,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
+
+<dir>
+<title>Nasa TV</title>
+<link>plugin://plugin.video.nasa</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
