@@ -1,6 +1,20 @@
 <dir>
+<title>[COLORblue]***This Section Will Import Extra Addons Automatically***[/COLOR]</title>
+<link>plugin://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <title>Free TV</title>
 <link>plugin://plugin.video.freetv</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Pluto TV</title>
+<link>plugin://plugin.video.plutotv</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
