@@ -1,0 +1,13 @@
+<dir>
+<title>Free TV</title>
+<link>plugin://plugin.video.freetv</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Fluxus TV</title>
+<link>plugin://plugin.video.fluxus</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
