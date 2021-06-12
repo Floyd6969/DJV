@@ -6,8 +6,16 @@
 </dir>
 
 <dir>
-<title>Documentaries 1</title>
+<title>Crimes That Shook Britain</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x71r9j</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</dir>
+
+<dir>
+<title>Crimes That Shook Australia</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x6896w</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
