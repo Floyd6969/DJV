@@ -5,6 +5,38 @@
 <fanart></fanart>
 </dir>
 
+<plugin>
+<title>Documentaries 1</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x71r9j</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
+
+<plugin>
+<title>Documentaries 2</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x3nuhg</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
+
+<plugin>
+<title>Crime Documentaries</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4yzfn</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
+
+<plugin>
+<title>Crime Documentaries</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x5ywqi</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
+
 <dir>
 <name>Online Radio</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RadioStations-6emgxmiv.txt</link>
