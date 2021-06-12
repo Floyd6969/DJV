@@ -1,88 +1,15 @@
 <dir>
+<name>[COLORgold]>>> Documentaries >>>[/COLORR]</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/test1.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>Live In Concert</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Concerts-Z8GWm5aZ.txt</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</dir>
-
-<dir>
-<title>Crimes That Shook Britain</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x71r9j</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>Crimes That Shook Australia</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x6896w</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>Documentaries 2</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x3nuhg</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>Crime Documentaries</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4yzfn</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>Crime Documentaries</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x5ywqi</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>Battlefield - World War II - Air War Over Germany</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4w3i9</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>War Documentaries</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4g4oz</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>Weapons of WW2 - Rockets</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x41k7g</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>The World at War</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x5ngf4</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</dir>
-
-<dir>
-<title>UFC</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:UFC</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
 </dir>
 
 <dir>
@@ -127,12 +54,7 @@
 <fanart></fanart>
 </dir>
 
-<dir>
-<name>Test</name>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/test1.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+
 
 
 
