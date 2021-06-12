@@ -5,37 +5,37 @@
 <fanart></fanart>
 </dir>
 
-<plugin>
+<dir>
 <title>Documentaries 1</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x71r9j</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>Documentaries 2</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x3nuhg</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>Crime Documentaries</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4yzfn</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>Crime Documentaries</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x5ywqi</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
-</plugin>
+</dir>
 
 <dir>
 <name>Online Radio</name>
