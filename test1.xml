@@ -1,90 +1,82 @@
 <dir>
-<title>This Addon Will Install Daily Motion</title>
-<link>https://</link>
-<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
-<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
+<title>Crimes That Shook Britain</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x71r9j</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <summary></summary>
 </dir>
 
-<plugin>
-<title>Documentaries 1</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x71r9j</link>
-<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
-<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
+<dir>
+<title>Crimes That Shook Australia</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x6896w</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>Documentaries 2</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x3nuhg</link>
-<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
-<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
-<title>Crime Watch</title>
+<dir>
+<title>Crime Documentaries</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4yzfn</link>
-<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
-<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
-<title>Crime Watch 2</title>
+<dir>
+<title>Crime Documentaries</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x5ywqi</link>
-<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
-<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>Battlefield - World War II - Air War Over Germany</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4w3i9</link>
 <thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
 <fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>War Documentaries</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4g4oz</link>
 <thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
 <fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>Weapons of WW2 - Rockets</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x41k7g</link>
 <thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
 <fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>The World at War</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x5ngf4</link>
 <thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
 <fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
 <summary></summary>
-</plugin>
+</dir>
 
-<plugin>
-<title>Wheeler Dealers HD</title>
-<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4dup2</link>
-<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
-<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
-<summary></summary>
-</plugin>
-
-<plugin>
+<dir>
 <title>UFC</title>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:UFC</link>
 <thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
 <fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
 <summary></summary>
-</plugin>
+</dir>
 
 
 
