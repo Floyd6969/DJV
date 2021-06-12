@@ -39,3 +39,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
+
+<dir>
+<title>Red Bull TV</title>
+<link>plugin://plugin.video.redbull.tv</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
