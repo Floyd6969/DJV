@@ -46,6 +46,46 @@
 </dir>
 
 <dir>
+<title>Battlefield - World War II - Air War Over Germany</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4w3i9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</dir>
+
+<dir>
+<title>War Documentaries</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x4g4oz</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</dir>
+
+<dir>
+<title>Weapons of WW2 - Rockets</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x41k7g</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</dir>
+
+<dir>
+<title>The World at War</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=playlist:x5ngf4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</dir>
+
+<dir>
+<title>UFC</title>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:UFC</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</dir>
+
+<dir>
 <name>Online Radio</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/RadioStations-6emgxmiv.txt</link>
 <thumbnail></thumbnail>
@@ -83,6 +123,13 @@
 <dir>
 <name>Streaming Matters With DaButcher</name>
 <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/StreamMatters.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Test</name>
+<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/test1.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
