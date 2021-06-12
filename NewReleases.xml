@@ -5,6 +5,13 @@
 <fanart></fanart>
 </dir>
 
+<dir>
+<title>[COLORyellow]IMDB Trailers[/COLOR]</title>
+<link>plugin://plugin.video.imdb.trailers</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 <item>
 <title>[COLORblue][B]****All Free Links - All HD****[/B][/COLOR]</title>
 <link>ignoreme</link>
