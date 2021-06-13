@@ -1,3 +1,10 @@
+<dir>
+<title>Euro 2020</title>
+<link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/Simple/euro.xml</link>
+<thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
+<fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
+</dir>
+
 dir>
 <name>Live Footy/Soccer</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
@@ -19,7 +26,7 @@ dir>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
-dir>
+<dir>
 <name>Live UFC/MMA</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
 <link>http://ezzer-mac.com/x/Mav/ufc.xml</link>
