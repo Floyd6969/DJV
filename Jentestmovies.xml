@@ -1,8 +1,11 @@
 <item>
-<title>Test</title>
-<link>https://v7.sportzonline.to/channels/pt/sporttv4.php</link>
-<thumbnail>https://i.imgur.com/58kwK2C.jpg</thumbnail>
-<fanart></fanart>
+	<title>Test 1</title>
+	<link>
+		<sublink>https://streamtape.com/v/llZrx4qyqkHBem/Infinite.Potential.The.Life.Ideas.Of.David.Bohm.2020.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4</sublink>
+		<sublink>https://streamtape.com/v/PJO9rPwXQqi0mrr/No.Ordinary.Love.2019.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 
 
