@@ -15,7 +15,7 @@ dir>
 <dir>
 <name>UK Channels</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/UK.xml</link>
+<link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/Simple/prem.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
@@ -57,35 +57,35 @@ dir>
 <dir>
 <name>Skynet Sports</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/Skynet.xml</link>
+<link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/Simple/skynet.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>Sport TV</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/SportTV.xml</link>
+<link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/Simple/sporttv.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>True Sports</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/True.xml</link>
+<link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/Simple/true.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>Bein Sports</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/Bein.xml</link>
+<link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/Simple/bein.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
 <dir>
 <name>World Channels</name>
 <thumbnail>https://i.imgur.com/Cs0W7a1.png</thumbnail>
-<link>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/World.xml</link>
+<link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/Simple/world.xml</link>
 <fanart>https://i.imgur.com/wulr4GL.jpg</fanart>
 </dir>
 
