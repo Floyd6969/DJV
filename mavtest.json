@@ -14,7 +14,14 @@
             "link": "resolveurl_auth", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/IGcg7tE.jpg"
-        }
+        },
+       { 
+            "type": "item", 
+            "title": "Soap Test", 
+            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:Tv-Soap", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg",
+            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
+        } 
       
    ]
 }
