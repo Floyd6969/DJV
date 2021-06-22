@@ -1,5 +1,4 @@
-{
-    "items": [        
+       
         { 
             "title": "[COLOR khaki]Open Addon Settings [/COLOR]", 
             "type": "item", 
@@ -70,5 +69,4 @@
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/IGcg7tE.jpg"
         }
-    ]
-}
+
