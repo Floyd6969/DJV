@@ -48,7 +48,7 @@
 </plugin>
 
 <plugin>
-<name>This is for Eastenders, Coronation Street and Hollyoaks</name>
+<name>Soap Test</name>
 <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:Tv-Soap</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
