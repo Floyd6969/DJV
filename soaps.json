@@ -1,0 +1,19 @@
+{
+    "items": [        
+       {
+            "type": "plugin", 
+            "title": "Coronation Street-Eastenders-Hollyoaks", 
+            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:Tv-Soap", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
+        }, 
+        {
+            "type": "plugin", 
+            "title": "Emmerdale-Coronation Street-Hollyoaks", 
+            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:houseseries", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
+        }
+        
+    ]
+}
