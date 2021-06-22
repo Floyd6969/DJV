@@ -2,27 +2,6 @@
 {
     "items": [        
         { 
-            "title": "[COLOR khaki]Open Addon Settings [/COLOR]", 
-            "type": "item", 
-            "link": "settings", 
-            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
-            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
-        }, 
-        { 
-            "title": "[COLOR khaki]Authorise Resolveurl[/COLOR]", 
-            "type": "plugin", 
-            "link": "resolveurl_auth", 
-            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
-            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
-        }, 
-        { 
-            "title": "[COLOR khaki]Open ResolveURL Settings[/COLOR]", 
-            "type": "plugin", 
-            "link": "resolveurl_settings", 
-            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
-            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
-        }, 
-        { 
             "type": "item", 
             "title": "[COLOR orange]DailyMotion Video Link [COLOR white](Method 1)[/COLOR]", 
             "link": "plugin://plugin.video.dailymotion_com/?url=x81h7bd&mode=playVideo", 
