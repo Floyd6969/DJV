@@ -46,3 +46,11 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
+
+<plugin>
+<name>This is for Eastenders, Coronation Street and Hollyoaks</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:Tv-Soap</link>
+<thumbnail>http://www.ezzer-mac.com/x/img/icon2.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/x/img/fanart.jpg</fanart>
+<summary></summary>
+</plugin>
