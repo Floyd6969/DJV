@@ -11,3 +11,38 @@
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
+
+<dir>
+<title>Free TV</title>
+<link>plugin://plugin.video.freetv</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</dir>
+
+<plugin>
+<name>Pluto TV</name>
+<link>plugin://plugin.video.plutotv</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>Fluxus TV</name>
+<link>plugin://plugin.video.fluxus</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>Daily Motion</name>
+<link>plugin://plugin.video.dailymotion_com</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>Red Bull TV</name>
+<link>plugin://plugin.video.redbull.tv</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
+</plugin>
