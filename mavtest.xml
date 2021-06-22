@@ -41,8 +41,8 @@
 </plugin>
 
 <plugin>
-<name>Soap Test 2</name>
-<link>plugin://plugin.video.dailymotion_com/</link>
+<name>Soap Test 3</name>
+<link>plugin://script.module.sportjetextractors/</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/IGcg7tE.jpg</fanart>
 </plugin>
