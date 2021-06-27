@@ -62,9 +62,23 @@
 </item>
 
 <item>
-<title>Connect FM - Oldies</title>
-<link>http://ar.canstream.co.uk:8004/live.mp3</link>
+<title>Dee 106.3 -  Pop</title>
+<link>http://icy-e-03-boh.sharp-stream.com:80/tcdee.mp3</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/LC72IdN.jpg</fanart>
+</item>
+
+<item>
+<title>Gold - Oldies </title>
+<link>http://media-the.musicradio.com:80/GoldMP3</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/LC72IdN.jpg</fanart>
+</item>
+
+<item>
+<title>Heart - Pop</title>
+<link>http://bit.do/5byt</link>
+<thumbnail>http://www.getmemedia.com/public/ideas/Opp/5922/Heart-Logo.jpg</thumbnail>
 <fanart>https://i.imgur.com/LC72IdN.jpg</fanart>
 </item>
 
