@@ -57,7 +57,14 @@
 <item>
 <title>Classic FM</title>
 <link>http://bit.do/5bwB</link>
-<thumbnail>http://www.radiocentre.org/files/classic_fm_small-3.crop.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/LC72IdN.jpg</fanart>
+</item>
+
+<item>
+<title>Connect FM - Oldies</title>
+<link>http://ar.canstream.co.uk:8004/live.mp3</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/LC72IdN.jpg</fanart>
 </item>
 
