@@ -7,6 +7,13 @@
 
 <item>
 <title>ABC News</title>
+<link>https://www.youtube.com/watch?v=w_Ma8oQLmSM</link>
+<thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+<fanart>https://i.imgur.com/LC72IdN.jpg</fanart>
+</item>
+
+<item>
+<title>ABC News (Australia)</title>
 <link>https://www.youtube.com/watch?v=W1ilCy6XrmI</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/LC72IdN.jpg</fanart>
@@ -20,8 +27,8 @@
 </item>
 
 <item>
-<title>Fox News</title>
-<link>http://45.94.149.154:8000/play/a03x</link>
+<title>Al Jazeera English</title>
+<link>https://www.youtube.com/watch?v=-upyPouRrB8</link>
 <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
 <fanart>https://i.imgur.com/LC72IdN.jpg</fanart>
 </item>
