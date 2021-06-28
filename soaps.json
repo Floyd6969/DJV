@@ -9,19 +9,19 @@
         }, 
         {
             "type": "plugin", 
+            "title": "Neighbours - Coronation Street - Emmerdale", 
+            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:dailydhoom", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
+        },
+        {
+            "type": "plugin", 
             "title": "Eastenders - Coronation Street - Emmerdale", 
             "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:SoapTvHD", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/IGcg7tE.jpg"
         },
         {
-            "type": "plugin", 
-            "title": "Hollyoaks - Coronation Street - Emmerdale", 
-            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:dailydhoom", 
-            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
-            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
-        },
-         {
             "type": "plugin", 
             "title": "Coronation Street - Emmerdale", 
             "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:dailyseries22", 
