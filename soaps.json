@@ -44,8 +44,8 @@
         },
          {
             "type": "plugin", 
-            "title": "Test 1", 
-            "link": "plugin://plugin.video.PlutoTV/uk.m3u8", 
+            "title": "Test 2", 
+            "link": "plugin://plugin.video.PlutoTV/", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/IGcg7tE.jpg"
         }
