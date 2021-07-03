@@ -45,7 +45,7 @@
         {
             "type": "plugin", 
             "title": "Home And Away", 
-            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:igozima-2281", 
+            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:igozimah-2281", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/IGcg7tE.jpg"
         }
