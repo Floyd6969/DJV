@@ -41,6 +41,13 @@
             "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:HdOneTv", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/IGcg7tE.jpg"
+        },
+        {
+            "type": "plugin", 
+            "title": "Home And Away", 
+            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:igozima-2281", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/IGcg7tE.jpg"
         }
          
         
