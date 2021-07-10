@@ -23,20 +23,53 @@
         },
 	{
             "type": "item", 
-            "title": "And Flix", 
+            "title": "And Flix Movies HD", 
             "link": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
         },
 	{
             "type": "item", 
-            "title": "And Prive", 
+            "title": "And Prive Movies HD", 
             "link": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        }    
-        
-		
+        },
+	{
+            "type": "item", 
+            "title": "American Classics", 
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },    
+        {
+            "type": "item", 
+            "title": "Cinevault Western", 
+            "link": "https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "24 Hour Free Movies", 
+            "link": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Family Flix", 
+            "link": "https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Filmrise Free Movies", 
+            "link": "https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }     
          
         
         
