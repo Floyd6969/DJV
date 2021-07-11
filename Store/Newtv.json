@@ -1,5 +1,12 @@
 {
     "items": [ 
+	{
+            "type": "item", 
+            "title": "[COLORyellow][B]***** Movie Channels *****[/B][/COLOR]", 
+            "link": "ignoreme", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+       },   
        {
             "type": "item", 
             "title": "70s Cinema", 
@@ -128,6 +135,13 @@
         }, 
 	{
             "type": "item", 
+            "title": "[COLORyellow][B]***** Entertainment *****[/B][/COLOR]", 
+            "link": "ignoreme", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+       },   
+       {
+            "type": "item", 
             "title": "Drama", 
             "link": "https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
@@ -203,14 +217,7 @@
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
         }, 
-	{
-            "type": "item", 
-            "title": "Players TV", 
-            "link": "https://playerstv-samsunguk.amagi.tv/playlist.m3u8", 
-            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
-            "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        },   
-	{
+	 {
             "type": "item", 
             "title": "Pocket Watch", 
             "link": "https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8", 
@@ -265,7 +272,94 @@
             "link": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        }    
+        }, 
+	{
+            "type": "item", 
+            "title": "[COLORyellow][B]***** Sports *****[/B][/COLOR]", 
+            "link": "ignoreme", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },    
+	{
+            "type": "item", 
+            "title": "Players TV", 
+            "link": "https://playerstv-samsunguk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Edge Sports", 
+            "link": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },  
+	{
+            "type": "item", 
+            "title": "For The Fans", 
+            "link": "https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },   
+	{
+            "type": "item", 
+            "title": "Horse And Country", 
+            "link": "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "MMA TV", 
+            "link": "https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "MMA Junkie", 
+            "link": "http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },      
+	{
+            "type": "item", 
+            "title": "Sky 1 Racing", 
+            "link": "https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Sky 2 Racing", 
+            "link": "https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Sports Channel Network", 
+            "link": "https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Sports Tonight", 
+            "link": "http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },  
+	{
+            "type": "item", 
+            "title": "Red Bull TV", 
+            "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }  
+	    
+	    
+	    
 	    
 	    
 	    
