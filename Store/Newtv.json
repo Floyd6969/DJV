@@ -125,7 +125,64 @@
             "link": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        } 
+        }, 
+	{
+            "type": "item", 
+            "title": "Drama", 
+            "link": "https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Dust", 
+            "link": "https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Go USA", 
+            "link": "https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Gusto TV", 
+            "link": "https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Insight TV", 
+            "link": "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Introuble TV", 
+            "link": "https://introuble-samsung.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Inwild TV", 
+            "link": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Inwonder TV", 
+            "link": "https://inwonder-samsung-uk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }  
+	    
 	    
 	    
 	    
