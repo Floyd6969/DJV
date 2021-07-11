@@ -419,17 +419,41 @@
             "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        }        
+        }, 
+        {
+            "type": "item", 
+            "title": "PGA Tour", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Action Sports", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=759&deviceId=5db867744f229f0009266784&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Pluto TV Sports", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "ABC Network", 
+            "link": "https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }     
 	    
 	    
 	    
 	    
 	    
-	    
-	    
-	    
-	            
-        
+   
         
     ]
 }
