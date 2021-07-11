@@ -443,12 +443,40 @@
         }, 
 	{
             "type": "item", 
-            "title": "ABC Network", 
+            "title": "ACC DN", 
             "link": "https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },  
+     {
+            "type": "item", 
+            "title": "Bek Sports East", 
+            "link": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+      {
+            "type": "item", 
+            "title": "Bek Sports West", 
+            "link": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
         },
-	{
+        {
+            "type": "item", 
+            "title": "Big Sky Conference", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=752&deviceId=59641d9173ac1fec2fc01f17&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+        {
+            "type": "item", 
+            "title": "[COLORyellow][B]***** Pluto TV 24/7 *****[/B][/COLOR]", 
+            "link": "ignoreme", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+       }, 
+     {
             "type": "item", 
             "title": "Adventure TV", 
             "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=675&deviceId=5938876b78d8d9c074c3c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
@@ -471,7 +499,7 @@
         }, 
 	{
             "type": "item", 
-            "title": "America's Test Kitchen", 
+            "title": "Americas Test Kitchen", 
             "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=605&deviceId=5e84f54a82f05300080e6746&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
@@ -480,13 +508,6 @@
             "type": "item", 
             "title": "American Gladiators", 
             "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=303&deviceId=5d815e489b315b154db2e053&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
-            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
-            "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        },
-	{
-            "type": "item", 
-            "title": "Anime All Ages", 
-            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5be4c6311843b56328bce619&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
         },
@@ -510,8 +531,301 @@
             "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=194&deviceId=5595e43c66ace1652e63c6a2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        }   
-	    
+        }, 
+     {
+            "type": "item", 
+            "title": "Baywatch", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Beverly Hillbillies", 
+            "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f7796e470510900070d4e3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+		{
+            "type": "item", 
+            "title": "Black Ink Crew", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=285&deviceId=5d51e2bceca5b4b2c0e06c50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Blaze Live", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=238&deviceId=5e46fba0c43b0d00096e5ac1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "British TV", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "BUZZR", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=540&deviceId=5812bfbe4ced4f7b601b12e6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+       	{
+            "type": "item", 
+            "title": "Chassy", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=687&deviceId=5b6b285823ecb93393cbf766&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Cheddar", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=226&deviceId=5812afe1d0f0b8d55dde67fa&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+		{
+            "type": "item", 
+            "title": "Classic Toons TV", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=548&deviceId=562ea53fa9060c5a7d463e74&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Classic TV Comedy", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=501&deviceId=5f15e32b297f96000768f928&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Classic TV Drama", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=520&deviceId=5f15e3cccf49290007053c67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "CMT Pluto TV", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "CMT Westerns", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "CNET", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=228&deviceId=56283c8769ba54637dea0464&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+        {
+            "type": "item", 
+            "title": "Cold Case Files", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=373&deviceId=5c37d6712de254456f7ec340&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Comedy Central Animation", 
+            "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=467&deviceId=5f99e24636d67d0007a94e6d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+		{
+            "type": "item", 
+            "title": "Comedy Central Pluto TV", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Court TV", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "COPS", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5e1f7e089f23700009d66303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Crime Investigation Australia", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5ea18cd42ee5410007e349dc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+        {
+            "type": "item", 
+            "title": "Crime Scene Solvers", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5d767790d0438aceb41d03ae&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "CSI", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=355&deviceId=5efbd29e4aa26700076c0d06&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+		{
+            "type": "item", 
+            "title": "Dallas Cowboys Cheerleaders", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=315&deviceId=5d40855b3fb0855028c99b6f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Dark Shadows", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3958c66ac540007d6e6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=535&deviceId=5ef3958c66ac540007d6e6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Deadly Women", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=165&deviceId=5ca1df0d50be2571e393ad31&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Deal or No Deal", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=165&deviceId=5e9debf8c881310007d7bde1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Degrassi", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=144&deviceId=5c6eeb85c05dfc257e5a50c4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+        {
+            "type": "item", 
+            "title": "Doctor Who Classic", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=532&deviceId=5ce4475cd43850831ca91ce7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Dog the Bounty Hunter", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=381&deviceId=5bee1a7359ee03633e780238&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+		{
+            "type": "item", 
+            "title": "Dora TV", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Duck Dynasty", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6b54b9e67cf60007d4cef1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f6b54b9e67cf60007d4cef1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "ET Live", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=190&deviceId=5dc0c78281eddb0009a02d5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "FailArmy", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=498&deviceId=554158e864526b29254ff105&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Family Ties", 
+            "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=504&deviceId=5f77939a630f530007dde654&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+        {
+            "type": "item", 
+            "title": "FBI Files", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=643&deviceId=5cb6f6f9a461406ffe4022cf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Fear Factor", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=301&deviceId=588128d17d64bc0d0f385c34&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+		{
+            "type": "item", 
+            "title": "Fight", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Flicks of Fury", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Food TV", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Forensic Files", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=370&deviceId=5bb1af6a268cae539bcedb0a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "FrontDoor", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=612&deviceId=5938888cd045ffce74cf9048&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+		{
+            "type": "item", 
+            "title": "Funny AF", 
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=450&deviceId=580e87ff497c73ba2f321dd3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }
 	    
 	    
 	    
