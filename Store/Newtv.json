@@ -181,12 +181,95 @@
             "link": "https://inwonder-samsung-uk.amagi.tv/playlist.m3u8", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        }  
+        }, 
+	{
+            "type": "item", 
+            "title": "My 5 Documentaries", 
+            "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=475&deviceId=5ddf901280e3550009139c86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "PBS America", 
+            "link": "https://pbs-samsunguk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },  
+	{
+            "type": "item", 
+            "title": "PLanet Knowledge", 
+            "link": "https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Players TV", 
+            "link": "https://playerstv-samsunguk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },   
+	{
+            "type": "item", 
+            "title": "Pocket Watch", 
+            "link": "https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Real Stories", 
+            "link": "https://realstories-samsung-uk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Sofy TV", 
+            "link": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Spotlight", 
+            "link": "https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },
+	{
+            "type": "item", 
+            "title": "Spotlight TV", 
+            "link": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },  
+	{
+            "type": "item", 
+            "title": "Travel XP", 
+            "link": "https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        },  
+	{
+            "type": "item", 
+            "title": "Truly TV", 
+            "link": "https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }, 
+	{
+            "type": "item", 
+            "title": "Wonder", 
+            "link": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }    
 	    
 	    
 	    
-	    
-         
+	            
         
         
     ]
