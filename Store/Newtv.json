@@ -6,7 +6,14 @@
             "link": "ignoreme", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-       }  
+       },
+       {
+            "type": "item", 
+            "title": "Movies", 
+            "link": "http://m-cdn.fr33.click/M/9fda37a478e5e6c32939a958c32c2308?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }
       
 	    
         
