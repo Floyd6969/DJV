@@ -34,7 +34,14 @@
             "link": "https://www.livedoomovie.com/02_WWE_720p/chunklist.m3u8", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-       }
+       },
+       {
+            "type": "plugin", 
+            "title": "Test", 
+            "link": "plugin://plugin.video.freetv/", 
+            "thumbnail": "", 
+            "fanart": ""
+        }     
        
       
 	    
