@@ -37,11 +37,18 @@
        },
        { 
             "type": "dir", 
-            "title": "[COLOR red]YouTube Channel[/COLOR]", 
+            "title": "[COLOR red]TV Show Trailers[/COLOR]", 
             "link": "https://www.youtube.com/channel/UC-UCz1GPotHecuLngiLuY739QQ", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        }
+        },
+	{ 
+            "type": "dir", 
+            "title": "[COLOR red]Classic Movie Trailers[/COLOR]", 
+            "link": "https://www.youtube.com/channel/UC-UCTCjFFoX1un-j7ni4B6HJ3Q", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        } 
        
       
 	    
