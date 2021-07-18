@@ -10,9 +10,10 @@
        {
             "type": "item", 
             "title": "Test 1*", 
-            "link":, 
+            "link":[
 	      "sublink": "https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8", 
 	      "sublink":"https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8",
+	],	    
 	    "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
        },
