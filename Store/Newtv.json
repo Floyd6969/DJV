@@ -62,7 +62,14 @@
             "link": "message/https://bitbucket.org/Mad-Eric/textfiles/raw/master/popup.xml", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg", 
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
-        }   
+        },
+	{ 
+            "type": "item", 
+            "title": "Test Link", 
+            "link": "plugin://plugin.video.freetv/", 
+            "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg",
+            "fanart": "https://i.imgur.com/LC72IdN.jpg"
+        }    
        
       
 	    
