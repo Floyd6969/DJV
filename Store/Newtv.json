@@ -65,8 +65,8 @@
         },
 	{ 
             "type": "item", 
-            "title": "Test Link", 
-            "link": "plugin://plugin.video.freetv/", 
+            "title": "Test", 
+            "link": "plugin://plugin.video.freetv/?", 
             "thumbnail": "https://i.imgur.com/hzBz7Wk.jpg",
             "fanart": "https://i.imgur.com/LC72IdN.jpg"
         }    
